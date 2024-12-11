@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.UPDATE }}
 
     - name: Run Data Script
       run: node fetchData.js
@@ -26,6 +28,7 @@ jobs:
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
       with:
+        token: ${{ secrets.GH_TOKEN }}
         commit-message: Update data files
         branch: update-data-files
         title: Update Data Files
