@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://pooltogether.com/",
+    "name": "PoolTogether V5",
+    "category": [
+      "Yield Lottery"
+    ],
+    "icon": "https://icons.llama.fi/pooltogether-v5.png",
+    "description": "PoolTogether is an open source and decentralized protocol for no-loss prize games"
+  }
+]

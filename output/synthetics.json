@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://synthetix.io",
+    "name": "Synthetix",
+    "category": [
+      "Synthetics"
+    ],
+    "icon": "https://icons.llama.fi/synthetix.png",
+    "description": "Synthetix is a derivatives liquidity protocol providing the backbone for derivatives trading in DeFi."
+  },
+  {
+    "url": "https://www.outcome.finance",
+    "name": "Outcome Finance",
+    "category": [
+      "Synthetics"
+    ],
+    "icon": "https://icons.llama.fi/outcome-finance.png",
+    "description": "A Protocol that helps DAO's generate positive Outcomes"
+  },
+  {
+    "url": "https://alchemix.fi/",
+    "name": "Alchemix",
+    "category": [
+      "Synthetics"
+    ],
+    "icon": "https://icons.llama.fi/alchemix.jpg",
+    "description": "Alchemix is a DeFi protocol that allows for the creation of synthetic tokens that represent the future yield of a deposit. It enables users to retrieve near instant tokenized value against temporary* deposits of stablecoins.\r\n"
+  },
+  {
+    "url": "https://www.rumpel.xyz",
+    "name": "Rumpel Labs",
+    "category": [
+      "Synthetics"
+    ],
+    "icon": "https://icons.llama.fi/rumpel-labs.jpg",
+    "description": "Rumpel is a point tokenization protocol. It enables secondary market liquidity and price discovery for offchain loyalty points, unlocking new opportunities for point holders, traders, airdrop hunters, and point issuers."
+  },
+  {
+    "url": "https://app.youves.com",
+    "name": "Youves",
+    "category": [
+      "Synthetics"
+    ],
+    "icon": "https://icons.llama.fi/youves.png",
+    "description": "Youves is a decentralised, non-custodial and self-governed platform for the creation and management of synthetic assets. Minters of synthetic assets earn a passive income in YOU, the governance token on Youves."
+  },
+  {
+    "url": "https://www.metronome.io/synth",
+    "name": "Metronome Synth",
+    "category": [
+      "Synthetics"
+    ],
+    "icon": "https://icons.llama.fi/metronome-synth.jpg",
+    "description": "Metronome Synth is a leading synthetic protocol that enables users to post multi-collateral assets from their existing crypto holdings and create a multitude of synthetic assets in one complete platform. Synth will enable the creation of crypto synthetic assets, and the ability to swap synthetic assets with zero-slippage."
+  }
+]

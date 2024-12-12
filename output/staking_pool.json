@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://app.neopin.io/staking",
+    "name": "NEOPIN Staking",
+    "category": [
+      "Staking Pool"
+    ],
+    "icon": "https://icons.llama.fi/neopin-staking.png",
+    "description": "Earn rewards by safely delegating your crypto assets to one of the leading node validators NEOPIN."
+  },
+  {
+    "url": "https://wemix.fi",
+    "name": "WEMIX.FI Staking",
+    "category": [
+      "Staking Pool"
+    ],
+    "icon": "https://icons.llama.fi/wemix.fi-staking.jpg",
+    "description": "Stake your assets in staking products guaranteed by WEMIX and earn stable profits. Receive various rewards through various programs."
+  },
+  {
+    "url": "https://confluxpos.cn",
+    "name": "ABC Pool",
+    "category": [
+      "Staking Pool"
+    ],
+    "icon": "https://icons.llama.fi/abc-pool.png",
+    "description": "ABC PoS Pool is a staking solution that allows users to participate in PoS safely and pledge CFX without loss to obtain CFX+ABC reward."
+  },
+  {
+    "url": "https://shardingdao.io",
+    "name": "ShardingDAO",
+    "category": [
+      "Staking Pool"
+    ],
+    "icon": "https://icons.llama.fi/shardingdao.jpg",
+    "description": "Protocol for staking WBTC and ETH with rewards, featuring NFT fragmentation and a shard marketplace."
+  },
+  {
+    "url": "https://filfi.io",
+    "name": "FilFi",
+    "category": [
+      "Staking Pool"
+    ],
+    "icon": "https://icons.llama.fi/filfi.png",
+    "description": "FilFi is a DeFi protocol that creates the liquidity of Filecoin assets, providing services such as staking pool, lending, Joint Mining, hashrate trading, and FID funds."
+  }
+]

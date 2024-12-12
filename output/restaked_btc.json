@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://solv.finance",
+    "name": "SolvBTC LSTs",
+    "category": [
+      "Restaked BTC"
+    ],
+    "icon": "https://icons.llama.fi/solv-btc-lsts.jpg",
+    "description": "SolvBTC staking at Babylon and Core Chain."
+  },
+  {
+    "url": "https://app.bedrock.technology/",
+    "name": "uniBTC Restaked",
+    "category": [
+      "Restaked BTC"
+    ],
+    "icon": "https://icons.llama.fi/unibtc-restaked.jpg",
+    "description": "BTC staked into babylon"
+  }
+]

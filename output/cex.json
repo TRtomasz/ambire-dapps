@@ -1,0 +1,371 @@
+[
+  {
+    "url": "https://www.binance.com",
+    "name": "Binance CEX",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/binance-cex.jpg",
+    "description": "Binance is a cryptocurrency exchange which is the largest exchange in the world in terms of daily trading volume of cryptocurrencies"
+  },
+  {
+    "url": "https://www.okx.com",
+    "name": "OKX",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/okx.jpg",
+    "description": "OKX, formerly known as OKEx, is a Seychelles-based cryptocurrency exchange and derivatives exchange that provides a platform for trading various instruments such as spot and derivative"
+  },
+  {
+    "url": "https://www.bitfinex.com",
+    "name": "Bitfinex",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bitfinex.png",
+    "description": "Bitfinex facilitates a graphical trading experience with advanced charting functionality that allows traders to visualise orders, positions and price alerts"
+  },
+  {
+    "url": "https://robinhood.com",
+    "name": "Robinhood",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/robinhood.jpg",
+    "description": "Democratizing finance for all. Crypto trading: Robinhood Crypto."
+  },
+  {
+    "url": "https://www.bybit.com",
+    "name": "Bybit",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bybit.png",
+    "description": "Crypto trading experience elevated. Buy, sell, trade BTC, altcoins & NFTs. Get access to the spot and futures market or stake your coins securely."
+  },
+  {
+    "url": "https://crypto.com",
+    "name": "Crypto-com",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/crypto-com.jpg",
+    "description": "The World Fastest Growing Crypto App."
+  },
+  {
+    "url": "https://www.bitget.com",
+    "name": "Bitget",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bitget.jpg",
+    "description": "Bitget is the leading crypto exchange platform for crypto derivatives trading."
+  },
+  {
+    "url": "https://www.deribit.com",
+    "name": "Deribit",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/deribit.png",
+    "description": "World's biggest Bitcoin and Ethereum Options Exchange and the most advanced crypto derivatives trading platform with up to 50x leverage on Crypto Futures."
+  },
+  {
+    "url": "https://www.huobi.com",
+    "name": "HTX",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/htx.png",
+    "description": "Huobi Global is a world-leading cryptocurrency trading exchange."
+  },
+  {
+    "url": "https://www.gate.io",
+    "name": "Gate-io",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/gate-io.jpg",
+    "description": "Leading cryptocurrency exchange with over 1400+ cryptocurrencies & stablecoins such as Bitcoi, Ethereum, Dogecoin"
+  },
+  {
+    "url": "https://www.bitmex.com",
+    "name": "Bitmex",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bitmex.jpg",
+    "description": "BitMEX is a cryptocurrency exchange and derivative trading platform."
+  },
+  {
+    "url": "https://www.kucoin.com",
+    "name": "Kucoin",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/kucoin.jpg",
+    "description": "cex"
+  },
+  {
+    "url": "https://www.kraken.com/",
+    "name": "Kraken",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/kraken.jpg",
+    "description": "Kraken makes it easy to get started. Sign up today to buy and sell 200+ cryptocurrencies."
+  },
+  {
+    "url": "https://www.bitstamp.net",
+    "name": "Bitstamp",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bitstamp.jpg",
+    "description": "Bitstamp makes trading easy, fast & reliable. With live customer support, staking and bank-grade security & insurance. Trusted Crypto Exchange Since 2011."
+  },
+  {
+    "url": "https://swissborg.com",
+    "name": "SwissBorg",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/swissborg.png",
+    "description": "Making crypto wealth management accessible to everyone."
+  },
+  {
+    "url": "https://www.maskex.com",
+    "name": "MaskEX",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/maskex.jpg",
+    "description": "MaskEX is the world's most secure and private cryptocurrency wallet and trading platform."
+  },
+  {
+    "url": "https://korbit.co.kr",
+    "name": "Korbit",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/korbit.jpg",
+    "description": "Korbit is a cryptocurrency exchange that was founded in South Korea."
+  },
+  {
+    "url": "https://www.mexc.com",
+    "name": "MEXC",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/mexc.jpg",
+    "description": "Find your next Moonshot."
+  },
+  {
+    "url": "https://www.hashkey.com",
+    "name": "HashKey Exchange",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/hashkey-exchange.jpg",
+    "description": "HashKey Exchange is a centralized cryptocurrency exchange established in 2018 and is registered in Hong Kong."
+  },
+  {
+    "url": "https://nexo.io",
+    "name": "Nexo",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/nexo.png",
+    "description": "Nexo is the all-in-one crypto platform where you can buy assets, earn interest and borrow against them or swap between 500+ pairs."
+  },
+  {
+    "url": "https://www.pionex.com/en",
+    "name": "Pionex",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/pionex.jpg",
+    "description": "Pionex is the best crypto trading bot currently available, 24/7 trading automatically in the cloud. Easy to use, powerful and extremely safe."
+  },
+  {
+    "url": "https://phemex.com",
+    "name": "Phemex",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/phemex.jpg",
+    "description": "Phemex is a Top derivatives global crypto exchange. Users can now verify their Proof-of-Reserves anytime."
+  },
+  {
+    "url": "https://bingx.com",
+    "name": "BingX",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bingx.jpg",
+    "description": "Empowering Traders. Elevate your crypto trading game at BingX. "
+  },
+  {
+    "url": "https://x.woo.org/en/trade",
+    "name": "WOO X",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/woo-x.jpg",
+    "description": "Aggregated liquidity for a superior CEX life. Built for traders who seek the ultimate in liquidity, price execution, and transparency."
+  },
+  {
+    "url": "https://coindcx.com",
+    "name": "CoinDCX",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/coindcx.jpg",
+    "description": "1.3 Crore + Indians choose CoinDCX, India's most valued Crypto Investment App"
+  },
+  {
+    "url": "https://www.bitunix.com",
+    "name": "Bitunix",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bitunix.jpg",
+    "description": "Global Crypto Derivatives Exchange. Better Liquidity, Better Trading"
+  },
+  {
+    "url": "https://big.one",
+    "name": "BigONE",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bigone.jpg",
+    "description": "BigONE is a global cryptocurrency exchange that provides a platform for trading various cryptocurrencies. It was founded in 2017 and registered in the Seychelles. The group operates in Russia, Brazil, Vietnam, Seychelles, Singapore, Japan, and Indonesia, providing marketing, investment, and blockchain technology research & development."
+  },
+  {
+    "url": "https://flipster.io",
+    "name": "Flipster",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/flipster.jpg",
+    "description": "Flipster has a wide selection of over 200 perpetual futures listings, including Bitcoin (BTC) and Ethereum (ETH), that can be traded with leverage of up to 100x."
+  },
+  {
+    "url": "https://blofin.com",
+    "name": "BloFin",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/blofin.jpg",
+    "description": "Trade with Next-gen Experience, Profit from Functioning Strategies, and Keep Your Crypto Safe."
+  },
+  {
+    "url": "https://www.ourbit.com",
+    "name": "Ourbit",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/ourbit.jpg",
+    "description": "The true degen exchange. The ONLY exchange with culture"
+  },
+  {
+    "url": "https://arkm.com/",
+    "name": "Arkham Exchange",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/arkham-exchange.jpg",
+    "description": "Arkham is a centralized cryptocurrency exchange offering both Spot & Perps and is incorporated in the Dominican Republic"
+  },
+  {
+    "url": "https://coinsquare.com",
+    "name": "Coinsquare",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/coinsquare.jpg",
+    "description": "The New Coinsquare is here. Securely buy, HODL, and trade Bitcoin, Ethereum, and more on Coinsquare, Canada's home for digital currency."
+  },
+  {
+    "url": "https://www.bitvenus.com",
+    "name": "BitVenus",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bitvenus.jpg",
+    "description": "BitVenus (BV for short) is a well-known digital asset trading platform in Europe, supporting hundreds of digital asset transactions. Officially established in London County, England in June 2018"
+  },
+  {
+    "url": "https://www.hashkey.com",
+    "name": "HashKey Global",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/hashkey-global.jpg",
+    "description": "We are committed to providing users with a high quality and safe trading experience coupled with efficient customer service."
+  },
+  {
+    "url": "https://www.probit.com",
+    "name": "ProBit Global",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/probit.png",
+    "description": "ProBit Global is a centralized cryptocurrency exchange established in 2017 and based in Lithuania."
+  },
+  {
+    "url": "https://www.toobit.com",
+    "name": "Toobit",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/toobit.jpg",
+    "description": "Toobit supports futures contract trading, spot trading, OTC and other modes. From the very beginning of the platform design, we have focused on ensuring the fairness and transparency of transactions, while providing sufficient market depth and liquidity."
+  },
+  {
+    "url": "https://hibt.com",
+    "name": "Hibt",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/hibt.png",
+    "description": "Formerly HotsCoin. Hibt is a digital asset trading service platform registered in Canada in 2021. With a team of 200+ seasoned professionals in the field of digital assets and a deep understanding of core financial technologies, HIBT offers trading and investment services to over 3 million users worldwide. The platform supports both spot and derivative trading services, dedicated to discovering the brightest crypto gems for investors."
+  },
+  {
+    "url": "https://www.bake.io",
+    "name": "Bake.io",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bake.io.jpg",
+    "description": "Bake.io (formerly Cake DeFi) is a Singapore-based crypto platform providing easy access to decentralized finance (DeFi) services and applications. Bake empowers customers to generate returns on their digital assets in a secure and transparent way. Bake combines the customer support and ease-of-use of centralized finance (CeFi) and the transparency and traceability of DeFi, shaping a superior CeDeFi experience for retail customers.  For more information, please visit bake.io"
+  },
+  {
+    "url": "https://nonkyc.io",
+    "name": "NonKYC",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/nonkyc.jpg",
+    "description": "NonKYC Exchange. Trade with privacy at NonKYC. Exchanging Crypto. Protecting Identity"
+  },
+  {
+    "url": "https://www.bitmart.com",
+    "name": "BitMart",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/bitmart.jpg",
+    "description": "Your Trusted Digital Asset Exchange."
+  },
+  {
+    "url": "https://www.okcoin.com",
+    "name": "Okcoin",
+    "category": [
+      "CEX"
+    ],
+    "icon": "https://icons.llama.fi/okcoin.jpg",
+    "description": "Join the fastest growing global cryptocurrency exchange — with the lowest fees around."
+  }
+]

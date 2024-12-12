@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://reserve.org",
+    "name": "Reserve Protocol",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/reserve.png",
+    "description": "The Reserve Protocol is a platform which enables anyone to create yield-bearing, decentralized, and asset-backed currencies (RTokens). RTokens provide an alternative to inflation-prone currencies, empowering people to maintain their purchasing power over time and across borders"
+  },
+  {
+    "url": "https://enzyme.finance/",
+    "name": "Enzyme Finance",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/enzyme-finance.jpg",
+    "description": "Fast & cost-effective way to build, scale and monetize investment strategies."
+  },
+  {
+    "url": "https://www.dhedge.org/",
+    "name": "dHEDGE",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/dhedge.png",
+    "description": "Explore the universe of top-tier tokenized vaults."
+  },
+  {
+    "url": "https://www.indexcoop.com/",
+    "name": "Index Coop",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/index-coop.png",
+    "description": "Index Coop creates and maintains the world's best crypto index products.\r\n\r\nAll index products are always fully collateralized."
+  },
+  {
+    "url": "https://www.tokensets.com/",
+    "name": "Set Protocol",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/set-protocol.png",
+    "description": "A protocol for building portfolios as digital assets (ERC-20) that represent a fully collateralized digital asset (ERC-20) that represents a fully collateralized portfolio of other assets including Bitcoin (WBTC), Ethereum (WETH), and fiat-pegged coins (DAI).portfolio of other assets including Bitcoin (WBTC), Ethereum (WETH), and fiat-pegged coins (DAI)."
+  },
+  {
+    "url": "https://b.watch/#/",
+    "name": "Bwatch",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/bwatch.png",
+    "description": "B.watch is an decentralized ETF-like crypto asset management platform, which is the only issuer of BOX token."
+  },
+  {
+    "url": "https://stakestone.io/#/home",
+    "name": "StakeStone SBTC",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/stakestone-sbtc.jpg",
+    "description": "SBTC is designed to act as a liquid, index BTC, addressing the issue of illiquid native BTC assets by providing robust omnichain liquidity. This innovative solution will facilitate BTC asset trading and enhance the utility of native BTC within EVM ecosystems as well as other Layer 1 and Layer 2 networks. SBTC will be composed of a diversified basket of ERC20 tokens, primarily BTCB, ensuring a solid foundation of liquidity."
+  },
+  {
+    "url": "https://www.asymmetry.finance",
+    "name": "Asymmetry Finance",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/asymmetry-finance.png",
+    "description": "Asymmetry Finance is a protocol that creates hybrid liquid staking products with real yield."
+  }
+]

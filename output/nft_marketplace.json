@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://blur.io/",
+    "name": "Blur Bids",
+    "category": [
+      "NFT Marketplace"
+    ],
+    "icon": "https://icons.llama.fi/blur-bids.png",
+    "description": "The NFT marketplace for pro traders"
+  },
+  {
+    "url": "https://www.immutable.com/",
+    "name": "ImmutableX",
+    "category": [
+      "NFT Marketplace"
+    ],
+    "icon": "https://icons.llama.fi/immutablex.jpg",
+    "description": "Immutable is the leading platform for building web3 games on Ethereum. Powering the next generation of web3 games"
+  },
+  {
+    "url": "https://nftx.org",
+    "name": "NFTX",
+    "category": [
+      "NFT Marketplace"
+    ],
+    "icon": "https://icons.llama.fi/nftx.jpg",
+    "description": "NFTX is a platform for making ERC20 tokens that are backed by NFT collectibles."
+  }
+]
