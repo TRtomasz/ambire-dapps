@@ -1,12 +1,17 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const url = require('url');
 
 // Output directory path
 const outputDir = path.join(__dirname, 'output');
 
-// Ensure the output directory exists
-if (!fs.existsSync(outputDir)) {
+// Ensure the output directory exists, and clear it if it exists
+if (fs.existsSync(outputDir)) {
+  fs.readdirSync(outputDir).forEach((file) => {
+    fs.unlinkSync(path.join(outputDir, file));
+  });
+} else {
   fs.mkdirSync(outputDir);
 }
 
@@ -21,7 +26,32 @@ const notAllowedChains = [
   "Near",
   "Algorand",
   "Aptos",
-  "Litecoin"
+  "Litecoin",
+  "Cosmos",
+  "EOS",
+  "TEZOS",
+  "Zilliqa",
+  "Cardano",
+  "Thorchain",
+  "IoTeX"
+];
+
+// Categories to exclude
+const excludedCategories = [
+  "CEX",
+  "AI Agents",
+  "Yield Lottery",
+  "Decentralized Stablecoin",
+  "Anchor BTC",
+  "Algo-Stables",
+  "Governance Incentives",
+  "Privacy",
+  "Reserve Currency",
+  "SoFi",
+  "Staking Pool",
+  "Staking",
+  "Token Locker",
+  "Treasury Manager"
 ];
 
 // Fetch data from the API
@@ -37,12 +67,14 @@ https.get('https://api.llama.fi/protocols', (res) => {
       const rawArray = JSON.parse(data);
       const jsonArray = Array.isArray(rawArray) ? rawArray : [];
 
-      // Filter and transform data
-      const filteredData = jsonArray
+      // Filter, deduplicate, and merge data
+      const processedData = {};
+
+      jsonArray
         .filter((item, index) => {
           try {
             // Ensure the item has the necessary structure and TVL conditions
-            if (!item || !Array.isArray(item.chains) || item.tvl == null || item.tvl < 10000000) {
+            if (!item || !Array.isArray(item.chains) || item.tvl == null || item.tvl < 10000000 || excludedCategories.includes(item.category)) {
               throw new Error(`Item '${item?.name || 'unknown'}' at index ${index} does not meet criteria`);
             }
             return item.chains.some(chain => !notAllowedChains.includes(chain));
@@ -51,23 +83,39 @@ https.get('https://api.llama.fi/protocols', (res) => {
             return false;
           }
         })
-        .map((item) => ({
-          url: item.url,
-          name: item.name,
-          category: [item.category],
-          icon: item.logo,
-          description: item.description
-        }));
+        .sort((a, b) => b.tvl - a.tvl) // Sort by TVL in descending order
+        .forEach((item) => {
+          const baseUrl = new URL(item.url).origin; // Extract base URL
+          if (!processedData[baseUrl]) {
+            processedData[baseUrl] = {
+              ...item,
+              category: [item.category],
+            };
+          } else {
+            const existingItem = processedData[baseUrl];
+            existingItem.category = Array.from(new Set([...existingItem.category, item.category]));
+          }
+        });
+
+      // Transform data for output
+      const outputData = Object.values(processedData).map(item => ({
+        url: new URL(item.url).origin,
+        name: item.name,
+        category: item.category,
+        icon: item.logo,
+        description: item.description
+      }));
 
       // Group objects by category
       const categorizedData = {};
 
-      filteredData.forEach((item) => {
-        const category = item.category[0] || 'Uncategorized';
-        if (!categorizedData[category]) {
-          categorizedData[category] = [];
-        }
-        categorizedData[category].push(item);
+      outputData.forEach((item) => {
+        item.category.forEach((category) => {
+          if (!categorizedData[category]) {
+            categorizedData[category] = [];
+          }
+          categorizedData[category].push(item);
+        });
       });
 
       // Write each category to a separate file
