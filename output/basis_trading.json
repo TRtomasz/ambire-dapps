@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.ethena.fi/",
+    "name": "Ethena",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/ethena.png",
+    "description": "Ethena is a synthetic dollar protocol built on Ethereum"
+  },
+  {
+    "url": "https://portal.bouncebit.io/",
+    "name": "BounceBit CeDeFi Yield",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/bouncebit-cedefi.jpg",
+    "description": "BounceBit CeDeFi combines CeFi and DeFi to generate yield on various assets across multiple chains. The yield is generated via delta-neutral basis trading on centralized exchanges, facilitated by CEX-integrated custody solutions like CEFFU. BounceBit CeDeFi uses the ERC-4626 Tokenized Vault Standard to enable daily rebasing of generated revenue"
+  },
+  {
+    "url": "https://usdx.money",
+    "name": "USDX Money",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/usdx-money.png",
+    "description": "USDX is a synthetic USD stablecoin built for the crypto ecosystem. It offers a crypto-native stablecoin solution that does not rely on traditional banking infrastructure which is censorship-resistant, scalable, and highly stable. Furthermore, it provides a multiple-layer savings tool including funding rate and crypto ecosystem yield accessible worldwide in USD denomination."
+  },
+  {
+    "url": "https://portal.bouncebit.io/premium",
+    "name": "BounceBit Premium",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/bouncebit-premium.jpg",
+    "description": "BounceBit introduces a distinctive feature - the parallel generation of yield from both CeFi and DeFi. Users can earn original CeFi yield while utilizing LSD for BTC staking and on-chain farming, a process known as restaking in Bitcoin. This ecosystem offers three types of yield for Bitcoin holders: Original Cefi yield, node operation rewards from staking BTC on the BounceBit chain, and opportunity yield from participating in on-chain applications and the Bounce Launchpad."
+  },
+  {
+    "url": "https://cedefi.manta.network",
+    "name": "Manta CeDeFi",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/manta-cedefi.jpg",
+    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
+  },
+  {
+    "url": "https://www.myield.xyz",
+    "name": "Manta MYield",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/manta-myield.jpg",
+    "description": "A coin-denominated real yield platform that combines RWA, CEX, and on-chain yields."
+  },
+  {
+    "url": "https://resolv.xyz/",
+    "name": "Resolv USR",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/resolv-usr.jpg",
+    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
+  },
+  {
+    "url": "https://www.resolv.im",
+    "name": "Resolv RLP",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/resolv-rlp.jpg",
+    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
+  },
+  {
+    "url": "https://superstate.co",
+    "name": "Superstate USCC",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/superstate-uscc.jpg",
+    "description": "The Superstate Crypto Carry Fund (the “Fund”) offers Qualified Purchasers access to crypto basis (differential between the spot and future price) strategies. The Fund optimizes the yield and risk of crypto cash-and-carry trades across the Bitcoin basis, Ether basis (including staking Ether), and U.S. Treasury securities. "
+  },
+  {
+    "url": "https://astherus.com/en/usdf",
+    "name": "Astherus USDF",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/astherus-usdf.jpg",
+    "description": "USDF is a token minted by depositing USDT on AstherusEarn. USDT and USDF are fully convertible at a 1:1 ratio"
+  },
+  {
+    "url": "https://easy.bouncebit.io",
+    "name": "BounceBit Easy",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/bouncebit-easy.jpg",
+    "description": "Easy leverages BounceBit’s innovative CeDeFi infrastructure to offer users a secure, efficient, and user-friendly way to grow their holdings."
+  }
+]

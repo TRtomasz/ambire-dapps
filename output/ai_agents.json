@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://mor.org",
+    "name": "MorpheusAI",
+    "category": [
+      "AI Agents"
+    ],
+    "icon": "https://icons.llama.fi/morpheusai.jpg",
+    "description": "Morpheus is the first incentivized peer-to-peer network of personal general purpose AIs that can execute Smart Contracts on behalf of a user, known as Smart Agents as well as global web3 infrastructure for decentralized AI solutions. Providing users open-source Smart Agents to connect to their wallets, Dapps, & smart contracts promises to open the world of Web3 to everyone."
+  },
+  {
+    "url": "https://gud.tech",
+    "name": "Gud.Tech",
+    "category": [
+      "AI Agents"
+    ],
+    "icon": "https://icons.llama.fi/gud.tech.jpg",
+    "description": "AI for the attention economy. Gud.tech is the singularity that connects gud AI to gud Blockchain. Uncover alpha 24/7 effortlessly."
+  }
+]

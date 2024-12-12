@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://deri.io/#/trade/options",
+    "name": "Deri V4",
+    "category": [
+      "Options"
+    ],
+    "icon": "https://icons.llama.fi/deri-v4.png",
+    "description": "Deri Protocol is a decentralized protocol for users to exchange risk exposures precisely and capital efficiently. It is the DeFi way to trade derivatives: to hedge, to speculate, to arbitrage, all on chain."
+  },
+  {
+    "url": "https://www.hegic.co/ ",
+    "name": "Hegic",
+    "category": [
+      "Options"
+    ],
+    "icon": "https://icons.llama.fi/hegic.jpg",
+    "description": "Hegic is an on-chain peer-to-pool options trading protocol on Arbitrum. You can trade ETH and WBTC ATM / OTM Calls / Puts & One-click Option Strategies on Hegic"
+  }
+]

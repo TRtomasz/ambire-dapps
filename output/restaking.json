@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.eigenlayer.xyz/",
+    "name": "EigenLayer",
+    "category": [
+      "Restaking"
+    ],
+    "icon": "https://icons.llama.fi/eigenlayer.png",
+    "description": "EigenLayer is a protocol built on Ethereum that introduces restaking, a new primitive in cryptoeconomic security. This primitive enables the reuse of ETH on the consensus layer"
+  },
+  {
+    "url": "https://symbiotic.fi",
+    "name": "Symbiotic",
+    "category": [
+      "Restaking"
+    ],
+    "icon": "https://icons.llama.fi/symbiotic.png",
+    "description": "Symbiotic is a generalized shared security system enabling decentralized networks to bootstrap powerful, fully sovereign ecosystems."
+  },
+  {
+    "url": "https://karak.network",
+    "name": "Karak",
+    "category": [
+      "Restaking"
+    ],
+    "icon": "https://icons.llama.fi/karak.png",
+    "description": "The universal restaking layer powered by the entire cryptoeconomy."
+  },
+  {
+    "url": "https://pell.network/",
+    "name": "Pell Network",
+    "category": [
+      "Restaking"
+    ],
+    "icon": "https://icons.llama.fi/pell-network.png",
+    "description": "Pell uses BTC and its LSD to provide actively validated services (AVS) to BTC ecosystem projects, plug the gap in ecosystem security, reduce cost to develop ecosystem applications and optimise yield avenue for BTC holders. Pell aims to become the largest shared liquidity and cryptonomic security layer in the BTC ecosystem across market cycles"
+  },
+  {
+    "url": "https://www.parasail.network/",
+    "name": "Parasail",
+    "category": [
+      "Restaking"
+    ],
+    "icon": "https://icons.llama.fi/parasail.png",
+    "description": "Parasail is an incentive interface focused on creating seamless DePIN experiences. By aggregating capital, hardware resources, and DePIN users, Parasail breaks down silos and fosters strong synergies among various DePIN networks."
+  },
+  {
+    "url": "https://allstake.org/",
+    "name": "Allstake",
+    "category": [
+      "Restaking"
+    ],
+    "icon": "https://icons.llama.fi/allstake.png",
+    "description": "The first Omnichain Meshed Restaking protocol that brings trustless scaling to ALL chains"
+  }
+]

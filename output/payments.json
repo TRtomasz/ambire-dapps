@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://amptoken.org/",
+    "name": "Flexa",
+    "category": [
+      "Payments"
+    ],
+    "icon": "https://icons.llama.fi/flexa.png_small",
+    "description": "Collateral for fast and efficient value transfer"
+  }
+]

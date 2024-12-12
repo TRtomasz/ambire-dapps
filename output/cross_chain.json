@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://stargate.finance/",
+    "name": "Stargate V2",
+    "category": [
+      "Cross Chain"
+    ],
+    "icon": "https://icons.llama.fi/stargate-v2.png",
+    "description": "Stargate V2 offers reduced bridging costs, expands chain connectivity, and improves capital efficiency using transaction batching, Hydra, and an AI-driven Planning Module (AIPM)."
+  },
+  {
+    "url": "https://across.to",
+    "name": "Across",
+    "category": [
+      "Cross Chain"
+    ],
+    "icon": "https://icons.llama.fi/across.png",
+    "description": "Across protocol is a novel bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet."
+  },
+  {
+    "url": "https://synapseprotocol.com",
+    "name": "Synapse",
+    "category": [
+      "Cross Chain"
+    ],
+    "icon": "https://icons.llama.fi/synapse.png",
+    "description": "Synapse is a universal cross-chain liquidity network. Synapse connects blockchains by offering an extensible cross-chain communication protocol that supports assets, smart contract calls, and more"
+  },
+  {
+    "url": "https://stargate.finance/",
+    "name": "Stargate V1",
+    "category": [
+      "Cross Chain"
+    ],
+    "icon": "https://icons.llama.fi/stargate-v1.png",
+    "description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi. With Stargate, users & dApps can transfer native assets cross-chain while accessing the protocol’s unified liquidity pools with instant guaranteed finality."
+  },
+  {
+    "url": "https://www.mayaprotocol.com",
+    "name": "Maya Protocol",
+    "category": [
+      "Cross Chain"
+    ],
+    "icon": "https://icons.llama.fi/maya-protocol.jpg",
+    "description": "MAYAChain is a friendly fork of THORChain. Similarly, it does not rely on pegging or wrapping assets, instead managing funds directly in on-chain vaults and safeguarding them through economic security. This is achieved using the Tendermint consensus engine, Cosmos-SDK state machine, and GG20 Threshold Signature Scheme (TSS)."
+  },
+  {
+    "url": "https://hop.exchange",
+    "name": "Hop Protocol",
+    "category": [
+      "Cross Chain"
+    ],
+    "icon": "https://icons.llama.fi/hop-protocol.jpg",
+    "description": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner"
+  },
+  {
+    "url": "https://crosscurve.fi",
+    "name": "CrossCurve (by EYWA)",
+    "category": [
+      "Cross Chain"
+    ],
+    "icon": "https://icons.llama.fi/crosscurve-(by-eywa).png",
+    "description": "CrossCurve is a cross-chain trading and yield protocol built on Curve, creating a unified cross-chain liquidity market by aggregating existing Curve pools"
+  },
+  {
+    "url": "https://messina.one",
+    "name": "Messina Bridge",
+    "category": [
+      "Cross Chain"
+    ],
+    "icon": "https://icons.llama.fi/messina-bridge.jpg",
+    "description": "Messina.one is a cross-chain protocol built on top of Wormhole that aims to enable the next 1B blockchain users."
+  },
+  {
+    "url": "https://symbiosis.finance",
+    "name": "Symbiosis",
+    "category": [
+      "Cross Chain"
+    ],
+    "icon": "https://icons.llama.fi/symbiosis.png",
+    "description": "Symbiosis aggregates decentralized exchange liquidity across any EVM and non-EVM networks. Swap any token and transfer liquidity. Yes, any."
+  },
+  {
+    "url": "https://counterstake.org",
+    "name": "Counterstake",
+    "category": [
+      "Cross Chain"
+    ],
+    "icon": "https://icons.llama.fi/counterstake.png",
+    "description": "Counterstake is a permissionless and fully decentralized cross-chain bridge."
+  }
+]

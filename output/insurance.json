@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://nexusmutual.io/",
+    "name": "Nexus Mutual",
+    "category": [
+      "Insurance"
+    ],
+    "icon": "https://icons.llama.fi/nexus-mutual.png",
+    "description": "Nexus Mutual offers decentralized cover against smart contract failure.\r\n"
+  },
+  {
+    "url": "https://unslashed.finance/",
+    "name": "Unslashed",
+    "category": [
+      "Insurance"
+    ],
+    "icon": "https://icons.llama.fi/unslashed.jpg",
+    "description": "Decentralized insurance for major DeFi protocols"
+  }
+]

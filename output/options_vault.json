@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.ribbon.finance/",
+    "name": "Ribbon",
+    "category": [
+      "Options Vault"
+    ],
+    "icon": "https://icons.llama.fi/ribbon-finance.png",
+    "description": "Structured products protocol"
+  },
+  {
+    "url": "https://typus.finance",
+    "name": "Typus DOV",
+    "category": [
+      "Options Vault"
+    ],
+    "icon": "https://icons.llama.fi/typus-finance.jpg",
+    "description": "Typus DeFi Options Vaults (DOVs) brings crypto options market to Degens, making it easy and fun to earn real yields. Traders can access up to 1000x leverage without liquidation risk by buying options that range from 10-minute, hourly, daily, weekly, to monthly. Users can also deposit their assets to provide liquidity for options strategies, potentially rewarded with triple-digit APRs."
+  }
+]

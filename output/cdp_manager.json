@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://defisaver.com/",
+    "name": "Defi Saver",
+    "category": [
+      "CDP Manager"
+    ],
+    "icon": "https://icons.llama.fi/defi-saver.jpg",
+    "description": "DeFi Saver is a one-stop management solution for decentralized finance with advanced leverage management tools and unique automated management features."
+  },
+  {
+    "url": "https://summer.fi",
+    "name": "Summer.fi",
+    "category": [
+      "CDP Manager"
+    ],
+    "icon": "https://icons.llama.fi/summer.fi.png",
+    "description": "Borrow, Multiply and Earn on the assets you hold across multiple protocols. Take advantage of powerful automation strategies and simple UX. Discord: https://discord.gg/summerfi"
+  }
+]
