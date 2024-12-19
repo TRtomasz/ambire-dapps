@@ -1,18 +1,20 @@
 [
   {
-    "url": "https://blur.io/",
+    "url": "https://blur.io",
     "name": "Blur Bids",
     "category": [
-      "NFT Marketplace"
+      "NFT Marketplace",
+      "NFT Lending"
     ],
     "icon": "https://icons.llama.fi/blur-bids.png",
     "description": "The NFT marketplace for pro traders"
   },
   {
-    "url": "https://www.immutable.com/",
+    "url": "https://www.immutable.com",
     "name": "ImmutableX",
     "category": [
-      "NFT Marketplace"
+      "NFT Marketplace",
+      "Chain"
     ],
     "icon": "https://icons.llama.fi/immutablex.jpg",
     "description": "Immutable is the leading platform for building web3 games on Ethereum. Powering the next generation of web3 games"
