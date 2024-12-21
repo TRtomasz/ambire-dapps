@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://nexusmutual.io/",
+    "url": "https://nexusmutual.io",
     "name": "Nexus Mutual",
     "category": [
       "Insurance"
@@ -9,7 +9,7 @@
     "description": "Nexus Mutual offers decentralized cover against smart contract failure.\r\n"
   },
   {
-    "url": "https://unslashed.finance/",
+    "url": "https://unslashed.finance",
     "name": "Unslashed",
     "category": [
       "Insurance"
