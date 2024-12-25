@@ -1,21 +1,23 @@
 [
   {
-    "url": "https://blur.io/",
-    "name": "Blur Bids",
+    "url": "https://blur.io",
+    "name": "Blur Lending",
     "category": [
+      "NFT Lending",
       "NFT Marketplace"
     ],
-    "icon": "https://icons.llama.fi/blur-bids.png",
-    "description": "The NFT marketplace for pro traders"
+    "icon": "https://icons.llama.fi/blur-lending.png",
+    "description": "Blur Lending(aka Blend) enables NFT owners to borrow ETH against their assets and offers a Buy Now, Pay Later (BNPL) feature to purchase NFTs with partial payment upfront."
   },
   {
-    "url": "https://www.immutable.com/",
-    "name": "ImmutableX",
+    "url": "https://www.immutable.com",
+    "name": "Immutable zkEVM",
     "category": [
+      "Chain",
       "NFT Marketplace"
     ],
-    "icon": "https://icons.llama.fi/immutablex.jpg",
-    "description": "Immutable is the leading platform for building web3 games on Ethereum. Powering the next generation of web3 games"
+    "icon": "https://icons.llama.fi/immutable-zkevm.png",
+    "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
   },
   {
     "url": "https://nftx.org",
