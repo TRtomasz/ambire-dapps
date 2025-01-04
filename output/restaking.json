@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://www.eigenlayer.xyz/",
+    "url": "https://www.eigenlayer.xyz",
     "name": "EigenLayer",
     "category": [
       "Restaking"
@@ -27,7 +27,7 @@
     "description": "The universal restaking layer powered by the entire cryptoeconomy."
   },
   {
-    "url": "https://pell.network/",
+    "url": "https://pell.network",
     "name": "Pell Network",
     "category": [
       "Restaking"
@@ -36,7 +36,16 @@
     "description": "Pell uses BTC and its LSD to provide actively validated services (AVS) to BTC ecosystem projects, plug the gap in ecosystem security, reduce cost to develop ecosystem applications and optimise yield avenue for BTC holders. Pell aims to become the largest shared liquidity and cryptonomic security layer in the BTC ecosystem across market cycles"
   },
   {
-    "url": "https://www.parasail.network/",
+    "url": "https://kerneldao.com",
+    "name": "Kernel DAO",
+    "category": [
+      "Restaking"
+    ],
+    "icon": "https://icons.llama.fi/kernel-dao.jpg",
+    "description": "Decentralised Security to supercharge & blitzscale BNB, while providing exciting rewards & DeFi opportunities."
+  },
+  {
+    "url": "https://www.parasail.network",
     "name": "Parasail",
     "category": [
       "Restaking"
@@ -45,7 +54,7 @@
     "description": "Parasail is an incentive interface focused on creating seamless DePIN experiences. By aggregating capital, hardware resources, and DePIN users, Parasail breaks down silos and fosters strong synergies among various DePIN networks."
   },
   {
-    "url": "https://allstake.org/",
+    "url": "https://allstake.org",
     "name": "Allstake",
     "category": [
       "Restaking"
