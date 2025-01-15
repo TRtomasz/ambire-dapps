@@ -1,7 +1,7 @@
 [
   {
-    "url": "https://app.extrafi.io/",
-    "name": "Extra Finance",
+    "url": "https://app.extrafi.io",
+    "name": "Extra Finance Leverage Farming",
     "category": [
       "Leveraged Farming"
     ],
@@ -18,13 +18,22 @@
     "description": "Get up to 10x leverage and use it across DeFi protocols. Gearbox Protocol allows anyone to get leverage in a decentralized way and use it across various other protocols in a composable way: margin trading, leverage farming, and more!"
   },
   {
-    "url": "https://homora-v2.alphaventuredao.io/",
+    "url": "https://homora-v2.alphaventuredao.io",
     "name": "Homora V2",
     "category": [
       "Leveraged Farming"
     ],
     "icon": "https://icons.llama.fi/homora-v2.png",
     "description": "Homora is the first flagship product incubated under Alpha Venture DAO (previously Alpha Finance Lab) deployed on the Ethereum network in October, 2020. It is the largest multi-chain lending and leveraged yield farming protocol. Homora V2 is currently available on Ethereum, Avalanche, Fantom, Optimism and more coming soon."
+  },
+  {
+    "url": "https://www.alpacafinance.org",
+    "name": "Alpaca Leveraged Yield Farming",
+    "category": [
+      "Leveraged Farming"
+    ],
+    "icon": "https://icons.llama.fi/alpaca-leveraged-yield-farming.jpg",
+    "description": "The 1st leveraged yield farming protocol on BSC"
   },
   {
     "url": "https://juice.finance",
@@ -36,13 +45,13 @@
     "description": "Maximize your yield by using your ETH as collateral to access 300% USDB leverage to deploy throughout the Blast ecosystem."
   },
   {
-    "url": "https://www.alpacafinance.org/",
-    "name": "Alpaca Leveraged Yield Farming",
+    "url": "https://kai.finance",
+    "name": "Kai Finance",
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/alpaca-leveraged-yield-farming.jpg",
-    "description": "The 1st leveraged yield farming protocol on BSC"
+    "icon": "https://icons.llama.fi/kai-finance.png",
+    "description": "Kai Finance is a next-generation leveraged yield platform on the Sui Network."
   },
   {
     "url": "https://deltaprime.io",
@@ -54,7 +63,7 @@
     "description": "DeltaPrime aggregates the best projects from your chain within one DeFi ecosystem. Within this ecosystem you can borrow extra capital trustless and anonymous. This way, you multiply your returns with a balanced portfolio, whether through trading, LPing or farming"
   },
   {
-    "url": "https://app.factor.fi/studio",
+    "url": "https://app.factor.fi",
     "name": "Factor Leverage Vault",
     "category": [
       "Leveraged Farming"
@@ -63,12 +72,12 @@
     "description": "Factor Leverage Vault is one-click looping, easy switching, easy migration, easy auto-compounding the reward."
   },
   {
-    "url": "https://kai.finance",
-    "name": "Kai Finance",
+    "url": "https://origami.finance",
+    "name": "Origami Finance",
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/kai-finance.png",
-    "description": "Kai Finance is a next-generation leveraged yield platform on the Sui Network."
+    "icon": "https://icons.llama.fi/origami-finance.jpg",
+    "description": "Origami is a first-in-class automated leverage protocol launching on Ethereum and 🐻"
   }
 ]

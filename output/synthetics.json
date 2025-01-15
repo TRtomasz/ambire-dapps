@@ -1,12 +1,22 @@
 [
   {
     "url": "https://synthetix.io",
-    "name": "Synthetix",
+    "name": "Synthetix V3",
+    "category": [
+      "Derivatives",
+      "Synthetics"
+    ],
+    "icon": "https://icons.llama.fi/synthetix-v3.png",
+    "description": "Synthetix provides liquidity for permissionless derivatives like perpetual futures, options, parimutuel markets, and more across EVM chains. Powering the next generation of permissionless protocols."
+  },
+  {
+    "url": "https://alchemix.fi",
+    "name": "Alchemix",
     "category": [
       "Synthetics"
     ],
-    "icon": "https://icons.llama.fi/synthetix.png",
-    "description": "Synthetix is a derivatives liquidity protocol providing the backbone for derivatives trading in DeFi."
+    "icon": "https://icons.llama.fi/alchemix.jpg",
+    "description": "Alchemix is a DeFi protocol that allows for the creation of synthetic tokens that represent the future yield of a deposit. It enables users to retrieve near instant tokenized value against temporary* deposits of stablecoins.\r\n"
   },
   {
     "url": "https://www.outcome.finance",
@@ -16,15 +26,6 @@
     ],
     "icon": "https://icons.llama.fi/outcome-finance.png",
     "description": "A Protocol that helps DAO's generate positive Outcomes"
-  },
-  {
-    "url": "https://alchemix.fi/",
-    "name": "Alchemix",
-    "category": [
-      "Synthetics"
-    ],
-    "icon": "https://icons.llama.fi/alchemix.jpg",
-    "description": "Alchemix is a DeFi protocol that allows for the creation of synthetic tokens that represent the future yield of a deposit. It enables users to retrieve near instant tokenized value against temporary* deposits of stablecoins.\r\n"
   },
   {
     "url": "https://www.rumpel.xyz",
@@ -45,7 +46,7 @@
     "description": "Youves is a decentralised, non-custodial and self-governed platform for the creation and management of synthetic assets. Minters of synthetic assets earn a passive income in YOU, the governance token on Youves."
   },
   {
-    "url": "https://www.metronome.io/synth",
+    "url": "https://www.metronome.io",
     "name": "Metronome Synth",
     "category": [
       "Synthetics"
