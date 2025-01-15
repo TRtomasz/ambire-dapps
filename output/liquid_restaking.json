@@ -1,24 +1,26 @@
 [
   {
-    "url": "https://app.ether.fi/eeth",
+    "url": "https://app.ether.fi",
     "name": "ether.fi Stake",
     "category": [
-      "Liquid Restaking"
+      "Liquid Restaking",
+      "Managed Token Pools"
     ],
     "icon": "https://icons.llama.fi/ether.fi.jpg",
     "description": "Decentralized and non-custodial Ethereum staking protocol."
   },
   {
-    "url": "https://kelpdao.xyz/",
+    "url": "https://kelpdao.xyz",
     "name": "Kelp rsETH",
     "category": [
-      "Liquid Restaking"
+      "Liquid Restaking",
+      "Managed Token Pools"
     ],
     "icon": "https://icons.llama.fi/kelp-dao.png",
     "description": "rsETH is a Liquid Restaked Token (LRT) issued by Kelp DAO designed to offer liquidity to illiquid assets deposited into restaking platforms, such as EigenLayer. It aims to address the risks and challenges posed by the current offering of restaking"
   },
   {
-    "url": "https://app.renzoprotocol.com/restake",
+    "url": "https://app.renzoprotocol.com",
     "name": "Renzo",
     "category": [
       "Liquid Restaking"
@@ -36,25 +38,7 @@
     "description": "Eigenpie is an innovative SubDAO created by Magpie, focusing on the restaking of ETH LSTs via EigenLayer. As a liquid restaking platform for Ethereum, Eigenpie’s core mechanism enables users to convert their Liquid Staked ETH tokens into Isolated Liquid Restaked ETH tokens. These are restaked versions of ETH LSTs, created by Eigenpie. This process allows users to earn passive income from Ethereum staking and EigenLayer revenue simultaneously, without requiring a lockup period."
   },
   {
-    "url": "https://app.ether.fi/liquid/symbiotic",
-    "name": "ether.fi Vaults",
-    "category": [
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llama.fi/ether.fi-vaults.jpg",
-    "description": "An automated vault that earns you Symbiotic, Veda or ether.fi points on your liquid staking assets."
-  },
-  {
-    "url": "https://mellow.finance/",
-    "name": "Mellow LRT",
-    "category": [
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llama.fi/mellow-lrt.jpg",
-    "description": "Mellow Protocol is a permissionless system for active liquidity management and building trustless automatic DeFi strategies"
-  },
-  {
-    "url": "https://meth.mantle.xyz/restake",
+    "url": "https://meth.mantle.xyz",
     "name": "Mantle Restaking",
     "category": [
       "Liquid Restaking"
@@ -63,7 +47,16 @@
     "description": "Liquid Restaking on Ethereum"
   },
   {
-    "url": "https://www.puffer.fi/",
+    "url": "https://mellow.finance",
+    "name": "Mellow LRT",
+    "category": [
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llama.fi/mellow-lrt.jpg",
+    "description": "Mellow Protocol is a permissionless system for active liquidity management and building trustless automatic DeFi strategies"
+  },
+  {
+    "url": "https://www.puffer.fi",
     "name": "Puffer Finance",
     "category": [
       "Liquid Restaking"
@@ -72,16 +65,27 @@
     "description": "Puffer operates as a decentralized native liquid restaking protocol native to its ecosystem. Prior to its mainnet launch, pufETH serves as a yield-generating token, mirroring the yield of wstETH, while also providing users the opportunity to accumulate both Puffer and EigenLayer points."
   },
   {
-    "url": "https://app.swellnetwork.io/restake",
-    "name": "Swell Liquid Restaking",
+    "url": "https://app.swellnetwork.io",
+    "name": "Swell Liquid Staking",
+    "category": [
+      "Liquid Staking",
+      "Liquid Restaking",
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/swell.png",
+    "description": "Swell is a non-custodial liquid staking protocol"
+  },
+  {
+    "url": "https://ibtc.kiki.finance",
+    "name": "iBTC Finance",
     "category": [
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/swell.png",
-    "description": "rswETH is an ERC-20 Liquid Restaking Token that provides liquidity for users who are wanting to \"restake\" their ETH into restaking protocols such as EigenLayer without having their restaked ETH locked"
+    "icon": "https://icons.llama.fi/ibtc-finance.jpg",
+    "description": "iBTC is an LST protocol that provides 1:1 pegging for staked BTC, offering users unrestricted liquidity without a 28-day lock-up while ensuring the same yield as directly staking BTC on the exSat network. The protocol seamlessly combines high liquidity with stable staking rewards, making it an ideal solution for optimizing BTC staking returns"
   },
   {
-    "url": "https://bedrock.rockx.com/unieth",
+    "url": "https://bedrock.rockx.com",
     "name": "Bedrock uniETH",
     "category": [
       "Liquid Restaking"
@@ -99,16 +103,16 @@
     "description": "Ecosystem-Owned Liquidity with L1 Chain that empowers LPs to make informed decisions on multi-chain yield while enabling protocols to bootstrap stable liquidity."
   },
   {
-    "url": "https://ibtc.kiki.finance",
-    "name": "iBTC Finance",
+    "url": "https://www.inceptionlrt.com",
+    "name": "InceptionLRT (Isolated Restaking)",
     "category": [
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/ibtc-finance.jpg",
-    "description": "iBTC is an LST protocol that provides 1:1 pegging for staked BTC, offering users unrestricted liquidity without a 28-day lock-up while ensuring the same yield as directly staking BTC on the exSat network. The protocol seamlessly combines high liquidity with stable staking rewards, making it an ideal solution for optimizing BTC staking returns"
+    "icon": "https://icons.llama.fi/inceptionlrt-(isolated-restaking).png",
+    "description": "Restake ETH LSTs on Inception, built on Eigenlayer to earn 2 layers of rewards"
   },
   {
-    "url": "https://yieldnest.finance/",
+    "url": "https://yieldnest.finance",
     "name": "YieldNest",
     "category": [
       "Liquid Restaking"

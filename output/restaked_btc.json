@@ -3,18 +3,19 @@
     "url": "https://solv.finance",
     "name": "SolvBTC LSTs",
     "category": [
-      "Restaked BTC"
+      "Restaked BTC",
+      "RWA"
     ],
     "icon": "https://icons.llama.fi/solv-btc-lsts.jpg",
     "description": "SolvBTC staking at Babylon and Core Chain."
   },
   {
-    "url": "https://app.bedrock.technology/",
-    "name": "uniBTC Restaked",
+    "url": "https://satlayer.xyz",
+    "name": "SatLayer",
     "category": [
       "Restaked BTC"
     ],
-    "icon": "https://icons.llama.fi/unibtc-restaked.jpg",
-    "description": "BTC staked into babylon"
+    "icon": "https://icons.llama.fi/satlayer.jpg",
+    "description": "SatLayer unleashes the possibilities of BTC, the world's best economic collateral, to secure any type of dApp or protocol as an Bitcoin Validated Service (BVS), fundamentally upgrading security for all of crypto"
   }
 ]

@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://moneyonchain.com",
+    "name": "MoneyOnChain",
+    "category": [
+      "Partially Algorithmic Stablecoin"
+    ],
+    "icon": "https://icons.llama.fi/moneyonchain.jpg",
+    "description": "Money On Chain is a self-contained DeFi protocol (a stablecoin, HODL token, leveraging mechanism, and more) which empowers Bitcoiners to improve performance of their assets while also retaining full control of their private keys."
+  },
+  {
+    "url": "https://rifonchain.com",
+    "name": "RIF ON CHAIN",
+    "category": [
+      "Partially Algorithmic Stablecoin"
+    ],
+    "icon": "https://icons.llama.fi/rif-on-chain.png",
+    "description": "RIF On Chain offers a censorship-resistant stablecoin protocol on Rootstock, enabling users to mint USDRIF, a fully crypto-collateralized stablecoin, and RIF PRO, a leveraged token for RIF holders and traders"
+  }
+]

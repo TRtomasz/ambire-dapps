@@ -1,18 +1,20 @@
 [
   {
-    "url": "https://blur.io/",
-    "name": "Blur Bids",
+    "url": "https://blur.io",
+    "name": "Blur Lending",
     "category": [
+      "NFT Lending",
       "NFT Marketplace"
     ],
-    "icon": "https://icons.llama.fi/blur-bids.png",
-    "description": "The NFT marketplace for pro traders"
+    "icon": "https://icons.llama.fi/blur-lending.png",
+    "description": "Blur Lending(aka Blend) enables NFT owners to borrow ETH against their assets and offers a Buy Now, Pay Later (BNPL) feature to purchase NFTs with partial payment upfront."
   },
   {
-    "url": "https://www.immutable.com/",
+    "url": "https://www.immutable.com",
     "name": "ImmutableX",
     "category": [
-      "NFT Marketplace"
+      "NFT Marketplace",
+      "Chain"
     ],
     "icon": "https://icons.llama.fi/immutablex.jpg",
     "description": "Immutable is the leading platform for building web3 games on Ethereum. Powering the next generation of web3 games"

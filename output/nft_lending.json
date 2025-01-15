@@ -1,39 +1,32 @@
 [
   {
-    "url": "https://blur.io/",
+    "url": "https://blur.io",
     "name": "Blur Lending",
     "category": [
-      "NFT Lending"
+      "NFT Lending",
+      "NFT Marketplace"
     ],
     "icon": "https://icons.llama.fi/blur-lending.png",
     "description": "Blur Lending(aka Blend) enables NFT owners to borrow ETH against their assets and offers a Buy Now, Pay Later (BNPL) feature to purchase NFTs with partial payment upfront."
   },
   {
     "url": "https://www.benddao.xyz",
-    "name": "BendDAO Lending",
+    "name": "BendDAO APE Staking",
     "category": [
+      "Yield",
       "NFT Lending"
     ],
-    "icon": "https://icons.llama.fi/benddao-lending.png",
-    "description": "BendDAO is a decentralized peer-to-pool based NFT liquidity protocol."
+    "icon": "https://icons.llama.fi/benddao-ape-staking.png",
+    "description": "ApeCoin Staking Yield"
   },
   {
     "url": "https://www.gondi.xyz",
-    "name": "Gondi V2",
+    "name": "Gondi V3",
     "category": [
       "NFT Lending"
     ],
-    "icon": "https://icons.llama.fi/gondi-v2.png",
+    "icon": "https://icons.llama.fi/gondi-v3.jpg",
     "description": "Borrow, Lend & Refinance NFTs on the most capital efficient lending protocol"
-  },
-  {
-    "url": "https://jpegd.io",
-    "name": "JPEG'd",
-    "category": [
-      "NFT Lending"
-    ],
-    "icon": "https://icons.llama.fi/jpeg'd.png",
-    "description": "JPEG'd is a decentralized lending protocol on the Ethereum blockchain that enables NFT holders to open collateralized debt positions (CDPs) using their NFTs as collateral. Users mint pETH or pUSD, native tokens of the protocol that are pegged to ETH and USD respectively via Curve pools, enabling users to effectively obtain leverage on their NFTs."
   },
   {
     "url": "https://www.arcade.xyz",
