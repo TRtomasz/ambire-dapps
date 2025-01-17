@@ -89,5 +89,14 @@
     ],
     "icon": "https://icons.llama.fi/blackwing.png",
     "description": "The Modular Blockchain for Margin Trading"
+  },
+  {
+    "url": "https://pencilsprotocol.io",
+    "name": "Pencils Protocol",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/pencils-protocol.jpg",
+    "description": "Pencils Protocol is the next-gen decentralized platform that offers auction services for blockchain native assets and RWAs, along with unified and leveraged yield aggregation services for users to maximize asset utilization."
   }
 ]

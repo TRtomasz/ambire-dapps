@@ -47,15 +47,6 @@
     "description": "Tether Gold (XAUt) is a token that provides you ownership of real physical gold. By putting gold on a Blockchain, we unlock a variety of characteristics that typically only crypto assets possess"
   },
   {
-    "url": "https://ondo.finance",
-    "name": "Ondo Finance",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/ondo-finance.png",
-    "description": "This share class provides liquid exposure to an ETF of short-term U.S. Treasuries"
-  },
-  {
     "url": "https://securitize.io",
     "name": "BlackRock BUIDL",
     "category": [
@@ -72,6 +63,15 @@
     ],
     "icon": "https://icons.llama.fi/paxos-gold.png",
     "description": "PAXG offers investors a cost-effective way to own investment-grade physical gold with all the benefits of the blockchain. Each Pax Gold (PAXG) token is backed by one fine troy ounce of gold, stored in LBMA vaults in London. If you own PAXG, you own the underlying physical gold, held in custody by Paxos Trust Company"
+  },
+  {
+    "url": "https://ondo.finance",
+    "name": "Ondo Finance",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/ondo-finance.png",
+    "description": "This share class provides liquid exposure to an ETF of short-term U.S. Treasuries"
   },
   {
     "url": "https://www.franklintempleton.com",
@@ -102,11 +102,11 @@
   },
   {
     "url": "https://app.openeden.com",
-    "name": "OpenEden T-Bills",
+    "name": "OpenEden",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llama.fi/openeden-tbills.png",
+    "icon": "https://icons.llama.fi/openeden.png",
     "description": "A smart contract vault managed by a regulated entity to offer 24/7 and direct access to U.S. Treasury Bills"
   },
   {
@@ -156,15 +156,6 @@
     "description": "Cygnus Finance is a RWA stablecoin protocol built on pure, short-term U.S. debt assets. It is also the first native interest-bearing stablecoin protocol and the first native RWA protocol on Base."
   },
   {
-    "url": "https://stusdt.io",
-    "name": "stUSDT",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/stusdt.jpg",
-    "description": "Shape, expand, and enjoy the future of real-world assets tokenization on TRON."
-  },
-  {
     "url": "https://nest.credit",
     "name": "Nest Staking",
     "category": [
@@ -172,6 +163,15 @@
     ],
     "icon": "https://icons.llama.fi/nest-staking.png",
     "description": "Nest Staking provides native yield from tokenized RWAs on Plume Network"
+  },
+  {
+    "url": "https://stusdt.io",
+    "name": "stUSDT",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/stusdt.jpg",
+    "description": "Shape, expand, and enjoy the future of real-world assets tokenization on TRON."
   },
   {
     "url": "https://mountainprotocol.com",
@@ -228,15 +228,6 @@
     "description": "Maple Finance is an institutional capital marketplace powered by blockchain technology."
   },
   {
-    "url": "https://republic.com",
-    "name": "Republic Note",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/republic-note.png",
-    "description": "One asset, broad exposure to venture & crypto"
-  },
-  {
     "url": "https://backed.fi",
     "name": "BackedFi",
     "category": [
@@ -246,13 +237,13 @@
     "description": "Fully backed, tokenized real-world assets."
   },
   {
-    "url": "https://www.matrixdock.com",
-    "name": "MatrixDock",
+    "url": "https://republic.com",
+    "name": "Republic Note",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llama.fi/matrixdock.png",
-    "description": "The Matrixdock STBT token (i.e. Short-term Treasury Bill token) is a token which enables you to get exposure to U.S."
+    "icon": "https://icons.llama.fi/republic-note.png",
+    "description": "One asset, broad exposure to venture & crypto"
   },
   {
     "url": "https://midas.app",
@@ -262,6 +253,15 @@
     ],
     "icon": "https://icons.llama.fi/midas-rwa.png",
     "description": "Midas is an asset tokenization protocol bringing regulatory-compliant exposure to institutional-grade assets onchain, unlocking DeFi composability for real-world assets (RWA)."
+  },
+  {
+    "url": "https://www.matrixdock.com",
+    "name": "MatrixDock",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/matrixdock.png",
+    "description": "The Matrixdock STBT token (i.e. Short-term Treasury Bill token) is a token which enables you to get exposure to U.S."
   },
   {
     "url": "https://www.opentrade.io",

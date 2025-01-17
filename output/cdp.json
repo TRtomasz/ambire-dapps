@@ -83,6 +83,15 @@
     "description": "All the DAI bridged to Gnosis Chain is earning interest at MakerDAO. This interest is redirected to the sDAI holder. You can use sDAI in Defi like you would normally use xDAI."
   },
   {
+    "url": "https://www.kava.io",
+    "name": "Kava Mint",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/kava-mint.png",
+    "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
+  },
+  {
     "url": "https://orby.network",
     "name": "Orby Network",
     "category": [
@@ -90,15 +99,6 @@
     ],
     "icon": "https://icons.llama.fi/orby-network.png",
     "description": "Cronos Network's first native stablecoin lending protocol"
-  },
-  {
-    "url": "https://abracadabra.money",
-    "name": "Abracadabra Spell",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/abracadabra-spell.jpg",
-    "description": "Abracadabra.money is a spell book that allows users to produce magic internet money ($MIM) which is a stable coin that you can swap for any other traditional stable coin."
   },
   {
     "url": "https://fx.aladdin.club",
@@ -110,13 +110,13 @@
     "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
   },
   {
-    "url": "https://www.kava.io",
-    "name": "Kava Mint",
+    "url": "https://abracadabra.money",
+    "name": "Abracadabra Spell",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/kava-mint.png",
-    "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
+    "icon": "https://icons.llama.fi/abracadabra-spell.jpg",
+    "description": "Abracadabra.money is a spell book that allows users to produce magic internet money ($MIM) which is a stable coin that you can swap for any other traditional stable coin."
   },
   {
     "url": "https://bucketprotocol.io",
@@ -140,19 +140,11 @@
     "url": "https://pando.im",
     "name": "Pando Leaf",
     "category": [
-      "CDP"
+      "CDP",
+      "Lending"
     ],
     "icon": "https://icons.llama.fi/pando.png",
     "description": "Pando Leaf: a decentralized financial network to minting stablecoins"
-  },
-  {
-    "url": "https://app.angle.money",
-    "name": "Angle",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/angle.jpg",
-    "description": "Angle is an over-collateralized, decentralized and capital-efficient stablecoin protocol. It is based on two smart contract modules. Angle Core module allows to mint agEUR from any token at face value, open perpetuals on collateral/stablecoin pairs, or deposit tokens to earn yield. Angle Borrowing module allows to borrow or get leverage with agEUR from tokens deposited as collateral. Angle is governed by veANGLE holders."
   },
   {
     "url": "https://www.liquidloans.io",
@@ -162,6 +154,15 @@
     ],
     "icon": "https://icons.llama.fi/liquidloans.jpg",
     "description": "Fully Backed Stablecoin. Low 110% Collateral Ratio. No Repayment Schedule. Immutable. Governance-Free. No Admin Keys."
+  },
+  {
+    "url": "https://app.angle.money",
+    "name": "Angle",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/angle.jpg",
+    "description": "Angle is an over-collateralized, decentralized and capital-efficient stablecoin protocol. It is based on two smart contract modules. Angle Core module allows to mint agEUR from any token at face value, open perpetuals on collateral/stablecoin pairs, or deposit tokens to earn yield. Angle Borrowing module allows to borrow or get leverage with agEUR from tokens deposited as collateral. Angle is governed by veANGLE holders."
   },
   {
     "url": "https://frankencoin.com",
@@ -182,15 +183,6 @@
     "description": "BTC-Native stablecoin protocol, Initially funded by OKX_Ventures & ABCDELabs."
   },
   {
-    "url": "https://www.bitu.io",
-    "name": "BitU Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/bitu-protocol.jpg",
-    "description": "BitU Protocol offers a USD-pegged stablecoin primitive that provides stability and embedded yield. Through our Active Liquidity Management Module, we leverage on-chain transparency and off-chain capital efficiency to deliver resilient yield to support accessible ecosystem growth."
-  },
-  {
     "url": "https://fathom.fi",
     "name": "Fathom CDP",
     "category": [
@@ -200,6 +192,15 @@
     "description": "Fathom Protocol is a comprehensive DeFi platform providing liquidity solutions to both retail and institutional participants. Users can deposit XDC and staked XDC to mint FXD, USD stablecoin, which can be used to gain exposure to yield opportunities through our RWA Vaults and Trade Finance Pools. Crypto and RWA holders can also borrow FXD using their assets as collateral."
   },
   {
+    "url": "https://www.bitu.io",
+    "name": "BitU Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/bitu-protocol.jpg",
+    "description": "BitU Protocol offers a USD-pegged stablecoin primitive that provides stability and embedded yield. Through our Active Liquidity Management Module, we leverage on-chain transparency and off-chain capital efficiency to deliver resilient yield to support accessible ecosystem growth."
+  },
+  {
     "url": "https://www.gravitaprotocol.com",
     "name": "Gravita Protocol",
     "category": [
@@ -207,6 +208,15 @@
     ],
     "icon": "https://icons.llama.fi/gravita-protocol.png",
     "description": "Gravita Protocol is an ETH-centric Borrowing Protocol for LSTs and Yield-Generating assets. GRAI is the debt token of the platform. Our motto is: fuelling decentralization. You cannot resist the pull of Gravita!"
+  },
+  {
+    "url": "https://www.earn.powercity.io",
+    "name": "POWERCITY Earn Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/powercity-earn-protocol.png",
+    "description": "EARN Protocol is a decentralized borrowing protocol on PulseChain that allows you to draw interest-free loans against $PLSX used as collateral. Loans are paid out in PXDC (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%."
   },
   {
     "url": "https://satoshiprotocol.org",
@@ -236,15 +246,6 @@
     "description": "A decentralized, stable and non pegged currency made for the digital economy"
   },
   {
-    "url": "https://www.earn.powercity.io",
-    "name": "POWERCITY Earn Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/powercity-earn-protocol.png",
-    "description": "EARN Protocol is a decentralized borrowing protocol on PulseChain that allows you to draw interest-free loans against $PLSX used as collateral. Loans are paid out in PXDC (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%."
-  },
-  {
     "url": "https://dyadstable.xyz",
     "name": "DYAD",
     "category": [
@@ -272,6 +273,15 @@
     "description": "Parallel is a decentralized protocol that issues stablecoins, PAR (EUR stablecoin) and paUSD (USD stablecoin), on the Ethereum, Polygon and Fantom blockchains. The PAR & paUSD stablecoin are decentralized, non-custodials, and collateral-backed FIAT stablecoins."
   },
   {
+    "url": "https://rings.money",
+    "name": "Rings",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/rings.jpg",
+    "description": "Rings is a meta-stablecoin for USD & ETH offering competitive yield for stakers, providing deep liquidity for Sonic DeFi, and funding Sonic DeFi projects via its lockers."
+  },
+  {
     "url": "https://lybra.finance",
     "name": "Lybra V2",
     "category": [
@@ -288,5 +298,14 @@
     ],
     "icon": "https://icons.llama.fi/zoth.jpg",
     "description": "Zoth is an RWA ecosystem bringing institutional-grade yield avenues onchain."
+  },
+  {
+    "url": "https://blue.kujira.app",
+    "name": "USK",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/usk.png",
+    "description": "Fully decentralised, overcollateralised stablecoin"
   }
 ]
