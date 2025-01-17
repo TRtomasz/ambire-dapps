@@ -81,15 +81,6 @@
     "description": "Bridge between Ethereum and Blast Mainnet."
   },
   {
-    "url": "https://xdaichain.com",
-    "name": "xDAI Stake Bridge",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/xdai-stake.png",
-    "description": "The first-ever USD stable blockchain and multi-chain staking token.\r\n"
-  },
-  {
     "url": "https://rainbowbridge.app",
     "name": "Rainbow Bridge",
     "category": [
@@ -97,6 +88,15 @@
     ],
     "icon": "https://icons.llama.fi/rainbow-bridge.jpg",
     "description": "The Rainbow Bridge is the official bridge for transferring tokens between Ethereum, NEAR and the Aurora networks. The bridge is the product of Aurora, the Ethereum-compatible scaling solution built on NEAR."
+  },
+  {
+    "url": "https://xdaichain.com",
+    "name": "xDAI Stake Bridge",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/xdai-stake.png",
+    "description": "The first-ever USD stable blockchain and multi-chain staking token.\r\n"
   },
   {
     "url": "https://www.noble.xyz",
@@ -135,15 +135,6 @@
     "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
   },
   {
-    "url": "https://lisk.com",
-    "name": "Lisk Bridge",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/lisk-bridge.jpg",
-    "description": "We offer Web3 founders in Emerging Markets the ultimate ecosystem to bring their real-world applications to life."
-  },
-  {
     "url": "https://bridge.metis.io",
     "name": "Metis Bridge",
     "category": [
@@ -151,6 +142,15 @@
     ],
     "icon": "https://icons.llama.fi/metis-bridge.jpg",
     "description": "Bridge between Metis and Ethereum"
+  },
+  {
+    "url": "https://lisk.com",
+    "name": "Lisk Bridge",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/lisk-bridge.jpg",
+    "description": "We offer Web3 founders in Emerging Markets the ultimate ecosystem to bring their real-world applications to life."
   },
   {
     "url": "https://tokenbridge.rsk.co",
@@ -252,15 +252,6 @@
     "description": "The first aggregated Layer 3 zkEVM network that links Ethereum and its Layer 2 Rollups for any use case, with exceptional composability, interoperability, scalability, and security through zero-knowledge proofs."
   },
   {
-    "url": "https://bridge.taiko.xyz",
-    "name": "Taiko Bridge",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/taiko.png",
-    "description": "A Based Contestable Rollup, Ethereum-equivalent ZK-EVM"
-  },
-  {
     "url": "https://www.zircuit.com",
     "name": "Zircuit",
     "category": [
@@ -270,13 +261,13 @@
     "description": "Experience the safest chain for DeFi and staking. Developers get powerful features; users get peace of mind."
   },
   {
-    "url": "https://bridge.sui.io",
-    "name": "SuiBridge",
+    "url": "https://bridge.taiko.xyz",
+    "name": "Taiko Bridge",
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/suibridge.jpg",
-    "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture."
+    "icon": "https://icons.llama.fi/taiko.png",
+    "description": "A Based Contestable Rollup, Ethereum-equivalent ZK-EVM"
   },
   {
     "url": "https://app.manta.network",
@@ -286,6 +277,15 @@
     ],
     "icon": "https://icons.llama.fi/manta-atlantic-stake.jpg",
     "description": "Stake MANTA on Manta Atlantic"
+  },
+  {
+    "url": "https://bridge.sui.io",
+    "name": "SuiBridge",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/suibridge.jpg",
+    "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture."
   },
   {
     "url": "https://explorer.rss3.io",
@@ -370,15 +370,6 @@
     "description": "NULS is a blockchain infrastructure for customizable services, driven by our global open-source community."
   },
   {
-    "url": "https://alpha.sovryn.app",
-    "name": "Sovryn Bridge",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/sovryn-bridge.png",
-    "description": "Sovryn Bridge"
-  },
-  {
     "url": "https://sanko.xyz",
     "name": "Sanko Bridge",
     "category": [
@@ -386,6 +377,15 @@
     ],
     "icon": "https://icons.llama.fi/sanko.png",
     "description": "The Sanko Bridge is a blockchain-based platform that enables secure asset transfers between different blockchain networks."
+  },
+  {
+    "url": "https://alpha.sovryn.app",
+    "name": "Sovryn Bridge",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/sovryn-bridge.png",
+    "description": "Sovryn Bridge"
   },
   {
     "url": "https://bridge.coredao.org",

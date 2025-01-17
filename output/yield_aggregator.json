@@ -21,12 +21,13 @@
   },
   {
     "url": "https://cian.app",
-    "name": "CIAN Yield Layer",
+    "name": "Cian Bera",
     "category": [
+      "Yield",
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/cian-yield-layer.jpg",
-    "description": "Redistribute Yield Sources For Sustainable DeFi & Optimized APY For Your Assets"
+    "icon": "https://icons.llama.fi/cian-bera.jpg",
+    "description": "Redistribute Yield Sources For Sustainable DeFi"
   },
   {
     "url": "https://beefy.com",
@@ -123,15 +124,6 @@
     "description": "Yield Yak Aggregator is an easy-to-use tool to earn more yield from defi farming on the Avalanche network."
   },
   {
-    "url": "https://idle.finance",
-    "name": "Idle",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/idle.jpg",
-    "description": "Idle is a decentralized protocol and set of products that aim to unlock the power of decentralized finance as a one-stop source of yield. It allows users to algorithmically optimize their digital asset allocation across leading DeFi protocols, whether they want to maximize it or keep tabs on their risk/return profile."
-  },
-  {
     "url": "https://badger.com",
     "name": "Badger DAO",
     "category": [
@@ -148,6 +140,15 @@
     ],
     "icon": "https://icons.llama.fi/nucleus.jpg",
     "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
+  },
+  {
+    "url": "https://idle.finance",
+    "name": "Idle",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/idle.jpg",
+    "description": "Idle is a decentralized protocol and set of products that aim to unlock the power of decentralized finance as a one-stop source of yield. It allows users to algorithmically optimize their digital asset allocation across leading DeFi protocols, whether they want to maximize it or keep tabs on their risk/return profile."
   },
   {
     "url": "https://vesper.finance",
@@ -168,15 +169,6 @@
     "description": "Harvest - grows your crypto with automated yield strategies"
   },
   {
-    "url": "https://autofarm.network",
-    "name": "Autofarm",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/autofarm.png",
-    "description": "The Autofarm ecosystem is a one-stop DeFi suite for all users. Autofarm aggregate yield opportunities using vaults and best swap rates using a DEX aggregator (AutoSwap). In addition, other products such as AutoAnalytics, AutoTrade & AutoPortfolio are set to go live later in 2021. The platform is currently live on BSC, HECO, Polygon, Avalanche, Fantom & Moonriver, with more chains to be introduced soon."
-  },
-  {
     "url": "https://pit.finance",
     "name": "Pit Finance",
     "category": [
@@ -184,5 +176,14 @@
     ],
     "icon": "https://icons.llama.fi/pit-finance.jpg",
     "description": "Boosting your decentralized finance returns through strategic asset multiplication and advanced yield optimization techniques."
+  },
+  {
+    "url": "https://autofarm.network",
+    "name": "Autofarm",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/autofarm.png",
+    "description": "The Autofarm ecosystem is a one-stop DeFi suite for all users. Autofarm aggregate yield opportunities using vaults and best swap rates using a DEX aggregator (AutoSwap). In addition, other products such as AutoAnalytics, AutoTrade & AutoPortfolio are set to go live later in 2021. The platform is currently live on BSC, HECO, Polygon, Avalanche, Fantom & Moonriver, with more chains to be introduced soon."
   }
 ]

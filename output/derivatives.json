@@ -103,6 +103,15 @@
     "description": "SynFutures is a leading decentralized protocol for perpetual futures, democratizing the derivatives market by empowering users to trade any asset and create arbitrary futures contracts within seconds. Its V3 oAMM introduces the industry's first-ever integration of a unified AMM and on-chain matching order book model."
   },
   {
+    "url": "https://www.apollox.finance",
+    "name": "APX Finance",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/apx-finance.png",
+    "description": "APX Finance (APX) is the foremost decentralized exchange (DEX) for crypto derivatives on BNB Chain. Offering both order book and on-chain perpetuals, APX offers trading with up to 1001x leverage, zero to minimal slippage and competitive fees. It also offers attractive LP yield for a LP pool made of majority stablecoins."
+  },
+  {
     "url": "https://www.aevo.xyz",
     "name": "Aevo Perps",
     "category": [
@@ -119,15 +128,6 @@
     ],
     "icon": "https://icons.llama.fi/dydx-v3.jpg",
     "description": "The most powerful open trading platform for crypto assets. Margin trade, borrow, and lend cryptocurrency.\r\n"
-  },
-  {
-    "url": "https://www.apollox.finance",
-    "name": "APX Finance",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/apx-finance.png",
-    "description": "APX Finance (APX) is the foremost decentralized exchange (DEX) for crypto derivatives on BNB Chain. Offering both order book and on-chain perpetuals, APX offers trading with up to 1001x leverage, zero to minimal slippage and competitive fees. It also offers attractive LP yield for a LP pool made of majority stablecoins."
   },
   {
     "url": "https://omni.apex.exchange",
@@ -185,15 +185,6 @@
     "description": "Astherus is a liquidity hub for staked assets such as LSTs (liquid staking tokens) and LRTs (liquid restaking tokens), aiming to scale their utilization and boost user profitability."
   },
   {
-    "url": "https://app.reya.xyz",
-    "name": "Reya DEX",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/reya-perps-dex.png",
-    "description": "Reya DEX is a perpetual futures exchange on the Reya Network"
-  },
-  {
     "url": "https://storm.tg",
     "name": "Storm Trade",
     "category": [
@@ -201,6 +192,15 @@
     ],
     "icon": "https://icons.llama.fi/storm-trade.jpg",
     "description": "Storm Trade is the first decentralized exchange in the TON blockchain that allows you to trade Crypto, Stock, Forex and Commodities, with leverage, both in Web App and Telegram."
+  },
+  {
+    "url": "https://app.reya.xyz",
+    "name": "Reya DEX",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/reya-perps-dex.png",
+    "description": "Reya DEX is a perpetual futures exchange on the Reya Network"
   },
   {
     "url": "https://www.surf.one",
@@ -221,15 +221,6 @@
     "description": "MUX Protocol Suite contains the MUX Leveraged Trading Protocol and MUX Aggregator. MUX offers optimized trading cost, deep aggregated liquidity, diverse market options and a wide range of leverage options for traders."
   },
   {
-    "url": "https://helixapp.com",
-    "name": "Helix Perp",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/helix-perp.jpg",
-    "description": "The premier decentralized crypto exchange. Trade unlimited cross-chain spot and futures markets."
-  },
-  {
     "url": "https://orderly.network",
     "name": "Orderly Perps",
     "category": [
@@ -246,6 +237,15 @@
     ],
     "icon": "https://icons.llama.fi/blitz-perps.png",
     "description": "Blazing fast orderbook for spot and futures trading built on Blast"
+  },
+  {
+    "url": "https://helixapp.com",
+    "name": "Helix Perp",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/helix-perp.jpg",
+    "description": "The premier decentralized crypto exchange. Trade unlimited cross-chain spot and futures markets."
   },
   {
     "url": "https://www.avantisfi.com",
@@ -282,5 +282,23 @@
     ],
     "icon": "https://icons.llama.fi/levana-perps.jpg",
     "description": "The Levana Protocol: Levana is an acronym for “Leverage any Asset” Levana is a crypto collateralized perpetual swap platform designed to offer low fees and high real yield on a number of different Blockchains"
+  },
+  {
+    "url": "https://grvt.io",
+    "name": "GRVT",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/grvt.jpg",
+    "description": "World's first licensed DEX, redesigning finance. Building true CeDeFi. Mainnet Alpha LIVE."
+  },
+  {
+    "url": "https://www.cyberperp.io",
+    "name": "Cyberperp",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/cyberperp.jpg",
+    "description": "Cyberperp is the first decentralized spot and perpetual exchange built on the IOTA EVM, designed for traders seeking low swap fees and minimal price impact on trades."
   }
 ]

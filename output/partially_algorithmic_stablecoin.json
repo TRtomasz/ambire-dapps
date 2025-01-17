@@ -16,5 +16,14 @@
     ],
     "icon": "https://icons.llama.fi/rif-on-chain.png",
     "description": "RIF On Chain offers a censorship-resistant stablecoin protocol on Rootstock, enabling users to mint USDRIF, a fully crypto-collateralized stablecoin, and RIF PRO, a leveraged token for RIF holders and traders"
+  },
+  {
+    "url": "https://fxdao.io",
+    "name": "FxDAO",
+    "category": [
+      "Partially Algorithmic Stablecoin"
+    ],
+    "icon": "https://icons.llama.fi/fxdao.jpg",
+    "description": "FxDAO is the first protocol that allows the issuance of synthetic assets (stablecoins) backed by Stellar Lumens"
   }
 ]

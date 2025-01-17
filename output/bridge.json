@@ -120,6 +120,15 @@
     "description": "Fast, non-custodial L1-L2 and cross-L2 communication.\r\n"
   },
   {
+    "url": "https://buildwithsygma.com",
+    "name": "Sygma",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/sygma.png",
+    "description": "Sygma is a modular, open-source, cross-chain connectivity protocol. With Sygma, developers can easily extend their applications across EVM, Substrate, and beyond"
+  },
+  {
     "url": "https://multichain.org",
     "name": "Multichain",
     "category": [
@@ -136,15 +145,6 @@
     ],
     "icon": "https://icons.llama.fi/mezo-network.jpg",
     "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
-  },
-  {
-    "url": "https://buildwithsygma.com",
-    "name": "Sygma",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/sygma.png",
-    "description": "Sygma is a modular, open-source, cross-chain connectivity protocol. With Sygma, developers can easily extend their applications across EVM, Substrate, and beyond"
   },
   {
     "url": "https://app.hatom.com",
@@ -203,15 +203,6 @@
     "description": "Your favorite assets on every blockchain. wrapped.com is a cross-chain institutional bridge. Designed for high-performance and speed."
   },
   {
-    "url": "https://injective.com",
-    "name": "Injective Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/injective.png",
-    "description": "Access limitless DeFi markets with zero barriers."
-  },
-  {
     "url": "https://iotube.org",
     "name": "ioTube",
     "category": [
@@ -221,13 +212,13 @@
     "description": "ioTube is the decentralized bridge for connecting Ethereum, Binance Smart Chain, Polygon (Matic), and IoTeX. ioTube enables bi-directional exchange of tokens between IoTeX, Ethereum, Binance Smart Chain, and now Polygon!"
   },
   {
-    "url": "https://core.allbridge.io",
-    "name": "Allbridge Core",
+    "url": "https://injective.com",
+    "name": "Injective Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/allbridge-core.png",
-    "description": "Allbridge Core enables the transfer of value between blockchains by offering cross-chain swaps of native stablecoins. Being messaging protocol agnostic, Allbridge Core connects a variety of EVM and non-EVM networks."
+    "icon": "https://icons.llama.fi/injective.png",
+    "description": "Access limitless DeFi markets with zero barriers."
   },
   {
     "url": "https://app.dexalot.com",
@@ -237,6 +228,15 @@
     ],
     "icon": "https://icons.llama.fi/dexalot-portfolio.png",
     "description": "Dexalot is an omni-chain order book DEX with zero slippage, near zero gas fees, and is on its own app-specific chain, allowing users to deposit from and withdraw to multiple chains. Dexalot is also fully on-chain and non-custodial."
+  },
+  {
+    "url": "https://core.allbridge.io",
+    "name": "Allbridge Core",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/allbridge-core.png",
+    "description": "Allbridge Core enables the transfer of value between blockchains by offering cross-chain swaps of native stablecoins. Being messaging protocol agnostic, Allbridge Core connects a variety of EVM and non-EVM networks."
   },
   {
     "url": "https://bridge.morphl2.io",
