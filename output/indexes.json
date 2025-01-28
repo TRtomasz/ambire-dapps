@@ -8,6 +8,7 @@
       "Indexes",
       "Yield Aggregator"
     ],
+    "icon": "https://icons.llama.fi/stakestone-berachain-vault.jpg",
     "description": "Deposit ETH / BTC into the Berachain Vault to participate in the Boyco pre-deposit campaign and tap into future PoL incentives — all in one simple and seamless experience. Receive beraSTONE / beraSBTC to unlock more DeFi opportunities in trading, lending, and leveraging"
   },
   {
@@ -16,6 +17,7 @@
     "category": [
       "Indexes"
     ],
+    "icon": "https://icons.llama.fi/reserve.png",
     "description": "The Reserve Protocol is a platform which enables anyone to create yield-bearing, decentralized, and asset-backed currencies (RTokens). RTokens provide an alternative to inflation-prone currencies, empowering people to maintain their purchasing power over time and across borders"
   },
   {
@@ -24,6 +26,7 @@
     "category": [
       "Indexes"
     ],
+    "icon": "https://icons.llama.fi/enzyme-finance.jpg",
     "description": "Fast & cost-effective way to build, scale and monetize investment strategies."
   },
   {
@@ -32,6 +35,7 @@
     "category": [
       "Indexes"
     ],
+    "icon": "https://icons.llama.fi/index-coop.png",
     "description": "Index Coop creates and maintains the world's best crypto index products.\r\n\r\nAll index products are always fully collateralized."
   },
   {
@@ -40,6 +44,7 @@
     "category": [
       "Indexes"
     ],
+    "icon": "https://icons.llama.fi/set-protocol.png",
     "description": "A protocol for building portfolios as digital assets (ERC-20) that represent a fully collateralized digital asset (ERC-20) that represents a fully collateralized portfolio of other assets including Bitcoin (WBTC), Ethereum (WETH), and fiat-pegged coins (DAI).portfolio of other assets including Bitcoin (WBTC), Ethereum (WETH), and fiat-pegged coins (DAI)."
   },
   {
@@ -48,6 +53,7 @@
     "category": [
       "Indexes"
     ],
+    "icon": "https://icons.llama.fi/bwatch.png",
     "description": "B.watch is an decentralized ETF-like crypto asset management platform, which is the only issuer of BOX token."
   },
   {
@@ -56,6 +62,7 @@
     "category": [
       "Indexes"
     ],
+    "icon": "https://icons.llama.fi/dhedge.png",
     "description": "Explore the universe of top-tier tokenized vaults."
   }
 ]

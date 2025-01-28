@@ -5,6 +5,7 @@
     "category": [
       "Partially Algorithmic Stablecoin"
     ],
+    "icon": "https://icons.llama.fi/moneyonchain.jpg",
     "description": "Money On Chain is a self-contained DeFi protocol (a stablecoin, HODL token, leveraging mechanism, and more) which empowers Bitcoiners to improve performance of their assets while also retaining full control of their private keys."
   },
   {
@@ -13,6 +14,7 @@
     "category": [
       "Partially Algorithmic Stablecoin"
     ],
+    "icon": "https://icons.llama.fi/fxdao.jpg",
     "description": "FxDAO is the first protocol that allows the issuance of synthetic assets (stablecoins) backed by Stellar Lumens"
   }
 ]

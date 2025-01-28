@@ -1,21 +1,22 @@
 [
   {
-    "url": "https://stargate.finance",
-    "name": "Stargate",
-    "category": [
-      "Cross Chain Bridge"
-    ],
-    "icon": "https://static.debank.com/image/dapp/logo_url/7769b47348430f848c0e784c68222478/7769b47348430f848c0e784c68222478.png",
-    "description": "A fully composable native asset bridge with unified liquidity and instant guaranteed finality built on top of LayerZero"
-  },
-  {
     "url": "https://hop.exchange",
     "name": "Hop",
     "category": [
+      "Bridge",
       "Cross Chain Bridge"
     ],
     "icon": "https://static.debank.com/image/dapp/logo_url/43db0b55c8fa8df88757309f8b9a1c02/43db0b55c8fa8df88757309f8b9a1c02.png",
     "description": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner."
+  },
+  {
+    "url": "https://stargate.finance",
+    "name": "Stargate V2",
+    "category": [
+      "Cross Chain Bridge"
+    ],
+    "icon": "https://icons.llama.fi/stargate-v2.png",
+    "description": "Stargate V2 offers reduced bridging costs, expands chain connectivity, and improves capital efficiency using transaction batching, Hydra, and an AI-driven Planning Module (AIPM)."
   },
   {
     "url": "https://across.to",
@@ -23,6 +24,7 @@
     "category": [
       "Cross Chain Bridge"
     ],
+    "icon": "https://icons.llama.fi/across.png",
     "description": "Across protocol is a novel bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet."
   },
   {
@@ -31,6 +33,7 @@
     "category": [
       "Cross Chain Bridge"
     ],
+    "icon": "https://icons.llama.fi/synapse.png",
     "description": "Synapse is a universal cross-chain liquidity network. Synapse connects blockchains by offering an extensible cross-chain communication protocol that supports assets, smart contract calls, and more"
   },
   {
@@ -39,6 +42,7 @@
     "category": [
       "Cross Chain Bridge"
     ],
+    "icon": "https://icons.llama.fi/maya-protocol.jpg",
     "description": "MAYAChain is a friendly fork of THORChain. Similarly, it does not rely on pegging or wrapping assets, instead managing funds directly in on-chain vaults and safeguarding them through economic security. This is achieved using the Tendermint consensus engine, Cosmos-SDK state machine, and GG20 Threshold Signature Scheme (TSS)."
   },
   {
@@ -47,6 +51,7 @@
     "category": [
       "Cross Chain Bridge"
     ],
+    "icon": "https://icons.llama.fi/crosscurve-(by-eywa).png",
     "description": "CrossCurve is a cross-chain trading and yield protocol built on Curve, creating a unified cross-chain liquidity market by aggregating existing Curve pools"
   },
   {
@@ -55,6 +60,7 @@
     "category": [
       "Cross Chain Bridge"
     ],
+    "icon": "https://icons.llama.fi/counterstake.png",
     "description": "Counterstake is a permissionless and fully decentralized cross-chain bridge."
   },
   {
@@ -63,6 +69,7 @@
     "category": [
       "Cross Chain Bridge"
     ],
+    "icon": "https://icons.llama.fi/symbiosis.png",
     "description": "Symbiosis aggregates decentralized exchange liquidity across any EVM and non-EVM networks. Swap any token and transfer liquidity. Yes, any."
   }
 ]
