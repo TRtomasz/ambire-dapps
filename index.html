@@ -1,92 +1,103 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Combined Data</title>
+  <meta charset="UTF-8" />
+  <title>Combined Data Grid</title>
+
   <!-- Tailwind CSS (CDN) -->
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.2/dist/tailwind.min.css" rel="stylesheet">
+  <link
+    href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.2/dist/tailwind.min.css"
+    rel="stylesheet"
+  />
+
+  <!-- (Optional) A small custom style for subtle text truncation of descriptions -->
+  <style>
+    .line-clamp-3 {
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      -webkit-line-clamp: 3;
+    }
+  </style>
 </head>
-<body class="bg-gray-100 min-h-screen flex items-center justify-center p-4">
-  <div class="container mx-auto bg-white p-4 rounded shadow">
-    <h1 class="text-2xl font-bold mb-4 text-center">Combined Protocols</h1>
-    <div class="overflow-x-auto">
-      <table class="min-w-full border border-gray-300 text-sm">
-        <thead class="bg-gray-200">
-          <tr>
-            <th class="py-2 px-4 border-b border-gray-300">Icon</th>
-            <th class="py-2 px-4 border-b border-gray-300">Name</th>
-            <th class="py-2 px-4 border-b border-gray-300">URL</th>
-            <th class="py-2 px-4 border-b border-gray-300">Category</th>
-            <th class="py-2 px-4 border-b border-gray-300">Description</th>
-          </tr>
-        </thead>
-        <tbody id="table-body">
-          <!-- Rows will be populated by JavaScript -->
-        </tbody>
-      </table>
+<body class="bg-gray-100 min-h-screen">
+  <div class="container mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold text-center mb-6">Combined Protocols Grid</h1>
+    <div id="cards-container" 
+         class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+      <!-- Cards will be appended here by JavaScript -->
     </div>
   </div>
 
   <script>
-    // Fetch the combined.json file
-    fetch('output/combined.json')
-      .then(response => response.json())
-      .then(data => {
-        const tbody = document.getElementById('table-body');
-        
-        data.forEach(item => {
-          const tr = document.createElement('tr');
-          
+    fetch("output/combined.json")
+      .then((res) => res.json())
+      .then((data) => {
+        const container = document.getElementById("cards-container");
+
+        data.forEach((item) => {
+          // Card container
+          const card = document.createElement("div");
+          card.className =
+            "bg-white rounded-lg shadow p-4 flex flex-col items-center hover:shadow-md transition-shadow";
+
           // Icon
-          const tdIcon = document.createElement('td');
-          tdIcon.className = 'py-2 px-4 border-b border-gray-300';
           if (item.icon) {
-            const img = document.createElement('img');
-            img.src = item.icon;
-            img.alt = item.name || 'Icon';
-            img.className = 'h-8 w-8 object-contain';
-            tdIcon.appendChild(img);
+            const iconImg = document.createElement("img");
+            iconImg.src = item.icon;
+            iconImg.alt = item.name || "Protocol Icon";
+            iconImg.className = "w-16 h-16 object-contain mb-2";
+            card.appendChild(iconImg);
           }
-          tr.appendChild(tdIcon);
-          
-          // Name
-          const tdName = document.createElement('td');
-          tdName.className = 'py-2 px-4 border-b border-gray-300 font-medium';
-          tdName.textContent = item.name || '';
-          tr.appendChild(tdName);
 
-          // URL
-          const tdUrl = document.createElement('td');
-          tdUrl.className = 'py-2 px-4 border-b border-gray-300 text-blue-600 underline';
+          // Name (or fallback text)
+          const nameEl = document.createElement("h2");
+          nameEl.textContent = item.name || "Unnamed Protocol";
+          nameEl.className = "text-xl font-semibold text-gray-800 text-center";
+          card.appendChild(nameEl);
+
+          // URL link (optional, if it exists)
           if (item.url) {
-            const link = document.createElement('a');
-            link.href = item.url;
-            link.target = '_blank';
-            link.rel = 'noopener noreferrer';
-            link.textContent = item.url;
-            tdUrl.appendChild(link);
+            const urlLink = document.createElement("a");
+            urlLink.href = item.url;
+            urlLink.target = "_blank";
+            urlLink.rel = "noopener noreferrer";
+            urlLink.textContent = item.url
+            urlLink.className = "text-blue-600 hover:underline text-sm mt-1";
+            card.appendChild(urlLink);
           }
-          tr.appendChild(tdUrl);
 
-          // Category
-          const tdCategory = document.createElement('td');
-          tdCategory.className = 'py-2 px-4 border-b border-gray-300';
-          if (Array.isArray(item.category)) {
-            tdCategory.textContent = item.category.join(', ');
+          // Categories
+          if (Array.isArray(item.category) && item.category.length > 0) {
+            const categoriesWrapper = document.createElement("div");
+            categoriesWrapper.className =
+              "flex flex-wrap justify-center gap-2 mt-3";
+
+            item.category.forEach((cat) => {
+              const catBadge = document.createElement("span");
+              catBadge.textContent = cat;
+              catBadge.className =
+                "px-2 py-1 bg-blue-100 text-blue-800 text-xs rounded-full";
+              categoriesWrapper.appendChild(catBadge);
+            });
+            card.appendChild(categoriesWrapper);
           }
-          tr.appendChild(tdCategory);
 
           // Description
-          const tdDescription = document.createElement('td');
-          tdDescription.className = 'py-2 px-4 border-b border-gray-300';
-          tdDescription.textContent = item.description || '';
-          tr.appendChild(tdDescription);
+          if (item.description) {
+            const descEl = document.createElement("p");
+            descEl.textContent = item.description;
+            descEl.className =
+              "text-sm text-gray-700 mt-3 text-center line-clamp-3";
+            card.appendChild(descEl);
+          }
 
-          tbody.appendChild(tr);
+          // Append card to container
+          container.appendChild(card);
         });
       })
-      .catch(error => {
-        console.error('Error fetching combined.json:', error);
+      .catch((err) => {
+        console.error("Error fetching combined.json:", err);
       });
   </script>
 </body>
