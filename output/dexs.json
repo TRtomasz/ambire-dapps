@@ -900,15 +900,6 @@
     "description": "ApeSwap is a Decentralized Autonomous Organization (DAO) that offers a full suite of tools to explore and engage with decentralized finance opportunities. Using the products within our DeFi Hub, users and partners can tap into this new wave of financial innovation in a secure, transparent, and globally accessible way."
   },
   {
-    "url": "https://flamingo.finance",
-    "name": "Flamingo Finance",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/flamingo-finance.jpg",
-    "description": "An Interoperable Full-Stack DeFi Protocol on Neo"
-  },
-  {
     "url": "https://bitflow.finance",
     "name": "Bitflow",
     "category": [

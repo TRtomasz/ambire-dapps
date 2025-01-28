@@ -443,15 +443,6 @@
     "description": "Sceptre is an innovative multi network Liquid Staking solution build by Rome Blockchain Labs, with extensive knowledge and experience in Liquid Staking."
   },
   {
-    "url": "https://neoburger.io",
-    "name": "NeoBurger",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/neoburger.jpg",
-    "description": "Delegate your NEO Governance to NeoBurger to mint bNEO and receive GAS"
-  },
-  {
     "url": "https://venomstake.com",
     "name": "VenomStake",
     "category": [

@@ -344,8 +344,7 @@
     "url": "https://nuls.io",
     "name": "Nuls",
     "category": [
-      "Chain",
-      "Services"
+      "Chain"
     ],
     "icon": "https://icons.llama.fi/nuls.jpg",
     "description": "NULS is a blockchain infrastructure for customizable services, driven by our global open-source community."

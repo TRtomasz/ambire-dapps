@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://snapshot.org",
+    "name": "Snapshot",
+    "category": [
+      "Governance"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/3516a46cef64f3fab4b476ccb38c5a6b/3516a46cef64f3fab4b476ccb38c5a6b.png",
+    "description": "Snapshot is an off-chain voting platform that allows DAOs, DeFi protocols, or NFT communities to participate in the decentralized governance easily and without gas fees."
+  }
+]
