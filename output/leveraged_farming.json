@@ -1,29 +1,28 @@
 [
   {
-    "url": "https://app.extrafi.io",
-    "name": "Extra Finance Leverage Farming",
+    "url": "https://extrafi.io",
+    "name": "extrafi",
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/extra-finance.jpg",
+    "icon": "https://static.debank.com/image/dapp/logo_url/7179171ebb0c5d1d7c9121cf4bc4c7ff/7179171ebb0c5d1d7c9121cf4bc4c7ff.png",
     "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
   },
   {
-    "url": "https://homora-v2.alphaventuredao.io",
+    "url": "https://alphaventuredao.io",
     "name": "Homora V2",
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/homora-v2.png",
     "description": "Homora is the first flagship product incubated under Alpha Venture DAO (previously Alpha Finance Lab) deployed on the Ethereum network in October, 2020. It is the largest multi-chain lending and leveraged yield farming protocol. Homora V2 is currently available on Ethereum, Avalanche, Fantom, Optimism and more coming soon."
   },
   {
-    "url": "https://www.alpacafinance.org",
+    "url": "https://alpacafinance.org",
     "name": "Alpaca Leveraged Yield Farming",
     "category": [
-      "Leveraged Farming"
+      "Leveraged Farming",
+      "Lending"
     ],
-    "icon": "https://icons.llama.fi/alpaca-leveraged-yield-farming.jpg",
     "description": "The 1st leveraged yield farming protocol on BSC"
   },
   {
@@ -32,7 +31,6 @@
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/juice-finance.jpg",
     "description": "Maximize your yield by using your ETH as collateral to access 300% USDB leverage to deploy throughout the Blast ecosystem."
   },
   {
@@ -41,7 +39,6 @@
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/kai-finance.png",
     "description": "Kai Finance is a next-generation leveraged yield platform on the Sui Network."
   },
   {
@@ -50,16 +47,14 @@
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/deltaprime.jpg",
     "description": "DeltaPrime aggregates the best projects from your chain within one DeFi ecosystem. Within this ecosystem you can borrow extra capital trustless and anonymous. This way, you multiply your returns with a balanced portfolio, whether through trading, LPing or farming"
   },
   {
-    "url": "https://app.factor.fi",
+    "url": "https://factor.fi",
     "name": "Factor Leverage Vault",
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/factor-leverage-vault.jpg",
     "description": "Factor Leverage Vault is one-click looping, easy switching, easy migration, easy auto-compounding the reward."
   },
   {
@@ -68,7 +63,6 @@
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/origami-finance.jpg",
     "description": "Origami is a first-in-class automated leverage protocol launching on Ethereum and 🐻"
   }
 ]

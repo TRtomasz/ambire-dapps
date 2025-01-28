@@ -1,13 +1,13 @@
 [
   {
     "url": "https://solv.finance",
-    "name": "SolvBTC LSTs",
+    "name": "SolvBTC",
     "category": [
+      "Bridge",
       "Restaked BTC",
       "RWA"
     ],
-    "icon": "https://icons.llama.fi/solv-btc-lsts.jpg",
-    "description": "SolvBTC staking at Babylon and Core Chain."
+    "description": "Earn Solv Points By Staking Your BTC"
   },
   {
     "url": "https://satlayer.xyz",
@@ -15,7 +15,6 @@
     "category": [
       "Restaked BTC"
     ],
-    "icon": "https://icons.llama.fi/satlayer.jpg",
     "description": "SatLayer unleashes the possibilities of BTC, the world's best economic collateral, to secure any type of dApp or protocol as an Bitcoin Validated Service (BVS), fundamentally upgrading security for all of crypto"
   }
 ]

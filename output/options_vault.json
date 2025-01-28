@@ -1,11 +1,10 @@
 [
   {
-    "url": "https://www.ribbon.finance",
+    "url": "https://ribbon.finance",
     "name": "Ribbon",
     "category": [
       "Options Vault"
     ],
-    "icon": "https://icons.llama.fi/ribbon-finance.png",
     "description": "Structured products protocol"
   }
 ]
