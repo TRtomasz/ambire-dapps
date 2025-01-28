@@ -1,22 +1,21 @@
 [
   {
     "url": "https://blur.io",
-    "name": "Blur Bids",
+    "name": "blur",
     "category": [
       "NFT Marketplace",
       "NFT Lending"
     ],
-    "icon": "https://icons.llama.fi/blur-bids.png",
-    "description": "The NFT marketplace for pro traders"
+    "icon": "https://static.debank.com/image/dapp/logo_url/3e852a352d870e42c9cedd1285a4be62/3e852a352d870e42c9cedd1285a4be62.png",
+    "description": "Sweep NFTs across multiple marketplaces, snipe reveals faster than others, and manage your portfolio with advanced analytics. Zero fees."
   },
   {
-    "url": "https://www.immutable.com",
+    "url": "https://immutable.com",
     "name": "ImmutableX",
     "category": [
       "NFT Marketplace",
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/immutablex.jpg",
     "description": "Immutable is the leading platform for building web3 games on Ethereum. Powering the next generation of web3 games"
   },
   {
@@ -25,7 +24,6 @@
     "category": [
       "NFT Marketplace"
     ],
-    "icon": "https://icons.llama.fi/nftx.jpg",
     "description": "NFTX is a platform for making ERC20 tokens that are backed by NFT collectibles."
   }
 ]

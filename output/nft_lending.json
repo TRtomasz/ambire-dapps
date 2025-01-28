@@ -1,21 +1,20 @@
 [
   {
     "url": "https://blur.io",
-    "name": "Blur Bids",
+    "name": "blur",
     "category": [
       "NFT Marketplace",
       "NFT Lending"
     ],
-    "icon": "https://icons.llama.fi/blur-bids.png",
-    "description": "The NFT marketplace for pro traders"
+    "icon": "https://static.debank.com/image/dapp/logo_url/3e852a352d870e42c9cedd1285a4be62/3e852a352d870e42c9cedd1285a4be62.png",
+    "description": "Sweep NFTs across multiple marketplaces, snipe reveals faster than others, and manage your portfolio with advanced analytics. Zero fees."
   },
   {
-    "url": "https://www.gondi.xyz",
+    "url": "https://gondi.xyz",
     "name": "Gondi V3",
     "category": [
       "NFT Lending"
     ],
-    "icon": "https://icons.llama.fi/gondi-v3.jpg",
     "description": "Borrow, Lend & Refinance NFTs on the most capital efficient lending protocol"
   }
 ]
