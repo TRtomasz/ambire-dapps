@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
-const url = require('url');
 
 // Output directory path
 const outputDir = path.join(__dirname, 'output');
@@ -54,6 +53,21 @@ const excludedCategories = [
   "Treasury Manager"
 ];
 
+// Attempt to read from input.json
+let manualEntries = [];
+const inputFilePath = path.join(__dirname, 'input.json');
+
+if (fs.existsSync(inputFilePath)) {
+  try {
+    const rawInput = fs.readFileSync(inputFilePath, 'utf-8');
+    manualEntries = JSON.parse(rawInput);
+  } catch (err) {
+    console.error('Error reading/parsing input.json:', err);
+  }
+} else {
+  console.warn('No input.json found; continuing without manual entries.');
+}
+
 // Fetch data from the API
 https.get('https://api.llama.fi/protocols', (res) => {
   let data = '';
@@ -64,40 +78,50 @@ https.get('https://api.llama.fi/protocols', (res) => {
 
   res.on('end', () => {
     try {
-      const rawArray = JSON.parse(data);
-      const jsonArray = Array.isArray(rawArray) ? rawArray : [];
+      const apiArray = JSON.parse(data);
+      const combinedData = Array.isArray(apiArray) ? apiArray : [];
+
+      // Combine the API data with the manual entries
+      const allData = [...combinedData, ...manualEntries];
 
       // Filter, deduplicate, and merge data
       const processedData = {};
 
-      jsonArray
+      allData
         .filter((item, index) => {
-          try {
-            // Ensure the item has the necessary structure and TVL conditions
-            if (!item || !Array.isArray(item.chains) || item.tvl == null || item.tvl < 10000000 || excludedCategories.includes(item.category)) {
-              throw new Error(`Item '${item?.name || 'unknown'}' at index ${index} does not meet criteria`);
-            }
-            return item.chains.some(chain => !notAllowedChains.includes(chain));
-          } catch (error) {
-            console.warn(`Skipping item '${item?.name || 'unknown'}' at index ${index}:`, error.message);
+          // Validate item structure
+          if (!item || !Array.isArray(item.chains) || item.tvl == null || item.tvl < 10000000) {
             return false;
           }
+          // Exclude if category is in excludedCategories
+          if (excludedCategories.includes(item.category)) {
+            return false;
+          }
+          // Exclude if all chains are in notAllowedChains
+          const hasAllowedChain = item.chains.some(chain => !notAllowedChains.includes(chain));
+          return hasAllowedChain;
         })
-        .sort((a, b) => b.tvl - a.tvl) // Sort by TVL in descending order
+        .sort((a, b) => b.tvl - a.tvl) // Sort by TVL descending
         .forEach((item) => {
-          const baseUrl = new URL(item.url).origin; // Extract base URL
-          if (!processedData[baseUrl]) {
-            processedData[baseUrl] = {
-              ...item,
-              category: [item.category],
-            };
-          } else {
-            const existingItem = processedData[baseUrl];
-            existingItem.category = Array.from(new Set([...existingItem.category, item.category]));
+          try {
+            const baseURL = new URL(item.url).origin;
+            if (!processedData[baseURL]) {
+              processedData[baseURL] = {
+                ...item,
+                category: [item.category],
+              };
+            } else {
+              // If an entry exists for this base URL, merge categories
+              const existingItem = processedData[baseURL];
+              existingItem.category = Array.from(new Set([...existingItem.category, item.category]));
+            }
+          } catch (error) {
+            // If there's an issue with item.url, skip it
+            // console.warn(`Skipping item with invalid URL: ${item?.url}`, error);
           }
         });
 
-      // Transform data for output
+      // Convert processed data to the output format
       const outputData = Object.values(processedData).map(item => ({
         url: new URL(item.url).origin,
         name: item.name,
@@ -106,33 +130,31 @@ https.get('https://api.llama.fi/protocols', (res) => {
         description: item.description
       }));
 
-      // Group objects by category
-      const categorizedData = {};
+      // 1) Write one combined file
+      const combinedFilePath = path.join(outputDir, 'combined.json');
+      fs.writeFileSync(combinedFilePath, JSON.stringify(outputData, null, 2));
+      console.log(`Created combined file at: ${combinedFilePath}`);
 
-      outputData.forEach((item) => {
-        item.category.forEach((category) => {
-          if (!categorizedData[category]) {
-            categorizedData[category] = [];
+      // 2) Create separate files by category
+      const categoryMap = {};
+      for (const entry of outputData) {
+        for (const cat of entry.category) {
+          if (!categoryMap[cat]) {
+            categoryMap[cat] = [];
           }
-          categorizedData[category].push(item);
-        });
-      });
+          categoryMap[cat].push(entry);
+        }
+      }
 
-      // Write each category to a separate file
-      Object.entries(categorizedData).forEach(([category, items]) => {
-        const fileName = `${category.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.json`;
-        const filePath = path.join(outputDir, fileName);
+      for (const [category, items] of Object.entries(categoryMap)) {
+        const safeCategory = category.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+        const filePath = path.join(outputDir, `${safeCategory}.json`);
+        fs.writeFileSync(filePath, JSON.stringify(items, null, 2));
+        console.log(`Created file for category '${category}' at: ${filePath}`);
+      }
 
-        fs.writeFile(filePath, JSON.stringify(items, null, 2), (err) => {
-          if (err) {
-            console.error(`Error writing file for category ${category}:`, err);
-          } else {
-            console.log(`File written: ${filePath}`);
-          }
-        });
-      });
-    } catch (parseError) {
-      console.error('Error parsing JSON:', parseError);
+    } catch (err) {
+      console.error('Error processing API data:', err);
     }
   });
 
