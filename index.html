@@ -2,103 +2,140 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Combined Data Grid</title>
-
-  <!-- Tailwind CSS (CDN) -->
-  <link
-    href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.2/dist/tailwind.min.css"
-    rel="stylesheet"
-  />
-
-  <!-- (Optional) A small custom style for subtle text truncation of descriptions -->
+  <title>DApp Grid</title>
+  <!-- Some basic styling -->
   <style>
-    .line-clamp-3 {
-      display: -webkit-box;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-      -webkit-line-clamp: 3;
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 2rem;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    /* Grid container */
+    .grid-container {
+      display: grid;
+      gap: 1.5rem;
+      /* Adjust the minmax values to control how many items per row */
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      transition: box-shadow 0.2s ease;
+    }
+
+    .card:hover {
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+
+    /* Icon and title row */
+    .card-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 0.75rem;
+    }
+
+    .icon {
+      width: 50px;
+      height: 50px;
+      margin-right: 0.75rem;
+      object-fit: cover; /* or contain, if you prefer */
+      border-radius: 4px;
+    }
+
+    .name {
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+
+    .categories {
+      margin-bottom: 0.75rem;
+      color: #777;
+      font-size: 0.9rem;
+    }
+
+    .description {
+      font-size: 0.95rem;
+      line-height: 1.4;
+    }
+
+    /* Link styling */
+    .card a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .card a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
-<body class="bg-gray-100 min-h-screen">
-  <div class="container mx-auto px-4 py-8">
-    <h1 class="text-3xl font-bold text-center mb-6">Combined Protocols Grid</h1>
-    <div id="cards-container" 
-         class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-      <!-- Cards will be appended here by JavaScript -->
-    </div>
-  </div>
+<body>
+  <h1>DApps</h1>
+  <div class="grid-container" id="dappGrid"></div>
 
   <script>
-    fetch("output/combined.json")
-      .then((res) => res.json())
+    // Fetch and render the data from combined.json
+    fetch('output/combined.json')
+      .then((response) => response.json())
       .then((data) => {
-        const container = document.getElementById("cards-container");
+        const dappGrid = document.getElementById('dappGrid');
 
-        data.forEach((item) => {
-          // Card container
-          const card = document.createElement("div");
-          card.className =
-            "bg-white rounded-lg shadow p-4 flex flex-col items-center hover:shadow-md transition-shadow";
+        data.forEach(item => {
+          const card = document.createElement('div');
+          card.className = 'card';
 
-          // Icon
-          if (item.icon) {
-            const iconImg = document.createElement("img");
-            iconImg.src = item.icon;
-            iconImg.alt = item.name || "Protocol Icon";
-            iconImg.className = "w-16 h-16 object-contain mb-2";
-            card.appendChild(iconImg);
-          }
+          // Header: icon + name
+          const cardHeader = document.createElement('div');
+          cardHeader.className = 'card-header';
 
-          // Name (or fallback text)
-          const nameEl = document.createElement("h2");
-          nameEl.textContent = item.name || "Unnamed Protocol";
-          nameEl.className = "text-xl font-semibold text-gray-800 text-center";
-          card.appendChild(nameEl);
+          const iconImg = document.createElement('img');
+          iconImg.src = item.icon;
+          iconImg.alt = item.name;
+          iconImg.className = 'icon';
 
-          // URL link (optional, if it exists)
-          if (item.url) {
-            const urlLink = document.createElement("a");
-            urlLink.href = item.url;
-            urlLink.target = "_blank";
-            urlLink.rel = "noopener noreferrer";
-            urlLink.textContent = item.url
-            urlLink.className = "text-blue-600 hover:underline text-sm mt-1";
-            card.appendChild(urlLink);
-          }
+          const titleLink = document.createElement('a');
+          titleLink.href = item.url;
+          titleLink.target = '_blank';
+          titleLink.rel = 'noopener noreferrer';
+          titleLink.className = 'name';
+          titleLink.innerText = item.name;
+
+          cardHeader.appendChild(iconImg);
+          cardHeader.appendChild(titleLink);
 
           // Categories
-          if (Array.isArray(item.category) && item.category.length > 0) {
-            const categoriesWrapper = document.createElement("div");
-            categoriesWrapper.className =
-              "flex flex-wrap justify-center gap-2 mt-3";
-
-            item.category.forEach((cat) => {
-              const catBadge = document.createElement("span");
-              catBadge.textContent = cat;
-              catBadge.className =
-                "px-2 py-1 bg-blue-100 text-blue-800 text-xs rounded-full";
-              categoriesWrapper.appendChild(catBadge);
-            });
-            card.appendChild(categoriesWrapper);
-          }
+          const catPara = document.createElement('p');
+          catPara.className = 'categories';
+          catPara.innerText = `Category: ${item.category.join(', ')}`;
 
           // Description
-          if (item.description) {
-            const descEl = document.createElement("p");
-            descEl.textContent = item.description;
-            descEl.className =
-              "text-sm text-gray-700 mt-3 text-center line-clamp-3";
-            card.appendChild(descEl);
-          }
+          const descPara = document.createElement('p');
+          descPara.className = 'description';
+          descPara.innerText = item.description;
 
-          // Append card to container
-          container.appendChild(card);
+          // Assemble card
+          card.appendChild(cardHeader);
+          card.appendChild(catPara);
+          card.appendChild(descPara);
+
+          dappGrid.appendChild(card);
         });
       })
-      .catch((err) => {
-        console.error("Error fetching combined.json:", err);
-      });
+      .catch((error) => console.error('Error fetching the JSON:', error));
   </script>
 </body>
 </html>
