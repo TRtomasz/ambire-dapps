@@ -9,15 +9,6 @@
     "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
   },
   {
-    "url": "https://gearbox.fi",
-    "name": "Gearbox",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/gearbox.jpg",
-    "description": "Get up to 10x leverage and use it across DeFi protocols. Gearbox Protocol allows anyone to get leverage in a decentralized way and use it across various other protocols in a composable way: margin trading, leverage farming, and more!"
-  },
-  {
     "url": "https://homora-v2.alphaventuredao.io",
     "name": "Homora V2",
     "category": [

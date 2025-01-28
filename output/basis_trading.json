@@ -9,6 +9,15 @@
     "description": "Ethena is a synthetic dollar protocol built on Ethereum"
   },
   {
+    "url": "https://resolv.xyz",
+    "name": "Resolv",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/resolv.jpg",
+    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
+  },
+  {
     "url": "https://usdx.money",
     "name": "USDX Money",
     "category": [
@@ -16,15 +25,6 @@
     ],
     "icon": "https://icons.llama.fi/usdx-money.png",
     "description": "USDX is a synthetic USD stablecoin built for the crypto ecosystem. It offers a crypto-native stablecoin solution that does not rely on traditional banking infrastructure which is censorship-resistant, scalable, and highly stable. Furthermore, it provides a multiple-layer savings tool including funding rate and crypto ecosystem yield accessible worldwide in USD denomination."
-  },
-  {
-    "url": "https://resolv.xyz",
-    "name": "Resolv USR",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/resolv-usr.jpg",
-    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
   },
   {
     "url": "https://portal.bouncebit.io",
@@ -66,15 +66,6 @@
     "description": "USDF is a token minted by depositing USDT on AstherusEarn. USDT and USDF are fully convertible at a 1:1 ratio"
   },
   {
-    "url": "https://www.resolv.im",
-    "name": "Resolv RLP",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/resolv-rlp.jpg",
-    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
-  },
-  {
     "url": "https://theo.xyz",
     "name": "Theo Network",
     "category": [
@@ -91,14 +82,5 @@
     ],
     "icon": "https://icons.llama.fi/bouncebit-easy.jpg",
     "description": "Easy leverages BounceBit’s innovative CeDeFi infrastructure to offer users a secure, efficient, and user-friendly way to grow their holdings."
-  },
-  {
-    "url": "https://www.myield.xyz",
-    "name": "Manta MYield",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/manta-myield.jpg",
-    "description": "A coin-denominated real yield platform that combines RWA, CEX, and on-chain yields."
   }
 ]

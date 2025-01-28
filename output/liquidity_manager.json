@@ -43,14 +43,5 @@
     ],
     "icon": "https://icons.llama.fi/steakhut-liquidity.png",
     "description": "Automate and optimize concentrated liquidity."
-  },
-  {
-    "url": "https://steer.finance",
-    "name": "Steer Protocol",
-    "category": [
-      "Liquidity manager"
-    ],
-    "icon": "https://icons.llama.fi/steer-protocol.jpg",
-    "description": "Steer is a decentralized compute protocol that provides a scaling solution for data processing through its robust off-chain infrastructure. Services are targeted at leveraging off-chain data for on-chain automation, such as automated liquidity management in DeFi."
   }
 ]

@@ -56,15 +56,6 @@
     "description": "BlackRock USD Institutional Digital Liquidity Fund"
   },
   {
-    "url": "https://paxos.com",
-    "name": "Paxos Gold",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/paxos-gold.png",
-    "description": "PAXG offers investors a cost-effective way to own investment-grade physical gold with all the benefits of the blockchain. Each Pax Gold (PAXG) token is backed by one fine troy ounce of gold, stored in LBMA vaults in London. If you own PAXG, you own the underlying physical gold, held in custody by Paxos Trust Company"
-  },
-  {
     "url": "https://ondo.finance",
     "name": "Ondo Finance",
     "category": [
@@ -72,6 +63,15 @@
     ],
     "icon": "https://icons.llama.fi/ondo-finance.png",
     "description": "This share class provides liquid exposure to an ETF of short-term U.S. Treasuries"
+  },
+  {
+    "url": "https://paxos.com",
+    "name": "Paxos Gold",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/paxos-gold.png",
+    "description": "PAXG offers investors a cost-effective way to own investment-grade physical gold with all the benefits of the blockchain. Each Pax Gold (PAXG) token is backed by one fine troy ounce of gold, stored in LBMA vaults in London. If you own PAXG, you own the underlying physical gold, held in custody by Paxos Trust Company"
   },
   {
     "url": "https://www.franklintempleton.com",
@@ -138,15 +138,6 @@
     "description": "USDz is a digital dollar backed by institutional grade real world assets"
   },
   {
-    "url": "https://usdtb.money",
-    "name": "Ethena USDtb",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/ethena-usdtb.jpg",
-    "description": "USDtb is a digital dollar, otherwise known as a USD stablecoin. USDtb can be used the same way a holder would use any other dollar, whether to send and receive payments, acquire and trade assets, or to simply hold dollars."
-  },
-  {
     "url": "https://cygnus.finance",
     "name": "Cygnus Finance",
     "category": [
@@ -154,6 +145,15 @@
     ],
     "icon": "https://icons.llama.fi/cygnus-finance.jpg",
     "description": "Cygnus Finance is a RWA stablecoin protocol built on pure, short-term U.S. debt assets. It is also the first native interest-bearing stablecoin protocol and the first native RWA protocol on Base."
+  },
+  {
+    "url": "https://usdtb.money",
+    "name": "Ethena USDtb",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/ethena-usdtb.jpg",
+    "description": "USDtb is a digital dollar, otherwise known as a USD stablecoin. USDtb can be used the same way a holder would use any other dollar, whether to send and receive payments, acquire and trade assets, or to simply hold dollars."
   },
   {
     "url": "https://nest.credit",
@@ -210,15 +210,6 @@
     "description": "Anemoy is a web3 native asset manager powered by Centrifuge, providing investors with exposure to a broad spectrum of superior assets"
   },
   {
-    "url": "https://clearpool.finance",
-    "name": "Clearpool TPOOL",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/clearpool-tpool.jpg",
-    "description": "This USDX pool is dedicated to investing in or purchasing treasuries and distribute the resulting yield to liquidity providers"
-  },
-  {
     "url": "https://www.maple.finance",
     "name": "Maple RWA",
     "category": [
@@ -237,15 +228,6 @@
     "description": "Fully backed, tokenized real-world assets."
   },
   {
-    "url": "https://republic.com",
-    "name": "Republic Note",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/republic-note.png",
-    "description": "One asset, broad exposure to venture & crypto"
-  },
-  {
     "url": "https://midas.app",
     "name": "Midas RWA",
     "category": [
@@ -255,13 +237,13 @@
     "description": "Midas is an asset tokenization protocol bringing regulatory-compliant exposure to institutional-grade assets onchain, unlocking DeFi composability for real-world assets (RWA)."
   },
   {
-    "url": "https://www.matrixdock.com",
-    "name": "MatrixDock",
+    "url": "https://republic.com",
+    "name": "Republic Note",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llama.fi/matrixdock.png",
-    "description": "The Matrixdock STBT token (i.e. Short-term Treasury Bill token) is a token which enables you to get exposure to U.S."
+    "icon": "https://icons.llama.fi/republic-note.png",
+    "description": "One asset, broad exposure to venture & crypto"
   },
   {
     "url": "https://www.opentrade.io",
@@ -273,6 +255,15 @@
     "description": "Fintechs around the world use OpenTrade to power safe, compliant stablecoin yield products."
   },
   {
+    "url": "https://www.matrixdock.com",
+    "name": "MatrixDock",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/matrixdock.png",
+    "description": "The Matrixdock STBT token (i.e. Short-term Treasury Bill token) is a token which enables you to get exposure to U.S."
+  },
+  {
     "url": "https://vnx.li",
     "name": "VNX",
     "category": [
@@ -280,15 +271,6 @@
     ],
     "icon": "https://icons.llama.fi/vnx.jpg",
     "description": "VNX Commodities AG complies with the regulations and leading standards of investor protections. Rest assured, your investments are always safe with us. We believe that you should be able to make transactions with precious metals from anywhere in the world, with complete confidence and protection"
-  },
-  {
-    "url": "https://www.brickken.com",
-    "name": "Brickken",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/brickken.jpg",
-    "description": "Brickken enables businesses to create digital tokens backed by tokenized Real World Assets (RWA). Through the Token Suite, Clients can raise private or public capital by creating their own custom white-label token store & token offering."
   },
   {
     "url": "https://comtechgold.com",
@@ -300,6 +282,15 @@
     "description": "ComTech introduces Gold token namely ComTech Gold ( $CGO ) built on XDC Network."
   },
   {
+    "url": "https://www.brickken.com",
+    "name": "Brickken",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/brickken.jpg",
+    "description": "Brickken enables businesses to create digital tokens backed by tokenized Real World Assets (RWA). Through the Token Suite, Clients can raise private or public capital by creating their own custom white-label token store & token offering."
+  },
+  {
     "url": "https://www.digift.sg",
     "name": "DigiFT",
     "category": [
@@ -307,5 +298,14 @@
     ],
     "icon": "https://icons.llama.fi/digift.jpg",
     "description": "DigiFT is the first regulated exchange for on-chain real-world assets, approved as a Recognised Market Operator with a Capital Markets Services license by the Monetary Authority of Singapore. DigiFT allows asset owners to issue blockchain-based security tokens and investors can trade with continuous liquidity via an AMM."
+  },
+  {
+    "url": "https://aurus.io",
+    "name": "Aurus",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/aurus.png",
+    "description": "Aurus is a UK foundation that provides the software, network and crypto infrastructure for global precious metals businesses to merge with the future of finance, in the form of DeFi and Web3 applications - giving them high-tech products, a huge addressable market and passive rewards"
   }
 ]
