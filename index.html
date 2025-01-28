@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Combined Data</title>
+  <!-- Tailwind CSS (CDN) -->
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.2/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center p-4">
+  <div class="container mx-auto bg-white p-4 rounded shadow">
+    <h1 class="text-2xl font-bold mb-4 text-center">Combined Protocols</h1>
+    <div class="overflow-x-auto">
+      <table class="min-w-full border border-gray-300 text-sm">
+        <thead class="bg-gray-200">
+          <tr>
+            <th class="py-2 px-4 border-b border-gray-300">Icon</th>
+            <th class="py-2 px-4 border-b border-gray-300">Name</th>
+            <th class="py-2 px-4 border-b border-gray-300">URL</th>
+            <th class="py-2 px-4 border-b border-gray-300">Category</th>
+            <th class="py-2 px-4 border-b border-gray-300">Description</th>
+          </tr>
+        </thead>
+        <tbody id="table-body">
+          <!-- Rows will be populated by JavaScript -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    // Fetch the combined.json file
+    fetch('/output/combined.json')
+      .then(response => response.json())
+      .then(data => {
+        const tbody = document.getElementById('table-body');
+        
+        data.forEach(item => {
+          const tr = document.createElement('tr');
+          
+          // Icon
+          const tdIcon = document.createElement('td');
+          tdIcon.className = 'py-2 px-4 border-b border-gray-300';
+          if (item.icon) {
+            const img = document.createElement('img');
+            img.src = item.icon;
+            img.alt = item.name || 'Icon';
+            img.className = 'h-8 w-8 object-contain';
+            tdIcon.appendChild(img);
+          }
+          tr.appendChild(tdIcon);
+          
+          // Name
+          const tdName = document.createElement('td');
+          tdName.className = 'py-2 px-4 border-b border-gray-300 font-medium';
+          tdName.textContent = item.name || '';
+          tr.appendChild(tdName);
+
+          // URL
+          const tdUrl = document.createElement('td');
+          tdUrl.className = 'py-2 px-4 border-b border-gray-300 text-blue-600 underline';
+          if (item.url) {
+            const link = document.createElement('a');
+            link.href = item.url;
+            link.target = '_blank';
+            link.rel = 'noopener noreferrer';
+            link.textContent = item.url;
+            tdUrl.appendChild(link);
+          }
+          tr.appendChild(tdUrl);
+
+          // Category
+          const tdCategory = document.createElement('td');
+          tdCategory.className = 'py-2 px-4 border-b border-gray-300';
+          if (Array.isArray(item.category)) {
+            tdCategory.textContent = item.category.join(', ');
+          }
+          tr.appendChild(tdCategory);
+
+          // Description
+          const tdDescription = document.createElement('td');
+          tdDescription.className = 'py-2 px-4 border-b border-gray-300';
+          tdDescription.textContent = item.description || '';
+          tr.appendChild(tdDescription);
+
+          tbody.appendChild(tr);
+        });
+      })
+      .catch(error => {
+        console.error('Error fetching combined.json:', error);
+      });
+  </script>
+</body>
+</html>

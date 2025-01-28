@@ -1,3 +1,12 @@
+// This script fetches data from 'https://api.llama.fi/protocols' and merges
+// it with manually-provided entries in an 'input.json' file (if present).
+// 1. Sort and filter the fetched data first.
+// 2. Combine that sorted data with the manual entries.
+// 3. Deduplicate by the root domain (ignoring subdomains), merging categories if present.
+// 4. Output one combined file and then separate JSON files by category.
+// 5. Keep 'https://' in the final result, if it was part of the original.
+// 6. Ensure icons from input.json are not lost after merging.
+
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
@@ -53,7 +62,7 @@ const excludedCategories = [
   "Treasury Manager"
 ];
 
-// Attempt to read from input.json
+// Read from input.json if it exists
 let manualEntries = [];
 const inputFilePath = path.join(__dirname, 'input.json');
 
@@ -68,6 +77,24 @@ if (fs.existsSync(inputFilePath)) {
   console.warn('No input.json found; continuing without manual entries.');
 }
 
+/**
+ * Naive function to extract root domain.
+ * For example, https://app.aave.com => aave.com
+ * Might fail for .co.uk or similar.
+ */
+function getRootDomain(parsedUrl) {
+  try {
+    const hostname = parsedUrl.hostname;
+    const parts = hostname.split('.');
+    if (parts.length <= 2) {
+      return hostname;
+    }
+    return parts.slice(-2).join('.');
+  } catch {
+    return null;
+  }
+}
+
 // Fetch data from the API
 https.get('https://api.llama.fi/protocols', (res) => {
   let data = '';
@@ -79,63 +106,92 @@ https.get('https://api.llama.fi/protocols', (res) => {
   res.on('end', () => {
     try {
       const apiArray = JSON.parse(data);
-      const combinedData = Array.isArray(apiArray) ? apiArray : [];
+      const fetchedData = Array.isArray(apiArray) ? apiArray : [];
 
-      // Combine the API data with the manual entries
-      const allData = [...combinedData, ...manualEntries];
-
-      // Filter, deduplicate, and merge data
-      const processedData = {};
-
-      allData
-        .filter((item, index) => {
-          // Validate item structure
+      // 1) Filter and sort fetched data by TVL.
+      const filteredSortedApiData = fetchedData
+        .filter((item) => {
           if (!item || !Array.isArray(item.chains) || item.tvl == null || item.tvl < 10000000) {
             return false;
           }
-          // Exclude if category is in excludedCategories
           if (excludedCategories.includes(item.category)) {
             return false;
           }
           // Exclude if all chains are in notAllowedChains
-          const hasAllowedChain = item.chains.some(chain => !notAllowedChains.includes(chain));
-          return hasAllowedChain;
+          return item.chains.some(chain => !notAllowedChains.includes(chain));
         })
-        .sort((a, b) => b.tvl - a.tvl) // Sort by TVL descending
-        .forEach((item) => {
-          try {
-            const baseURL = new URL(item.url).origin;
-            if (!processedData[baseURL]) {
-              processedData[baseURL] = {
-                ...item,
-                category: [item.category],
-              };
-            } else {
-              // If an entry exists for this base URL, merge categories
-              const existingItem = processedData[baseURL];
-              existingItem.category = Array.from(new Set([...existingItem.category, item.category]));
-            }
-          } catch (error) {
-            // If there's an issue with item.url, skip it
-            // console.warn(`Skipping item with invalid URL: ${item?.url}`, error);
+        .sort((a, b) => b.tvl - a.tvl);
+
+
+      const allData = [...manualEntries, ...filteredSortedApiData];
+
+      // 3) Deduplicate by root domain. Keep https in final.
+      const processedData = {};
+
+      allData.forEach((item) => {
+        try {
+          const parsedUrl = new URL(item.url);
+          const rootDomain = getRootDomain(parsedUrl);
+          if (!rootDomain) {
+            return;
           }
-        });
 
-      // Convert processed data to the output format
-      const outputData = Object.values(processedData).map(item => ({
-        url: new URL(item.url).origin,
-        name: item.name,
-        category: item.category,
-        icon: item.logo,
-        description: item.description
-      }));
+          // Convert category to array if needed.
+          const catArray = Array.isArray(item.category)
+            ? item.category
+            : item.category
+            ? [item.category]
+            : [];
 
-      // 1) Write one combined file
+          // The final domain will keep the protocol from the original.
+          const finalUrl = `${parsedUrl.protocol}//${rootDomain}`;
+
+          if (!processedData[rootDomain]) {
+            processedData[rootDomain] = {
+              ...item,
+              url: finalUrl,  // Overwrite with the protocol + root domain
+              category: catArray
+            };
+          } else {
+            // Merge categories.
+            processedData[rootDomain].category = Array.from(
+              new Set([...processedData[rootDomain].category, ...catArray])
+            );
+
+            // If the new item has an icon, use it.
+            if (item.icon) {
+              processedData[rootDomain].icon = item.icon;
+            }
+
+            // Optionally merge other fields if needed, e.g. TVL.
+            // processedData[rootDomain].tvl = Math.max(
+            //   processedData[rootDomain].tvl,
+            //   item.tvl
+            // );
+          }
+        } catch {
+          // skip if invalid URL
+        }
+      });
+
+      // 4) Transform final data. We already overwrote item.url, so we can just pass it along.
+      const outputData = Object.values(processedData).map((item) => {
+        const finalCategories = Array.isArray(item.category) ? item.category : [];
+        return {
+          url: item.url,
+          name: item.name,
+          category: finalCategories,
+          icon: item.icon,
+          description: item.description
+        };
+      });
+
+      // 5) Write one combined file.
       const combinedFilePath = path.join(outputDir, 'combined.json');
       fs.writeFileSync(combinedFilePath, JSON.stringify(outputData, null, 2));
       console.log(`Created combined file at: ${combinedFilePath}`);
 
-      // 2) Create separate files by category
+      // 6) Create separate files by category.
       const categoryMap = {};
       for (const entry of outputData) {
         for (const cat of entry.category) {
