@@ -45,41 +45,47 @@
     .card-header {
       display: flex;
       align-items: center;
-      margin-bottom: 0.75rem;
+      margin-bottom: 0.5rem;
     }
 
     .icon {
       width: 50px;
       height: 50px;
       margin-right: 0.75rem;
-      object-fit: cover; /* or contain, if you prefer */
+      object-fit: cover; /* or "contain" depending on your preference */
       border-radius: 4px;
     }
 
     .name {
       font-size: 1.2rem;
       font-weight: bold;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .name:hover {
+      text-decoration: underline;
     }
 
     .categories {
-      margin-bottom: 0.75rem;
+      margin-bottom: 0.5rem;
       color: #777;
       font-size: 0.9rem;
     }
 
     .description {
+      margin-top: 0.5rem;
       font-size: 0.95rem;
       line-height: 1.4;
+      display: none; /* Hidden by default */
     }
 
-    /* Link styling */
-    .card a {
-      color: inherit;
-      text-decoration: none;
-    }
-
-    .card a:hover {
+    .toggle-link {
+      cursor: pointer;
+      color: #0066cc;
       text-decoration: underline;
+      font-size: 0.9rem;
+      margin-top: 0.25rem;
     }
   </style>
 </head>
@@ -98,7 +104,7 @@
           const card = document.createElement('div');
           card.className = 'card';
 
-          // Header: icon + name
+          // Card header: icon + name
           const cardHeader = document.createElement('div');
           cardHeader.className = 'card-header';
 
@@ -122,14 +128,30 @@
           catPara.className = 'categories';
           catPara.innerText = `Category: ${item.category.join(', ')}`;
 
-          // Description
+          // Description (hidden by default)
           const descPara = document.createElement('p');
           descPara.className = 'description';
           descPara.innerText = item.description;
 
+          // "Show More" / "Hide" toggle link
+          const toggleLink = document.createElement('span');
+          toggleLink.className = 'toggle-link';
+          toggleLink.textContent = 'Show More';
+          toggleLink.addEventListener('click', () => {
+            // Toggle the description display
+            if (descPara.style.display === 'none') {
+              descPara.style.display = 'block';
+              toggleLink.textContent = 'Hide';
+            } else {
+              descPara.style.display = 'none';
+              toggleLink.textContent = 'Show More';
+            }
+          });
+
           // Assemble card
           card.appendChild(cardHeader);
           card.appendChild(catPara);
+          card.appendChild(toggleLink);
           card.appendChild(descPara);
 
           dappGrid.appendChild(card);
