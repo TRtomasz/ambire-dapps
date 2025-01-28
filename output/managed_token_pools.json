@@ -1,13 +1,13 @@
 [
   {
     "url": "https://ether.fi",
-    "name": "ether",
+    "name": "ether.fi Stake",
     "category": [
       "Liquid Restaking",
       "Managed Token Pools"
     ],
-    "icon": "https://app.ether.fi/favicon/favicon.ico",
-    "description": "Delegated Staking Protocol"
+    "icon": "https://icons.llama.fi/ether.fi.jpg",
+    "description": "Decentralized and non-custodial Ethereum staking protocol."
   },
   {
     "url": "https://kelpdao.xyz",
@@ -16,6 +16,7 @@
       "Liquid Restaking",
       "Managed Token Pools"
     ],
+    "icon": "https://icons.llama.fi/kelp-dao.png",
     "description": "rsETH is a Liquid Restaked Token (LRT) issued by Kelp DAO designed to offer liquidity to illiquid assets deposited into restaking platforms, such as EigenLayer. It aims to address the risks and challenges posed by the current offering of restaking"
   },
   {
@@ -27,6 +28,7 @@
       "Indexes",
       "Yield Aggregator"
     ],
+    "icon": "https://icons.llama.fi/stakestone-berachain-vault.jpg",
     "description": "Deposit ETH / BTC into the Berachain Vault to participate in the Boyco pre-deposit campaign and tap into future PoL incentives — all in one simple and seamless experience. Receive beraSTONE / beraSBTC to unlock more DeFi opportunities in trading, lending, and leveraging"
   },
   {
@@ -35,6 +37,7 @@
     "category": [
       "Managed Token Pools"
     ],
+    "icon": "https://icons.llama.fi/upshift.jpg",
     "description": "Upshift opens access to transparent yields backed by secure risk controls. Supply, stake and access cross-chain yields."
   },
   {
@@ -43,6 +46,7 @@
     "category": [
       "Managed Token Pools"
     ],
+    "icon": "https://icons.llama.fi/sommelier.png",
     "description": "Provider of automated vaults that find best-in-class yields while mitigating risk."
   }
 ]

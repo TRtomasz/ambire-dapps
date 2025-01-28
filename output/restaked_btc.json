@@ -7,6 +7,7 @@
       "Restaked BTC",
       "RWA"
     ],
+    "icon": "https://icons.llama.fi/solvbtc.jpg",
     "description": "Earn Solv Points By Staking Your BTC"
   },
   {
@@ -15,6 +16,7 @@
     "category": [
       "Restaked BTC"
     ],
+    "icon": "https://icons.llama.fi/satlayer.jpg",
     "description": "SatLayer unleashes the possibilities of BTC, the world's best economic collateral, to secure any type of dApp or protocol as an Bitcoin Validated Service (BVS), fundamentally upgrading security for all of crypto"
   }
 ]

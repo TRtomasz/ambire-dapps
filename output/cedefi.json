@@ -6,6 +6,7 @@
       "Derivatives",
       "CeDeFi"
     ],
+    "icon": "https://icons.llama.fi/astherus-perps.jpg",
     "description": "Astherus is a liquidity hub for staked assets such as LSTs (liquid staking tokens) and LRTs (liquid restaking tokens), aiming to scale their utilization and boost user profitability."
   },
   {
@@ -14,6 +15,7 @@
     "category": [
       "CeDeFi"
     ],
+    "icon": "https://icons.llama.fi/goose.jpg",
     "description": "The First Real Super Hybrid Yield Across All Blockchains"
   }
 ]

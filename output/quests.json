@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://galxe.com",
+    "name": "Galxe",
+    "category": [
+      "Quests"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/863dd269de50fe4a36cdddec136992a9/863dd269de50fe4a36cdddec136992a9.png",
+    "description": "Galxe is the leading platform for building Web3 community. With over 14 million active users, Galxe has propelled the growth of Optimism, Polygon, Arbitrum, and more than 4000 partners with reward-based loyalty programs."
+  },
+  {
+    "url": "https://layer3.xyz",
+    "name": "Layer3",
+    "category": [
+      "Quests"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/dcde64ae44a5a5a79fe0c2d4f7f97bf8/dcde64ae44a5a5a79fe0c2d4f7f97bf8.png",
+    "description": "The best way to learn, explore, and succeed in web3. Get started with Quests on Layer3 ⚡"
+  },
+  {
+    "url": "https://guild.xyz",
+    "name": "Guild",
+    "category": [
+      "Quests"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/4bba27cba12cb7b98918cb6dccc2fb3c/4bba27cba12cb7b98918cb6dccc2fb3c.png",
+    "description": "Automated membership management for the platforms your community already uses."
+  },
+  {
+    "url": "https://questn.com",
+    "name": "QuestN",
+    "category": [
+      "Quests"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/967a14e9efb3663bb1c6b552d28be22f/967a14e9efb3663bb1c6b552d28be22f.png",
+    "description": "Marketing, Growth and Analysis For Web3"
+  }
+]
