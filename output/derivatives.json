@@ -4,7 +4,7 @@
     "name": "Hyperliquid Bridge",
     "category": [
       "Bridge",
-      "Dexes",
+      "Dexs",
       "Derivatives"
     ],
     "icon": "https://icons.llama.fi/hyperliquid.png",
@@ -51,7 +51,7 @@
     "url": "https://bluefin.io",
     "name": "Bluefin AMM",
     "category": [
-      "Dexes",
+      "Dexs",
       "Derivatives"
     ],
     "icon": "https://icons.llama.fi/bluefin-amm.png",
@@ -67,15 +67,6 @@
     "description": "A vertically-integrated DEX on Arbitrum featuring spot, perpetual, and integrated money markets. Universal cross-margin with lightning-fast performance. Take back control."
   },
   {
-    "url": "https://www.wasabi.xyz",
-    "name": "Wasabi",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/wasabi.jpg",
-    "description": "Wasabi is a leverage trading protocol: Long, short, and earn on your favorite long tail assets such as memecoins and NFTs. Wasabi’s asset-backed perps keep the position value closely pegged to the underlying asset, reflecting the true price action on your PnL. It also generates additional downstream effects such as moving the spot price with leverage, listing pairs as soon as they launch, and generating low-risk yield opportunities through single sided staking"
-  },
-  {
     "url": "https://contango.xyz",
     "name": "Contango V2",
     "category": [
@@ -85,13 +76,13 @@
     "description": "Contango lets you loop anything on-chain. You can create leverage (re)staking positions, arb rates differentials, farm points, or simply go long or short like a perp at low funding"
   },
   {
-    "url": "https://www.apex.exchange",
-    "name": "ApeX Pro",
+    "url": "https://app.kiloex.io",
+    "name": "KiloEx",
     "category": [
       "Derivatives"
     ],
-    "icon": "https://icons.llama.fi/apex-protocol.png",
-    "description": "ApeX, an innovative derivatives protocol to provide Web3 users with a supreme derivatives trading experience."
+    "icon": "https://icons.llama.fi/kiloex.jpg",
+    "description": "Next generation perp DEX. Lightning-fast trades,risk-neutral positions and LP-friendly solutions."
   },
   {
     "url": "https://trade.synfutures.com",
@@ -130,6 +121,24 @@
     "description": "The most powerful open trading platform for crypto assets. Margin trade, borrow, and lend cryptocurrency.\r\n"
   },
   {
+    "url": "https://www.apex.exchange",
+    "name": "ApeX Pro",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/apex-protocol.png",
+    "description": "ApeX, an innovative derivatives protocol to provide Web3 users with a supreme derivatives trading experience."
+  },
+  {
+    "url": "https://www.wasabi.xyz",
+    "name": "Wasabi",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/wasabi.jpg",
+    "description": "Wasabi is a leverage trading protocol: Long, short, and earn on your favorite long tail assets such as memecoins and NFTs. Wasabi’s asset-backed perps keep the position value closely pegged to the underlying asset, reflecting the true price action on your PnL. It also generates additional downstream effects such as moving the spot price with leverage, listing pairs as soon as they launch, and generating low-risk yield opportunities through single sided staking"
+  },
+  {
     "url": "https://omni.apex.exchange",
     "name": "Apex Omni",
     "category": [
@@ -148,13 +157,13 @@
     "description": "Trade perpetuals on a high-performance DEX with deep liquidity, capital efficiency and low fees"
   },
   {
-    "url": "https://app.kiloex.io",
-    "name": "KiloEx",
+    "url": "https://gains.trade",
+    "name": "Gains Network",
     "category": [
       "Derivatives"
     ],
-    "icon": "https://icons.llama.fi/kiloex.jpg",
-    "description": "Next generation perp DEX. Lightning-fast trades,risk-neutral positions and LP-friendly solutions."
+    "icon": "https://icons.llama.fi/gains-network.png",
+    "description": "Gains Network is building the decentralized finance ecosystem of the future. Our goal is to build the most advanced and optimised suite of DeFi products in the space."
   },
   {
     "url": "https://kinetix.finance",
@@ -166,13 +175,49 @@
     "description": "A DeFi Hub for Kava"
   },
   {
-    "url": "https://gains.trade",
-    "name": "Gains Network",
+    "url": "https://storm.tg",
+    "name": "Storm Trade",
     "category": [
       "Derivatives"
     ],
-    "icon": "https://icons.llama.fi/gains-network.png",
-    "description": "Gains Network is building the decentralized finance ecosystem of the future. Our goal is to build the most advanced and optimised suite of DeFi products in the space."
+    "icon": "https://icons.llama.fi/storm-trade.jpg",
+    "description": "Storm Trade is the first decentralized exchange in the TON blockchain that allows you to trade Crypto, Stock, Forex and Commodities, with leverage, both in Web App and Telegram."
+  },
+  {
+    "url": "https://www.surf.one",
+    "name": "Surf Protocol",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/surf-protocol.png",
+    "description": "Surf is a decentralized trading protocol that aims to deliver the best trading experience for DeFi users, offering an unlimited number of tradable assets, lower fees, and transparent settlement"
+  },
+  {
+    "url": "https://app.reya.xyz",
+    "name": "Reya DEX",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/reya-perps-dex.png",
+    "description": "Reya DEX is a perpetual futures exchange on the Reya Network"
+  },
+  {
+    "url": "https://mux.network",
+    "name": "MUX Perps",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/mux-perps.png",
+    "description": "MUX Protocol Suite contains the MUX Leveraged Trading Protocol and MUX Aggregator. MUX offers optimized trading cost, deep aggregated liquidity, diverse market options and a wide range of leverage options for traders."
+  },
+  {
+    "url": "https://blitz.exchange",
+    "name": "Blitz Perps",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/blitz-perps.png",
+    "description": "Blazing fast orderbook for spot and futures trading built on Blast"
   },
   {
     "url": "https://www.astherus.finance",
@@ -185,40 +230,13 @@
     "description": "Astherus is a liquidity hub for staked assets such as LSTs (liquid staking tokens) and LRTs (liquid restaking tokens), aiming to scale their utilization and boost user profitability."
   },
   {
-    "url": "https://storm.tg",
-    "name": "Storm Trade",
+    "url": "https://helixapp.com",
+    "name": "Helix Perp",
     "category": [
       "Derivatives"
     ],
-    "icon": "https://icons.llama.fi/storm-trade.jpg",
-    "description": "Storm Trade is the first decentralized exchange in the TON blockchain that allows you to trade Crypto, Stock, Forex and Commodities, with leverage, both in Web App and Telegram."
-  },
-  {
-    "url": "https://app.reya.xyz",
-    "name": "Reya DEX",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/reya-perps-dex.png",
-    "description": "Reya DEX is a perpetual futures exchange on the Reya Network"
-  },
-  {
-    "url": "https://www.surf.one",
-    "name": "Surf Protocol",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/surf-protocol.png",
-    "description": "Surf is a decentralized trading protocol that aims to deliver the best trading experience for DeFi users, offering an unlimited number of tradable assets, lower fees, and transparent settlement"
-  },
-  {
-    "url": "https://mux.network",
-    "name": "MUX Perps",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/mux-perps.png",
-    "description": "MUX Protocol Suite contains the MUX Leveraged Trading Protocol and MUX Aggregator. MUX offers optimized trading cost, deep aggregated liquidity, diverse market options and a wide range of leverage options for traders."
+    "icon": "https://icons.llama.fi/helix-perp.jpg",
+    "description": "The premier decentralized crypto exchange. Trade unlimited cross-chain spot and futures markets."
   },
   {
     "url": "https://orderly.network",
@@ -230,22 +248,13 @@
     "description": "Orderly is an omnichain CLOB infrastructure.It’s the ultimate trading lego for seamless integration by any builder on any blockchain. Give your app the transparency and composability of DEXs, with the speed and performance of CEXs."
   },
   {
-    "url": "https://blitz.exchange",
-    "name": "Blitz Perps",
+    "url": "https://hmx.org",
+    "name": "HMX",
     "category": [
       "Derivatives"
     ],
-    "icon": "https://icons.llama.fi/blitz-perps.png",
-    "description": "Blazing fast orderbook for spot and futures trading built on Blast"
-  },
-  {
-    "url": "https://helixapp.com",
-    "name": "Helix Perp",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/helix-perp.jpg",
-    "description": "The premier decentralized crypto exchange. Trade unlimited cross-chain spot and futures markets."
+    "icon": "https://icons.llama.fi/hmx.jpg",
+    "description": " HMX (previous perp88) is a next-gen decentralized perpetual exchange with a cross-margin and multi-asset collateral support on Arbitrum, offering up to 1,000x leverage various asset classes. Additionally, HMX also supports the leveraged market making feature, which allows market makers to maximize their real yields generated from protocol revenue of both HMX and GMX, while also offering multiple LP protection mechanisms, such as a velocity-based funding fee and adaptive pricing, to protect market makers from undue risks."
   },
   {
     "url": "https://www.avantisfi.com",
@@ -257,15 +266,6 @@
     "description": "Avantis is a onchain perpetuals DEX built offering advanced risk management for LPs, loss protection for traders, and access to trading leverage crypto and synthetic real world assets. Avantis is built on and backed Base, and other investors such as Pantera Capital and Galaxy Digital."
   },
   {
-    "url": "https://hmx.org",
-    "name": "HMX",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/hmx.jpg",
-    "description": " HMX (previous perp88) is a next-gen decentralized perpetual exchange with a cross-margin and multi-asset collateral support on Arbitrum, offering up to 1,000x leverage various asset classes. Additionally, HMX also supports the leveraged market making feature, which allows market makers to maximize their real yields generated from protocol revenue of both HMX and GMX, while also offering multiple LP protection mechanisms, such as a velocity-based funding fee and adaptive pricing, to protect market makers from undue risks."
-  },
-  {
     "url": "https://fulcrom.finance",
     "name": "Fulcrom Perps",
     "category": [
@@ -275,15 +275,6 @@
     "description": "Fulcrom is a decentralised perpetual exchange that allows users to trade leveraged positions with low fees and zero price impact, whilst having the peace of mind that all trades and collateral are stored transparently on-chain."
   },
   {
-    "url": "https://www.levana.finance",
-    "name": "Levana Perps",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/levana-perps.jpg",
-    "description": "The Levana Protocol: Levana is an acronym for “Leverage any Asset” Levana is a crypto collateralized perpetual swap platform designed to offer low fees and high real yield on a number of different Blockchains"
-  },
-  {
     "url": "https://grvt.io",
     "name": "GRVT",
     "category": [
@@ -291,14 +282,5 @@
     ],
     "icon": "https://icons.llama.fi/grvt.jpg",
     "description": "World's first licensed DEX, redesigning finance. Building true CeDeFi. Mainnet Alpha LIVE."
-  },
-  {
-    "url": "https://www.cyberperp.io",
-    "name": "Cyberperp",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/cyberperp.jpg",
-    "description": "Cyberperp is the first decentralized spot and perpetual exchange built on the IOTA EVM, designed for traders seeking low swap fees and minimal price impact on trades."
   }
 ]

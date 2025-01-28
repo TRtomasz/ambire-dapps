@@ -1,23 +1,13 @@
 [
   {
     "url": "https://blur.io",
-    "name": "Blur Lending",
+    "name": "Blur Bids",
     "category": [
-      "NFT Lending",
-      "NFT Marketplace"
-    ],
-    "icon": "https://icons.llama.fi/blur-lending.png",
-    "description": "Blur Lending(aka Blend) enables NFT owners to borrow ETH against their assets and offers a Buy Now, Pay Later (BNPL) feature to purchase NFTs with partial payment upfront."
-  },
-  {
-    "url": "https://www.benddao.xyz",
-    "name": "BendDAO APE Staking",
-    "category": [
-      "Yield",
+      "NFT Marketplace",
       "NFT Lending"
     ],
-    "icon": "https://icons.llama.fi/benddao-ape-staking.png",
-    "description": "ApeCoin Staking Yield"
+    "icon": "https://icons.llama.fi/blur-bids.png",
+    "description": "The NFT marketplace for pro traders"
   },
   {
     "url": "https://www.gondi.xyz",
@@ -27,14 +17,5 @@
     ],
     "icon": "https://icons.llama.fi/gondi-v3.jpg",
     "description": "Borrow, Lend & Refinance NFTs on the most capital efficient lending protocol"
-  },
-  {
-    "url": "https://www.arcade.xyz",
-    "name": "Arcade.xyz",
-    "category": [
-      "NFT Lending"
-    ],
-    "icon": "https://icons.llama.fi/arcade.xyz.jpg",
-    "description": "Decentralized Loan Marketplace for NFTs."
   }
 ]

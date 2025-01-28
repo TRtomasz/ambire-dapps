@@ -64,12 +64,12 @@
     "description": "Explore the universe of top-tier tokenized vaults."
   },
   {
-    "url": "https://www.asymmetry.finance",
-    "name": "Asymmetry Finance",
+    "url": "https://ssi.sosovalue.com",
+    "name": "SSI",
     "category": [
       "Indexes"
     ],
-    "icon": "https://icons.llama.fi/asymmetry-finance.png",
-    "description": "Asymmetry Finance is a protocol that creates hybrid liquid staking products with real yield."
+    "icon": "https://icons.llama.fi/ssi.png",
+    "description": "The SoSoValue Index (SSI) Protocol is a cutting-edge spot index solution designed to make crypto investments simple and secured"
   }
 ]

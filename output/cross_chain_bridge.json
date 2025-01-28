@@ -54,15 +54,6 @@
     "description": "CrossCurve is a cross-chain trading and yield protocol built on Curve, creating a unified cross-chain liquidity market by aggregating existing Curve pools"
   },
   {
-    "url": "https://symbiosis.finance",
-    "name": "Symbiosis",
-    "category": [
-      "Cross Chain Bridge"
-    ],
-    "icon": "https://icons.llama.fi/symbiosis.png",
-    "description": "Symbiosis aggregates decentralized exchange liquidity across any EVM and non-EVM networks. Swap any token and transfer liquidity. Yes, any."
-  },
-  {
     "url": "https://counterstake.org",
     "name": "Counterstake",
     "category": [
@@ -72,12 +63,12 @@
     "description": "Counterstake is a permissionless and fully decentralized cross-chain bridge."
   },
   {
-    "url": "https://messina.one",
-    "name": "Messina Bridge",
+    "url": "https://symbiosis.finance",
+    "name": "Symbiosis",
     "category": [
       "Cross Chain Bridge"
     ],
-    "icon": "https://icons.llama.fi/messina-bridge.jpg",
-    "description": "Messina.one is a cross-chain protocol built on top of Wormhole that aims to enable the next 1B blockchain users."
+    "icon": "https://icons.llama.fi/symbiosis.png",
+    "description": "Symbiosis aggregates decentralized exchange liquidity across any EVM and non-EVM networks. Swap any token and transfer liquidity. Yes, any."
   }
 ]
