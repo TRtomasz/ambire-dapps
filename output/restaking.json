@@ -1,12 +1,12 @@
 [
   {
-    "url": "https://www.eigenlayer.xyz",
-    "name": "EigenLayer",
+    "url": "https://eigenlayer.xyz",
+    "name": "eigenlayer",
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/eigenlayer.png",
-    "description": "EigenLayer is a protocol built on Ethereum that introduces restaking, a new primitive in cryptoeconomic security. This primitive enables the reuse of ETH on the consensus layer"
+    "icon": "https://static.debank.com/image/dapp/logo_url/b4bc2c5b5a63be4692ab5cb2b5201ae4/b4bc2c5b5a63be4692ab5cb2b5201ae4.png",
+    "description": "Revolutionize Ethereum by restaking ETH across multiple protocols for enhanced security, rewards, and capital efficiency."
   },
   {
     "url": "https://symbiotic.fi",
@@ -14,7 +14,6 @@
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/symbiotic.png",
     "description": "Symbiotic is a generalized shared security system enabling decentralized networks to bootstrap powerful, fully sovereign ecosystems."
   },
   {
@@ -23,7 +22,6 @@
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/karak.png",
     "description": "The universal restaking layer powered by the entire cryptoeconomy."
   },
   {
@@ -32,7 +30,6 @@
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/pell-network.png",
     "description": "Pell uses BTC and its LSD to provide actively validated services (AVS) to BTC ecosystem projects, plug the gap in ecosystem security, reduce cost to develop ecosystem applications and optimise yield avenue for BTC holders. Pell aims to become the largest shared liquidity and cryptonomic security layer in the BTC ecosystem across market cycles"
   },
   {
@@ -41,16 +38,14 @@
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/kernel.jpg",
     "description": "Decentralised Security to supercharge & blitzscale BNB, while providing exciting rewards & DeFi opportunities."
   },
   {
-    "url": "https://www.parasail.network",
+    "url": "https://parasail.network",
     "name": "Parasail",
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/parasail.png",
     "description": "Parasail is an incentive interface focused on creating seamless DePIN experiences. By aggregating capital, hardware resources, and DePIN users, Parasail breaks down silos and fosters strong synergies among various DePIN networks."
   },
   {
@@ -59,7 +54,6 @@
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/allstake.png",
     "description": "The first Omnichain Meshed Restaking protocol that brings trustless scaling to ALL chains"
   }
 ]
