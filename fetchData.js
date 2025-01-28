@@ -41,7 +41,8 @@ const notAllowedChains = [
   "Zilliqa",
   "Cardano",
   "Thorchain",
-  "IoTeX"
+  "IoTeX",
+  "NEO"
 ];
 
 // Categories to exclude
@@ -63,7 +64,6 @@ const excludedCategories = [
 ];
 
 const categoriesWithoutTVL = [
-  "Services"
 ]
 
 // Read from input.json if it exists

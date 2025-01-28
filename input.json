@@ -62,6 +62,13 @@
     "category": "NFT Marketplace"
   },
   {
+    "url": "https://snapshot.org",
+    "name": "Snapshot",
+    "logo": "https://static.debank.com/image/dapp/logo_url/3516a46cef64f3fab4b476ccb38c5a6b/3516a46cef64f3fab4b476ccb38c5a6b.png",
+    "description": "Snapshot is an off-chain voting platform that allows DAOs, DeFi protocols, or NFT communities to participate in the decentralized governance easily and without gas fees.",
+    "category": "Governance"
+  },
+  {
     "url": "https://app.eigenlayer.xyz",
     "name": "eigenlayer",
     "logo": "https://static.debank.com/image/dapp/logo_url/b4bc2c5b5a63be4692ab5cb2b5201ae4/b4bc2c5b5a63be4692ab5cb2b5201ae4.png",
