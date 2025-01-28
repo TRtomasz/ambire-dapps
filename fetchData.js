@@ -62,6 +62,10 @@ const excludedCategories = [
   "Treasury Manager"
 ];
 
+const categoriesWithoutTVL = [
+  "Services"
+]
+
 // Read from input.json if it exists
 let manualEntries = [];
 const inputFilePath = path.join(__dirname, 'input.json');
@@ -111,8 +115,13 @@ https.get('https://api.llama.fi/protocols', (res) => {
       // 1) Filter and sort fetched data by TVL.
       const filteredSortedApiData = fetchedData
         .filter((item) => {
-          if (!item || !Array.isArray(item.chains) || item.tvl == null || item.tvl < 10000000) {
+          if (!item || !Array.isArray(item.chains)) {
             return false;
+          }
+          if (!categoriesWithoutTVL.includes(item.category)) {
+            if (item.tvl == null || item.tvl < 10000000) {
+              return false;
+            }
           }
           if (excludedCategories.includes(item.category)) {
             return false;
@@ -140,8 +149,8 @@ https.get('https://api.llama.fi/protocols', (res) => {
           const catArray = Array.isArray(item.category)
             ? item.category
             : item.category
-            ? [item.category]
-            : [];
+              ? [item.category]
+              : [];
 
           // The final domain will keep the protocol from the original.
           const finalUrl = `${parsedUrl.protocol}//${rootDomain}`;
@@ -159,9 +168,6 @@ https.get('https://api.llama.fi/protocols', (res) => {
             );
 
             // If the new item has an icon, use it.
-            if (item.icon) {
-              processedData[rootDomain].icon = item.icon;
-            }
 
             // Optionally merge other fields if needed, e.g. TVL.
             // processedData[rootDomain].tvl = Math.max(
@@ -181,7 +187,7 @@ https.get('https://api.llama.fi/protocols', (res) => {
           url: item.url,
           name: item.name,
           category: finalCategories,
-          icon: item.icon,
+          icon: item.logo,
           description: item.description
         };
       });
