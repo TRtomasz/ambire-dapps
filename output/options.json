@@ -1,10 +1,21 @@
 [
   {
+    "url": "https://aevo.xyz",
+    "name": "Aevo",
+    "category": [
+      "Options",
+      "Derivatives"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/96650df9365d6b7b1569781a35bb562d/96650df9365d6b7b1569781a35bb562d.png",
+    "description": "Aevo is a decentralized derivatives exchange platform. It enables you to access various financial products like options and perpetual futures through a unified margin account."
+  },
+  {
     "url": "https://hegic.co",
     "name": "Hegic",
     "category": [
       "Options"
     ],
+    "icon": "https://icons.llama.fi/hegic.jpg",
     "description": "Hegic is an on-chain peer-to-pool options trading protocol on Arbitrum. You can trade ETH and WBTC ATM / OTM Calls / Puts & One-click Option Strategies on Hegic"
   },
   {
@@ -13,6 +24,7 @@
     "category": [
       "Options"
     ],
+    "icon": "https://icons.llama.fi/deri-v4.png",
     "description": "Deri Protocol is a decentralized protocol for users to exchange risk exposures precisely and capital efficiently. It is the DeFi way to trade derivatives: to hedge, to speculate, to arbitrage, all on chain."
   }
 ]

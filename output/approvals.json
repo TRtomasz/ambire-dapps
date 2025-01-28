@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://revoke.cash",
+    "name": "Revoke",
+    "category": [
+      "Approvals"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/cdd1046d899f48bdc1793e9a3eb446d5/cdd1046d899f48bdc1793e9a3eb446d5.png",
+    "description": "Take back control of your wallet and stay safe by revoking token approvals and permissions you granted on Ethereum and over 70 other networks."
+  }
+]

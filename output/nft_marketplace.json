@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://opensea.io",
+    "name": "OpenSea",
+    "category": [
+      "NFT Marketplace"
+    ],
+    "icon": "https://static.debank.com/image/project/logo_url/opensea/4b23246fac2d4ce53bd8e8079844821c.png",
+    "description": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles. Browse, create, buy, sell, and auction NFTs using OpenSea today."
+  },
+  {
+    "url": "https://looksrare.org",
+    "name": "LooksRare",
+    "category": [
+      "NFT Marketplace"
+    ],
+    "icon": "https://pbs.twimg.com/profile_images/1532326779964489728/PRq7gD2P_400x400.jpg",
+    "description": "Buy & Sell NFTs, Get Rewards"
+  },
+  {
     "url": "https://blur.io",
     "name": "blur",
     "category": [
@@ -10,12 +28,31 @@
     "description": "Sweep NFTs across multiple marketplaces, snipe reveals faster than others, and manage your portfolio with advanced analytics. Zero fees."
   },
   {
+    "url": "https://magiceden.io",
+    "name": "magiceden",
+    "category": [
+      "NFT Marketplace"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/7653b6b51076b1efc152cdd33f7a5ddf/7653b6b51076b1efc152cdd33f7a5ddf.png",
+    "description": "Magic Eden is the leading community-centric NFT marketplace. Home to the next generation of creators. Discover the best and latest NFT collections today."
+  },
+  {
+    "url": "https://rarible.com",
+    "name": "Rarible",
+    "category": [
+      "NFT Marketplace"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/17b034dc7990b3a5d5bbc56f625700db/17b034dc7990b3a5d5bbc56f625700db.png",
+    "description": "Discover, sell and buy NFTs on Rarible! Our aggregated NFT marketplace for Ethereum NFTs and Polygon NFTs powers brands, collections and creator marketplaces."
+  },
+  {
     "url": "https://immutable.com",
     "name": "ImmutableX",
     "category": [
       "NFT Marketplace",
       "Chain"
     ],
+    "icon": "https://icons.llama.fi/immutablex.jpg",
     "description": "Immutable is the leading platform for building web3 games on Ethereum. Powering the next generation of web3 games"
   },
   {
@@ -24,6 +61,7 @@
     "category": [
       "NFT Marketplace"
     ],
+    "icon": "https://icons.llama.fi/nftx.jpg",
     "description": "NFTX is a platform for making ERC20 tokens that are backed by NFT collectibles."
   }
 ]

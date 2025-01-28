@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://mean.finance",
+    "name": "Mean finance",
+    "category": [
+      "DCA"
+    ],
+    "icon": "https://mean.finance/favicon.ico",
+    "description": "Mean Finance is the state-of-the-art DCA protocol. It enables you to set up actions like 'Swap 10 USDC for WBTC every day, for 30 days'."
+  }
+]
