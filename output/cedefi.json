@@ -1,13 +1,13 @@
 [
   {
     "url": "https://astherus.finance",
-    "name": "Astherus Perps",
+    "name": "Astherus asBTC",
     "category": [
-      "Derivatives",
-      "CeDeFi"
+      "CeDeFi",
+      "Derivatives"
     ],
-    "icon": "https://icons.llama.fi/astherus-perps.jpg",
-    "description": "Astherus is a liquidity hub for staked assets such as LSTs (liquid staking tokens) and LRTs (liquid restaking tokens), aiming to scale their utilization and boost user profitability."
+    "icon": "https://icons.llama.fi/astherus-asbtc.jpg",
+    "description": "The funds in Astherus Earn are utilized to execute stable trading strategies, generating returns that are distributed back to users."
   },
   {
     "url": "https://goose.farm",
