@@ -21,7 +21,8 @@
     "url": "https://karak.network",
     "name": "Karak",
     "category": [
-      "Restaking"
+      "Restaking",
+      "Chain"
     ],
     "icon": "https://icons.llama.fi/karak.png",
     "description": "The universal restaking layer powered by the entire cryptoeconomy."
@@ -42,7 +43,16 @@
       "Restaking"
     ],
     "icon": "https://icons.llama.fi/kernel.jpg",
-    "description": "Decentralised Security to supercharge & blitzscale BNB, while providing exciting rewards & DeFi opportunities."
+    "description": "Kernel is pioneering restaking on the BNB Chain. Restake BNB, BTC and other yield-bearing tokens and earn higher rewards."
+  },
+  {
+    "url": "https://b14g.xyz",
+    "name": "b14g",
+    "category": [
+      "Restaking"
+    ],
+    "icon": "https://icons.llama.fi/b14g.jpg",
+    "description": "b14g is a Bitcoin Merge Staking platform that unlocks the full potential of your BTC. By blending Bitcoin’s strength with native tokens, b14g creates a secure, scalable, and slashing-free staking experience. With innovative features like the Merge Marketplace, b14g makes it easy to access top-tier staking yields — even if you’re short on capital"
   },
   {
     "url": "https://parasail.network",
@@ -52,14 +62,5 @@
     ],
     "icon": "https://icons.llama.fi/parasail.png",
     "description": "Parasail is an incentive interface focused on creating seamless DePIN experiences. By aggregating capital, hardware resources, and DePIN users, Parasail breaks down silos and fosters strong synergies among various DePIN networks."
-  },
-  {
-    "url": "https://allstake.org",
-    "name": "Allstake",
-    "category": [
-      "Restaking"
-    ],
-    "icon": "https://icons.llama.fi/allstake.png",
-    "description": "The first Omnichain Meshed Restaking protocol that brings trustless scaling to ALL chains"
   }
 ]

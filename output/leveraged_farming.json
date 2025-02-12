@@ -28,15 +28,6 @@
     "description": "The 1st leveraged yield farming protocol on BSC"
   },
   {
-    "url": "https://juice.finance",
-    "name": "Juice Finance",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/juice-finance.jpg",
-    "description": "Maximize your yield by using your ETH as collateral to access 300% USDB leverage to deploy throughout the Blast ecosystem."
-  },
-  {
     "url": "https://kai.finance",
     "name": "Kai Finance",
     "category": [
@@ -44,6 +35,15 @@
     ],
     "icon": "https://icons.llama.fi/kai-finance.png",
     "description": "Kai Finance is a next-generation leveraged yield platform on the Sui Network."
+  },
+  {
+    "url": "https://juice.finance",
+    "name": "Juice Finance",
+    "category": [
+      "Leveraged Farming"
+    ],
+    "icon": "https://icons.llama.fi/juice-finance.jpg",
+    "description": "Maximize your yield by using your ETH as collateral to access 300% USDB leverage to deploy throughout the Blast ecosystem."
   },
   {
     "url": "https://deltaprime.io",
@@ -55,15 +55,6 @@
     "description": "DeltaPrime aggregates the best projects from your chain within one DeFi ecosystem. Within this ecosystem you can borrow extra capital trustless and anonymous. This way, you multiply your returns with a balanced portfolio, whether through trading, LPing or farming"
   },
   {
-    "url": "https://factor.fi",
-    "name": "Factor Leverage Vault",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/factor-leverage-vault.jpg",
-    "description": "Factor Leverage Vault is one-click looping, easy switching, easy migration, easy auto-compounding the reward."
-  },
-  {
     "url": "https://origami.finance",
     "name": "Origami Finance",
     "category": [
@@ -71,5 +62,14 @@
     ],
     "icon": "https://icons.llama.fi/origami-finance.jpg",
     "description": "Origami is a first-in-class automated leverage protocol launching on Ethereum and 🐻"
+  },
+  {
+    "url": "https://factor.fi",
+    "name": "Factor Leverage Vault",
+    "category": [
+      "Leveraged Farming"
+    ],
+    "icon": "https://icons.llama.fi/factor-leverage-vault.jpg",
+    "description": "Factor Leverage Vault is one-click looping, easy switching, easy migration, easy auto-compounding the reward."
   }
 ]

@@ -48,15 +48,6 @@
     "description": "Tether Gold (XAUt) is a token that provides you ownership of real physical gold. By putting gold on a Blockchain, we unlock a variety of characteristics that typically only crypto assets possess"
   },
   {
-    "url": "https://securitize.io",
-    "name": "BlackRock BUIDL",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/blackrock-buidl.png",
-    "description": "BlackRock USD Institutional Digital Liquidity Fund"
-  },
-  {
     "url": "https://ondo.finance",
     "name": "Ondo Finance",
     "category": [
@@ -73,6 +64,15 @@
     ],
     "icon": "https://icons.llama.fi/paxos-gold.png",
     "description": "PAXG offers investors a cost-effective way to own investment-grade physical gold with all the benefits of the blockchain. Each Pax Gold (PAXG) token is backed by one fine troy ounce of gold, stored in LBMA vaults in London. If you own PAXG, you own the underlying physical gold, held in custody by Paxos Trust Company"
+  },
+  {
+    "url": "https://securitize.io",
+    "name": "BlackRock BUIDL",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/blackrock-buidl.png",
+    "description": "BlackRock USD Institutional Digital Liquidity Fund"
   },
   {
     "url": "https://franklintempleton.com",
@@ -93,15 +93,6 @@
     "description": "Spiko USTBL / EUTBL are Tokenized Money Market Funds regulated by the French Financial Markets Authority that invest in US T-Bills / Eurozone T-Bills"
   },
   {
-    "url": "https://realt.co",
-    "name": "RealT Tokens",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/realt.png",
-    "description": "RealToken provides investors with a simple, intelligent, and user-friendly method to buy into fractional, tokenized properties, leveraging the U.S. legal system and the permissionless, unrestricted token issuance of Ethereum."
-  },
-  {
     "url": "https://openeden.com",
     "name": "OpenEden",
     "category": [
@@ -109,6 +100,15 @@
     ],
     "icon": "https://icons.llama.fi/openeden.png",
     "description": "A smart contract vault managed by a regulated entity to offer 24/7 and direct access to U.S. Treasury Bills"
+  },
+  {
+    "url": "https://realt.co",
+    "name": "RealT Tokens",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/realt.png",
+    "description": "RealToken provides investors with a simple, intelligent, and user-friendly method to buy into fractional, tokenized properties, leveraging the U.S. legal system and the permissionless, unrestricted token issuance of Ethereum."
   },
   {
     "url": "https://m0.org",
@@ -142,8 +142,7 @@
     "url": "https://cygnus.finance",
     "name": "Cygnus Finance",
     "category": [
-      "RWA",
-      "Farm"
+      "RWA"
     ],
     "icon": "https://icons.llama.fi/cygnus-finance.jpg",
     "description": "Cygnus Finance is a RWA stablecoin protocol built on pure, short-term U.S. debt assets. It is also the first native interest-bearing stablecoin protocol and the first native RWA protocol on Base."
@@ -156,6 +155,15 @@
     ],
     "icon": "https://icons.llama.fi/ethena-usdtb.jpg",
     "description": "USDtb is a digital dollar, otherwise known as a USD stablecoin. USDtb can be used the same way a holder would use any other dollar, whether to send and receive payments, acquire and trade assets, or to simply hold dollars."
+  },
+  {
+    "url": "https://librecapital.com",
+    "name": "Libre Capital",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/libre-capital.png",
+    "description": "Libre is building the investment infrastructure to enable asset managers to seamlessly connect with distributors and enable unparalleled access to global alternatives investment funds. In addition, Libre is working on enabling access to value-add services in the alternative assets ecosystem such as collateralized lending and automated rebalancing. Currently, Libre only makes its tokenized funds available to institutional and accredited investors"
   },
   {
     "url": "https://nest.credit",
@@ -221,24 +229,6 @@
     "description": "This USDX pool is dedicated to investing in or purchasing treasuries and distribute the resulting yield to liquidity providers"
   },
   {
-    "url": "https://maple.finance",
-    "name": "Maple RWA",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/maple-rwa.jpg",
-    "description": "Maple Finance is an institutional capital marketplace powered by blockchain technology."
-  },
-  {
-    "url": "https://republic.com",
-    "name": "Republic Note",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/republic-note.png",
-    "description": "One asset, broad exposure to venture & crypto"
-  },
-  {
     "url": "https://opentrade.io",
     "name": "OpenTrade",
     "category": [
@@ -246,6 +236,15 @@
     ],
     "icon": "https://icons.llama.fi/opentrade.png",
     "description": "Fintechs around the world use OpenTrade to power safe, compliant stablecoin yield products."
+  },
+  {
+    "url": "https://maple.finance",
+    "name": "Maple RWA",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/maple-rwa.jpg",
+    "description": "Maple Finance is an institutional capital marketplace powered by blockchain technology."
   },
   {
     "url": "https://backed.fi",
@@ -275,6 +274,15 @@
     "description": "The Matrixdock STBT token (i.e. Short-term Treasury Bill token) is a token which enables you to get exposure to U.S."
   },
   {
+    "url": "https://republic.com",
+    "name": "Republic Note",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/republic-note.png",
+    "description": "One asset, broad exposure to venture & crypto"
+  },
+  {
     "url": "https://vnx.li",
     "name": "VNX",
     "category": [
@@ -293,15 +301,6 @@
     "description": "ComTech introduces Gold token namely ComTech Gold ( $CGO ) built on XDC Network."
   },
   {
-    "url": "https://brickken.com",
-    "name": "Brickken",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/brickken.jpg",
-    "description": "Brickken enables businesses to create digital tokens backed by tokenized Real World Assets (RWA). Through the Token Suite, Clients can raise private or public capital by creating their own custom white-label token store & token offering."
-  },
-  {
     "url": "https://digift.sg",
     "name": "DigiFT",
     "category": [
@@ -309,5 +308,14 @@
     ],
     "icon": "https://icons.llama.fi/digift.jpg",
     "description": "DigiFT is the first regulated exchange for on-chain real-world assets, approved as a Recognised Market Operator with a Capital Markets Services license by the Monetary Authority of Singapore. DigiFT allows asset owners to issue blockchain-based security tokens and investors can trade with continuous liquidity via an AMM."
+  },
+  {
+    "url": "https://brickken.com",
+    "name": "Brickken",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/brickken.jpg",
+    "description": "Brickken enables businesses to create digital tokens backed by tokenized Real World Assets (RWA). Through the Token Suite, Clients can raise private or public capital by creating their own custom white-label token store & token offering."
   }
 ]
