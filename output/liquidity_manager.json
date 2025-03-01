@@ -9,6 +9,15 @@
     "description": "Arrakis is a protocol that specializes in concentrated & active liquidity management. By creating a curated marketplace of novel tokenized LP strategies, Arrakis facilitates deep liquidity and optimizes LP earnings across its vaults."
   },
   {
+    "url": "https://ichi.org",
+    "name": "ICHI",
+    "category": [
+      "Liquidity manager"
+    ],
+    "icon": "https://icons.llama.fi/ichi.png",
+    "description": "ICHI is a non-custodial liquidity management protocol that enables the use of sophisticated algorithmic strategies on Uniswap V3. It allows token holders, institutions, and projects to earn on-chain yield and help establish deeper on-chain token liquidity. ICHI's main product is ICHI Vaults which accept single-token deposits and then deploy these tokens into Uniswap V3 concentrated liquidity pools in order to earn trading fees for the depositor (yield). In addition to on-chain yield opportunities, ICHI Vaults allow projects to build deeper, on-chain liquidity and provide them with enticing treasury management strategies."
+  },
+  {
     "url": "https://gamma.xyz",
     "name": "Gamma",
     "category": [
@@ -18,13 +27,13 @@
     "description": "A protocol for active liquidity management and market-making strategies. Gamma offers non-custodial, automated, and active concentrated liquidity management services."
   },
   {
-    "url": "https://ichi.org",
-    "name": "ICHI",
+    "url": "https://stability.farm",
+    "name": "Stability",
     "category": [
       "Liquidity manager"
     ],
-    "icon": "https://icons.llama.fi/ichi.png",
-    "description": "ICHI is a non-custodial liquidity management protocol that enables the use of sophisticated algorithmic strategies on Uniswap V3. It allows token holders, institutions, and projects to earn on-chain yield and help establish deeper on-chain token liquidity. ICHI's main product is ICHI Vaults which accept single-token deposits and then deploy these tokens into Uniswap V3 concentrated liquidity pools in order to earn trading fees for the depositor (yield). In addition to on-chain yield opportunities, ICHI Vaults allow projects to build deeper, on-chain liquidity and provide them with enticing treasury management strategies."
+    "icon": "https://icons.llama.fi/stability.jpg",
+    "description": "Asset management, liquidity mining and yield farming platform."
   },
   {
     "url": "https://acryptos.com",

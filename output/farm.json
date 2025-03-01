@@ -1,5 +1,15 @@
 [
   {
+    "url": "https://cygnus.finance",
+    "name": "Cygnus Restake",
+    "category": [
+      "Farm",
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/cygnus-restake.jpg",
+    "description": "Decentralized and non-custodial cross chain(EVM and non-EVM) restaking protocol. Part of Cygnus--the first modular real yield layer."
+  },
+  {
     "url": "https://zircuit.com",
     "name": "Zircuit Staking",
     "category": [
@@ -32,15 +42,6 @@
     "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
   },
   {
-    "url": "https://usecorn.com",
-    "name": "Corn Kernels",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/corn-kernels.jpg",
-    "description": "Kernels are off-chain points that represent your share of the initial $CORN Community Airdrop"
-  },
-  {
     "url": "https://bsquared.network",
     "name": "B2 Buzz",
     "category": [
@@ -51,6 +52,15 @@
     "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
   },
   {
+    "url": "https://usecorn.com",
+    "name": "Corn Kernels",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/corn-kernels.jpg",
+    "description": "Kernels are off-chain points that represent your share of the initial $CORN Community Airdrop"
+  },
+  {
     "url": "https://ailayer.xyz",
     "name": "AILayer farm",
     "category": [
@@ -58,16 +68,6 @@
     ],
     "icon": "https://icons.llama.fi/ainn-layer2.jpg",
     "description": "Staking tokens via AILayer Dataset counts as TVL."
-  },
-  {
-    "url": "https://cygnus.finance",
-    "name": "Cygnus Finance",
-    "category": [
-      "RWA",
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/cygnus-finance.jpg",
-    "description": "Cygnus Finance is a RWA stablecoin protocol built on pure, short-term U.S. debt assets. It is also the first native interest-bearing stablecoin protocol and the first native RWA protocol on Base."
   },
   {
     "url": "https://bucketprotocol.io",
@@ -87,6 +87,15 @@
     ],
     "icon": "https://icons.llama.fi/cytonic-airdrop-campaign.jpg",
     "description": "The Cytonic airdrop campaign is designed to incentivize users and help bootstrap the initial blockchain TVL and ecosystem"
+  },
+  {
+    "url": "https://handofgod.app",
+    "name": "Hand of God",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/hand-of-god.jpg",
+    "description": "Hand of God is a next-generation DeFi protocol built on the Sonic blockchain, inspired by the original Tomb Finance model but significantly enhanced with AI-driven automation. By integrating real-time on-chain analysis, Hand of God dynamically manages supply expansion and contraction, ensuring a sustainable, transparent, and data-driven approach to liquidity incentives and ecosystem health."
   },
   {
     "url": "https://blackwing.fi",
