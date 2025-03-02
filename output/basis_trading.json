@@ -37,14 +37,23 @@
     "description": "BounceBit CeDeFi combines CeFi and DeFi to generate yield on various assets across multiple chains. The yield is generated via delta-neutral basis trading on centralized exchanges, facilitated by CEX-integrated custody solutions like CEFFU. BounceBit CeDeFi uses the ERC-4626 Tokenized Vault Standard to enable daily rebasing of generated revenue"
   },
   {
-    "url": "https://manta.network",
-    "name": "Manta Pacific",
+    "url": "https://bitfi.one",
+    "name": "BitFi Basis",
     "category": [
-      "Chain",
       "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/manta-pacific.jpg",
-    "description": "Bridge between Ethereum and Manta Pacific Chain."
+    "icon": "https://icons.llama.fi/bitfi-basis.jpg",
+    "description": "Reliable returns with bfUSD, our yield-bearing stablecoin that fuels stability while amplifying your earnings in a dynamic ecosystem."
+  },
+  {
+    "url": "https://sosovalue.com",
+    "name": "SoSoValue Basis",
+    "category": [
+      "Basis Trading",
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/sosovalue-basis.jpg",
+    "description": "The SoSoValue Indexes (SSI) Protocol is a cutting-edge spot index solution designed to make crypto investments simple and secure."
   },
   {
     "url": "https://superstate.co",
@@ -58,13 +67,23 @@
   },
   {
     "url": "https://astherus.com",
-    "name": "Astherus USDF",
+    "name": "Astherus asBNB",
     "category": [
-      "Basis Trading",
-      "Yield"
+      "Yield",
+      "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/astherus-usdf.jpg",
-    "description": "USDF is a token minted by depositing USDT on AstherusEarn. USDT and USDF are fully convertible at a 1:1 ratio"
+    "icon": "https://icons.llama.fi/stakestone-berachain-vault.jpg",
+    "description": "Astherus is a liquidity hub for staked assets such as LSTs (liquid staking tokens) and LRTs (liquid restaking tokens), aiming to scale their utilization and boost user profitability."
+  },
+  {
+    "url": "https://manta.network",
+    "name": "Manta Pacific",
+    "category": [
+      "Chain",
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/manta-pacific.jpg",
+    "description": "Bridge between Ethereum and Manta Pacific Chain."
   },
   {
     "url": "https://theo.xyz",
