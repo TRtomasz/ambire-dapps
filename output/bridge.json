@@ -42,8 +42,8 @@
     "name": "Hyperliquid Bridge",
     "category": [
       "Bridge",
-      "Dexs",
-      "Derivatives"
+      "Derivatives",
+      "Dexs"
     ],
     "icon": "https://icons.llama.fi/hyperliquid.png",
     "description": "Hyperliquid is a decentralized perpetual exchange with best-in-class speed, liquidity, and price."
@@ -124,6 +124,15 @@
     "description": "Bridge BTC assets, restaking, earn interest & borrow on Move"
   },
   {
+    "url": "https://mezo.org",
+    "name": "Mezo Network",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/mezo-network.jpg",
+    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
+  },
+  {
     "url": "https://axelar.network",
     "name": "Axelar",
     "category": [
@@ -142,15 +151,6 @@
     "description": "Fast, non-custodial L1-L2 and cross-L2 communication.\r\n"
   },
   {
-    "url": "https://fuel.network",
-    "name": "Fuel Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/fuel.jpg",
-    "description": "Bridge between Fuel Ignition and Ethereum"
-  },
-  {
     "url": "https://multichain.org",
     "name": "Multichain",
     "category": [
@@ -160,13 +160,13 @@
     "description": "Cross-Chain Router Protocol (CRP), envisioned to be the ultimate router for Web3."
   },
   {
-    "url": "https://mezo.org",
-    "name": "Mezo Network",
+    "url": "https://fuel.network",
+    "name": "Fuel Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/mezo-network.jpg",
-    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
+    "icon": "https://icons.llama.fi/fuel.jpg",
+    "description": "Bridge between Fuel Ignition and Ethereum"
   },
   {
     "url": "https://gobob.xyz",
@@ -178,15 +178,13 @@
     "description": "BOB is a new Bitcoin EVM L2, secured by Bitcoin PoW and connected to ETH as a rollup."
   },
   {
-    "url": "https://hatom.com",
-    "name": "Hatom Lending",
+    "url": "https://celer.network",
+    "name": "cBridge",
     "category": [
-      "Lending",
-      "Liquid Staking",
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/hatom-lending.jpg",
-    "description": "Hatom Lending Protocol is a decentralized lending and borrowing platform operating within the MultiversX Network."
+    "icon": "https://icons.llama.fi/cbridge.jpg",
+    "description": "Celer cBridge is a multi-chain network that enables instant, low-cost and ANY-to-ANY value transfers within and across different blockchains, such as Ethereum and Polkadot, and different layer-2 scaling solutions on top, such as Optimistic Rollup, ZK Rollup and sidechains"
   },
   {
     "url": "https://buildwithsygma.com",
@@ -196,15 +194,6 @@
     ],
     "icon": "https://icons.llama.fi/sygma.png",
     "description": "Sygma is a modular, open-source, cross-chain connectivity protocol. With Sygma, developers can easily extend their applications across EVM, Substrate, and beyond"
-  },
-  {
-    "url": "https://celer.network",
-    "name": "cBridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/cbridge.jpg",
-    "description": "Celer cBridge is a multi-chain network that enables instant, low-cost and ANY-to-ANY value transfers within and across different blockchains, such as Ethereum and Polkadot, and different layer-2 scaling solutions on top, such as Optimistic Rollup, ZK Rollup and sidechains"
   },
   {
     "url": "https://poly.network",
@@ -234,13 +223,24 @@
     "description": "Gravity Bridge is a decentralized Cosmos blockchain whose primary purpose is to secure the operation of bridges between blockchains."
   },
   {
-    "url": "https://allbridge.io",
-    "name": "Allbridge Core",
+    "url": "https://hatom.com",
+    "name": "Hatom Liquid Staking",
+    "category": [
+      "Liquid Staking",
+      "Lending",
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/hatom-liquid-staking.jpg",
+    "description": "Liquid Staking is a module that allows users to stake their EGLD without locking up its value and receive a token called Staked EGLD (sEGLD)"
+  },
+  {
+    "url": "https://orbitchain.io",
+    "name": "Orbit Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/allbridge-core.png",
-    "description": "Allbridge Core enables the transfer of value between blockchains by offering cross-chain swaps of native stablecoins. Being messaging protocol agnostic, Allbridge Core connects a variety of EVM and non-EVM networks."
+    "icon": "https://icons.llama.fi/orbit-bridge.png",
+    "description": "Orbit Bridge is an interchain communication protocol that allows communication between heterogeneous blockchains. Through this, users can utilize the various assets of various chains in all dApps through simple transactions on each chain."
   },
   {
     "url": "https://injective.com",
@@ -252,6 +252,15 @@
     "description": "Access limitless DeFi markets with zero barriers."
   },
   {
+    "url": "https://allbridge.io",
+    "name": "Allbridge Core",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/allbridge-core.png",
+    "description": "Allbridge Core enables the transfer of value between blockchains by offering cross-chain swaps of native stablecoins. Being messaging protocol agnostic, Allbridge Core connects a variety of EVM and non-EVM networks."
+  },
+  {
     "url": "https://dexalot.com",
     "name": "Dexalot Portfolio",
     "category": [
@@ -259,24 +268,6 @@
     ],
     "icon": "https://icons.llama.fi/dexalot-portfolio.png",
     "description": "Dexalot is an omni-chain order book DEX with zero slippage, near zero gas fees, and is on its own app-specific chain, allowing users to deposit from and withdraw to multiple chains. Dexalot is also fully on-chain and non-custodial."
-  },
-  {
-    "url": "https://iotube.org",
-    "name": "ioTube",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/iotube.png",
-    "description": "ioTube is the decentralized bridge for connecting Ethereum, Binance Smart Chain, Polygon (Matic), and IoTeX. ioTube enables bi-directional exchange of tokens between IoTeX, Ethereum, Binance Smart Chain, and now Polygon!"
-  },
-  {
-    "url": "https://morphl2.io",
-    "name": "Morph Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/morph-bridge.jpg",
-    "description": "Bridge between Ethereum and Morph L2"
   },
   {
     "url": "https://btcproxy.io",
@@ -297,6 +288,24 @@
     "description": "Cross-chain transfers"
   },
   {
+    "url": "https://morphl2.io",
+    "name": "Morph Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/morph-bridge.jpg",
+    "description": "Bridge between Ethereum and Morph L2"
+  },
+  {
+    "url": "https://iotube.org",
+    "name": "ioTube",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/iotube.png",
+    "description": "ioTube is the decentralized bridge for connecting Ethereum, Binance Smart Chain, Polygon (Matic), and IoTeX. ioTube enables bi-directional exchange of tokens between IoTeX, Ethereum, Binance Smart Chain, and now Polygon!"
+  },
+  {
     "url": "https://xlink.network",
     "name": "XLink",
     "category": [
@@ -315,31 +324,13 @@
     "description": "Bridge between Endurance and BSC for ACE"
   },
   {
-    "url": "https://alephium.org",
-    "name": "Alephium Bridge",
+    "url": "https://p.network",
+    "name": "pNetwork",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/alephium-bridge.jpg",
-    "description": "The Alephium Bridge enables unlimited, decentralized cross-chain transfer of tokens."
-  },
-  {
-    "url": "https://garden.finance",
-    "name": "Garden",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/garden.jpg",
-    "description": "Garden provides one of the easiest ways for you to acquire WBTC with real BTC. The Garden uses atomic swaps to facilitate trustless conversions."
-  },
-  {
-    "url": "https://elysiumchain.tech",
-    "name": "Elysium Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/elysium-bridge.jpg",
-    "description": "Bridge for Elysium Chain"
+    "icon": "https://icons.llama.fi/pnetwork.jpg",
+    "description": "pNetwork is a protocol that enables cross-chain operations, such as transferring assets from one blockchain to another. It is designed to provide interoperability between different blockchain networks, allowing users to take advantage of the unique features and capabilities of each network while still being able to access and use their assets on other networks."
   },
   {
     "url": "https://nerve.network",
@@ -351,12 +342,21 @@
     "description": "NerveNetwork is a Decentralized Digital Asset Service Network.It is an asset relay network connecting multiple blockchains, a completely gas-free blockchain."
   },
   {
-    "url": "https://p.network",
-    "name": "pNetwork",
+    "url": "https://elysiumchain.tech",
+    "name": "Elysium Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/pnetwork.jpg",
-    "description": "pNetwork is a protocol that enables cross-chain operations, such as transferring assets from one blockchain to another. It is designed to provide interoperability between different blockchain networks, allowing users to take advantage of the unique features and capabilities of each network while still being able to access and use their assets on other networks."
+    "icon": "https://icons.llama.fi/elysium-bridge.jpg",
+    "description": "Bridge for Elysium Chain"
+  },
+  {
+    "url": "https://garden.finance",
+    "name": "Garden",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/garden.jpg",
+    "description": "Garden provides one of the easiest ways for you to acquire WBTC with real BTC. The Garden uses atomic swaps to facilitate trustless conversions."
   }
 ]

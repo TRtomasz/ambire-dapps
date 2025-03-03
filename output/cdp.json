@@ -31,6 +31,15 @@
     "description": "The Liquidity Hub For BTC LSDFi and CeDeFi Lending"
   },
   {
+    "url": "https://beraborrow.com",
+    "name": "Beraborrow",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/beraborrow.png",
+    "description": "Beraborrow unlocks instant liquidity against Berachain assets through the first PoL powered stablecoin, NECT"
+  },
+  {
     "url": "https://lista.org",
     "name": "lisUSD",
     "category": [
@@ -46,25 +55,16 @@
       "CDP"
     ],
     "icon": "https://icons.llama.fi/liquity-v1.jpg",
-    "description": "Liquity is a decentralized borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral."
+    "description": "Liquity V1 is a decentralized and immutable borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral."
   },
   {
-    "url": "https://particle.trade",
-    "name": "Particle DUO",
+    "url": "https://rings.money",
+    "name": "Rings",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/particle-duo.png",
-    "description": "Duo Exchange is an interest rate swapping protocol that allows LPs to access (1) fixed rate yield until maturity and (2) variable but potentially higher yield compared to the yield source."
-  },
-  {
-    "url": "https://inverse.finance",
-    "name": "Inverse Finance FiRM",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/inverse-finance-firm.jpg",
-    "description": "FiRM is a Fixed Rate Market protocol to borrow the DOLA usd stablecoin at a fixed-rate with the DOLA Borrowing Right token DBR."
+    "icon": "https://icons.llama.fi/rings.jpg",
+    "description": "Rings is a meta-stablecoin for USD & ETH offering competitive yield for stakers, providing deep liquidity for Sonic DeFi, and funding Sonic DeFi projects via its lockers."
   },
   {
     "url": "https://eth.limo",
@@ -86,25 +86,25 @@
     "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
   },
   {
+    "url": "https://inverse.finance",
+    "name": "Inverse Finance FiRM",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/inverse-finance-firm.jpg",
+    "description": "FiRM is a Fixed Rate Market protocol to borrow the DOLA usd stablecoin at a fixed-rate with the DOLA Borrowing Right token DBR."
+  },
+  {
     "url": "https://kava.io",
     "name": "Kava Mint",
     "category": [
       "CDP",
       "Lending",
-      "Liquid Staking",
-      "Yield Aggregator"
+      "Yield Aggregator",
+      "Liquid Staking"
     ],
     "icon": "https://icons.llama.fi/kava-mint.png",
     "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
-  },
-  {
-    "url": "https://orby.network",
-    "name": "Orby Network",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/orby-network.png",
-    "description": "Cronos Network's first native stablecoin lending protocol"
   },
   {
     "url": "https://abracadabra.money",
@@ -115,6 +115,15 @@
     ],
     "icon": "https://icons.llama.fi/abracadabra-spell.jpg",
     "description": "Abracadabra.money is a spell book that allows users to produce magic internet money ($MIM) which is a stable coin that you can swap for any other traditional stable coin."
+  },
+  {
+    "url": "https://orby.network",
+    "name": "Orby Network",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/orby-network.png",
+    "description": "Cronos Network's first native stablecoin lending protocol"
   },
   {
     "url": "https://bucketprotocol.io",
@@ -147,6 +156,15 @@
     "description": "Pando Leaf: a decentralized financial network to minting stablecoins"
   },
   {
+    "url": "https://particle.trade",
+    "name": "Particle DUO",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/particle-duo.png",
+    "description": "Duo Exchange is an interest rate swapping protocol that allows LPs to access (1) fixed rate yield until maturity and (2) variable but potentially higher yield compared to the yield source."
+  },
+  {
     "url": "https://angle.money",
     "name": "Angle",
     "category": [
@@ -165,15 +183,6 @@
     "description": "Fully Backed Stablecoin. Low 110% Collateral Ratio. No Repayment Schedule. Immutable. Governance-Free. No Admin Keys."
   },
   {
-    "url": "https://rings.money",
-    "name": "Rings",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/rings.jpg",
-    "description": "Rings is a meta-stablecoin for USD & ETH offering competitive yield for stakers, providing deep liquidity for Sonic DeFi, and funding Sonic DeFi projects via its lockers."
-  },
-  {
     "url": "https://bitsmiley.io",
     "name": "bitSmiley",
     "category": [
@@ -181,15 +190,6 @@
     ],
     "icon": "https://icons.llama.fi/bitsmiley.jpg",
     "description": "BTC-Native stablecoin protocol, Initially funded by OKX_Ventures & ABCDELabs."
-  },
-  {
-    "url": "https://bitu.io",
-    "name": "BitU Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/bitu-protocol.jpg",
-    "description": "BitU Protocol offers a USD-pegged stablecoin primitive that provides stability and embedded yield. Through our Active Liquidity Management Module, we leverage on-chain transparency and off-chain capital efficiency to deliver resilient yield to support accessible ecosystem growth."
   },
   {
     "url": "https://frankencoin.com",
@@ -201,94 +201,13 @@
     "description": "Frankencoin is a collateralized, oracle-free stablecoin that tracks the value of the Swiss franc."
   },
   {
-    "url": "https://fathom.fi",
-    "name": "Fathom CDP",
+    "url": "https://bitu.io",
+    "name": "BitU Protocol",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/fathom-cdp.jpg",
-    "description": "Fathom Protocol is a comprehensive DeFi platform providing liquidity solutions to both retail and institutional participants. Users can deposit XDC and staked XDC to mint FXD, USD stablecoin, which can be used to gain exposure to yield opportunities through our RWA Vaults and Trade Finance Pools. Crypto and RWA holders can also borrow FXD using their assets as collateral."
-  },
-  {
-    "url": "https://overnight.fi",
-    "name": "Overnight USD+",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/overnight-usd+.png",
-    "description": "USD+ is USDC that pays yield daily via rebase. USD+ stablecoin can be instantly minted and redeemed to USDC 1:1. USD+ includes 3 components:1.Pegged to USDC 1:12.Yield generating 3.Insurance (soon)"
-  },
-  {
-    "url": "https://satoshiprotocol.org",
-    "name": "Satoshi Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/satoshi-protocol.png",
-    "description": "Satoshi Protocol is the 1st universal stablecoin protocol backed by Bitcoin, using BTC as collateral to mint the native stablecoin satUSD across Bitcoin Mainnet, Layer 2s, and the EVM ecosystem."
-  },
-  {
-    "url": "https://btcfi.one",
-    "name": "BTCFi CDP",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/btcfi-cdp.jpg",
-    "description": "BTCFi is a decentralized crosschain Bitcoin asset management platform offering native Bitcoin collateralization to mint a Bitcoin-backed stablecoin, BtcUSD."
-  },
-  {
-    "url": "https://gravitaprotocol.com",
-    "name": "Gravita Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/gravita-protocol.png",
-    "description": "Gravita Protocol is an ETH-centric Borrowing Protocol for LSTs and Yield-Generating assets. GRAI is the debt token of the platform. Our motto is: fuelling decentralization. You cannot resist the pull of Gravita!"
-  },
-  {
-    "url": "https://powercity.io",
-    "name": "POWERCITY Earn Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/powercity-earn-protocol.png",
-    "description": "EARN Protocol is a decentralized borrowing protocol on PulseChain that allows you to draw interest-free loans against $PLSX used as collateral. Loans are paid out in PXDC (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%."
-  },
-  {
-    "url": "https://reflexer.finance",
-    "name": "Reflexer",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/reflexer.jpg",
-    "description": "A decentralized, stable and non pegged currency made for the digital economy"
-  },
-  {
-    "url": "https://mai.finance",
-    "name": "QiDao",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/qidao.jpg",
-    "description": "QiDao is a way for you to keep your crypto and still be able to spend its value. That means you're able to borrow stablecoins without having to sell your crypto assets, and do so at 0% interest!"
-  },
-  {
-    "url": "https://dyadstable.xyz",
-    "name": "DYAD",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/dyad.png",
-    "description": "DYAD is a stablecoin optimized for unit economics, leveraging shared collateral pools and DYAD NFTs (dNFTs) that compete for the lowest mint cost"
-  },
-  {
-    "url": "https://mimo.capital",
-    "name": "Parallel Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/parallel-protocol.png",
-    "description": "Parallel is a decentralized protocol that issues stablecoins, PAR (EUR stablecoin) and paUSD (USD stablecoin), on the Ethereum, Polygon and Fantom blockchains. The PAR & paUSD stablecoin are decentralized, non-custodials, and collateral-backed FIAT stablecoins."
+    "icon": "https://icons.llama.fi/bitu-protocol.jpg",
+    "description": "BitU Protocol offers a USD-pegged stablecoin primitive that provides stability and embedded yield. Through our Active Liquidity Management Module, we leverage on-chain transparency and off-chain capital efficiency to deliver resilient yield to support accessible ecosystem growth."
   },
   {
     "url": "https://zoth.io",
@@ -300,12 +219,93 @@
     "description": "Zoth is an RWA ecosystem bringing institutional-grade yield avenues onchain."
   },
   {
-    "url": "https://lybra.finance",
-    "name": "Lybra V2",
+    "url": "https://powercity.io",
+    "name": "POWERCITY Earn Protocol",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/lybra-v2.jpg",
-    "description": "Lybra Finance is developing the next generation of Omnichain LSD-based stablecoins"
+    "icon": "https://icons.llama.fi/powercity-earn-protocol.png",
+    "description": "EARN Protocol is a decentralized borrowing protocol on PulseChain that allows you to draw interest-free loans against $PLSX used as collateral. Loans are paid out in PXDC (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%."
+  },
+  {
+    "url": "https://btcfi.one",
+    "name": "BTCFi CDP",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/btcfi-cdp.jpg",
+    "description": "BTCFi is a decentralized crosschain Bitcoin asset management platform offering native Bitcoin collateralization to mint a Bitcoin-backed stablecoin, BtcUSD."
+  },
+  {
+    "url": "https://overnight.fi",
+    "name": "Overnight Finance",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/overnight-finance.jpg",
+    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
+  },
+  {
+    "url": "https://satoshiprotocol.org",
+    "name": "Satoshi Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/satoshi-protocol.png",
+    "description": "Satoshi Protocol is the 1st universal stablecoin protocol backed by Bitcoin, using BTC as collateral to mint the native stablecoin satUSD across Bitcoin Mainnet, Layer 2s, and the EVM ecosystem."
+  },
+  {
+    "url": "https://fathom.fi",
+    "name": "Fathom CDP",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/fathom-cdp.jpg",
+    "description": "Fathom Protocol is a comprehensive DeFi platform providing liquidity solutions to both retail and institutional participants. Users can deposit XDC and staked XDC to mint FXD, USD stablecoin, which can be used to gain exposure to yield opportunities through our RWA Vaults and Trade Finance Pools. Crypto and RWA holders can also borrow FXD using their assets as collateral."
+  },
+  {
+    "url": "https://gravitaprotocol.com",
+    "name": "Gravita Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/gravita-protocol.png",
+    "description": "Gravita Protocol is an ETH-centric Borrowing Protocol for LSTs and Yield-Generating assets. GRAI is the debt token of the platform. Our motto is: fuelling decentralization. You cannot resist the pull of Gravita!"
+  },
+  {
+    "url": "https://reservoir.xyz",
+    "name": "Reservoir Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/reservoir-protocol.jpg",
+    "description": "Reservoir is a pioneering stablecoin protocol designed to be the most trusted and scalable solution in decentralized finance. Offering a suite of products, including the rUSD stablecoin, srUSD liquid yielding asset, and trUSD term-based yielding asset, Reservoir is at the forefront of DeFi innovation. With a focus on real-world asset integration and consistent yield generation, Reservoir is poised to play a crucial role in onboarding the next trillion dollars of assets into the decentralized economy."
+  },
+  {
+    "url": "https://mai.finance",
+    "name": "QiDao",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/qidao.jpg",
+    "description": "QiDao is a way for you to keep your crypto and still be able to spend its value. That means you're able to borrow stablecoins without having to sell your crypto assets, and do so at 0% interest!"
+  },
+  {
+    "url": "https://mimo.capital",
+    "name": "Parallel Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/parallel-protocol.png",
+    "description": "Parallel is a decentralized protocol that issues stablecoins, PAR (EUR stablecoin) and paUSD (USD stablecoin), on the Ethereum, Polygon and Fantom blockchains. The PAR & paUSD stablecoin are decentralized, non-custodials, and collateral-backed FIAT stablecoins."
+  },
+  {
+    "url": "https://reflexer.finance",
+    "name": "Reflexer",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/reflexer.jpg",
+    "description": "A decentralized, stable and non pegged currency made for the digital economy"
   }
 ]
