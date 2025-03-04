@@ -20,21 +20,21 @@
   },
   {
     "url": "https://kelpdao.xyz",
-    "name": "Kelp rsETH",
+    "name": "Kelp",
     "category": [
       "Liquid Restaking",
       "Managed Token Pools"
     ],
     "icon": "https://icons.llama.fi/kelp-dao.png",
-    "description": "rsETH is a Liquid Restaked Token (LRT) issued by Kelp DAO designed to offer liquidity to illiquid assets deposited into restaking platforms, such as EigenLayer. It aims to address the risks and challenges posed by the current offering of restaking"
+    "description": "Kelp is the second largest liquid restaking protocol with ~$2B+ in TVL. Its liquid restaked token, rsETH, is live across 10+ major L2s and 40+ DeFi platforms, allowing users to restake while maintaining full liquidity."
   },
   {
     "url": "https://mantle.xyz",
     "name": "mETH Protocol",
     "category": [
       "Liquid Staking",
-      "Liquid Restaking",
-      "Chain"
+      "Chain",
+      "Liquid Restaking"
     ],
     "icon": "https://icons.llama.fi/meth-protocol.png",
     "description": "A permissionless, non-custodial ETH liquid staking protocol deployed on Ethereum L1 and governed by Mantle."
@@ -59,6 +59,15 @@
     "description": "Eigenpie is an innovative SubDAO created by Magpie, focusing on the restaking of ETH LSTs via EigenLayer. As a liquid restaking platform for Ethereum, Eigenpie’s core mechanism enables users to convert their Liquid Staked ETH tokens into Isolated Liquid Restaked ETH tokens. These are restaked versions of ETH LSTs, created by Eigenpie. This process allows users to earn passive income from Ethereum staking and EigenLayer revenue simultaneously, without requiring a lockup period."
   },
   {
+    "url": "https://mellow.finance",
+    "name": "Mellow LRT",
+    "category": [
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llama.fi/mellow-lrt.jpg",
+    "description": "Mellow Protocol is a permissionless system for active liquidity management and building trustless automatic DeFi strategies"
+  },
+  {
     "url": "https://swellnetwork.io",
     "name": "Swell L2 Farm",
     "category": [
@@ -71,15 +80,6 @@
     "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
   },
   {
-    "url": "https://mellow.finance",
-    "name": "Mellow LRT",
-    "category": [
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llama.fi/mellow-lrt.jpg",
-    "description": "Mellow Protocol is a permissionless system for active liquidity management and building trustless automatic DeFi strategies"
-  },
-  {
     "url": "https://kiki.finance",
     "name": "iBTC Finance",
     "category": [
@@ -89,13 +89,13 @@
     "description": "iBTC is an LST protocol that provides 1:1 pegging for staked BTC, offering users unrestricted liquidity without a 28-day lock-up while ensuring the same yield as directly staking BTC on the exSat network. The protocol seamlessly combines high liquidity with stable staking rewards, making it an ideal solution for optimizing BTC staking returns"
   },
   {
-    "url": "https://rockx.com",
-    "name": "Bedrock uniETH",
+    "url": "https://inceptionlrt.com",
+    "name": "InceptionLRT (Isolated Restaking)",
     "category": [
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/bedrock-unieth.png",
-    "description": "uniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes"
+    "icon": "https://icons.llama.fi/inceptionlrt-(isolated-restaking).png",
+    "description": "Restake ETH LSTs on Inception, built on Eigenlayer to earn 2 layers of rewards"
   },
   {
     "url": "https://mitosis.org",
@@ -107,13 +107,13 @@
     "description": "Ecosystem-Owned Liquidity with L1 Chain that empowers LPs to make informed decisions on multi-chain yield while enabling protocols to bootstrap stable liquidity."
   },
   {
-    "url": "https://inceptionlrt.com",
-    "name": "InceptionLRT (Isolated Restaking)",
+    "url": "https://rockx.com",
+    "name": "Bedrock uniETH",
     "category": [
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/inceptionlrt-(isolated-restaking).png",
-    "description": "Restake ETH LSTs on Inception, built on Eigenlayer to earn 2 layers of rewards"
+    "icon": "https://icons.llama.fi/bedrock-unieth.jpg",
+    "description": "uniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes"
   },
   {
     "url": "https://yieldnest.finance",

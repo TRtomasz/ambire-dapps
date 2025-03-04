@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://maple.finance",
+    "name": "Maple",
+    "category": [
+      "Uncollateralized Lending",
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/maple.png",
+    "description": "Maple Finance is an institutional capital marketplace powered by blockchain technology."
+  }
+]
