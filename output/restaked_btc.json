@@ -4,8 +4,7 @@
     "name": "SolvBTC",
     "category": [
       "Bridge",
-      "Restaked BTC",
-      "RWA"
+      "Restaked BTC"
     ],
     "icon": "https://icons.llama.fi/solvbtc.jpg",
     "description": "Earn Solv Points By Staking Your BTC"
