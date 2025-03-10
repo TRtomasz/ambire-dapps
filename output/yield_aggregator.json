@@ -9,6 +9,16 @@
     "description": "Safe App for interacting with Yearn Vaults"
   },
   {
+    "url": "https://instadapp.io",
+    "name": "Fluid Lending",
+    "category": [
+      "Lending",
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/fluid-lending.png",
+    "description": "An ever-evolving DeFi protocol and financial system of the future by Instadapp"
+  },
+  {
     "url": "https://desyn.io",
     "name": "DeSyn Liquid Strategy",
     "category": [
@@ -19,14 +29,23 @@
     "description": "DeSyn is a decentralized liquidity infrastructure on Web3, empowering investors, projects, and security companies to invest, build, and manage collaboratively."
   },
   {
-    "url": "https://instadapp.io",
-    "name": "Fluid Lending",
+    "url": "https://cian.app",
+    "name": "CIAN Yield Layer",
     "category": [
-      "Lending",
+      "Yield Aggregator",
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/cian-yield-layer.jpg",
+    "description": "Redistribute Yield Sources For Sustainable DeFi & Optimized APY For Your Assets"
+  },
+  {
+    "url": "https://beefy.com",
+    "name": "Beefy",
+    "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/fluid-lending.png",
-    "description": "An ever-evolving DeFi protocol and financial system of the future by Instadapp"
+    "icon": "https://icons.llama.fi/beefy.png",
+    "description": "Beefy automates yield farming to make DeFi easy, safe and efficient for all. By autocompounding your tokens, Beefy unlocks higher returns so you earn more of what you love."
   },
   {
     "url": "https://swellnetwork.io",
@@ -41,44 +60,14 @@
     "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
   },
   {
-    "url": "https://stakestone.io",
-    "name": "StakeStone Berachain Vault",
+    "url": "https://summer.fi",
+    "name": "Summer.fi Pro",
     "category": [
-      "Managed Token Pools",
-      "Liquid Staking",
-      "Indexes",
+      "CDP Manager",
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/stakestone-berachain-vault.jpg",
-    "description": "Deposit ETH / BTC into the Berachain Vault to participate in the Boyco pre-deposit campaign and tap into future PoL incentives — all in one simple and seamless experience. Receive beraSTONE / beraSBTC to unlock more DeFi opportunities in trading, lending, and leveraging"
-  },
-  {
-    "url": "https://cian.app",
-    "name": "Cian Bera",
-    "category": [
-      "Yield",
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/cian-bera.jpg",
-    "description": "Redistribute Yield Sources For Sustainable DeFi"
-  },
-  {
-    "url": "https://beefy.com",
-    "name": "Beefy",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/beefy.png",
-    "description": "Beefy automates yield farming to make DeFi easy, safe and efficient for all. By autocompounding your tokens, Beefy unlocks higher returns so you earn more of what you love."
-  },
-  {
-    "url": "https://flamincome.finance",
-    "name": "Flamincome",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/flamincome.png",
-    "description": "Yield aggregator for flamingo finance"
+    "icon": "https://icons.llama.fi/summer.fi-pro.png",
+    "description": "Borrow, Multiply and Earn on the assets you hold across multiple protocols. Take advantage of powerful automation strategies and simple UX."
   },
   {
     "url": "https://superform.xyz",
@@ -90,43 +79,34 @@
     "description": "Superform is the onchain wealth app. Superform earns you the best returns on your crypto to grow your onchain wealth. Use SuperVaults to automatically optimize your earnings, or build your customized portfolio by directly depositing into over 800 earning opportunities"
   },
   {
+    "url": "https://flamincome.finance",
+    "name": "Flamincome",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/flamincome.png",
+    "description": "Yield aggregator for flamingo finance"
+  },
+  {
+    "url": "https://rings.money",
+    "name": "Rings",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/rings.jpg",
+    "description": "Rings is a meta-stablecoin for USD & ETH offering competitive yield for stakers, providing deep liquidity for Sonic DeFi, and funding Sonic DeFi projects via its lockers."
+  },
+  {
     "url": "https://kava.io",
     "name": "Kava Mint",
     "category": [
       "CDP",
       "Lending",
-      "Liquid Staking",
-      "Yield Aggregator"
+      "Yield Aggregator",
+      "Liquid Staking"
     ],
     "icon": "https://icons.llama.fi/kava-mint.png",
     "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
-  },
-  {
-    "url": "https://vfat.io",
-    "name": "vfat.io",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/vfat.png",
-    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
-  },
-  {
-    "url": "https://alphafi.xyz",
-    "name": "AlphaFi Agg",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/alphafi-agg.jpg",
-    "description": "Premier Yield Optimizer on the SUI Blockchain. Earn Safe, Real Yields with AlphaFi."
-  },
-  {
-    "url": "https://nucleusearn.io",
-    "name": "Nucleus",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/nucleus.jpg",
-    "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
   },
   {
     "url": "https://idle.finance",
@@ -138,13 +118,31 @@
     "description": "Idle is a decentralized protocol and set of products that aim to unlock the power of decentralized finance as a one-stop source of yield. It allows users to algorithmically optimize their digital asset allocation across leading DeFi protocols, whether they want to maximize it or keep tabs on their risk/return profile."
   },
   {
-    "url": "https://yieldyak.com",
-    "name": "Yield Yak Aggregator",
+    "url": "https://vfat.io",
+    "name": "vfat.io",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/yield-yak-aggregator.png",
-    "description": "Yield Yak Aggregator is an easy-to-use tool to earn more yield from defi farming on the Avalanche network."
+    "icon": "https://icons.llama.fi/vfat.png",
+    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
+  },
+  {
+    "url": "https://nucleusearn.io",
+    "name": "Nucleus",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/nucleus.jpg",
+    "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
+  },
+  {
+    "url": "https://alphafi.xyz",
+    "name": "AlphaFi Agg",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/alphafi-agg.jpg",
+    "description": "Premier Yield Optimizer on the SUI Blockchain. Earn Safe, Real Yields with AlphaFi."
   },
   {
     "url": "https://badger.com",
@@ -154,6 +152,15 @@
     ],
     "icon": "https://icons.llama.fi/badger-dao.jpg",
     "description": "BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi."
+  },
+  {
+    "url": "https://yieldyak.com",
+    "name": "Yield Yak Aggregator",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/yield-yak-aggregator.png",
+    "description": "Yield Yak Aggregator is an easy-to-use tool to earn more yield from defi farming on the Avalanche network."
   },
   {
     "url": "https://vesper.finance",
@@ -174,12 +181,12 @@
     "description": "Harvest - grows your crypto with automated yield strategies"
   },
   {
-    "url": "https://autofarm.network",
-    "name": "Autofarm",
+    "url": "https://pit.finance",
+    "name": "Pit Finance",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/autofarm.png",
-    "description": "The Autofarm ecosystem is a one-stop DeFi suite for all users. Autofarm aggregate yield opportunities using vaults and best swap rates using a DEX aggregator (AutoSwap). In addition, other products such as AutoAnalytics, AutoTrade & AutoPortfolio are set to go live later in 2021. The platform is currently live on BSC, HECO, Polygon, Avalanche, Fantom & Moonriver, with more chains to be introduced soon."
+    "icon": "https://icons.llama.fi/pit-finance.jpg",
+    "description": "Boosting your decentralized finance returns through strategic asset multiplication and advanced yield optimization techniques."
   }
 ]
