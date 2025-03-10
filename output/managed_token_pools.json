@@ -1,5 +1,16 @@
 [
   {
+    "url": "https://puffer.fi",
+    "name": "puffer",
+    "category": [
+      "Liquid Restaking",
+      "Managed Token Pools",
+      "Yield"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/0b414ccf4b117409fdd3f457cace6d8c/0b414ccf4b117409fdd3f457cace6d8c.png",
+    "description": "Native liquid Ethereum restaking supercharged by EigenLayer."
+  },
+  {
     "url": "https://ether.fi",
     "name": "ether.fi Stake",
     "category": [
@@ -11,13 +22,13 @@
   },
   {
     "url": "https://kelpdao.xyz",
-    "name": "Kelp rsETH",
+    "name": "Kelp",
     "category": [
       "Liquid Restaking",
       "Managed Token Pools"
     ],
     "icon": "https://icons.llama.fi/kelp-dao.png",
-    "description": "rsETH is a Liquid Restaked Token (LRT) issued by Kelp DAO designed to offer liquidity to illiquid assets deposited into restaking platforms, such as EigenLayer. It aims to address the risks and challenges posed by the current offering of restaking"
+    "description": "Kelp is the second largest liquid restaking protocol with ~$2B+ in TVL. Its liquid restaked token, rsETH, is live across 10+ major L2s and 40+ DeFi platforms, allowing users to restake while maintaining full liquidity."
   },
   {
     "url": "https://stakestone.io",
@@ -25,8 +36,7 @@
     "category": [
       "Managed Token Pools",
       "Liquid Staking",
-      "Indexes",
-      "Yield Aggregator"
+      "Indexes"
     ],
     "icon": "https://icons.llama.fi/stakestone-berachain-vault.jpg",
     "description": "Deposit ETH / BTC into the Berachain Vault to participate in the Boyco pre-deposit campaign and tap into future PoL incentives — all in one simple and seamless experience. Receive beraSTONE / beraSBTC to unlock more DeFi opportunities in trading, lending, and leveraging"

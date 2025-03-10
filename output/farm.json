@@ -1,5 +1,15 @@
 [
   {
+    "url": "https://cygnus.finance",
+    "name": "Cygnus Restake",
+    "category": [
+      "Farm",
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/cygnus-restake.jpg",
+    "description": "Decentralized and non-custodial cross chain(EVM and non-EVM) restaking protocol. Part of Cygnus--the first modular real yield layer."
+  },
+  {
     "url": "https://zircuit.com",
     "name": "Zircuit Staking",
     "category": [
@@ -18,6 +28,16 @@
     ],
     "icon": "https://icons.llama.fi/desyn-liquid-strategy.jpg",
     "description": "DeSyn is a decentralized liquidity infrastructure on Web3, empowering investors, projects, and security companies to invest, build, and manage collaboratively."
+  },
+  {
+    "url": "https://bsquared.network",
+    "name": "B2 Buzz",
+    "category": [
+      "Chain",
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/b2-buzz.jpg",
+    "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
   },
   {
     "url": "https://swellnetwork.io",
@@ -41,16 +61,6 @@
     "description": "Kernels are off-chain points that represent your share of the initial $CORN Community Airdrop"
   },
   {
-    "url": "https://bsquared.network",
-    "name": "B2 Buzz",
-    "category": [
-      "Chain",
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/b2-buzz.jpg",
-    "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
-  },
-  {
     "url": "https://ailayer.xyz",
     "name": "AILayer farm",
     "category": [
@@ -58,16 +68,6 @@
     ],
     "icon": "https://icons.llama.fi/ainn-layer2.jpg",
     "description": "Staking tokens via AILayer Dataset counts as TVL."
-  },
-  {
-    "url": "https://cygnus.finance",
-    "name": "Cygnus Finance",
-    "category": [
-      "RWA",
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/cygnus-finance.jpg",
-    "description": "Cygnus Finance is a RWA stablecoin protocol built on pure, short-term U.S. debt assets. It is also the first native interest-bearing stablecoin protocol and the first native RWA protocol on Base."
   },
   {
     "url": "https://bucketprotocol.io",
@@ -87,14 +87,5 @@
     ],
     "icon": "https://icons.llama.fi/cytonic-airdrop-campaign.jpg",
     "description": "The Cytonic airdrop campaign is designed to incentivize users and help bootstrap the initial blockchain TVL and ecosystem"
-  },
-  {
-    "url": "https://blackwing.fi",
-    "name": "Blackwing",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/blackwing.png",
-    "description": "The Modular Blockchain for Margin Trading"
   }
 ]
