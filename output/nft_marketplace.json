@@ -47,13 +47,13 @@
   },
   {
     "url": "https://immutable.com",
-    "name": "ImmutableX",
+    "name": "Immutable zkEVM",
     "category": [
-      "NFT Marketplace",
-      "Chain"
+      "Chain",
+      "NFT Marketplace"
     ],
-    "icon": "https://icons.llama.fi/immutablex.jpg",
-    "description": "Immutable is the leading platform for building web3 games on Ethereum. Powering the next generation of web3 games"
+    "icon": "https://icons.llama.fi/immutable-zkevm.png",
+    "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
   },
   {
     "url": "https://nftx.org",

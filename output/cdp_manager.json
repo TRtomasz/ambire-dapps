@@ -11,11 +11,12 @@
   },
   {
     "url": "https://summer.fi",
-    "name": "Summer.fi",
+    "name": "Summer.fi Pro",
     "category": [
-      "CDP Manager"
+      "CDP Manager",
+      "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/summer.fi.png",
-    "description": "Borrow, Multiply and Earn on the assets you hold across multiple protocols. Take advantage of powerful automation strategies and simple UX. Discord: https://discord.gg/summerfi"
+    "icon": "https://icons.llama.fi/summer.fi-pro.png",
+    "description": "Borrow, Multiply and Earn on the assets you hold across multiple protocols. Take advantage of powerful automation strategies and simple UX."
   }
 ]

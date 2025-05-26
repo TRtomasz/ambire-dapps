@@ -1,22 +1,24 @@
 [
   {
+    "url": "https://lombard.finance",
+    "name": "Lombard",
+    "category": [
+      "Restaked BTC",
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/lombard.jpg",
+    "description": "Lombard is transforming Bitcoin's utility from a store of value into a productive financial tool through a security-first liquid Bitcoin primitive—LBTC. LBTC is a liquid, yield-bearing, natively cross-chain, and 1:1 backed by bitcoin."
+  },
+  {
     "url": "https://solv.finance",
     "name": "SolvBTC",
     "category": [
       "Bridge",
       "Restaked BTC",
-      "RWA"
+      "Onchain Capital Allocator",
+      "Basis Trading"
     ],
     "icon": "https://icons.llama.fi/solvbtc.jpg",
-    "description": "Earn Solv Points By Staking Your BTC"
-  },
-  {
-    "url": "https://satlayer.xyz",
-    "name": "SatLayer",
-    "category": [
-      "Restaked BTC"
-    ],
-    "icon": "https://icons.llama.fi/satlayer.jpg",
-    "description": "SatLayer unleashes the possibilities of BTC, the world's best economic collateral, to secure any type of dApp or protocol as an Bitcoin Validated Service (BVS), fundamentally upgrading security for all of crypto"
+    "description": "SolvBTC is a universal Bitcoin reserve token that connects Bitcoin’s value across blockchains, backed 1:1 by a transparent, secure reserve. It empowers you to tap into DeFi and CeFi markets effortlessly, transforming idle Bitcoin into a dynamic asset for lending, trading, or yield generation—while keeping you in full control."
   }
 ]

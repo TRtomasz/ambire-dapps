@@ -1,0 +1,156 @@
+[
+  {
+    "url": "https://puffer.fi",
+    "name": "puffer",
+    "category": [
+      "Liquid Restaking",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/0b414ccf4b117409fdd3f457cace6d8c/0b414ccf4b117409fdd3f457cace6d8c.png",
+    "description": "Native liquid Ethereum restaking supercharged by EigenLayer."
+  },
+  {
+    "url": "https://ether.fi",
+    "name": "ether.fi Stake",
+    "category": [
+      "Liquid Restaking",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/ether.fi.jpg",
+    "description": "Decentralized and non-custodial Ethereum staking protocol."
+  },
+  {
+    "url": "https://spark.fi",
+    "name": "SparkLend",
+    "category": [
+      "Lending",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/sparklend.jpg",
+    "description": "Spark is an at-scale stablecoin allocation engine capturing yield across DeFi, RWAs and exchanges. This yield is provided cross-chain to Savings USDS holders"
+  },
+  {
+    "url": "https://veda.tech",
+    "name": "Veda",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/veda.png",
+    "description": "Veda is the leading DeFi vault platform, enabling crypto applications, asset issuers, and protocols to build consumer-grade cross chain yield products. Veda's technology is powering many of DeFi's largest vault products, including ether.fi Liquid, Lombard DeFi Vault, and Mantle cmETH"
+  },
+  {
+    "url": "https://kelpdao.xyz",
+    "name": "Kelp",
+    "category": [
+      "Liquid Restaking",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/kelp-dao.png",
+    "description": "Kelp is the second largest liquid restaking protocol with ~$2B+ in TVL. Its liquid restaked token, rsETH, is live across 10+ major L2s and 40+ DeFi platforms, allowing users to restake while maintaining full liquidity."
+  },
+  {
+    "url": "https://solv.finance",
+    "name": "SolvBTC",
+    "category": [
+      "Bridge",
+      "Restaked BTC",
+      "Onchain Capital Allocator",
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/solvbtc.jpg",
+    "description": "SolvBTC is a universal Bitcoin reserve token that connects Bitcoin’s value across blockchains, backed 1:1 by a transparent, secure reserve. It empowers you to tap into DeFi and CeFi markets effortlessly, transforming idle Bitcoin into a dynamic asset for lending, trading, or yield generation—while keeping you in full control."
+  },
+  {
+    "url": "https://concrete.xyz",
+    "name": "Concrete",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/concrete.png",
+    "description": "Access automated DeFi yields on Berachain while earning rewards from Ethena, Concrete and the Berachain ecosystem"
+  },
+  {
+    "url": "https://turtle.club",
+    "name": "Turtle Club",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/turtle-club.jpg",
+    "description": "Turtle Club is a liquidity distribution protocol that helps you earn more from your Web3 activity."
+  },
+  {
+    "url": "https://upshift.finance",
+    "name": "Upshift",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/upshift.jpg",
+    "description": "Upshift opens access to transparent yields backed by secure risk controls. Supply, stake and access cross-chain yields."
+  },
+  {
+    "url": "https://stakestone.io",
+    "name": "StakeStone STONE",
+    "category": [
+      "Liquid Staking",
+      "Onchain Capital Allocator",
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/stakestone-stone.jpg",
+    "description": "One-Stop Staking Protocol For Omnichain LST Liquidity."
+  },
+  {
+    "url": "https://moonwell.fi",
+    "name": "Moonwell Lending",
+    "category": [
+      "Lending",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/moonwell-lending.png",
+    "description": "Moonwell is an open lending and borrowing DeFi protocol on Moonbeam & Moonriver."
+  },
+  {
+    "url": "https://seamlessprotocol.com",
+    "name": "Seamless Vaults",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/seamless-vaults.jpg",
+    "description": "A decentralized, non-custodial liquidity market that creates a more seamless experience for Suppliers and Borrowers."
+  },
+  {
+    "url": "https://lagoon.finance",
+    "name": "Lagoon",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/lagoon.jpg",
+    "description": "Lagoon provides an infrastructure to launch, manage and scale on-chain vaults — powered by ERC-7540 standard and Safe. Users can enter any strategies and earn interest over their assets. While each curator process deposits and withdrawals in an asynchronous manner and at different intervals"
+  },
+  {
+    "url": "https://mitosis.org",
+    "name": "Mitosis",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/mitosis.jpg",
+    "description": "Mitosis is an L1 network designed for programmable liquidity that enhances the liquidity provision experience for both DeFi projects and liquidity providers. With Mitosis, DeFi projects can conduct targeted marketing to attract liquidity. Liquidity providers can trade tokenized LP positions on the Mitosis chain, allowing users to easily trade yield positions.."
+  },
+  {
+    "url": "https://knightrade.io",
+    "name": "Knightrade",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/knightrade.png",
+    "description": "Knightrade is the on-chain, multi-strategy hedge fund platform, run by verified traders from top hedge funds and investment banks"
+  },
+  {
+    "url": "https://sommelier.finance",
+    "name": "Sommelier",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/sommelier.png",
+    "description": "Provider of automated vaults that find best-in-class yields while mitigating risk."
+  }
+]

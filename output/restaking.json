@@ -18,13 +18,13 @@
     "description": "Symbiotic is a generalized shared security system enabling decentralized networks to bootstrap powerful, fully sovereign ecosystems."
   },
   {
-    "url": "https://karak.network",
-    "name": "Karak",
+    "url": "https://kerneldao.com",
+    "name": "Kernel",
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/karak.png",
-    "description": "The universal restaking layer powered by the entire cryptoeconomy."
+    "icon": "https://icons.llama.fi/kernel.jpg",
+    "description": "Kernel is pioneering restaking on the BNB Chain. Restake BNB, BTC and other yield-bearing tokens and earn higher rewards."
   },
   {
     "url": "https://pell.network",
@@ -36,13 +36,23 @@
     "description": "Pell uses BTC and its LSD to provide actively validated services (AVS) to BTC ecosystem projects, plug the gap in ecosystem security, reduce cost to develop ecosystem applications and optimise yield avenue for BTC holders. Pell aims to become the largest shared liquidity and cryptonomic security layer in the BTC ecosystem across market cycles"
   },
   {
-    "url": "https://kerneldao.com",
-    "name": "Kernel",
+    "url": "https://karak.network",
+    "name": "Karak",
+    "category": [
+      "Restaking",
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/karak.png",
+    "description": "The universal restaking layer powered by the entire cryptoeconomy."
+  },
+  {
+    "url": "https://b14g.xyz",
+    "name": "b14g",
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/kernel.jpg",
-    "description": "Decentralised Security to supercharge & blitzscale BNB, while providing exciting rewards & DeFi opportunities."
+    "icon": "https://icons.llama.fi/b14g.jpg",
+    "description": "b14g is a modular dual-staking layer for Bitcoin that lets protocols secure their networks with both BTC and their native token—reducing sell pressure, increasing token utility, and improving sustainability."
   },
   {
     "url": "https://parasail.network",
@@ -52,14 +62,5 @@
     ],
     "icon": "https://icons.llama.fi/parasail.png",
     "description": "Parasail is an incentive interface focused on creating seamless DePIN experiences. By aggregating capital, hardware resources, and DePIN users, Parasail breaks down silos and fosters strong synergies among various DePIN networks."
-  },
-  {
-    "url": "https://allstake.org",
-    "name": "Allstake",
-    "category": [
-      "Restaking"
-    ],
-    "icon": "https://icons.llama.fi/allstake.png",
-    "description": "The first Omnichain Meshed Restaking protocol that brings trustless scaling to ALL chains"
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "url": "https://synthetix.io",
-    "name": "Synthetix V3",
-    "category": [
-      "Derivatives",
-      "Synthetics"
-    ],
-    "icon": "https://icons.llama.fi/synthetix-v3.png",
-    "description": "Synthetix provides liquidity for permissionless derivatives like perpetual futures, options, parimutuel markets, and more across EVM chains. Powering the next generation of permissionless protocols."
-  },
-  {
     "url": "https://alchemix.fi",
     "name": "Alchemix",
     "category": [
@@ -28,15 +18,6 @@
     "description": "A Protocol that helps DAO's generate positive Outcomes"
   },
   {
-    "url": "https://rumpel.xyz",
-    "name": "Rumpel Labs",
-    "category": [
-      "Synthetics"
-    ],
-    "icon": "https://icons.llama.fi/rumpel-labs.jpg",
-    "description": "Rumpel is a point tokenization protocol. It enables secondary market liquidity and price discovery for offchain loyalty points, unlocking new opportunities for point holders, traders, airdrop hunters, and point issuers."
-  },
-  {
     "url": "https://youves.com",
     "name": "Youves",
     "category": [
@@ -53,5 +34,14 @@
     ],
     "icon": "https://icons.llama.fi/metronome-synth.jpg",
     "description": "Metronome Synth is a leading synthetic protocol that enables users to post multi-collateral assets from their existing crypto holdings and create a multitude of synthetic assets in one complete platform. Synth will enable the creation of crypto synthetic assets, and the ability to swap synthetic assets with zero-slippage."
+  },
+  {
+    "url": "https://rumpel.xyz",
+    "name": "Rumpel Labs",
+    "category": [
+      "Synthetics"
+    ],
+    "icon": "https://icons.llama.fi/rumpel-labs.jpg",
+    "description": "Rumpel is a point tokenization protocol. It enables secondary market liquidity and price discovery for offchain loyalty points, unlocking new opportunities for point holders, traders, airdrop hunters, and point issuers."
   }
 ]

@@ -1,0 +1,129 @@
+[
+  {
+    "url": "https://euler.finance",
+    "name": "Euler V2",
+    "category": [
+      "Lending",
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/euler-v2.png",
+    "description": "Euler revolutionizes DeFi by letting any asset become collateral for a lending market. Lenders and borrowers get market leading risk-adjusted rates. Builders can create and manage markets exactly how they want them, with institutional-grade security."
+  },
+  {
+    "url": "https://gauntlet.xyz",
+    "name": "Gauntlet",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/gauntlet.jpg",
+    "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto."
+  },
+  {
+    "url": "https://steakhouse.financial",
+    "name": "Steakhouse Financial",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/steakhouse-financial.jpg",
+    "description": "We build transparent, efficient, and accessible financial primitives to power the next generation of capital markets on public blockchains"
+  },
+  {
+    "url": "https://mevcapital.com",
+    "name": "MEV Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/mev-capital.jpg",
+    "description": "MEV Capital is an Investment & risk management firm focused on open-ended strategies across Decentralized Finance on EVM chains since 2020."
+  },
+  {
+    "url": "https://re7labs.xyz",
+    "name": "Re7 Labs",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/re7-labs.jpg",
+    "description": "Investors and operators across decentralised ecosystems of digital assets"
+  },
+  {
+    "url": "https://bprotocol.org",
+    "name": "B.Protocol Curator",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/b.protocol-curator.jpg",
+    "description": "B.Protocol is a DeFi economic risk mitigation hub."
+  },
+  {
+    "url": "https://k3.capital",
+    "name": "K3 Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/k3-capital.jpg",
+    "description": "Leading institutional asset and risk management in decentralized finance"
+  },
+  {
+    "url": "https://substack.com",
+    "name": "Block Analitica",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/block-analitica.jpg",
+    "description": "The risk team behind the DAI (USDS) stablecoin"
+  },
+  {
+    "url": "https://relend.network",
+    "name": "Relend Network",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/relend-network.jpg",
+    "description": "Relend Network solves stablecoin liquidity shortages across L2s by supplying rUSDC to their DeFi ecosystems."
+  },
+  {
+    "url": "https://hakutora.xyz",
+    "name": "Hakutora",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/hakutora.jpg",
+    "description": "Hakutora focuses on uncovering on-chain opportunities and managing risk, providing top-tier asset management and risk control solutions."
+  },
+  {
+    "url": "https://apostro.xyz",
+    "name": "Apostro",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/apostro.jpg",
+    "description": "Money markets for professional & institutional traders. Specialized vaults for BTCfi, stablecoins & more"
+  },
+  {
+    "url": "https://tulipa.capital",
+    "name": "Tulipa Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/tulipa-capital.jpg",
+    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
+  },
+  {
+    "url": "https://hyperithm.com",
+    "name": "Hyperithm",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/hyperithm.jpg",
+    "description": "Hyperithm is a premier digital asset manager based in Tokyo and Seoul, active in quant trading and venture investments."
+  },
+  {
+    "url": "https://alterscope.org",
+    "name": "Alterscope",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/alterscope.jpg",
+    "description": "Alterscope is a permissionless platform for creating, deploying and managing verified, autonomous risk agents. By leveraging zero-knowledge proofs and swarm intelligence, it empowers the future of agent-driven finance."
+  }
+]

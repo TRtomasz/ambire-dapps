@@ -44,32 +44,5 @@
     ],
     "icon": "https://icons.llama.fi/maya-protocol.jpg",
     "description": "MAYAChain is a friendly fork of THORChain. Similarly, it does not rely on pegging or wrapping assets, instead managing funds directly in on-chain vaults and safeguarding them through economic security. This is achieved using the Tendermint consensus engine, Cosmos-SDK state machine, and GG20 Threshold Signature Scheme (TSS)."
-  },
-  {
-    "url": "https://crosscurve.fi",
-    "name": "CrossCurve (by EYWA)",
-    "category": [
-      "Cross Chain Bridge"
-    ],
-    "icon": "https://icons.llama.fi/crosscurve-(by-eywa).png",
-    "description": "CrossCurve is a cross-chain trading and yield protocol built on Curve, creating a unified cross-chain liquidity market by aggregating existing Curve pools"
-  },
-  {
-    "url": "https://counterstake.org",
-    "name": "Counterstake",
-    "category": [
-      "Cross Chain Bridge"
-    ],
-    "icon": "https://icons.llama.fi/counterstake.png",
-    "description": "Counterstake is a permissionless and fully decentralized cross-chain bridge."
-  },
-  {
-    "url": "https://symbiosis.finance",
-    "name": "Symbiosis",
-    "category": [
-      "Cross Chain Bridge"
-    ],
-    "icon": "https://icons.llama.fi/symbiosis.png",
-    "description": "Symbiosis aggregates decentralized exchange liquidity across any EVM and non-EVM networks. Swap any token and transfer liquidity. Yes, any."
   }
 ]

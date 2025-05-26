@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://anvil.xyz",
+    "name": "Anvil",
+    "category": [
+      "Collateral Management"
+    ],
+    "icon": "https://icons.llama.fi/anvil.jpg",
+    "description": "Anvil is a DeFi protocol for onchain collateral management that allows users to issue fully secured credit."
+  }
+]
