@@ -1,5 +1,26 @@
 [
   {
+    "url": "https://desyn.io",
+    "name": "DeSyn Liquid Strategy",
+    "category": [
+      "Yield Aggregator",
+      "Farm",
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/desyn-liquid-strategy.jpg",
+    "description": "DeSyn is a decentralized liquidity infrastructure on Web3, empowering investors, projects, and security companies to invest, build, and manage collaboratively."
+  },
+  {
+    "url": "https://cygnus.finance",
+    "name": "Cygnus Restake",
+    "category": [
+      "Farm",
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/cygnus-restake.jpg",
+    "description": "Decentralized and non-custodial cross chain(EVM and non-EVM) restaking protocol. Part of Cygnus--the first modular real yield layer."
+  },
+  {
     "url": "https://zircuit.com",
     "name": "Zircuit Staking",
     "category": [
@@ -8,37 +29,6 @@
     ],
     "icon": "https://icons.llama.fi/zircuit-staking.png",
     "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
-  },
-  {
-    "url": "https://desyn.io",
-    "name": "DeSyn Liquid Strategy",
-    "category": [
-      "Yield Aggregator",
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/desyn-liquid-strategy.jpg",
-    "description": "DeSyn is a decentralized liquidity infrastructure on Web3, empowering investors, projects, and security companies to invest, build, and manage collaboratively."
-  },
-  {
-    "url": "https://swellnetwork.io",
-    "name": "Swell L2 Farm",
-    "category": [
-      "Farm",
-      "Liquid Staking",
-      "Liquid Restaking",
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/swell.png",
-    "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
-  },
-  {
-    "url": "https://usecorn.com",
-    "name": "Corn Kernels",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/corn-kernels.jpg",
-    "description": "Kernels are off-chain points that represent your share of the initial $CORN Community Airdrop"
   },
   {
     "url": "https://bsquared.network",
@@ -51,6 +41,15 @@
     "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
   },
   {
+    "url": "https://hemi.xyz",
+    "name": "Hemi Staking",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/hemi-staking.jpg",
+    "description": "Stake your assets to earn rewards and boost your points"
+  },
+  {
     "url": "https://ailayer.xyz",
     "name": "AILayer farm",
     "category": [
@@ -60,14 +59,17 @@
     "description": "Staking tokens via AILayer Dataset counts as TVL."
   },
   {
-    "url": "https://cygnus.finance",
-    "name": "Cygnus Finance",
+    "url": "https://swellnetwork.io",
+    "name": "Swell Liquid Staking",
     "category": [
-      "RWA",
-      "Farm"
+      "Liquid Staking",
+      "Liquid Restaking",
+      "Farm",
+      "Chain",
+      "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/cygnus-finance.jpg",
-    "description": "Cygnus Finance is a RWA stablecoin protocol built on pure, short-term U.S. debt assets. It is also the first native interest-bearing stablecoin protocol and the first native RWA protocol on Base."
+    "icon": "https://icons.llama.fi/swell.png",
+    "description": "Swell is a non-custodial liquid staking protocol"
   },
   {
     "url": "https://bucketprotocol.io",
@@ -78,23 +80,5 @@
     ],
     "icon": "https://icons.llama.fi/bucket-cdp.jpg",
     "description": "Bucket Protocol is the leading Collateralized Debt Position (CDP) protocol within the Sui ecosystem, supporting multiple assets for collateralization while extending stablecoin loans in $BUCK at a fixed low-cost. Its real-time liquidation mechanism ensures both security and capital efficiency, and the inbuilt flash loan services facilitate the price stability of the stablecoin BUCK."
-  },
-  {
-    "url": "https://cytonic.com",
-    "name": "Cytonic Airdrop Campaign",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/cytonic-airdrop-campaign.jpg",
-    "description": "The Cytonic airdrop campaign is designed to incentivize users and help bootstrap the initial blockchain TVL and ecosystem"
-  },
-  {
-    "url": "https://blackwing.fi",
-    "name": "Blackwing",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/blackwing.png",
-    "description": "The Modular Blockchain for Margin Trading"
   }
 ]
