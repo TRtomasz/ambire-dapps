@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://stability.farm",
-    "name": "Stability",
-    "category": [
-      "Liquidity manager"
-    ],
-    "icon": "https://icons.llama.fi/stability.jpg",
-    "description": "Asset management, liquidity mining and yield farming platform."
-  },
-  {
     "url": "https://arrakis.fi",
     "name": "Arrakis V1",
     "category": [
@@ -16,6 +7,15 @@
     ],
     "icon": "https://icons.llama.fi/arrakis-v1.jpg",
     "description": "Arrakis is a protocol that specializes in concentrated & active liquidity management. By creating a curated marketplace of novel tokenized LP strategies, Arrakis facilitates deep liquidity and optimizes LP earnings across its vaults."
+  },
+  {
+    "url": "https://stability.farm",
+    "name": "Stability",
+    "category": [
+      "Liquidity manager"
+    ],
+    "icon": "https://icons.llama.fi/stability.jpg",
+    "description": "Asset management, liquidity mining and yield farming platform."
   },
   {
     "url": "https://ichi.org",

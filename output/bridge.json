@@ -70,15 +70,6 @@
     "description": "SolvBTC is a universal Bitcoin reserve token that connects Bitcoin’s value across blockchains, backed 1:1 by a transparent, secure reserve. It empowers you to tap into DeFi and CeFi markets effortlessly, transforming idle Bitcoin into a dynamic asset for lending, trading, or yield generation—while keeping you in full control."
   },
   {
-    "url": "https://merlinchain.io",
-    "name": "Merlins Seal",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/merlins-seal.png",
-    "description": "Merlin's Seal is an event associated with the Merlin Chain, focusing on the fair launch of its governance token, $MERL. Users stake assets to earn M-points, which are then used to determine the distribution of $MERL rewards"
-  },
-  {
     "url": "https://axelar.network",
     "name": "Axelar Cross Chain",
     "category": [
@@ -86,6 +77,15 @@
     ],
     "icon": "https://icons.llama.fi/axelar-cross-chain.jpg",
     "description": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click."
+  },
+  {
+    "url": "https://merlinchain.io",
+    "name": "Merlins Seal",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/merlins-seal.png",
+    "description": "Merlin's Seal is an event associated with the Merlin Chain, focusing on the fair launch of its governance token, $MERL. Users stake assets to earn M-points, which are then used to determine the distribution of $MERL rewards"
   },
   {
     "url": "https://unirouter.io",
@@ -106,15 +106,6 @@
     "description": "Free your assets early with http://free.tech. Instantly liquify your staked assets and unlock extra yield potential."
   },
   {
-    "url": "https://pumpbtc.xyz",
-    "name": "PumpBTC",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/pumpbtc.png",
-    "description": "PumpBTC serves as a Liquid Restaking Solution for Babylon. PumpBTC aims to help BTC holders maximize yields through Babylon's liquid staking - essentially rebuilding WBTC with native yield"
-  },
-  {
     "url": "https://bouncebit.io",
     "name": "BounceBit CeDeFi Yield",
     "category": [
@@ -123,6 +114,15 @@
     ],
     "icon": "https://icons.llama.fi/bouncebit-cedefi.jpg",
     "description": "BounceBit CeDeFi combines CeFi and DeFi to generate yield on various assets across multiple chains. The yield is generated via delta-neutral basis trading on centralized exchanges, facilitated by CEX-integrated custody solutions like CEFFU. BounceBit CeDeFi uses the ERC-4626 Tokenized Vault Standard to enable daily rebasing of generated revenue"
+  },
+  {
+    "url": "https://pumpbtc.xyz",
+    "name": "PumpBTC",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/pumpbtc.png",
+    "description": "PumpBTC serves as a Liquid Restaking Solution for Babylon. PumpBTC aims to help BTC holders maximize yields through Babylon's liquid staking - essentially rebuilding WBTC with native yield"
   },
   {
     "url": "https://bitlayer.org",
@@ -179,15 +179,6 @@
     "description": "BOB is a new Bitcoin EVM L2, secured by Bitcoin PoW and connected to ETH as a rollup."
   },
   {
-    "url": "https://fuel.network",
-    "name": "Fuel Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/fuel.jpg",
-    "description": "Bridge between Fuel Ignition and Ethereum"
-  },
-  {
     "url": "https://celer.network",
     "name": "cBridge",
     "category": [
@@ -197,13 +188,13 @@
     "description": "Celer cBridge is a multi-chain network that enables instant, low-cost and ANY-to-ANY value transfers within and across different blockchains, such as Ethereum and Polkadot, and different layer-2 scaling solutions on top, such as Optimistic Rollup, ZK Rollup and sidechains"
   },
   {
-    "url": "https://poly.network",
-    "name": "Poly Network",
+    "url": "https://fuel.network",
+    "name": "Fuel Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/poly-network.png",
-    "description": "Poly Network is a global cross-chain protocol for implementing blockchain interoperability and building Web3.0 infrastructure. Poly Network has also integrated over 20 blockchains."
+    "icon": "https://icons.llama.fi/fuel.jpg",
+    "description": "Bridge between Fuel Ignition and Ethereum"
   },
   {
     "url": "https://buildwithsygma.com",
@@ -213,6 +204,15 @@
     ],
     "icon": "https://icons.llama.fi/sygma.png",
     "description": "Sygma is a modular, open-source, cross-chain connectivity protocol. With Sygma, developers can easily extend their applications across EVM, Substrate, and beyond"
+  },
+  {
+    "url": "https://poly.network",
+    "name": "Poly Network",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/poly-network.png",
+    "description": "Poly Network is a global cross-chain protocol for implementing blockchain interoperability and building Web3.0 infrastructure. Poly Network has also integrated over 20 blockchains."
   },
   {
     "url": "https://wrapped.com",
@@ -280,15 +280,6 @@
     "description": "Allbridge Classic is a simple, modern, and reliable way to transfer assets between different networks. It is a bridge between both EVM and non-EVM compatible blockchains. Our mission is to make the blockchain world borderless by providing a tool to freely move assets between various blockchains."
   },
   {
-    "url": "https://morphl2.io",
-    "name": "Morph Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/morph-bridge.jpg",
-    "description": "Bridge between Ethereum and Morph L2"
-  },
-  {
     "url": "https://octusbridge.io",
     "name": "Octus Bridge",
     "category": [
@@ -296,6 +287,24 @@
     ],
     "icon": "https://icons.llama.fi/octus-bridge.jpg",
     "description": "Cross-chain transfers"
+  },
+  {
+    "url": "https://iotube.org",
+    "name": "ioTube",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/iotube.png",
+    "description": "ioTube is the decentralized bridge for connecting Ethereum, Binance Smart Chain, Polygon (Matic), and IoTeX. ioTube enables bi-directional exchange of tokens between IoTeX, Ethereum, Binance Smart Chain, and now Polygon!"
+  },
+  {
+    "url": "https://morphl2.io",
+    "name": "Morph Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/morph-bridge.jpg",
+    "description": "Bridge between Ethereum and Morph L2"
   },
   {
     "url": "https://dexalot.com",
@@ -314,15 +323,6 @@
     ],
     "icon": "https://icons.llama.fi/mezo-network.jpg",
     "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
-  },
-  {
-    "url": "https://iotube.org",
-    "name": "ioTube",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/iotube.png",
-    "description": "ioTube is the decentralized bridge for connecting Ethereum, Binance Smart Chain, Polygon (Matic), and IoTeX. ioTube enables bi-directional exchange of tokens between IoTeX, Ethereum, Binance Smart Chain, and now Polygon!"
   },
   {
     "url": "https://xlink.network",

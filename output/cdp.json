@@ -20,16 +20,6 @@
     "description": "Curve is a decentralized exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading"
   },
   {
-    "url": "https://avalonfinance.xyz",
-    "name": "Avalon USDa",
-    "category": [
-      "CDP",
-      "Lending"
-    ],
-    "icon": "https://icons.llama.fi/avalon-labs.jpg",
-    "description": "USDa is the flagship CDP (Collateralized Debt Position) product based on Avalon's CeDeFi lending platform"
-  },
-  {
     "url": "https://lista.org",
     "name": "Lista Lending",
     "category": [
@@ -38,6 +28,16 @@
     ],
     "icon": "https://icons.llama.fi/lista-lending.png",
     "description": "Lista Lending is a decentralized P2P lending protocol on BNB Chain that uses a vault-based system to pool liquidity and allocate it across lending markets based on supply and demand."
+  },
+  {
+    "url": "https://avalonfinance.xyz",
+    "name": "Avalon USDa",
+    "category": [
+      "CDP",
+      "Lending"
+    ],
+    "icon": "https://icons.llama.fi/avalon-labs.jpg",
+    "description": "USDa is the flagship CDP (Collateralized Debt Position) product based on Avalon's CeDeFi lending platform"
   },
   {
     "url": "https://beraborrow.com",
@@ -59,11 +59,12 @@
   },
   {
     "url": "https://usefelix.xyz",
-    "name": "Felix",
+    "name": "Felix CDP",
     "category": [
-      "CDP"
+      "CDP",
+      "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/felix.jpg",
+    "icon": "https://icons.llama.fi/felix-cdp.jpg",
     "description": "Felix is a synthetic dollar protocol on Hyperliquid L1"
   },
   {
@@ -85,6 +86,15 @@
     "description": "River is building the circulatory system for crypto, connecting assets, liquidity, and yield across chains. Powered by the omni-CDP stablecoin protocol"
   },
   {
+    "url": "https://reservoir.xyz",
+    "name": "Reservoir Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/reservoir-protocol.jpg",
+    "description": "Reservoir is a pioneering stablecoin protocol designed to be the most trusted and scalable solution in decentralized finance. Offering a suite of products, including the rUSD stablecoin, srUSD liquid yielding asset, and trUSD term-based yielding asset, Reservoir is at the forefront of DeFi innovation. With a focus on real-world asset integration and consistent yield generation, Reservoir is poised to play a crucial role in onboarding the next trillion dollars of assets into the decentralized economy."
+  },
+  {
     "url": "https://aladdin.club",
     "name": "fx Protocol",
     "category": [
@@ -102,15 +112,6 @@
     ],
     "icon": "https://icons.llama.fi/inverse-finance-firm.jpg",
     "description": "FiRM is a Fixed Rate Market protocol to borrow the DOLA usd stablecoin at a fixed-rate with the DOLA Borrowing Right token DBR."
-  },
-  {
-    "url": "https://reservoir.xyz",
-    "name": "Reservoir Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/reservoir-protocol.jpg",
-    "description": "Reservoir is a pioneering stablecoin protocol designed to be the most trusted and scalable solution in decentralized finance. Offering a suite of products, including the rUSD stablecoin, srUSD liquid yielding asset, and trUSD term-based yielding asset, Reservoir is at the forefront of DeFi innovation. With a focus on real-world asset integration and consistent yield generation, Reservoir is poised to play a crucial role in onboarding the next trillion dollars of assets into the decentralized economy."
   },
   {
     "url": "https://eth.limo",
@@ -181,6 +182,15 @@
     "description": "Bring Bitcoin's liquidity across blockchains"
   },
   {
+    "url": "https://angle.money",
+    "name": "Angle",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/angle.jpg",
+    "description": "Angle is an over-collateralized, decentralized and capital-efficient stablecoin protocol. It is based on two smart contract modules. Angle Core module allows to mint agEUR from any token at face value, open perpetuals on collateral/stablecoin pairs, or deposit tokens to earn yield. Angle Borrowing module allows to borrow or get leverage with agEUR from tokens deposited as collateral. Angle is governed by veANGLE holders."
+  },
+  {
     "url": "https://pando.im",
     "name": "Pando Leaf",
     "category": [
@@ -189,15 +199,6 @@
     ],
     "icon": "https://icons.llama.fi/pando.png",
     "description": "Pando Leaf: a decentralized financial network to minting stablecoins"
-  },
-  {
-    "url": "https://angle.money",
-    "name": "Angle",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/angle.jpg",
-    "description": "Angle is an over-collateralized, decentralized and capital-efficient stablecoin protocol. It is based on two smart contract modules. Angle Core module allows to mint agEUR from any token at face value, open perpetuals on collateral/stablecoin pairs, or deposit tokens to earn yield. Angle Borrowing module allows to borrow or get leverage with agEUR from tokens deposited as collateral. Angle is governed by veANGLE holders."
   },
   {
     "url": "https://abracadabra.money",
@@ -228,13 +229,13 @@
     "description": "Frankencoin is a collateralized, oracle-free stablecoin that tracks the value of the Swiss franc."
   },
   {
-    "url": "https://liquidloans.io",
-    "name": "LiquidLoans",
+    "url": "https://overnight.fi",
+    "name": "Overnight Finance",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/liquidloans.jpg",
-    "description": "Fully Backed Stablecoin. Low 110% Collateral Ratio. No Repayment Schedule. Immutable. Governance-Free. No Admin Keys."
+    "icon": "https://icons.llama.fi/overnight-finance.jpg",
+    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
   },
   {
     "url": "https://btcfi.one",
@@ -246,13 +247,13 @@
     "description": "BTCFi is a decentralized crosschain Bitcoin asset management platform offering native Bitcoin collateralization to mint a Bitcoin-backed stablecoin, BtcUSD."
   },
   {
-    "url": "https://overnight.fi",
-    "name": "Overnight Finance",
+    "url": "https://liquidloans.io",
+    "name": "LiquidLoans",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/overnight-finance.jpg",
-    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
+    "icon": "https://icons.llama.fi/liquidloans.jpg",
+    "description": "Fully Backed Stablecoin. Low 110% Collateral Ratio. No Repayment Schedule. Immutable. Governance-Free. No Admin Keys."
   },
   {
     "url": "https://zoth.io",
@@ -273,15 +274,6 @@
     "description": "EARN Protocol is a decentralized borrowing protocol on PulseChain that allows you to draw interest-free loans against $PLSX used as collateral. Loans are paid out in PXDC (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%."
   },
   {
-    "url": "https://fathom.fi",
-    "name": "Fathom CDP",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/fathom-cdp.jpg",
-    "description": "Fathom Protocol is a comprehensive DeFi platform providing liquidity solutions to both retail and institutional participants. Users can deposit XDC and staked XDC to mint FXD, USD stablecoin, which can be used to gain exposure to yield opportunities through our RWA Vaults and Trade Finance Pools. Crypto and RWA holders can also borrow FXD using their assets as collateral."
-  },
-  {
     "url": "https://particle.trade",
     "name": "Particle DUO",
     "category": [
@@ -300,15 +292,6 @@
     "description": "A decentralized, stable and non pegged currency made for the digital economy"
   },
   {
-    "url": "https://synnax.fi",
-    "name": "Synnax Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/synnax-protocol.png",
-    "description": "Over-collateralized stablecoin protocol powered by market-maker yield, delivering scalable stability and robust returns for DeFi users."
-  },
-  {
     "url": "https://bitsmiley.io",
     "name": "bitSmiley",
     "category": [
@@ -316,5 +299,14 @@
     ],
     "icon": "https://icons.llama.fi/bitsmiley.jpg",
     "description": "BTC-Native stablecoin protocol, Initially funded by OKX_Ventures & ABCDELabs."
+  },
+  {
+    "url": "https://synnax.fi",
+    "name": "Synnax Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/synnax-protocol.png",
+    "description": "Over-collateralized stablecoin protocol powered by market-maker yield, delivering scalable stability and robust returns for DeFi users."
   }
 ]
