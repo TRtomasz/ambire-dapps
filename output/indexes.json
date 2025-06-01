@@ -13,8 +13,8 @@
     "name": "StakeStone STONE",
     "category": [
       "Liquid Staking",
-      "Onchain Capital Allocator",
-      "Indexes"
+      "Indexes",
+      "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llama.fi/stakestone-stone.jpg",
     "description": "One-Stop Staking Protocol For Omnichain LST Liquidity."

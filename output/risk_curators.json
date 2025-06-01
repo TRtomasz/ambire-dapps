@@ -10,15 +10,6 @@
     "description": "Euler revolutionizes DeFi by letting any asset become collateral for a lending market. Lenders and borrowers get market leading risk-adjusted rates. Builders can create and manage markets exactly how they want them, with institutional-grade security."
   },
   {
-    "url": "https://gauntlet.xyz",
-    "name": "Gauntlet",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/gauntlet.jpg",
-    "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto."
-  },
-  {
     "url": "https://steakhouse.financial",
     "name": "Steakhouse Financial",
     "category": [
@@ -26,6 +17,15 @@
     ],
     "icon": "https://icons.llama.fi/steakhouse-financial.jpg",
     "description": "We build transparent, efficient, and accessible financial primitives to power the next generation of capital markets on public blockchains"
+  },
+  {
+    "url": "https://gauntlet.xyz",
+    "name": "Gauntlet",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/gauntlet.jpg",
+    "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto."
   },
   {
     "url": "https://mevcapital.com",
@@ -64,15 +64,6 @@
     "description": "Leading institutional asset and risk management in decentralized finance"
   },
   {
-    "url": "https://substack.com",
-    "name": "Block Analitica",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/block-analitica.jpg",
-    "description": "The risk team behind the DAI (USDS) stablecoin"
-  },
-  {
     "url": "https://relend.network",
     "name": "Relend Network",
     "category": [
@@ -80,6 +71,15 @@
     ],
     "icon": "https://icons.llama.fi/relend-network.jpg",
     "description": "Relend Network solves stablecoin liquidity shortages across L2s by supplying rUSDC to their DeFi ecosystems."
+  },
+  {
+    "url": "https://substack.com",
+    "name": "Block Analitica",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/block-analitica.jpg",
+    "description": "The risk team behind the DAI (USDS) stablecoin"
   },
   {
     "url": "https://hakutora.xyz",
@@ -109,6 +109,15 @@
     "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
   },
   {
+    "url": "https://alterscope.org",
+    "name": "Alterscope",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/alterscope.jpg",
+    "description": "Alterscope is a permissionless platform for creating, deploying and managing verified, autonomous risk agents. By leveraging zero-knowledge proofs and swarm intelligence, it empowers the future of agent-driven finance."
+  },
+  {
     "url": "https://hyperithm.com",
     "name": "Hyperithm",
     "category": [
@@ -118,12 +127,21 @@
     "description": "Hyperithm is a premier digital asset manager based in Tokyo and Seoul, active in quant trading and venture investments."
   },
   {
-    "url": "https://alterscope.org",
-    "name": "Alterscope",
+    "url": "https://alphaping.ch",
+    "name": "Alphaping",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/alterscope.jpg",
-    "description": "Alterscope is a permissionless platform for creating, deploying and managing verified, autonomous risk agents. By leveraging zero-knowledge proofs and swarm intelligence, it empowers the future of agent-driven finance."
+    "icon": "https://icons.llama.fi/alphaping.jpg",
+    "description": "We specialize in managing decentralized finance (DeFi) lending vaults and strategically deploying capital to maximize returns."
+  },
+  {
+    "url": "https://yearn.fi",
+    "name": "Yearn Curating",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/yearn-curating.jpg",
+    "description": "Yearn Finance is DeFi's premier yield aggregator. Giving individuals, DAOs and other protocols a way to deposit digital assets and receive yield"
   }
 ]

@@ -102,13 +102,13 @@
   },
   {
     "url": "https://manta.network",
-    "name": "Manta CeDeFi",
+    "name": "Manta Pacific",
     "category": [
-      "Basis Trading",
-      "Chain"
+      "Chain",
+      "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/manta-cedefi.jpg",
-    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
+    "icon": "https://icons.llama.fi/manta-pacific.jpg",
+    "description": "Bridge between Ethereum and Manta Pacific Chain."
   },
   {
     "url": "https://avantprotocol.com",

@@ -191,6 +191,15 @@
     "description": "Vesper is a platform for easy-to-use DeFi products."
   },
   {
+    "url": "https://yo.xyz",
+    "name": "YO Protocol",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/yo-protocol.png",
+    "description": "Set it and forget it. YO is your secure multi-chain yield optimizer, continuously rebalancing to deliver the best risk-adjusted yield in DeFi."
+  },
+  {
     "url": "https://nucleusearn.io",
     "name": "Nucleus",
     "category": [
@@ -198,6 +207,15 @@
     ],
     "icon": "https://icons.llama.fi/nucleus.jpg",
     "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
+  },
+  {
+    "url": "https://yield.fi",
+    "name": "YieldFi",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/yieldfi.jpg",
+    "description": "YieldFi: The First Streamlined Asset Management Platform"
   },
   {
     "url": "https://alphafi.xyz",
@@ -209,15 +227,6 @@
     "description": "Premier Yield Optimizer on the SUI Blockchain. Earn Safe, Real Yields with AlphaFi."
   },
   {
-    "url": "https://yo.xyz",
-    "name": "YO Protocol",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/yo-protocol.png",
-    "description": "Set it and forget it. YO is your secure multi-chain yield optimizer, continuously rebalancing to deliver the best risk-adjusted yield in DeFi."
-  },
-  {
     "url": "https://ipor.io",
     "name": "IPOR Fusion",
     "category": [
@@ -225,15 +234,6 @@
     ],
     "icon": "https://icons.llama.fi/ipor-fusion.svg",
     "description": "IPOR Fusion is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
-  },
-  {
-    "url": "https://yield.fi",
-    "name": "YieldFi",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/yieldfi.jpg",
-    "description": "YieldFi: The First Streamlined Asset Management Platform"
   },
   {
     "url": "https://pit.finance",

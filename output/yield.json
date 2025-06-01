@@ -85,15 +85,6 @@
     "description": "Stake DAO is a non-custodial decentralized protocol enabling users to access optimized yield opportunities in DeFi"
   },
   {
-    "url": "https://equilibria.fi",
-    "name": "Equilibria",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/equilibria.png",
-    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
-  },
-  {
     "url": "https://asterdex.com",
     "name": "Aster asBNB",
     "category": [
@@ -106,6 +97,15 @@
     "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
   },
   {
+    "url": "https://equilibria.fi",
+    "name": "Equilibria",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/equilibria.png",
+    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
+  },
+  {
     "url": "https://spectra.finance",
     "name": "Spectra V2",
     "category": [
@@ -113,15 +113,6 @@
     ],
     "icon": "https://icons.llama.fi/spectra-v2.jpg",
     "description": "Secure your future yield at a fixed rate."
-  },
-  {
-    "url": "https://vaultcraft.io",
-    "name": "VaultCraft",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/vaultcraft.jpg",
-    "description": "Build, deploy, and zap into automated yield strategies with vaultcraft"
   },
   {
     "url": "https://aladdin.club",
@@ -132,6 +123,15 @@
     ],
     "icon": "https://icons.llama.fi/fx-protocol.jpg",
     "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
+  },
+  {
+    "url": "https://vaultcraft.io",
+    "name": "VaultCraft",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/vaultcraft.jpg",
+    "description": "Build, deploy, and zap into automated yield strategies with vaultcraft"
   },
   {
     "url": "https://rate-x.io",
@@ -170,15 +170,6 @@
     "description": "Stream offers exposure to market making opportunities and delta neutral strategies via decentralized strategies. In exchange for using this software, users may pay up to 10% in performance fees and Stream may keep more if it outperforms predicted APY. These strategies focus primarily on DEX and DeFi only trades. However in the event of reaching over capacity, Stream reserves the right to work with third parties such as major market makers to earn yield for users. If these positions are entered into there will be an announcement and it will be visible in the transparency dashboard."
   },
   {
-    "url": "https://loopedhype.com",
-    "name": "Looped Hype",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/looped-hype.png",
-    "description": "Looped Hype (LHYPE) is an automated looping protocol that maximizes yield on staked HYPE and other yield bearing tokens. Users simply deposit HYPE to get LHYPE, then behind the scenes the protocol uses an automated looping strategy to generate additional yield, on top of any network rewards earned from staking"
-  },
-  {
     "url": "https://ring.exchange",
     "name": "Ring Few",
     "category": [
@@ -186,15 +177,6 @@
     ],
     "icon": "https://icons.llama.fi/ring-protocol.png",
     "description": "Wrapper protocol within Ring Protocol"
-  },
-  {
-    "url": "https://napier.finance",
-    "name": "Napier",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/napier.jpg",
-    "description": "A modular yield tokenization protocol that enables you to own, manage, create any yield products without permissions."
   },
   {
     "url": "https://tranchess.com",
@@ -206,6 +188,24 @@
     "description": "Tranchess is a yield enhancing asset tracker with varied risk-return solutions"
   },
   {
+    "url": "https://loopedhype.com",
+    "name": "Looped Hype",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/looped-hype.png",
+    "description": "Looped Hype (LHYPE) is an automated looping protocol that maximizes yield on staked HYPE and other yield bearing tokens. Users simply deposit HYPE to get LHYPE, then behind the scenes the protocol uses an automated looping strategy to generate additional yield, on top of any network rewards earned from staking"
+  },
+  {
+    "url": "https://napier.finance",
+    "name": "Napier",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/napier.jpg",
+    "description": "A modular yield tokenization protocol that enables you to own, manage, create any yield products without permissions."
+  },
+  {
     "url": "https://royco.org",
     "name": "Royco Protocol",
     "category": [
@@ -215,15 +215,6 @@
     "description": "The Incentivized Action Market (IAM) Protocol."
   },
   {
-    "url": "https://toros.finance",
-    "name": "Toros",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/toros.png",
-    "description": "Automated Vaults to maximize your returns."
-  },
-  {
     "url": "https://noon.capital",
     "name": "Noon",
     "category": [
@@ -231,6 +222,15 @@
     ],
     "icon": "https://icons.llama.fi/noon.png",
     "description": "Noon is a yield optimization protocol that generates delta-neutral returns, maximizes governance token utility, and ensures fair, sustainable value distribution"
+  },
+  {
+    "url": "https://toros.finance",
+    "name": "Toros",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/toros.png",
+    "description": "Automated Vaults to maximize your returns."
   },
   {
     "url": "https://latch.io",
@@ -251,6 +251,15 @@
     "description": "Mole is a DeFi protocol provided leveraged yield farming, hedge fund and savings."
   },
   {
+    "url": "https://amphor.io",
+    "name": "Amphor",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/amphor.jpg",
+    "description": "Amphor offers easy access to innovative yield strategies on DeFi ecosystem."
+  },
+  {
     "url": "https://originprotocol.com",
     "name": "Origin Sonic",
     "category": [
@@ -259,15 +268,6 @@
     ],
     "icon": "https://icons.llama.fi/origin-sonic.jpg",
     "description": "Liquid staking for Sonic with boosted yield and peg stability"
-  },
-  {
-    "url": "https://amphor.io",
-    "name": "Amphor",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/amphor.jpg",
-    "description": "Amphor offers easy access to innovative yield strategies on DeFi ecosystem."
   },
   {
     "url": "https://belt.fi",
@@ -297,6 +297,16 @@
     "description": "Thetanuts Finance is a decentralized on-chain options protocol focused on altcoin options, allowing users to go long or short on on-chain options."
   },
   {
+    "url": "https://woo.org",
+    "name": "WOOFi Earn",
+    "category": [
+      "Yield",
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/woofi-earn.png",
+    "description": "WOOFi Earn features supercharger vaults allow users to provide liquidity in WOOFi swap and earn single sided yields by delegating the liquidity management to the sPMM pool manager."
+  },
+  {
     "url": "https://beradrome.com",
     "name": "Beradrome",
     "category": [
@@ -304,14 +314,5 @@
     ],
     "icon": "https://icons.llama.fi/beradrome.png",
     "description": "Beradrome is the prime restaking and liquidity marketplace on Berachain. Beradrome combines features from top DeFi models into one power house, allowing ve(3,3) for any yield bearing asset on Berachain"
-  },
-  {
-    "url": "https://llama.airforce",
-    "name": "Llama Airforce",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/llama-airforce.png",
-    "description": "Airdropping knowledge bombs about the Curve ecosystem."
   }
 ]
