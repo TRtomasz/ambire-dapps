@@ -18,6 +18,24 @@
     "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
   },
   {
+    "url": "https://origami.finance",
+    "name": "Origami Finance",
+    "category": [
+      "Leveraged Farming"
+    ],
+    "icon": "https://icons.llama.fi/origami-finance.jpg",
+    "description": "Origami is a first-in-class automated leverage protocol launching on Ethereum and 🐻"
+  },
+  {
+    "url": "https://kai.finance",
+    "name": "Kai Finance",
+    "category": [
+      "Leveraged Farming"
+    ],
+    "icon": "https://icons.llama.fi/kai-finance.png",
+    "description": "Kai Finance is a next-generation leveraged yield platform on the Sui Network."
+  },
+  {
     "url": "https://alpacafinance.org",
     "name": "Alpaca Leveraged Yield Farming",
     "category": [
@@ -28,15 +46,6 @@
     "description": "The 1st leveraged yield farming protocol on BSC"
   },
   {
-    "url": "https://origami.finance",
-    "name": "Origami Finance",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/origami-finance.jpg",
-    "description": "Origami is a first-in-class automated leverage protocol launching on Ethereum and 🐻"
-  },
-  {
     "url": "https://arkis.xyz",
     "name": "Arkis",
     "category": [
@@ -44,15 +53,6 @@
     ],
     "icon": "https://icons.llama.fi/arkis.jpg",
     "description": "Arkis is a DeFi Prime Broker that acts as a credit protocol by providing on-chain loans to institutional asset managers from the protocol lenders."
-  },
-  {
-    "url": "https://kai.finance",
-    "name": "Kai Finance",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/kai-finance.png",
-    "description": "Kai Finance is a next-generation leveraged yield platform on the Sui Network."
   },
   {
     "url": "https://factor.fi",
