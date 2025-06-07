@@ -7,5 +7,14 @@
     ],
     "icon": "https://icons.llama.fi/csigma-finance.jpg",
     "description": "cSigma is a blockchain-based protocol that connects global borrowers and lenders by standardizing and streamlining the commercial lending process, empowering credit service providers and pool managers while offering crypto-uncorrelated yield opportunities to stablecoin holders transparently and efficiently."
+  },
+  {
+    "url": "https://pencilfinance.io",
+    "name": "Pencil Finance",
+    "category": [
+      "RWA Lending"
+    ],
+    "icon": "https://icons.llama.fi/pencil-finance.jpg",
+    "description": "Pencil Finance is a DeFi lending protocol that tokenizes real-world student loans, offering risk-adjusted yields via a dual-tranche system backed by off-chain repayments."
   }
 ]

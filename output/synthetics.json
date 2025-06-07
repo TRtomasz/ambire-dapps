@@ -9,15 +9,6 @@
     "description": "Alchemix is a DeFi protocol that allows for the creation of synthetic tokens that represent the future yield of a deposit. It enables users to retrieve near instant tokenized value against temporary* deposits of stablecoins.\r\n"
   },
   {
-    "url": "https://outcome.finance",
-    "name": "Outcome Finance",
-    "category": [
-      "Synthetics"
-    ],
-    "icon": "https://icons.llama.fi/outcome-finance.png",
-    "description": "A Protocol that helps DAO's generate positive Outcomes"
-  },
-  {
     "url": "https://youves.com",
     "name": "Youves",
     "category": [
@@ -25,6 +16,15 @@
     ],
     "icon": "https://icons.llama.fi/youves.png",
     "description": "Youves is a decentralised, non-custodial and self-governed platform for the creation and management of synthetic assets. Minters of synthetic assets earn a passive income in YOU, the governance token on Youves."
+  },
+  {
+    "url": "https://outcome.finance",
+    "name": "Outcome Finance",
+    "category": [
+      "Synthetics"
+    ],
+    "icon": "https://icons.llama.fi/outcome-finance.png",
+    "description": "A Protocol that helps DAO's generate positive Outcomes"
   },
   {
     "url": "https://metronome.io",

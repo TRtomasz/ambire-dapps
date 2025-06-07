@@ -67,13 +67,23 @@
     "description": "Native Bitcoin Bridge. ETH EVM support. No added fees or middlemen, ever."
   },
   {
-    "url": "https://world.org",
-    "name": "World Chain",
+    "url": "https://bsquared.network",
+    "name": "B2 Buzz",
+    "category": [
+      "Chain",
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/b2-buzz.jpg",
+    "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
+  },
+  {
+    "url": "https://sophon.xyz",
+    "name": "Sophon Bridge",
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/world-chain.png",
-    "description": "World Chain is a permissionless Layer 2 blockchain on Ethereum, built with the OP Stack, offering scalability, security, Sybil resistance, community governance, and is part of the OP Superchain ecosystem"
+    "icon": "https://icons.llama.fi/sophon.png",
+    "description": "Sophon is a ZK chain"
   },
   {
     "url": "https://unichain.org",
@@ -85,32 +95,13 @@
     "description": "The L2 designed for DeFi. By Uniswap. Built on the Superchain. "
   },
   {
-    "url": "https://starknet.io",
-    "name": "Starknet Bridge",
+    "url": "https://world.org",
+    "name": "World Chain",
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/starknet-bridge.png",
-    "description": "Transfer assets between StarkNet and Ethereum"
-  },
-  {
-    "url": "https://bsquared.network",
-    "name": "B2 Buzz",
-    "category": [
-      "Chain",
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/b2-buzz.jpg",
-    "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
-  },
-  {
-    "url": "https://soniclabs.com",
-    "name": "Sonic Gateway",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/sonic-gateway.png",
-    "description": "Canonical Bridge for Sonic chain"
+    "icon": "https://icons.llama.fi/world-chain.png",
+    "description": "World Chain is a permissionless Layer 2 blockchain on Ethereum, built with the OP Stack, offering scalability, security, Sybil resistance, community governance, and is part of the OP Superchain ecosystem"
   },
   {
     "url": "https://noble.xyz",
@@ -122,13 +113,31 @@
     "description": "Native stablecoin and RWA issuance for the Cosmos ecosystem"
   },
   {
-    "url": "https://gnosischain.com",
-    "name": "xDAI Stake Bridge",
+    "url": "https://soniclabs.com",
+    "name": "Sonic Gateway",
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/xdai-stake.png",
-    "description": "The first-ever USD stable blockchain and multi-chain staking token.\r\n"
+    "icon": "https://icons.llama.fi/sonic-gateway.png",
+    "description": "Canonical Bridge for Sonic chain"
+  },
+  {
+    "url": "https://starknet.io",
+    "name": "Starknet Bridge",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/starknet-bridge.png",
+    "description": "Transfer assets between StarkNet and Ethereum"
+  },
+  {
+    "url": "https://sui.io",
+    "name": "SuiBridge",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/suibridge.jpg",
+    "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture."
   },
   {
     "url": "https://karak.network",
@@ -141,13 +150,13 @@
     "description": "The universal restaking layer powered by the entire cryptoeconomy."
   },
   {
-    "url": "https://sui.io",
-    "name": "SuiBridge",
+    "url": "https://gnosischain.com",
+    "name": "xDAI Stake Bridge",
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/suibridge.jpg",
-    "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture."
+    "icon": "https://icons.llama.fi/xdai-stake.png",
+    "description": "The first-ever USD stable blockchain and multi-chain staking token.\r\n"
   },
   {
     "url": "https://rsk.co",
@@ -157,15 +166,6 @@
     ],
     "icon": "https://icons.llama.fi/rsk-bridge.jpg",
     "description": "RSK bridge with Ethereum. You can convert your tokens from RSK to Ethereum and viceversa."
-  },
-  {
-    "url": "https://linea.build",
-    "name": "Linea Bridge",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/linea-bridge.jpg",
-    "description": "The main bridge, on a technical level, in Linea is the Canonical Message Bridge. This is the underlying set of smart contracts which keep track of receiving requests to move tokens to the other layer, and of sending the message that those tokens should be transferred."
   },
   {
     "url": "https://frax.finance",
@@ -187,6 +187,15 @@
     ],
     "icon": "https://icons.llama.fi/blast-bridge.jpg",
     "description": "Bridge between Ethereum and Blast Mainnet."
+  },
+  {
+    "url": "https://linea.build",
+    "name": "Linea Bridge",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/linea-bridge.jpg",
+    "description": "The main bridge, on a technical level, in Linea is the Canonical Message Bridge. This is the underlying set of smart contracts which keep track of receiving requests to move tokens to the other layer, and of sending the message that those tokens should be transferred."
   },
   {
     "url": "https://txsync.io",
@@ -216,13 +225,14 @@
     "description": "We offer Web3 founders in Emerging Markets the ultimate ecosystem to bring their real-world applications to life."
   },
   {
-    "url": "https://sophon.xyz",
-    "name": "Sophon Bridge",
+    "url": "https://manta.network",
+    "name": "Manta CeDeFi",
     "category": [
+      "Basis Trading",
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/sophon.png",
-    "description": "Sophon is a ZK chain"
+    "icon": "https://icons.llama.fi/manta-cedefi.jpg",
+    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
   },
   {
     "url": "https://scroll.io",
@@ -234,27 +244,26 @@
     "description": "Transfer assets between Scroll and Ethereum"
   },
   {
-    "url": "https://manta.network",
-    "name": "Manta CeDeFi",
-    "category": [
-      "Basis Trading",
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/manta-cedefi.jpg",
-    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
-  },
-  {
     "url": "https://swellnetwork.io",
     "name": "Swell Liquid Staking",
     "category": [
       "Liquid Staking",
       "Liquid Restaking",
       "Farm",
-      "Chain",
-      "Yield Aggregator"
+      "Yield Aggregator",
+      "Chain"
     ],
     "icon": "https://icons.llama.fi/swell.png",
     "description": "Swell is a non-custodial liquid staking protocol"
+  },
+  {
+    "url": "https://pulsechain.com",
+    "name": "PulseChain Bridge",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/pulsechain-bridge.jpg",
+    "description": "Bridge between PulseChain and Ethereum"
   },
   {
     "url": "https://chilizchain.com",
@@ -264,24 +273,6 @@
     ],
     "icon": "https://icons.llama.fi/chiliz-governance-staking.jpg",
     "description": "CHZ locked for the governance of Chiliz Chain, Validators and delegators stake their CHZ to take part in the governance of the PoSA chain in order to create and validate new blocks as well as to vote on any changes which require governance consensus."
-  },
-  {
-    "url": "https://pulsechain.com",
-    "name": "Pulsechain",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/pulsechain.jpg",
-    "description": "Energy efficient, Faster, cheaper, fee-burning Ethereum fork."
-  },
-  {
-    "url": "https://zklink.io",
-    "name": "zkLink Nova",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/zklink-nova.jpg",
-    "description": "The first aggregated Layer 3 zkEVM network that links Ethereum and its Layer 2 Rollups for any use case, with exceptional composability, interoperability, scalability, and security through zero-knowledge proofs."
   },
   {
     "url": "https://abs.xyz",
@@ -300,6 +291,15 @@
     ],
     "icon": "https://icons.llama.fi/gravity-by-galxe.png",
     "description": "Gravity, built by Galxe, is an omnichannel settlement layer designed for mass adoption. It uses Zero-Knowledge Proofs, staking architecture, and advanced consensus mechanisms for high performance."
+  },
+  {
+    "url": "https://sx.technology",
+    "name": "SX Rollup Bridge",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/sx-bridge.jpg",
+    "description": "Bridge between Ethereum and SX Network"
   },
   {
     "url": "https://taiko.xyz",
@@ -329,15 +329,6 @@
     "description": "Solana on Ethereum - Ethereum's first SVM L2"
   },
   {
-    "url": "https://sx.technology",
-    "name": "SX Rollup Bridge",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/sx-bridge.jpg",
-    "description": "Bridge between Ethereum and SX Network"
-  },
-  {
     "url": "https://zksync.io",
     "name": "zkSync Lite Bridge",
     "category": [
@@ -357,6 +348,15 @@
     "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
   },
   {
+    "url": "https://zklink.io",
+    "name": "zkLink Nova",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/zklink-nova.jpg",
+    "description": "The first aggregated Layer 3 zkEVM network that links Ethereum and its Layer 2 Rollups for any use case, with exceptional composability, interoperability, scalability, and security through zero-knowledge proofs."
+  },
+  {
     "url": "https://superbridge.app",
     "name": "Soneium Bridge",
     "category": [
@@ -364,15 +364,6 @@
     ],
     "icon": "https://icons.llama.fi/soneium-bridge.jpg",
     "description": "Bridge between Ethereum and Soneium"
-  },
-  {
-    "url": "https://cronos.org",
-    "name": "Cronos zkEVM Bridge",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/cronos-zkevm-bridge.jpg",
-    "description": "The next generation zero-knowledge layer 2 chain"
   },
   {
     "url": "https://rss3.io",
@@ -384,14 +375,13 @@
     "description": "Bridge to/from the VSL chain"
   },
   {
-    "url": "https://coredao.org",
-    "name": "Core Earn",
+    "url": "https://cronos.org",
+    "name": "Cronos zkEVM Bridge",
     "category": [
-      "Liquid Staking",
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/core-earn.png",
-    "description": "Liquid Staking on the Core Network. Users deposited CORE and get stCORE"
+    "icon": "https://icons.llama.fi/cronos-zkevm-bridge.jpg",
+    "description": "The next generation zero-knowledge layer 2 chain"
   },
   {
     "url": "https://inkonchain.com",
@@ -421,6 +411,16 @@
     "description": "Bridge between Ethereum and Mode Network."
   },
   {
+    "url": "https://coredao.org",
+    "name": "CORE Bridge",
+    "category": [
+      "Chain",
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llama.fi/core-bridge.jpg",
+    "description": "Bridge between Ethereum and Core Network"
+  },
+  {
     "url": "https://zora.co",
     "name": "Zora Bridge",
     "category": [
@@ -428,5 +428,14 @@
     ],
     "icon": "https://icons.llama.fi/zora.jpg",
     "description": "Ethereum L2: post for fun. earn for real"
+  },
+  {
+    "url": "https://moonchain.com",
+    "name": "Moonchain",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/moonchain.jpg",
+    "description": "The MXC Moonchain zkEVM is an IoT-centric L3 on Arbitrum forked from the Taiko codebase"
   }
 ]
