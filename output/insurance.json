@@ -6,6 +6,15 @@
       "Insurance"
     ],
     "icon": "https://icons.llama.fi/nexus-mutual.png",
-    "description": "Nexus Mutual offers decentralized cover against smart contract failure.\r\n"
+    "description": "Nexus Mutual offers decentralized cover against smart contract failure."
+  },
+  {
+    "url": "https://cork.tech",
+    "name": "Cork V1",
+    "category": [
+      "Insurance"
+    ],
+    "icon": "https://icons.llama.fi/cork-v1.jpg",
+    "description": "The tokenized risk protocol. Hedge, trade, and earn on the risk that stablecoins, LSTs, & LRTs lose their peg"
   }
 ]
