@@ -18,15 +18,6 @@
     "description": "Symbiotic is a generalized shared security system enabling decentralized networks to bootstrap powerful, fully sovereign ecosystems."
   },
   {
-    "url": "https://kerneldao.com",
-    "name": "Kernel",
-    "category": [
-      "Restaking"
-    ],
-    "icon": "https://icons.llama.fi/kernel.jpg",
-    "description": "Kernel is pioneering restaking on the BNB Chain. Restake BNB, BTC and other yield-bearing tokens and earn higher rewards."
-  },
-  {
     "url": "https://pell.network",
     "name": "Pell Network",
     "category": [
@@ -34,6 +25,15 @@
     ],
     "icon": "https://icons.llama.fi/pell-network.png",
     "description": "Pell uses BTC and its LSD to provide actively validated services (AVS) to BTC ecosystem projects, plug the gap in ecosystem security, reduce cost to develop ecosystem applications and optimise yield avenue for BTC holders. Pell aims to become the largest shared liquidity and cryptonomic security layer in the BTC ecosystem across market cycles"
+  },
+  {
+    "url": "https://kerneldao.com",
+    "name": "Kernel",
+    "category": [
+      "Restaking"
+    ],
+    "icon": "https://icons.llama.fi/kernel.jpg",
+    "description": "Kernel is pioneering restaking on the BNB Chain. Restake BNB, BTC and other yield-bearing tokens and earn higher rewards."
   },
   {
     "url": "https://karak.network",

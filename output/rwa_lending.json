@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://usd.ai",
+    "name": "USD AI",
+    "category": [
+      "RWA Lending"
+    ],
+    "icon": "https://icons.llama.fi/usd-ai.jpg",
+    "description": "USD.AI is a yield-bearing synthetic dollar, backed by infrastructure hardware powering compute, energy, and telecom."
+  },
+  {
     "url": "https://csigma.finance",
     "name": "cSigma Finance",
     "category": [

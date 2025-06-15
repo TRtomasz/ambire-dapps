@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://stability.farm",
-    "name": "Stability",
-    "category": [
-      "Liquidity manager"
-    ],
-    "icon": "https://icons.llama.fi/stability.jpg",
-    "description": "Asset management, liquidity mining and yield farming platform."
-  },
-  {
     "url": "https://arrakis.fi",
     "name": "Arrakis V1",
     "category": [
@@ -16,6 +7,15 @@
     ],
     "icon": "https://icons.llama.fi/arrakis-v1.jpg",
     "description": "Arrakis is a protocol that specializes in concentrated & active liquidity management. By creating a curated marketplace of novel tokenized LP strategies, Arrakis facilitates deep liquidity and optimizes LP earnings across its vaults."
+  },
+  {
+    "url": "https://stability.farm",
+    "name": "Stability",
+    "category": [
+      "Liquidity manager"
+    ],
+    "icon": "https://icons.llama.fi/stability.jpg",
+    "description": "Asset management, liquidity mining and yield farming platform."
   },
   {
     "url": "https://ichi.org",
@@ -43,6 +43,15 @@
     ],
     "icon": "https://icons.llama.fi/arcadia-v2.jpg",
     "description": "Leverage farming protocol on base"
+  },
+  {
+    "url": "https://steer.finance",
+    "name": "Steer Protocol",
+    "category": [
+      "Liquidity manager"
+    ],
+    "icon": "https://icons.llama.fi/steer-protocol.jpg",
+    "description": "Steer is a decentralized compute protocol that provides a scaling solution for data processing through its robust off-chain infrastructure. Services are targeted at leveraging off-chain data for on-chain automation, such as automated liquidity management in DeFi."
   },
   {
     "url": "https://acryptos.com",
