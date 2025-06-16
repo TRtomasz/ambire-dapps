@@ -76,6 +76,18 @@
     "description": "The Elixir network is a new primitive, purpose-built to power the next generation of institutional liquidity. Elixir powers deUSD – a fully collateralized, yield-bearing synthetic dollar. Elixir is the most widely adopted network by RWAs: exclusively bringing funds from BlackRock, Hamilton Lane, and others to DeFi for the first time through deUSD. The Elixir network is secured by 30,000+ global validators."
   },
   {
+    "url": "https://asterdex.com",
+    "name": "Aster asBNB",
+    "category": [
+      "Yield",
+      "Basis Trading",
+      "Derivatives",
+      "CeDeFi"
+    ],
+    "icon": "https://icons.llama.fi/aster-asbnb.jpg",
+    "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
+  },
+  {
     "url": "https://stakedao.org",
     "name": "StakeDAO",
     "category": [
@@ -94,16 +106,14 @@
     "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
   },
   {
-    "url": "https://asterdex.com",
-    "name": "Aster asBNB",
+    "url": "https://aladdin.club",
+    "name": "fx Protocol",
     "category": [
-      "Yield",
-      "Basis Trading",
-      "Derivatives",
-      "CeDeFi"
+      "CDP",
+      "Yield"
     ],
-    "icon": "https://icons.llama.fi/aster-asbnb.jpg",
-    "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
+    "icon": "https://icons.llama.fi/fx-protocol.jpg",
+    "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
   },
   {
     "url": "https://spectra.finance",
@@ -115,25 +125,6 @@
     "description": "Secure your future yield at a fixed rate."
   },
   {
-    "url": "https://vaultcraft.io",
-    "name": "VaultCraft",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/vaultcraft.jpg",
-    "description": "Build, deploy, and zap into automated yield strategies with vaultcraft"
-  },
-  {
-    "url": "https://aladdin.club",
-    "name": "fx Protocol",
-    "category": [
-      "CDP",
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/fx-protocol.jpg",
-    "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
-  },
-  {
     "url": "https://rate-x.io",
     "name": "RateX",
     "category": [
@@ -141,6 +132,15 @@
     ],
     "icon": "https://icons.llama.fi/ratex.jpg",
     "description": "World’s 1st Leveraged Yield Exchange"
+  },
+  {
+    "url": "https://vaultcraft.io",
+    "name": "VaultCraft",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/vaultcraft.jpg",
+    "description": "Build, deploy, and zap into automated yield strategies with vaultcraft"
   },
   {
     "url": "https://tokemak.xyz",
@@ -170,15 +170,6 @@
     "description": "Stream offers exposure to market making opportunities and delta neutral strategies via decentralized strategies. In exchange for using this software, users may pay up to 10% in performance fees and Stream may keep more if it outperforms predicted APY. These strategies focus primarily on DEX and DeFi only trades. However in the event of reaching over capacity, Stream reserves the right to work with third parties such as major market makers to earn yield for users. If these positions are entered into there will be an announcement and it will be visible in the transparency dashboard."
   },
   {
-    "url": "https://loopedhype.com",
-    "name": "Looped Hype",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/looped-hype.png",
-    "description": "Looped Hype (LHYPE) is an automated looping protocol that maximizes yield on staked HYPE and other yield bearing tokens. Users simply deposit HYPE to get LHYPE, then behind the scenes the protocol uses an automated looping strategy to generate additional yield, on top of any network rewards earned from staking"
-  },
-  {
     "url": "https://ring.exchange",
     "name": "Ring Few",
     "category": [
@@ -188,13 +179,13 @@
     "description": "Wrapper protocol within Ring Protocol"
   },
   {
-    "url": "https://napier.finance",
-    "name": "Napier",
+    "url": "https://loopedhype.com",
+    "name": "Looped Hype",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/napier.jpg",
-    "description": "A modular yield tokenization protocol that enables you to own, manage, create any yield products without permissions."
+    "icon": "https://icons.llama.fi/looped-hype.png",
+    "description": "Looped Hype (LHYPE) is an automated looping protocol that maximizes yield on staked HYPE and other yield bearing tokens. Users simply deposit HYPE to get LHYPE, then behind the scenes the protocol uses an automated looping strategy to generate additional yield, on top of any network rewards earned from staking"
   },
   {
     "url": "https://tranchess.com",
@@ -215,13 +206,13 @@
     "description": "The Incentivized Action Market (IAM) Protocol."
   },
   {
-    "url": "https://toros.finance",
-    "name": "Toros",
+    "url": "https://napier.finance",
+    "name": "Napier",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/toros.png",
-    "description": "Automated Vaults to maximize your returns."
+    "icon": "https://icons.llama.fi/napier.jpg",
+    "description": "A modular yield tokenization protocol that enables you to own, manage, create any yield products without permissions."
   },
   {
     "url": "https://noon.capital",
@@ -233,6 +224,15 @@
     "description": "Noon is a yield optimization protocol that generates delta-neutral returns, maximizes governance token utility, and ensures fair, sustainable value distribution"
   },
   {
+    "url": "https://infinifi.xyz",
+    "name": "infiniFi",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/infinifi.jpg",
+    "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena."
+  },
+  {
     "url": "https://latch.io",
     "name": "Latch",
     "category": [
@@ -242,6 +242,15 @@
     "description": "Deposit idle tokens, select a preferred vault, and earn yield and points"
   },
   {
+    "url": "https://toros.finance",
+    "name": "Toros",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/toros.png",
+    "description": "Automated Vaults to maximize your returns."
+  },
+  {
     "url": "https://mole.fi",
     "name": "Mole",
     "category": [
@@ -249,16 +258,6 @@
     ],
     "icon": "https://icons.llama.fi/mole.png",
     "description": "Mole is a DeFi protocol provided leveraged yield farming, hedge fund and savings."
-  },
-  {
-    "url": "https://originprotocol.com",
-    "name": "Origin Sonic",
-    "category": [
-      "Liquid Staking",
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/origin-sonic.jpg",
-    "description": "Liquid staking for Sonic with boosted yield and peg stability"
   },
   {
     "url": "https://amphor.io",
@@ -297,21 +296,12 @@
     "description": "Thetanuts Finance is a decentralized on-chain options protocol focused on altcoin options, allowing users to go long or short on on-chain options."
   },
   {
-    "url": "https://beradrome.com",
-    "name": "Beradrome",
+    "url": "https://woo.org",
+    "name": "WOOFi Earn",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/beradrome.png",
-    "description": "Beradrome is the prime restaking and liquidity marketplace on Berachain. Beradrome combines features from top DeFi models into one power house, allowing ve(3,3) for any yield bearing asset on Berachain"
-  },
-  {
-    "url": "https://llama.airforce",
-    "name": "Llama Airforce",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/llama-airforce.png",
-    "description": "Airdropping knowledge bombs about the Curve ecosystem."
+    "icon": "https://icons.llama.fi/woofi-earn.png",
+    "description": "WOOFi Earn features supercharger vaults allow users to provide liquidity in WOOFi swap and earn single sided yields by delegating the liquidity management to the sPMM pool manager."
   }
 ]
