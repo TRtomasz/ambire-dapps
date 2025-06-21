@@ -21,13 +21,13 @@
   },
   {
     "url": "https://spark.fi",
-    "name": "SparkLend",
+    "name": "Spark Liquidity Layer",
     "category": [
-      "Lending",
-      "Onchain Capital Allocator"
+      "Onchain Capital Allocator",
+      "Lending"
     ],
-    "icon": "https://icons.llama.fi/sparklend.jpg",
-    "description": "Spark is an at-scale stablecoin allocation engine capturing yield across DeFi, RWAs and exchanges. This yield is provided cross-chain to Savings USDS holders"
+    "icon": "https://icons.llama.fi/spark-liquidity-layer.jpg",
+    "description": "The Spark Liquidity Layer (SLL) automates liquidity provision of USDS, sUSDS, and USDC directly from Sky across various blockchain networks, DeFi protocols, and RWA"
   },
   {
     "url": "https://veda.tech",
@@ -61,15 +61,6 @@
     "description": "SolvBTC is a universal Bitcoin reserve token that connects Bitcoin’s value across blockchains, backed 1:1 by a transparent, secure reserve. It empowers you to tap into DeFi and CeFi markets effortlessly, transforming idle Bitcoin into a dynamic asset for lending, trading, or yield generation—while keeping you in full control."
   },
   {
-    "url": "https://concrete.xyz",
-    "name": "Concrete",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/concrete.png",
-    "description": "Access automated DeFi yields on Berachain while earning rewards from Ethena, Concrete and the Berachain ecosystem"
-  },
-  {
     "url": "https://turtle.club",
     "name": "Turtle Club",
     "category": [
@@ -88,15 +79,23 @@
     "description": "Upshift opens access to transparent yields backed by secure risk controls. Supply, stake and access cross-chain yields."
   },
   {
-    "url": "https://stakestone.io",
-    "name": "StakeStone STONE",
+    "url": "https://usefelix.xyz",
+    "name": "Felix CDP",
     "category": [
-      "Liquid Staking",
-      "Onchain Capital Allocator",
-      "Indexes"
+      "CDP",
+      "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/stakestone-stone.jpg",
-    "description": "One-Stop Staking Protocol For Omnichain LST Liquidity."
+    "icon": "https://icons.llama.fi/felix-cdp.jpg",
+    "description": "Felix is a synthetic dollar protocol on Hyperliquid L1"
+  },
+  {
+    "url": "https://yieldnest.finance",
+    "name": "YieldNest",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/yieldnest.png",
+    "description": "YieldNest is a next-generation liquid restaking protocol that provides simple-to-understand, risk-adjusted restaking strategies"
   },
   {
     "url": "https://moonwell.fi",
@@ -107,6 +106,16 @@
     ],
     "icon": "https://icons.llama.fi/moonwell-lending.png",
     "description": "Moonwell is an open lending and borrowing DeFi protocol on Moonbeam & Moonriver."
+  },
+  {
+    "url": "https://stakestone.io",
+    "name": "StakeStone STONE",
+    "category": [
+      "Liquid Staking",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/stakestone-stone.jpg",
+    "description": "One-Stop Staking Protocol For Omnichain LST Liquidity."
   },
   {
     "url": "https://seamlessprotocol.com",
@@ -134,6 +143,15 @@
     ],
     "icon": "https://icons.llama.fi/mitosis.jpg",
     "description": "Mitosis is an L1 network designed for programmable liquidity that enhances the liquidity provision experience for both DeFi projects and liquidity providers. With Mitosis, DeFi projects can conduct targeted marketing to attract liquidity. Liquidity providers can trade tokenized LP positions on the Mitosis chain, allowing users to easily trade yield positions.."
+  },
+  {
+    "url": "https://concrete.xyz",
+    "name": "Concrete",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/concrete.png",
+    "description": "Access automated DeFi yields on Berachain while earning rewards from Ethena, Concrete and the Berachain ecosystem"
   },
   {
     "url": "https://knightrade.io",
