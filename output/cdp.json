@@ -20,16 +20,6 @@
     "description": "Curve is a decentralized exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading"
   },
   {
-    "url": "https://avalonfinance.xyz",
-    "name": "Avalon USDa",
-    "category": [
-      "CDP",
-      "Lending"
-    ],
-    "icon": "https://icons.llama.fi/avalon-labs.jpg",
-    "description": "USDa is the flagship CDP (Collateralized Debt Position) product based on Avalon's CeDeFi lending platform"
-  },
-  {
     "url": "https://lista.org",
     "name": "Lista Lending",
     "category": [
@@ -38,6 +28,16 @@
     ],
     "icon": "https://icons.llama.fi/lista-lending.png",
     "description": "Lista Lending is a decentralized P2P lending protocol on BNB Chain that uses a vault-based system to pool liquidity and allocate it across lending markets based on supply and demand."
+  },
+  {
+    "url": "https://avalonfinance.xyz",
+    "name": "Avalon USDa",
+    "category": [
+      "CDP",
+      "Lending"
+    ],
+    "icon": "https://icons.llama.fi/avalon-labs.jpg",
+    "description": "USDa is the flagship CDP (Collateralized Debt Position) product based on Avalon's CeDeFi lending platform"
   },
   {
     "url": "https://beraborrow.com",
@@ -49,6 +49,16 @@
     "description": "Beraborrow unlocks instant liquidity against Berachain assets through the first PoL powered stablecoin, NECT"
   },
   {
+    "url": "https://usefelix.xyz",
+    "name": "Felix CDP",
+    "category": [
+      "CDP",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/felix-cdp.jpg",
+    "description": "Felix is a synthetic dollar protocol on Hyperliquid L1"
+  },
+  {
     "url": "https://liquity.org",
     "name": "Liquity V1",
     "category": [
@@ -58,31 +68,13 @@
     "description": "Liquity V1 is a decentralized and immutable borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral."
   },
   {
-    "url": "https://usefelix.xyz",
-    "name": "Felix",
+    "url": "https://yala.org",
+    "name": "Yala",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/felix.jpg",
-    "description": "Felix is a synthetic dollar protocol on Hyperliquid L1"
-  },
-  {
-    "url": "https://level.money",
-    "name": "Level",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/level-money.jpg",
-    "description": "Level is a yield-bearing stablecoin protocol powered by USDT and USDC deposited into DeFi-native sources."
-  },
-  {
-    "url": "https://river.inc",
-    "name": "River",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/river.jpg",
-    "description": "River is building the circulatory system for crypto, connecting assets, liquidity, and yield across chains. Powered by the omni-CDP stablecoin protocol"
+    "icon": "https://icons.llama.fi/yala.jpg",
+    "description": "Bring Bitcoin's liquidity across blockchains"
   },
   {
     "url": "https://aladdin.club",
@@ -93,6 +85,15 @@
     ],
     "icon": "https://icons.llama.fi/fx-protocol.jpg",
     "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
+  },
+  {
+    "url": "https://level.money",
+    "name": "Level",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/level-money.jpg",
+    "description": "Level is a yield-bearing stablecoin protocol powered by USDT and USDC deposited into DeFi-native sources."
   },
   {
     "url": "https://inverse.finance",
@@ -141,15 +142,6 @@
     "description": "Users can mint yUSD by over-collateralizing BTC."
   },
   {
-    "url": "https://orby.network",
-    "name": "Orby Network",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/orby-network.png",
-    "description": "Cronos Network's first native stablecoin lending protocol"
-  },
-  {
     "url": "https://kava.io",
     "name": "Kava Mint",
     "category": [
@@ -162,6 +154,15 @@
     "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
   },
   {
+    "url": "https://orby.network",
+    "name": "Orby Network",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/orby-network.png",
+    "description": "Cronos Network's first native stablecoin lending protocol"
+  },
+  {
     "url": "https://sovryn.app",
     "name": "Sovryn Zero",
     "category": [
@@ -170,15 +171,6 @@
     ],
     "icon": "https://icons.llama.fi/sovryn-zero.png",
     "description": "Sovryn is a non-custodial and permission-less smart contract based system for bitcoin lending, borrowing and margin trading."
-  },
-  {
-    "url": "https://yala.org",
-    "name": "Yala",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/yala.jpg",
-    "description": "Bring Bitcoin's liquidity across blockchains"
   },
   {
     "url": "https://pando.im",
@@ -228,13 +220,13 @@
     "description": "Frankencoin is a collateralized, oracle-free stablecoin that tracks the value of the Swiss franc."
   },
   {
-    "url": "https://liquidloans.io",
-    "name": "LiquidLoans",
+    "url": "https://river.inc",
+    "name": "River",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/liquidloans.jpg",
-    "description": "Fully Backed Stablecoin. Low 110% Collateral Ratio. No Repayment Schedule. Immutable. Governance-Free. No Admin Keys."
+    "icon": "https://icons.llama.fi/river.jpg",
+    "description": "River is building the circulatory system for crypto, connecting assets, liquidity, and yield across chains. Powered by the omni-CDP stablecoin protocol"
   },
   {
     "url": "https://btcfi.one",
@@ -264,40 +256,13 @@
     "description": "Zoth is an RWA ecosystem bringing institutional-grade yield avenues onchain."
   },
   {
-    "url": "https://powercity.io",
-    "name": "POWERCITY Earn Protocol",
+    "url": "https://bima.money",
+    "name": "BIMA CDP",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/powercity-earn-protocol.png",
-    "description": "EARN Protocol is a decentralized borrowing protocol on PulseChain that allows you to draw interest-free loans against $PLSX used as collateral. Loans are paid out in PXDC (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%."
-  },
-  {
-    "url": "https://fathom.fi",
-    "name": "Fathom CDP",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/fathom-cdp.jpg",
-    "description": "Fathom Protocol is a comprehensive DeFi platform providing liquidity solutions to both retail and institutional participants. Users can deposit XDC and staked XDC to mint FXD, USD stablecoin, which can be used to gain exposure to yield opportunities through our RWA Vaults and Trade Finance Pools. Crypto and RWA holders can also borrow FXD using their assets as collateral."
-  },
-  {
-    "url": "https://particle.trade",
-    "name": "Particle DUO",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/particle-duo.png",
-    "description": "Duo Exchange is an interest rate swapping protocol that allows LPs to access (1) fixed rate yield until maturity and (2) variable but potentially higher yield compared to the yield source."
-  },
-  {
-    "url": "https://reflexer.finance",
-    "name": "Reflexer",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/reflexer.jpg",
-    "description": "A decentralized, stable and non pegged currency made for the digital economy"
+    "icon": "https://icons.llama.fi/bima-cdp.jpg",
+    "description": "Bitcoin-backed Stablecoin for Universal Yield."
   },
   {
     "url": "https://synnax.fi",
@@ -307,6 +272,24 @@
     ],
     "icon": "https://icons.llama.fi/synnax-protocol.png",
     "description": "Over-collateralized stablecoin protocol powered by market-maker yield, delivering scalable stability and robust returns for DeFi users."
+  },
+  {
+    "url": "https://liquidloans.io",
+    "name": "LiquidLoans",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/liquidloans.jpg",
+    "description": "Fully Backed Stablecoin. Low 110% Collateral Ratio. No Repayment Schedule. Immutable. Governance-Free. No Admin Keys."
+  },
+  {
+    "url": "https://particle.trade",
+    "name": "Particle DUO",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/particle-duo.png",
+    "description": "Duo Exchange is an interest rate swapping protocol that allows LPs to access (1) fixed rate yield until maturity and (2) variable but potentially higher yield compared to the yield source."
   },
   {
     "url": "https://bitsmiley.io",

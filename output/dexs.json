@@ -175,15 +175,6 @@
     "description": "Balancer is a protocol for programmable liquidity."
   },
   {
-    "url": "https://kodiak.finance",
-    "name": "Kodiak V3",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/kodiak.png",
-    "description": "Uniswap V3 fork on Berachain"
-  },
-  {
     "url": "https://orca.so",
     "name": "Orca",
     "category": [
@@ -205,6 +196,15 @@
     "description": "Frax Ether is a liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem to maximize staking yield and smoothen the Ethereum staking process for a simplified, secure, and DeFi-native way to earn interest on ETH. "
   },
   {
+    "url": "https://kodiak.finance",
+    "name": "Kodiak V3",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/kodiak.png",
+    "description": "Uniswap V3 fork on Berachain"
+  },
+  {
     "url": "https://vvs.finance",
     "name": "VVS Standard",
     "category": [
@@ -224,12 +224,30 @@
   },
   {
     "url": "https://thorchain.com",
-    "name": "Thorchain",
+    "name": "Thorchain DEX",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/thorchain.jpg",
+    "icon": "https://icons.llama.fi/thorchain-dex.jpg",
     "description": "THORChain facilitates cross-chain liquidity pools with no pegged or wrapped tokens."
+  },
+  {
+    "url": "https://mmt.finance",
+    "name": "Momentum",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/momentum.jpg",
+    "description": "Momentum is the premier ve(3,3) DEX designed to align the interests of traders, liquidity providers, and token holders , driving sustainable, long-term value creation."
+  },
+  {
+    "url": "https://pulsex.com",
+    "name": "PulseX V2",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/pulsex.png",
+    "description": "PulseX enables you to exchange tokens (\"PRC20s\") on PulseChain for one another"
   },
   {
     "url": "https://beets.fi",
@@ -242,31 +260,15 @@
     "description": "Liquid staked tokens on Fantom ($sFTMx) and Sonic ($stS)"
   },
   {
-    "url": "https://pulsex.com",
-    "name": "PulseX V1",
+    "url": "https://bluefin.io",
+    "name": "Bluefin Spot",
     "category": [
-      "Dexs"
+      "Dexs",
+      "Lending",
+      "Derivatives"
     ],
-    "icon": "https://icons.llama.fi/pulsex.png",
-    "description": "PulseX enables you to exchange tokens (\"PRC20s\") on PulseChain for one another"
-  },
-  {
-    "url": "https://merchantmoe.com",
-    "name": "Merchant Moe Liquidity Book",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/merchant-moe.png",
-    "description": "Liquidity Book is an AMM on Merchant Moe offering low-cost trading, higher fee potential for providers, and requires less capital. It features zero slippage, surge pricing, and high efficiency"
-  },
-  {
-    "url": "https://berachain.com",
-    "name": "BEX",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/bex.png",
-    "description": "Decentralized exchange on Berachain"
+    "icon": "https://icons.llama.fi/bluefin-spot.png",
+    "description": "Bluefin is a decentralized orderbook-based exchange built for both professional and first-time traders. It focuses on security, transparency and redefining the user experience of using on-chain trading platforms - and is backed by Polychain, SIG, Brevan Howard, and other leading firms."
   },
   {
     "url": "https://sailor.finance",
@@ -278,22 +280,22 @@
     "description": "High-Capital Efficiency AMM DEX & Launchpad built on Sei Network"
   },
   {
-    "url": "https://unagiswap.xyz",
-    "name": "unagiswap",
+    "url": "https://hyperswap.exchange",
+    "name": "HyperSwap V3",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/unagiswap.jpg",
-    "description": "Decentralized exchange on Taiko"
+    "icon": "https://icons.llama.fi/hyperswap-v3.png",
+    "description": "Explore token swaps, liquidity management and easy token launches"
   },
   {
-    "url": "https://lfj.gg",
-    "name": "Joe V2.2",
+    "url": "https://merchantmoe.com",
+    "name": "Merchant Moe Liquidity Book",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/joe-v2.jpg",
-    "description": "LFJ Liquidity Book V2.2 gives Liquidity Providers control over liquidity ranges, offers real-time onchain incentives with reward ranges, and phases out offchain programs for enhanced onchain incentivization"
+    "icon": "https://icons.llama.fi/merchant-moe.png",
+    "description": "Liquidity Book is an AMM on Merchant Moe offering low-cost trading, higher fee potential for providers, and requires less capital. It features zero slippage, surge pricing, and high efficiency"
   },
   {
     "url": "https://sparkdex.ai",
@@ -305,24 +307,40 @@
     "description": "First AI-driven DeFi ecosystem on Flare Network."
   },
   {
-    "url": "https://hyperswap.exchange",
-    "name": "HyperSwap V3",
+    "url": "https://cetus.zone",
+    "name": "Cetus AMM",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/hyperswap-v3.png",
-    "description": "Explore token swaps, liquidity management and easy token launches"
+    "icon": "https://icons.llama.fi/cetus-amm.png",
+    "description": "Cetus is a pioneer DEX and concentrated liquidity protocol focusing on Move-based ecosystems like Aptos and Sui. It works as a crucial part of the ecosystem infrastructure to satisfy the comprehensive needs of traders, LPs, upper applications and an increasing DeFi population."
   },
   {
-    "url": "https://bluefin.io",
-    "name": "AlphaLend",
+    "url": "https://lfj.gg",
+    "name": "Joe V2.2",
     "category": [
-      "Lending",
-      "Dexs",
-      "Derivatives"
+      "Dexs"
     ],
-    "icon": "https://icons.llama.fi/alphalend.png",
-    "description": "AlphaLend is a decentralized, non-custodial lending and borrowing protocol built on the SUI blockchain. It allows users to earn interest on deposited assets and borrow against their deposited assets without intermediaries. The protocol is designed to be composable, efficient, and secure, enabling developers and users to access core DeFi primitives in a trustless manner."
+    "icon": "https://icons.llama.fi/joe-v2.jpg",
+    "description": "LFJ Liquidity Book V2.2 gives Liquidity Providers control over liquidity ranges, offers real-time onchain incentives with reward ranges, and phases out offchain programs for enhanced onchain incentivization"
+  },
+  {
+    "url": "https://unagiswap.xyz",
+    "name": "unagiswap",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/unagiswap.jpg",
+    "description": "Decentralized exchange on Taiko"
+  },
+  {
+    "url": "https://burrbear.io",
+    "name": "BurrBear",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/burrbear.png",
+    "description": "BurrBear is a stablecoin-focused DEX on Berachain, featuring multi-stable pools, 20x capital-efficient Burr Pools, and generalized token swaps"
   },
   {
     "url": "https://ston.fi",
@@ -334,22 +352,32 @@
     "description": "Decentralized automated market maker (AMM) built on the TON blockchain"
   },
   {
-    "url": "https://roninchain.com",
-    "name": "Katana DEX",
+    "url": "https://hydration.net",
+    "name": "Hydration DEX",
     "category": [
-      "Dexs"
+      "Dexs",
+      "Lending"
     ],
-    "icon": "https://icons.llama.fi/katana-dex.jpg",
-    "description": "Katana a DEX For Ronin"
+    "icon": "https://icons.llama.fi/hydration-dex.jpg",
+    "description": "Hydration unites swaps, lending and the Hollar stablecoin under the roof of a scalable appchain."
   },
   {
-    "url": "https://mmt.finance",
-    "name": "Momentum",
+    "url": "https://gyro.finance",
+    "name": "Gyroscope Protocol",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/momentum.jpg",
-    "description": "Momentum is the premier ve(3,3) DEX designed to align the interests of traders, liquidity providers, and token holders , driving sustainable, long-term value creation."
+    "icon": "https://icons.llama.fi/gyroscope-protocol.png",
+    "description": "Gyroscope: an asset-backed stablecoin built on resilient DeFi infrastructure leveraging a diversified reserve, autonomous monetary policy, and innovative AMMs"
+  },
+  {
+    "url": "https://pharaoh.exchange",
+    "name": "Pharaoh CL",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/pharaoh-v3.jpg",
+    "description": "Pharaoh is a next-generation AMM designed to serve as Avalanche's central liquidity hub, combining the secure and battle-tested superiority of Uniswap v3 with a custom incentive engine, vote-lock governance model, and streamlined user experience."
   },
   {
     "url": "https://verusbridge.io",
@@ -361,40 +389,13 @@
     "description": "Dex on Verus chain"
   },
   {
-    "url": "https://osmosis.zone",
-    "name": "Osmosis DEX",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/osmosis-dex.jpg",
-    "description": "Osmosis DEX is the advanced automated market maker (AMM) protocol at the core of the Osmosis blockchain."
-  },
-  {
-    "url": "https://kyo.finance",
-    "name": "Kyo Finance",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/kyo-finance.jpg",
-    "description": "The Most Innovative Liquidity Hub on soneium"
-  },
-  {
     "url": "https://bulbaswap.io",
-    "name": "BulbaSwap V3",
+    "name": "BulbaSwap V2",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/bulbaswap-v3.jpg",
+    "icon": "https://icons.llama.fi/bulbaswap-v2.jpg",
     "description": "BulbaSwap, the central trading and liquidity marketplace on MorphL2"
-  },
-  {
-    "url": "https://hydration.net",
-    "name": "Hydration",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/hydration.jpg",
-    "description": "Hydration unites swaps, lending and the Hollar stablecoin under the roof of a scalable appchain."
   },
   {
     "url": "https://valantis.xyz",
@@ -404,15 +405,6 @@
     ],
     "icon": "https://icons.llama.fi/valantis.jpg",
     "description": "The Modular DEX. Live on HyperEVM with stHYPE AMM, a next-gen pool built specific for LSTs"
-  },
-  {
-    "url": "https://syncswap.xyz",
-    "name": "SyncSwap",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/syncswap.png",
-    "description": "SyncSwap is a decentralized exchange (DEX) on zkSync Era "
   },
   {
     "url": "https://idex.io",
@@ -433,24 +425,6 @@
     "description": "Ouchi Finance aims to make people's concept of living, renting, and staying easier and more automatic. We provides user-friendly NFT platform and DEX functions (Swap, Liquidity, etc.) to realize the goal."
   },
   {
-    "url": "https://sonex.so",
-    "name": "Sonex",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/sonex.png",
-    "description": "SONEX is built on a foundation of zk co-processors and decentralized storage and leverage an AI routing terminal to deliver investment strategies.Designed to meet diverse trading needs, SONEX is set to evolve into a comprehensive Alpha Hunting Ecosystem Aggregator, empowering users to stay ahead in the ever-evolving DeFi landscape"
-  },
-  {
-    "url": "https://bancor.network",
-    "name": "Bancor V3",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/bancor.png",
-    "description": "Bancor is an on-chain liquidity protocol that enables automated, decentralized exchange on Ethereum and across blockchains."
-  },
-  {
     "url": "https://sovryn.app",
     "name": "Sovryn Zero",
     "category": [
@@ -459,6 +433,33 @@
     ],
     "icon": "https://icons.llama.fi/sovryn-zero.png",
     "description": "Sovryn is a non-custodial and permission-less smart contract based system for bitcoin lending, borrowing and margin trading."
+  },
+  {
+    "url": "https://osmosis.zone",
+    "name": "Osmosis DEX",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/osmosis-dex.jpg",
+    "description": "Osmosis DEX is the advanced automated market maker (AMM) protocol at the core of the Osmosis blockchain."
+  },
+  {
+    "url": "https://kyo.finance",
+    "name": "Kyo Finance",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/kyo-finance.jpg",
+    "description": "The Most Innovative Liquidity Hub on soneium"
+  },
+  {
+    "url": "https://syncswap.xyz",
+    "name": "SyncSwap",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/syncswap.png",
+    "description": "SyncSwap is a decentralized exchange (DEX) on zkSync Era "
   },
   {
     "url": "https://agni.finance",
@@ -470,40 +471,31 @@
     "description": "Agni Finance is a high-capital efficiency, AMM-based DEX and launchpad built to support the Mantle Network ecosystem."
   },
   {
-    "url": "https://ekubo.org",
-    "name": "Ekubo",
+    "url": "https://bancor.network",
+    "name": "Bancor V3",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/ekubo.png",
-    "description": "Ekubo Protocol is a dex built for Starknet, that features concentrated liquidity, a singleton architecture, and extensions"
+    "icon": "https://icons.llama.fi/bancor.png",
+    "description": "Bancor is an on-chain liquidity protocol that enables automated, decentralized exchange on Ethereum and across blockchains."
   },
   {
-    "url": "https://initia.xyz",
-    "name": "InitiaDEX",
+    "url": "https://dragonswap.app",
+    "name": "Dragon Swap V3 Sei",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/initiadex.jpg",
-    "description": "The InitiaDEX is a decentralized exchange (DEX) built on the Initia L1. It serves as a Balancer-style weighted pool for diverse asset pairs and a StableSwap pool for assets with closely correlated prices. This design ensures an optimal trading experience across various asset types."
+    "icon": "https://icons.llama.fi/dragon-swap-v3-sei.jpg",
+    "description": "The DragonSwap Protocol is a publicly accessible, open-source framework designed for facilitating liquidity and enabling the trade of ERC20 tokens on the SEI EVM network. It bypasses the need for trusted middlemen and removes superfluous rent-seeking behavior, promoting secure, user-friendly, and efficient trading activities. This protocol is constructed to be permanent and non-upgradeable, ensuring it remains impervious to censorship."
   },
   {
-    "url": "https://shadow.so",
-    "name": "Shadow Exchange CLMM",
+    "url": "https://berachain.com",
+    "name": "BEX",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/shadow-exchange.jpg",
-    "description": "Sonic-native concentrated liquidity layer and exchange."
-  },
-  {
-    "url": "https://pharaoh.exchange",
-    "name": "Pharaoh CL",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/pharaoh-v3.jpg",
-    "description": "Pharaoh is a next-generation AMM designed to serve as Avalanche's central liquidity hub, combining the secure and battle-tested superiority of Uniswap v3 with a custom incentive engine, vote-lock governance model, and streamlined user experience."
+    "icon": "https://icons.llama.fi/bex.png",
+    "description": "Decentralized exchange on Berachain"
   },
   {
     "url": "https://kittenswap.finance",
@@ -515,22 +507,32 @@
     "description": "The community owned DEX for seamless trading on HyperEVM"
   },
   {
-    "url": "https://loopring.org",
-    "name": "Loopring",
+    "url": "https://roninchain.com",
+    "name": "Katana DEX",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/loopring.png",
-    "description": "Loopring is a zkRollup Exchange and Payment Protocol."
+    "icon": "https://icons.llama.fi/katana-dex.jpg",
+    "description": "Katana a DEX For Ronin"
   },
   {
-    "url": "https://cetus.zone",
-    "name": "Cetus AMM",
+    "url": "https://abracadabra.money",
+    "name": "Abracadabra Spell",
+    "category": [
+      "CDP",
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/abracadabra-spell.jpg",
+    "description": "Abracadabra.money is a spell book that allows users to produce magic internet money ($MIM) which is a stable coin that you can swap for any other traditional stable coin."
+  },
+  {
+    "url": "https://astroport.fi",
+    "name": "Astroport",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/cetus-amm.png",
-    "description": "Cetus is a pioneer DEX and concentrated liquidity protocol focusing on Move-based ecosystems like Aptos and Sui. It works as a crucial part of the ecosystem infrastructure to satisfy the comprehensive needs of traders, LPs, upper applications and an increasing DeFi population."
+    "icon": "https://icons.llama.fi/astroport.jpg",
+    "description": "The meta AMM of Cosmos"
   },
   {
     "url": "https://aftermath.finance",
@@ -552,16 +554,6 @@
     "description": "The Central Liquidity Hub on Movement chain."
   },
   {
-    "url": "https://abracadabra.money",
-    "name": "Abracadabra Spell",
-    "category": [
-      "CDP",
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/abracadabra-spell.jpg",
-    "description": "Abracadabra.money is a spell book that allows users to produce magic internet money ($MIM) which is a stable coin that you can swap for any other traditional stable coin."
-  },
-  {
     "url": "https://saucerswap.finance",
     "name": "SaucerSwap V1",
     "category": [
@@ -571,31 +563,22 @@
     "description": "SaucerSwap is an automated market maker protocol that leverages the Hedera Smart Contract Service to include Solidity smart contract integration with the Hedera Token Service."
   },
   {
-    "url": "https://astroport.fi",
-    "name": "Astroport",
+    "url": "https://shadow.so",
+    "name": "Shadow Exchange CLMM",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/astroport.jpg",
-    "description": "The meta AMM of Cosmos"
+    "icon": "https://icons.llama.fi/shadow-exchange.jpg",
+    "description": "Sonic-native concentrated liquidity layer and exchange."
   },
   {
-    "url": "https://gyro.finance",
-    "name": "Gyroscope Protocol",
+    "url": "https://loopring.org",
+    "name": "Loopring",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/gyroscope-protocol.png",
-    "description": "Gyroscope: an asset-backed stablecoin built on resilient DeFi infrastructure leveraging a diversified reserve, autonomous monetary policy, and innovative AMMs"
-  },
-  {
-    "url": "https://swapx.fi",
-    "name": "SwapX Algebra",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/swapx-algebra.jpg",
-    "description": "SwapX, Sonic's native DEX, leverages Algebra V4 for advanced concentrated liquidity management and ve(3,3) tokenomics while pioneering modular DeFi with plugin technology"
+    "icon": "https://icons.llama.fi/loopring.png",
+    "description": "Loopring is a zkRollup Exchange and Payment Protocol."
   },
   {
     "url": "https://merlinswap.org",
@@ -607,6 +590,15 @@
     "description": "MerlinSwap is an innovative and highly capital efficient DEX built to support the Merlin ecosystem."
   },
   {
+    "url": "https://ekubo.org",
+    "name": "Ekubo",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/ekubo.png",
+    "description": "Ekubo Protocol is a dex built for Starknet, that features concentrated liquidity, a singleton architecture, and extensions"
+  },
+  {
     "url": "https://lifinity.io",
     "name": "Lifinity V2",
     "category": [
@@ -614,33 +606,6 @@
     ],
     "icon": "https://icons.llama.fi/lifinity-v2.jpg",
     "description": "The first proactive market maker on Solana designed to improve capital efficiency and reduce impermanent loss."
-  },
-  {
-    "url": "https://alexlab.co",
-    "name": "ALEX",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/alex.png",
-    "description": "Next Gen DeFi on Bitcoin via Stacks. Building Financial Infrastructure on Bitcoin through Stacks"
-  },
-  {
-    "url": "https://thruster.finance",
-    "name": "Thruster V3",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/thruster-v3.jpg",
-    "description": "Uni v3 fork on blast"
-  },
-  {
-    "url": "https://deepbook.tech",
-    "name": "DeepBook V3",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/deepbook-v3.jpg",
-    "description": "DeepBook is a fully on-chain central limit order book and the liquidity layer of Sui."
   },
   {
     "url": "https://kittypunch.xyz",
@@ -652,139 +617,13 @@
     "description": "KittyPunch StableKitty, a low slippage stableswap"
   },
   {
-    "url": "https://dodoex.io",
-    "name": "DODO AMM",
+    "url": "https://stellar.org",
+    "name": "Stellar DEX",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/dodo-amm.jpg",
-    "description": "Trade crypto assets with market-leading liquidity"
-  },
-  {
-    "url": "https://jellyverse.org",
-    "name": "Jellyverse",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/jellyverse.png",
-    "description": "Jellyverse is a comprehensive DeFi ecosystem that includes a decentralized exchange (DEX), a staking protocol, and a synthetics protocol. It is introducing DeFi 3.0 by creating a sustainable, yield-driven environment, giving access to synthetic and non-synthetic RWAs."
-  },
-  {
-    "url": "https://dragonswap.app",
-    "name": "Dragon Swap V3",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/dragon-swap-v3.jpg",
-    "description": "The DragonSwap Protocol is a publicly accessible, open-source framework designed for facilitating liquidity and enabling the trade of ERC20 tokens on the SEI EVM network. It bypasses the need for trusted middlemen and removes superfluous rent-seeking behavior, promoting secure, user-friendly, and efficient trading activities. This protocol is constructed to be permanent and non-upgradeable, ensuring it remains impervious to censorship."
-  },
-  {
-    "url": "https://thena.fi",
-    "name": "THENA FUSION",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/thena-fusion.jpg",
-    "description": "THENA FUSION is the concentrated liquidity protocol on BSC chain, powered by Algebra Protocol"
-  },
-  {
-    "url": "https://degate.com",
-    "name": "DeGate",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/degate.jpg",
-    "description": "DeGate is an app-specific ZK Rollup that enables a trustless, fast and low-fee decentralized order book exchange, helping users to trade easy and sleep easy."
-  },
-  {
-    "url": "https://xexchange.com",
-    "name": "xExchange",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/ecxchange.png",
-    "description": "xExchange is a DEX AMM running on the MultiversX Network. It is built by the same team that has built the MultiversX blockchain."
-  },
-  {
-    "url": "https://chainge.finance",
-    "name": "Chainge Finance",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/chainge-finance.png",
-    "description": "Chainge Finance stands as the most liquid cross-chain aggregated DEX with over 70bn in aggregated liquidity. The mobile app boasts over 20 integrated DEXs and 29 chains. From a cross-chain wallet and instant cross-chain roaming to decentralized earning solutions and smart escrow contracts, Chainge is an DeFi app powered and secured by the innovative Fusion DCRM tech"
-  },
-  {
-    "url": "https://metacoinswap.io",
-    "name": "MetaCoin Swap",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/metacoin-swap.png",
-    "description": "MetacoinSwap is a decentralized exchange platform constructed on top of EVM compatible blockchains. It provides order book tradings for users, with visualised candlestick charts to enhance trading experience"
-  },
-  {
-    "url": "https://momodrome.io",
-    "name": "Momodrome",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/momodrome.jpg",
-    "description": "The exclusive and only ve33 DEX of the Morph ecosystem."
-  },
-  {
-    "url": "https://wagmi.com",
-    "name": "WAGMI",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/wagmi.png",
-    "description": "The WAGMI protocol is a limited TVL decentralized exchange with advanced liquidity provision strategies and GMI mechanics. The WAGMI protocol is designed to maximize the utilization of liquidity under management, optimizing returns for liquidity providers. WAGMI is live on Kava, zkSync Era and Fantom."
-  },
-  {
-    "url": "https://glowswap.io",
-    "name": "GlowSwap",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/glowswap.jpg",
-    "description": "A pioneer decentralized exchange built on B² network"
-  },
-  {
-    "url": "https://alienbase.xyz",
-    "name": "Alien Base V2",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/alien-base-amm.png",
-    "description": "Alien Base is building the Base trading hub for efficiently trading tokens and memecoins onchain. Offering aggregated liquidity, limit orders, yield farming and more, Alien technology helps you use Base to the fullest."
-  },
-  {
-    "url": "https://ambient.finance",
-    "name": "Ambient",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/ambient.png",
-    "description": "Zero-to-One Decentralized Trading Protocol"
-  },
-  {
-    "url": "https://balanced.network",
-    "name": "Balanced Exchange",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/balanced-exchange.png",
-    "description": "Balanced includes a decentralised cross-chain exchange. Use it to swap assets, supply liquidity, and transfer crypto between supported blockchains. Its unified approach to cross-chain assets removes the need for wrapped tokens and fragmented liquidity, so you can enjoy a simpler trading experience."
-  },
-  {
-    "url": "https://iguanadex.com",
-    "name": "IguanaDEX V3",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/iguanadex.png",
-    "description": "One-stop decentralized trading on Etherlink."
+    "icon": "https://icons.llama.fi/stellar-dex.jpg",
+    "description": "The Stellar network acts as a decentralized distributed exchange that allows users to trade and convert assets with the network's Offer operations"
   },
   {
     "url": "https://turbos.finance",
@@ -796,31 +635,103 @@
     "description": "A hyper-efficient decentralized crypto marketplace built on Sui"
   },
   {
-    "url": "https://shibaswap.com",
-    "name": "ShibaSwap",
+    "url": "https://sonex.so",
+    "name": "Sonex",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/shibaswap.jpg",
-    "description": "SHIB, LEASH, and BONE, come together to create ShibaSwap, the next evolution in DeFi platforms. ShibaSwap gives users the ability to DIG (provide liquidity), BURY (stake), and SWAP tokens to gain WOOF Returns through our sophisticated and innovative passive income reward system."
+    "icon": "https://icons.llama.fi/sonex.png",
+    "description": "SONEX is built on a foundation of zk co-processors and decentralized storage and leverage an AI routing terminal to deliver investment strategies.Designed to meet diverse trading needs, SONEX is set to evolve into a comprehensive Alpha Hunting Ecosystem Aggregator, empowering users to stay ahead in the ever-evolving DeFi landscape"
   },
   {
-    "url": "https://muesliswap.com",
-    "name": "MuesliSwap",
+    "url": "https://deepbook.tech",
+    "name": "DeepBook V3",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/muesliswap.jpg",
-    "description": "A live and operating Orderbook and AMM DEX on Cardano L1 and Milkomeda - based on the simplistic, research-driven order book protocol tailored for Cardano UTXOs."
+    "icon": "https://icons.llama.fi/deepbook-v3.jpg",
+    "description": "DeepBook is a fully on-chain central limit order book and the liquidity layer of Sui."
   },
   {
-    "url": "https://biswap.org",
-    "name": "Biswap V2",
+    "url": "https://glowswap.io",
+    "name": "GlowSwap",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/biswap-v2.jpg",
-    "description": "Biswap is a multichain DEX that allows trades across BNB, Ethereum, Arbitrum and Base Chains with low slippage. Liquidity providers get 80% of trading fee. By providing liquidity on BNB Chain they can also earn BSW. Core stats: 2.7M+ Users, 600K+ Community, $48B+ Total Trading Vol"
+    "icon": "https://icons.llama.fi/glowswap.jpg",
+    "description": "A pioneer decentralized exchange built on B² network"
+  },
+  {
+    "url": "https://dodoex.io",
+    "name": "DODO AMM",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/dodo-amm.jpg",
+    "description": "Trade crypto assets with market-leading liquidity"
+  },
+  {
+    "url": "https://chainge.finance",
+    "name": "Chainge Finance",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/chainge-finance.png",
+    "description": "Chainge Finance stands as the most liquid cross-chain aggregated DEX with over 70bn in aggregated liquidity. The mobile app boasts over 20 integrated DEXs and 29 chains. From a cross-chain wallet and instant cross-chain roaming to decentralized earning solutions and smart escrow contracts, Chainge is an DeFi app powered and secured by the innovative Fusion DCRM tech"
+  },
+  {
+    "url": "https://swapx.fi",
+    "name": "SwapX Algebra",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/swapx-algebra.jpg",
+    "description": "SwapX, Sonic's native DEX, leverages Algebra V4 for advanced concentrated liquidity management and ve(3,3) tokenomics while pioneering modular DeFi with plugin technology"
+  },
+  {
+    "url": "https://momodrome.io",
+    "name": "Momodrome",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/momodrome.jpg",
+    "description": "The exclusive and only ve33 DEX of the Morph ecosystem."
+  },
+  {
+    "url": "https://initia.xyz",
+    "name": "InitiaDEX",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/initiadex.jpg",
+    "description": "The InitiaDEX is a decentralized exchange (DEX) built on the Initia L1. It serves as a Balancer-style weighted pool for diverse asset pairs and a StableSwap pool for assets with closely correlated prices. This design ensures an optimal trading experience across various asset types."
+  },
+  {
+    "url": "https://balanced.network",
+    "name": "Balanced Exchange",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/balanced-exchange.png",
+    "description": "Balanced includes a decentralised cross-chain exchange. Use it to swap assets, supply liquidity, and transfer crypto between supported blockchains. Its unified approach to cross-chain assets removes the need for wrapped tokens and fragmented liquidity, so you can enjoy a simpler trading experience."
+  },
+  {
+    "url": "https://magmafinance.io",
+    "name": "Magma",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/magma.jpg",
+    "description": "Magma Finance is a cutting-edge AMM DEX designed for MOVE-based blockchains."
+  },
+  {
+    "url": "https://tower.fi",
+    "name": "Tower DEX",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/tower-dex.jpg",
+    "description": "Tower is Babylon's native DEX built for BTCfi. Swap, LP, and stack sats while making your Bitcoin work"
   },
   {
     "url": "https://aqua.network",
@@ -832,13 +743,22 @@
     "description": "Aquarius is a novel AMM protocol and a liquidity management layer to Stellar. It offers stable and volatile pools with multihop swaps on top, and a community governance tool to distribute rewards between pool liquidity providers based on voting and bribing."
   },
   {
-    "url": "https://dedust.io",
-    "name": "DeDust",
+    "url": "https://dgswap.io",
+    "name": "DragonSwap V3 Kaia",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/dedust.png",
-    "description": "DeDust is a decentralized exchange liquidity pool on TON"
+    "icon": "https://icons.llama.fi/dragonswap-v3-kaia.png",
+    "description": "DragonSwap is a decentralized automated liquidity protocol."
+  },
+  {
+    "url": "https://biswap.org",
+    "name": "Biswap V2",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/biswap-v2.jpg",
+    "description": "Biswap is a multichain DEX that allows trades across BNB, Ethereum, Arbitrum and Base Chains with low slippage. Liquidity providers get 80% of trading fee. By providing liquidity on BNB Chain they can also earn BSW. Core stats: 2.7M+ Users, 600K+ Community, $48B+ Total Trading Vol"
   },
   {
     "url": "https://increment.fi",
@@ -850,76 +770,22 @@
     "description": "A permisionless CPAMM-based decentralized exchange on Flow."
   },
   {
-    "url": "https://lumenswap.io",
-    "name": "LumenSwap",
+    "url": "https://xexchange.com",
+    "name": "xExchange",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/lumenswap.jpg",
-    "description": "Lumenswap is a decentralized exchange built on the Stellar network that allows you to swap and trade assets using a friendly, minimal interface."
+    "icon": "https://icons.llama.fi/ecxchange.png",
+    "description": "xExchange is a DEX AMM running on the MultiversX Network. It is built by the same team that has built the MultiversX blockchain."
   },
   {
-    "url": "https://bitflow.finance",
-    "name": "Bitflow",
+    "url": "https://metacoinswap.io",
+    "name": "MetaCoin Swap",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/bitflow.png",
-    "description": "Bitflow's decentralized exchange (DEX) provides unique advantages to Bitcoiners in DeFi, allowing them to trade and earn with BTC while leveraging the security and network effects of the Bitcoin blockchain"
-  },
-  {
-    "url": "https://mav.xyz",
-    "name": "Maverick V2",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/maverick-v2.jpg",
-    "description": "The DeFi infrastructure built to bring higher capital efficiency + greater capital control to the liquidity market, powered by Maverick AMM."
-  },
-  {
-    "url": "https://chainflip.io",
-    "name": "Chainflip",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/chainflip.png",
-    "description": "Chainflip is a cross-chain AMM enabling native asset swaps without wrapped tokens or specialised wallets."
-  },
-  {
-    "url": "https://dgswap.io",
-    "name": "DragonSwap V3",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/dragonswap-v3.png",
-    "description": "DragonSwap is a decentralized automated liquidity protocol."
-  },
-  {
-    "url": "https://defibox.io",
-    "name": "DefiBox",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/defibox.png",
-    "description": "Defibox is a one-stop DeFi application platform. The project was launched on EOS chain (https://defibox.io) on July 21, 2020 and Swap protocol was launched on BSC chain(https://bscdapp.defibox.io/) on July 21, 2021. Currently, Defibox has launched three protocols, namely Swap protocol, USN stable coin protocol and decentralized lending protocol."
-  },
-  {
-    "url": "https://bitflux.finance",
-    "name": "BitFLUX",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/bitflux.jpg",
-    "description": "BitFLUX makes it easy to securely swap Bitcoin-pegged assets, providing a seamless user experience for yield generation and liquidity."
-  },
-  {
-    "url": "http://woo.org",
-    "name": "WOOFi Swap",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/woofi.png",
-    "description": "One DEX to rule all chains - trade and earn like royalty with unmatched execution, cross-chain swaps, and single-sided yields."
+    "icon": "https://icons.llama.fi/metacoin-swap.png",
+    "description": "MetacoinSwap is a decentralized exchange platform constructed on top of EVM compatible blockchains. It provides order book tradings for users, with visualised candlestick charts to enhance trading experience"
   },
   {
     "url": "https://steamm.fi",
@@ -931,21 +797,111 @@
     "description": "Steamm is an Automated Market Maker with an embedded money market integration, designed to maximize capital efficiency. It features a composable architecture that allows for the integration of various quotation systems, such as a Constant-Product quoter, quoters specialized in stablecoin trading, as well as dynamic fee quoters."
   },
   {
-    "url": "https://icpswap.com",
-    "name": "ICPSwap",
+    "url": "https://shibaswap.com",
+    "name": "ShibaSwap",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/icpswap.png",
-    "description": "ICPSwap is the native and earliest decentralized exchange (DEX) on the ICP ecosystem, providing comprehensive financial, market, and DAO services"
+    "icon": "https://icons.llama.fi/shibaswap.jpg",
+    "description": "SHIB, LEASH, and BONE, come together to create ShibaSwap, the next evolution in DeFi platforms. ShibaSwap gives users the ability to DIG (provide liquidity), BURY (stake), and SWAP tokens to gain WOOF Returns through our sophisticated and innovative passive income reward system."
   },
   {
-    "url": "https://magmafinance.io",
-    "name": "Magma",
+    "url": "https://dedust.io",
+    "name": "DeDust",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/magma.jpg",
-    "description": "Magma Finance is a cutting-edge AMM DEX designed for MOVE-based blockchains."
+    "icon": "https://icons.llama.fi/dedust.png",
+    "description": "DeDust is a decentralized exchange liquidity pool on TON"
+  },
+  {
+    "url": "https://flowx.finance",
+    "name": "FlowX V3",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/flowx-v3.png",
+    "description": "FlowX Finance is the ecosystem-focused decentralized exchange built on the Sui Blockchain."
+  },
+  {
+    "url": "https://lumenswap.io",
+    "name": "LumenSwap",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/lumenswap.jpg",
+    "description": "Lumenswap is a decentralized exchange built on the Stellar network that allows you to swap and trade assets using a friendly, minimal interface."
+  },
+  {
+    "url": "https://chainflip.io",
+    "name": "Chainflip",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/chainflip.png",
+    "description": "Chainflip is a cross-chain AMM enabling native asset swaps without wrapped tokens or specialised wallets."
+  },
+  {
+    "url": "https://ambient.finance",
+    "name": "Ambient",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/ambient.png",
+    "description": "Zero-to-One Decentralized Trading Protocol"
+  },
+  {
+    "url": "https://iguanadex.com",
+    "name": "IguanaDEX V3",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/iguanadex.png",
+    "description": "One-stop decentralized trading on Etherlink."
+  },
+  {
+    "url": "https://kriya.finance",
+    "name": "Kriya CLMM",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/kriya-clmm.png",
+    "description": "Concentrated Liquidity pools for spot trading and launching new tokens efficiently"
+  },
+  {
+    "url": "https://thruster.finance",
+    "name": "Thruster V3",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/thruster-v3.jpg",
+    "description": "Uni v3 fork on blast"
+  },
+  {
+    "url": "https://wagmi.com",
+    "name": "WAGMI",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/wagmi.png",
+    "description": "The WAGMI protocol is a limited TVL decentralized exchange with advanced liquidity provision strategies and GMI mechanics. The WAGMI protocol is designed to maximize the utilization of liquidity under management, optimizing returns for liquidity providers. WAGMI is live on Kava, zkSync Era and Fantom."
+  },
+  {
+    "url": "https://bitflow.finance",
+    "name": "Bitflow",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/bitflow.png",
+    "description": "Bitflow's decentralized exchange (DEX) provides unique advantages to Bitcoiners in DeFi, allowing them to trade and earn with BTC while leveraging the security and network effects of the Bitcoin blockchain"
+  },
+  {
+    "url": "https://bitflux.finance",
+    "name": "BitFLUX",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/bitflux.jpg",
+    "description": "BitFLUX makes it easy to securely swap Bitcoin-pegged assets, providing a seamless user experience for yield generation and liquidity."
   }
 ]

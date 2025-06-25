@@ -40,14 +40,13 @@
   },
   {
     "url": "https://mantle.xyz",
-    "name": "mETH Protocol",
+    "name": "Mantle Bridge",
     "category": [
-      "Liquid Staking",
       "Chain",
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/meth-protocol.png",
-    "description": "A permissionless, non-custodial ETH liquid staking protocol deployed on Ethereum L1 and governed by Mantle."
+    "icon": "https://icons.llama.fi/mantle-bridge.jpg",
+    "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
   },
   {
     "url": "https://magpiexyz.io",
@@ -61,15 +60,6 @@
     "description": "Eigenpie is an innovative SubDAO created by Magpie, focusing on the restaking of ETH LSTs via EigenLayer. As a liquid restaking platform for Ethereum, Eigenpie’s core mechanism enables users to convert their Liquid Staked ETH tokens into Isolated Liquid Restaked ETH tokens. These are restaked versions of ETH LSTs, created by Eigenpie. This process allows users to earn passive income from Ethereum staking and EigenLayer revenue simultaneously, without requiring a lockup period."
   },
   {
-    "url": "https://yieldnest.finance",
-    "name": "YieldNest",
-    "category": [
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llama.fi/yieldnest.png",
-    "description": "YieldNest is a next-generation liquid restaking protocol that provides simple-to-understand, risk-adjusted restaking strategies"
-  },
-  {
     "url": "https://mellow.finance",
     "name": "Mellow LRT",
     "category": [
@@ -79,23 +69,13 @@
     "description": "Mellow Protocol is a permissionless system for active liquidity management and building trustless automatic DeFi strategies"
   },
   {
-    "url": "https://kiki.finance",
-    "name": "iBTC Finance",
-    "category": [
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llama.fi/ibtc-finance.jpg",
-    "description": "iBTC is an LST protocol that provides 1:1 pegging for staked BTC, offering users unrestricted liquidity without a 28-day lock-up while ensuring the same yield as directly staking BTC on the exSat network. The protocol seamlessly combines high liquidity with stable staking rewards, making it an ideal solution for optimizing BTC staking returns"
-  },
-  {
     "url": "https://swellnetwork.io",
     "name": "Swell Liquid Staking",
     "category": [
       "Liquid Staking",
       "Liquid Restaking",
       "Farm",
-      "Chain",
-      "Yield Aggregator"
+      "Chain"
     ],
     "icon": "https://icons.llama.fi/swell.png",
     "description": "Swell is a non-custodial liquid staking protocol"
@@ -110,6 +90,15 @@
     "description": "Restake ETH LSTs on Inception, built on Eigenlayer to earn 2 layers of rewards"
   },
   {
+    "url": "https://kiki.finance",
+    "name": "iBTC Finance",
+    "category": [
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llama.fi/ibtc-finance.jpg",
+    "description": "iBTC is an LST protocol that provides 1:1 pegging for staked BTC, offering users unrestricted liquidity without a 28-day lock-up while ensuring the same yield as directly staking BTC on the exSat network. The protocol seamlessly combines high liquidity with stable staking rewards, making it an ideal solution for optimizing BTC staking returns"
+  },
+  {
     "url": "https://rockx.com",
     "name": "Bedrock uniETH",
     "category": [
@@ -117,5 +106,14 @@
     ],
     "icon": "https://icons.llama.fi/bedrock-unieth.jpg",
     "description": "uniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes"
+  },
+  {
+    "url": "https://kingprotocol.org",
+    "name": "King Protocol",
+    "category": [
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llama.fi/king-protocol.png",
+    "description": "King Protocol, (formerly LRT²) is a unified restaking rewards protocol acting as a vault that holds the rewards tokens as underlying assets. Through King Protocol, LRT projects can pool restaking network protocol rewards into a single vault and issue vault share tokens to their stakers (or distributor contract). This system cuts transaction costs and streamlines the rewards process, great for those with smaller stakes who might find it easier to manage and trade their shares collectively"
   }
 ]

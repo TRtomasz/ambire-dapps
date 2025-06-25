@@ -54,14 +54,5 @@
     ],
     "icon": "https://icons.llama.fi/immutable-zkevm.png",
     "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
-  },
-  {
-    "url": "https://nftx.org",
-    "name": "NFTX",
-    "category": [
-      "NFT Marketplace"
-    ],
-    "icon": "https://icons.llama.fi/nftx.jpg",
-    "description": "NFTX is a platform for making ERC20 tokens that are backed by NFT collectibles."
   }
 ]

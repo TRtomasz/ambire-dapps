@@ -9,17 +9,6 @@
     "description": "The Reserve Protocol is a platform which enables anyone to create yield-bearing, decentralized, and asset-backed currencies (RTokens). RTokens provide an alternative to inflation-prone currencies, empowering people to maintain their purchasing power over time and across borders"
   },
   {
-    "url": "https://stakestone.io",
-    "name": "StakeStone STONE",
-    "category": [
-      "Liquid Staking",
-      "Onchain Capital Allocator",
-      "Indexes"
-    ],
-    "icon": "https://icons.llama.fi/stakestone-stone.jpg",
-    "description": "One-Stop Staking Protocol For Omnichain LST Liquidity."
-  },
-  {
     "url": "https://sosovalue.com",
     "name": "SoSoValue Basis",
     "category": [
@@ -54,7 +43,7 @@
       "Indexes"
     ],
     "icon": "https://icons.llama.fi/index-coop.png",
-    "description": "Index Coop creates and maintains the world's best crypto index products.\r\n\r\nAll index products are always fully collateralized."
+    "description": "Index Coop creates and maintains the world's best crypto index products.All index products are always fully collateralized."
   },
   {
     "url": "https://dhedge.org",
