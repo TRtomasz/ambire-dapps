@@ -1,0 +1,16 @@
+{
+  "name": "ambire-dapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchData.js",
+  "scripts": {
+    "test": "node test/dedupe.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "tldts": "^6.1.8"
+  }
+}

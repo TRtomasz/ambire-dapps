@@ -10,6 +10,7 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const { parse: parseDomain } = require('tldts');
 
 // Output directory path
 const outputDir = path.join(__dirname, 'output');
@@ -81,36 +82,74 @@ if (fs.existsSync(inputFilePath)) {
   console.warn('No input.json found; continuing without manual entries.');
 }
 
-/**
- * Naive function to extract root domain.
- * For example, https://app.aave.com => aave.com
- * Might fail for .co.uk or similar.
- */
-function getRootDomain(parsedUrl) {
-  try {
-    const hostname = parsedUrl.hostname;
-    const parts = hostname.split('.');
-    if (parts.length <= 2) {
-      return hostname;
+
+function deduplicateEntries(allData) {
+  const processedData = {};
+
+  allData.forEach((item) => {
+    try {
+      const parsedUrl = new URL(item.url);
+      const parsedDomain = parseDomain(item.url);
+      const rootDomain = parsedDomain.domain;
+      if (!rootDomain) {
+        return;
+      }
+
+      const catArray = Array.isArray(item.category)
+        ? item.category
+        : item.category
+          ? [item.category]
+          : [];
+
+      const finalUrl = `${parsedUrl.protocol}//${rootDomain}`;
+
+      if (!processedData[rootDomain]) {
+        processedData[rootDomain] = {
+          ...item,
+          url: finalUrl,
+          category: catArray
+        };
+      } else {
+        processedData[rootDomain].category = Array.from(
+          new Set([...processedData[rootDomain].category, ...catArray])
+        );
+
+        if (item.logo && !processedData[rootDomain].logo) {
+          processedData[rootDomain].logo = item.logo;
+        }
+      }
+    } catch {
+      // skip if invalid URL
     }
-    return parts.slice(-2).join('.');
-  } catch {
-    return null;
-  }
-}
-
-// Fetch data from the API
-https.get('https://api.llama.fi/protocols', (res) => {
-  let data = '';
-
-  res.on('data', (chunk) => {
-    data += chunk;
   });
 
-  res.on('end', () => {
-    try {
-      const apiArray = JSON.parse(data);
-      const fetchedData = Array.isArray(apiArray) ? apiArray : [];
+  return Object.values(processedData).map((item) => {
+    const finalCategories = Array.isArray(item.category) ? item.category : [];
+    return {
+      url: item.url,
+      name: item.name,
+      category: finalCategories,
+      icon: item.logo,
+      description: item.description
+    };
+  });
+}
+
+
+
+// Fetch data from the API when executed directly
+function fetchAndProcess() {
+  https.get('https://api.llama.fi/protocols', (res) => {
+    let data = '';
+
+    res.on('data', (chunk) => {
+      data += chunk;
+    });
+
+    res.on('end', () => {
+      try {
+        const apiArray = JSON.parse(data);
+        const fetchedData = Array.isArray(apiArray) ? apiArray : [];
 
       // 1) Filter and sort fetched data by TVL.
       const filteredSortedApiData = fetchedData
@@ -135,62 +174,7 @@ https.get('https://api.llama.fi/protocols', (res) => {
       const allData = [...manualEntries, ...filteredSortedApiData];
 
       // 3) Deduplicate by root domain. Keep https in final.
-      const processedData = {};
-
-      allData.forEach((item) => {
-        try {
-          const parsedUrl = new URL(item.url);
-          const rootDomain = getRootDomain(parsedUrl);
-          if (!rootDomain) {
-            return;
-          }
-
-          // Convert category to array if needed.
-          const catArray = Array.isArray(item.category)
-            ? item.category
-            : item.category
-              ? [item.category]
-              : [];
-
-          // The final domain will keep the protocol from the original.
-          const finalUrl = `${parsedUrl.protocol}//${rootDomain}`;
-
-          if (!processedData[rootDomain]) {
-            processedData[rootDomain] = {
-              ...item,
-              url: finalUrl,  // Overwrite with the protocol + root domain
-              category: catArray
-            };
-          } else {
-            // Merge categories.
-            processedData[rootDomain].category = Array.from(
-              new Set([...processedData[rootDomain].category, ...catArray])
-            );
-
-            // If the new item has an icon, use it.
-
-            // Optionally merge other fields if needed, e.g. TVL.
-            // processedData[rootDomain].tvl = Math.max(
-            //   processedData[rootDomain].tvl,
-            //   item.tvl
-            // );
-          }
-        } catch {
-          // skip if invalid URL
-        }
-      });
-
-      // 4) Transform final data. We already overwrote item.url, so we can just pass it along.
-      const outputData = Object.values(processedData).map((item) => {
-        const finalCategories = Array.isArray(item.category) ? item.category : [];
-        return {
-          url: item.url,
-          name: item.name,
-          category: finalCategories,
-          icon: item.logo,
-          description: item.description
-        };
-      });
+      const outputData = deduplicateEntries(allData);
 
       // 5) Write one combined file.
       const combinedFilePath = path.join(outputDir, 'combined.json');
@@ -220,6 +204,13 @@ https.get('https://api.llama.fi/protocols', (res) => {
     }
   });
 
-}).on('error', (err) => {
-  console.error('Error fetching data from API:', err);
-});
+  }).on('error', (err) => {
+    console.error('Error fetching data from API:', err);
+  });
+}
+
+if (require.main === module) {
+  fetchAndProcess();
+}
+
+module.exports = { deduplicateEntries };
