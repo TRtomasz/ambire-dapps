@@ -33,7 +33,8 @@
     "url": "https://cian.app",
     "name": "CIAN Yield Layer",
     "category": [
-      "Yield Aggregator"
+      "Yield Aggregator",
+      "Risk Curators"
     ],
     "icon": "https://icons.llama.fi/cian-yield-layer.jpg",
     "description": "Redistribute Yield Sources For Sustainable DeFi & Optimized APY For Your Assets"
@@ -58,15 +59,6 @@
     "description": "Borrow, Multiply and Earn on the assets you hold across multiple protocols. Take advantage of powerful automation strategies and simple UX."
   },
   {
-    "url": "https://superform.xyz",
-    "name": "Superform",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/superform.png",
-    "description": "Superform is the onchain wealth app. Superform earns you the best returns on your crypto to grow your onchain wealth. Use SuperVaults to automatically optimize your earnings, or build your customized portfolio by directly depositing into over 800 earning opportunities"
-  },
-  {
     "url": "https://flamincome.finance",
     "name": "Flamincome",
     "category": [
@@ -74,28 +66,6 @@
     ],
     "icon": "https://icons.llama.fi/flamincome.png",
     "description": "Yield aggregator for flamingo finance"
-  },
-  {
-    "url": "https://rings.money",
-    "name": "Rings",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/rings.jpg",
-    "description": "Rings is a meta-stablecoin for USD & ETH offering competitive yield for stakers, providing deep liquidity for Sonic DeFi, and funding Sonic DeFi projects via its lockers."
-  },
-  {
-    "url": "https://swellnetwork.io",
-    "name": "Swell Liquid Staking",
-    "category": [
-      "Liquid Staking",
-      "Liquid Restaking",
-      "Farm",
-      "Chain",
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/swell.png",
-    "description": "Swell is a non-custodial liquid staking protocol"
   },
   {
     "url": "https://hyperbeat.org",
@@ -107,13 +77,31 @@
     "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
   },
   {
-    "url": "https://canopyhub.xyz",
-    "name": "Canopy",
+    "url": "https://superform.xyz",
+    "name": "Superform",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/canopy.jpg",
-    "description": "Canopy is a yield aggregation platform that simplifies liquidity deployment into the Movement Network."
+    "icon": "https://icons.llama.fi/superform.png",
+    "description": "Superform is the onchain wealth app. Superform earns you the best returns on your crypto to grow your onchain wealth. Use SuperVaults to automatically optimize your earnings, or build your customized portfolio by directly depositing into over 800 earning opportunities"
+  },
+  {
+    "url": "https://rings.money",
+    "name": "Trevee Earn",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/trevee-earn.jpg",
+    "description": "Rings is a meta-stablecoin for USD & ETH offering competitive yield for stakers, providing deep liquidity for Sonic DeFi, and funding Sonic DeFi projects via its lockers."
+  },
+  {
+    "url": "https://nucleusearn.io",
+    "name": "Nucleus",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/nucleus.jpg",
+    "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
   },
   {
     "url": "https://kava.io",
@@ -155,58 +143,13 @@
     "description": "Nawa Finance is an ethical & Shariah-compliant DeFi protocol offering auto-compounding vaults and liquid staking for Bitcoin assets on Core Chain"
   },
   {
-    "url": "https://harvest.finance",
-    "name": "Harvest Finance",
+    "url": "https://canopyhub.xyz",
+    "name": "Canopy",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/harvest-finance.png",
-    "description": "Harvest - grows your crypto with automated yield strategies"
-  },
-  {
-    "url": "https://yieldyak.com",
-    "name": "Yield Yak Aggregator",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/yield-yak-aggregator.png",
-    "description": "Yield Yak Aggregator is an easy-to-use tool to earn more yield from defi farming on the Avalanche network."
-  },
-  {
-    "url": "https://badger.com",
-    "name": "Badger DAO",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/badger-dao.jpg",
-    "description": "BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi."
-  },
-  {
-    "url": "https://vesper.finance",
-    "name": "Vesper",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/vesper.jpg",
-    "description": "Vesper is a platform for easy-to-use DeFi products."
-  },
-  {
-    "url": "https://nucleusearn.io",
-    "name": "Nucleus",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/nucleus.jpg",
-    "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
-  },
-  {
-    "url": "https://alphafi.xyz",
-    "name": "AlphaFi Agg",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/alphafi-agg.jpg",
-    "description": "Premier Yield Optimizer on the SUI Blockchain. Earn Safe, Real Yields with AlphaFi."
+    "icon": "https://icons.llama.fi/canopy.jpg",
+    "description": "Canopy is a yield aggregation platform that simplifies liquidity deployment into the Movement Network."
   },
   {
     "url": "https://yo.xyz",
@@ -218,13 +161,13 @@
     "description": "Set it and forget it. YO is your secure multi-chain yield optimizer, continuously rebalancing to deliver the best risk-adjusted yield in DeFi."
   },
   {
-    "url": "https://ipor.io",
-    "name": "IPOR Fusion",
+    "url": "https://harvest.finance",
+    "name": "Harvest Finance",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/ipor-fusion.svg",
-    "description": "IPOR Fusion is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
+    "icon": "https://icons.llama.fi/harvest-finance.png",
+    "description": "Harvest - grows your crypto with automated yield strategies"
   },
   {
     "url": "https://yield.fi",
@@ -236,6 +179,24 @@
     "description": "YieldFi: The First Streamlined Asset Management Platform"
   },
   {
+    "url": "https://badger.com",
+    "name": "Badger DAO",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/badger-dao.jpg",
+    "description": "BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi."
+  },
+  {
+    "url": "https://yieldyak.com",
+    "name": "Yield Yak Aggregator",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/yield-yak-aggregator.png",
+    "description": "Yield Yak Aggregator is an easy-to-use tool to earn more yield from defi farming on the Avalanche network."
+  },
+  {
     "url": "https://pit.finance",
     "name": "Pit Finance",
     "category": [
@@ -243,5 +204,41 @@
     ],
     "icon": "https://icons.llama.fi/pit-finance.jpg",
     "description": "Boosting your decentralized finance returns through strategic asset multiplication and advanced yield optimization techniques."
+  },
+  {
+    "url": "https://vesper.finance",
+    "name": "Vesper",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/vesper.jpg",
+    "description": "Vesper is a platform for easy-to-use DeFi products."
+  },
+  {
+    "url": "https://ipor.io",
+    "name": "IPOR Fusion",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/ipor-fusion.svg",
+    "description": "IPOR Fusion is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
+  },
+  {
+    "url": "https://alphafi.xyz",
+    "name": "AlphaFi Agg",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/alphafi-agg.jpg",
+    "description": "Premier Yield Optimizer on the SUI Blockchain. Earn Safe, Real Yields with AlphaFi."
+  },
+  {
+    "url": "https://ousd.com",
+    "name": "Origin Dollar",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/origin-dollar.png",
+    "description": "Origin Dollar (OUSD) is a new stablecoin that was initially launched on the Ethereum network. Its design is superior to existing stablecoins because OUSD captures competitive yields while being passively held in wallets."
   }
 ]

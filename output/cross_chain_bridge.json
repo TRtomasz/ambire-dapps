@@ -1,15 +1,5 @@
 [
   {
-    "url": "https://hop.exchange",
-    "name": "Hop",
-    "category": [
-      "Bridge",
-      "Cross Chain Bridge"
-    ],
-    "icon": "https://static.debank.com/image/dapp/logo_url/43db0b55c8fa8df88757309f8b9a1c02/43db0b55c8fa8df88757309f8b9a1c02.png",
-    "description": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner."
-  },
-  {
     "url": "https://stargate.finance",
     "name": "Stargate V2",
     "category": [
@@ -44,5 +34,23 @@
     ],
     "icon": "https://icons.llama.fi/maya-protocol.jpg",
     "description": "MAYAChain is a friendly fork of THORChain. Similarly, it does not rely on pegging or wrapping assets, instead managing funds directly in on-chain vaults and safeguarding them through economic security. This is achieved using the Tendermint consensus engine, Cosmos-SDK state machine, and GG20 Threshold Signature Scheme (TSS)."
+  },
+  {
+    "url": "https://garden.finance",
+    "name": "Garden",
+    "category": [
+      "Cross Chain Bridge"
+    ],
+    "icon": "https://icons.llama.fi/garden.jpg",
+    "description": "Garden is the fastest Bitcoin bridge, enabling cross-chain Bitcoin swaps in as little as 30 seconds. It is built using an intents-based architecture with trustless settlements, ensuring zero custody risk for the users."
+  },
+  {
+    "url": "https://crosscurve.fi",
+    "name": "CrossCurve (by EYWA)",
+    "category": [
+      "Cross Chain Bridge"
+    ],
+    "icon": "https://icons.llama.fi/crosscurve-(by-eywa).png",
+    "description": "CrossCurve is a cross-chain trading and yield protocol built on Curve, creating a unified cross-chain liquidity market by aggregating existing Curve pools"
   }
 ]

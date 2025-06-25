@@ -79,16 +79,6 @@
     "description": "Reliable returns with bfUSD, our yield-bearing stablecoin that fuels stability while amplifying your earnings in a dynamic ecosystem."
   },
   {
-    "url": "https://sosovalue.com",
-    "name": "SoSoValue Basis",
-    "category": [
-      "Basis Trading",
-      "Indexes"
-    ],
-    "icon": "https://icons.llama.fi/sosovalue-basis.jpg",
-    "description": "The SoSoValue Indexes (SSI) Protocol is a cutting-edge spot index solution designed to make crypto investments simple and secure."
-  },
-  {
     "url": "https://asterdex.com",
     "name": "Aster asBNB",
     "category": [
@@ -99,6 +89,16 @@
     ],
     "icon": "https://icons.llama.fi/aster-asbnb.jpg",
     "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
+  },
+  {
+    "url": "https://sosovalue.com",
+    "name": "SoSoValue Basis",
+    "category": [
+      "Basis Trading",
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/sosovalue-basis.jpg",
+    "description": "The SoSoValue Indexes (SSI) Protocol is a cutting-edge spot index solution designed to make crypto investments simple and secure."
   },
   {
     "url": "https://manta.network",
@@ -112,12 +112,21 @@
   },
   {
     "url": "https://avantprotocol.com",
-    "name": "Avant Protocol",
+    "name": "Avant avUSD",
     "category": [
       "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/avant-protocol.jpg",
+    "icon": "https://icons.llama.fi/avant-avusd.jpg",
     "description": "Avant is a DeFi platform established in June 2024 with the mission to create a more inclusive financial system through a DeFi-powered stable-value token. The platform introduces avUSD, a stable-value token, and savUSD, its staked, yield-bearing counterpart."
+  },
+  {
+    "url": "https://zerobase.pro",
+    "name": "ZEROBASE CeDeFi",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/zerobase-cedefi.jpg",
+    "description": "ZEROBASE introduces the first zk-powered staking product on stablecoins"
   },
   {
     "url": "https://theo.xyz",
@@ -136,5 +145,14 @@
     ],
     "icon": "https://icons.llama.fi/aegis.jpg",
     "description": "Aegis performs funding rate arbitrage through delta-neutral trades in spot and perpetual markets, effectively generating profits from funding fees. These fees, disbursed three times daily, align perpetual contract and spot prices, ultimately rewarding YUSD holders."
+  },
+  {
+    "url": "https://myield.xyz",
+    "name": "Manta MYield",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/manta-myield.jpg",
+    "description": "A coin-denominated real yield platform that combines RWA, CEX, and on-chain yields."
   }
 ]

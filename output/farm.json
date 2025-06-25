@@ -11,16 +11,6 @@
     "description": "DeSyn is a decentralized liquidity infrastructure on Web3, empowering investors, projects, and security companies to invest, build, and manage collaboratively."
   },
   {
-    "url": "https://cygnus.finance",
-    "name": "Cygnus Restake",
-    "category": [
-      "Farm",
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/cygnus-restake.jpg",
-    "description": "Decentralized and non-custodial cross chain(EVM and non-EVM) restaking protocol. Part of Cygnus--the first modular real yield layer."
-  },
-  {
     "url": "https://zircuit.com",
     "name": "Zircuit Staking",
     "category": [
@@ -50,6 +40,15 @@
     "description": "Stake your assets to earn rewards and boost your points"
   },
   {
+    "url": "https://katana.network",
+    "name": "Katana Pre-Launch",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/katana-pre-launch.jpg",
+    "description": "Katana Pre-Launch lets users deposit eligible tokens into Yearn vaults to earn randomized reward NFTs called Krates, while securing a pro-rata share of 70M KAT, with deposits remaining user-owned and withdrawable after mainnet"
+  },
+  {
     "url": "https://ailayer.xyz",
     "name": "AILayer farm",
     "category": [
@@ -65,8 +64,7 @@
       "Liquid Staking",
       "Liquid Restaking",
       "Farm",
-      "Chain",
-      "Yield Aggregator"
+      "Chain"
     ],
     "icon": "https://icons.llama.fi/swell.png",
     "description": "Swell is a non-custodial liquid staking protocol"
