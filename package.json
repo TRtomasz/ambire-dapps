@@ -4,7 +4,7 @@
   "description": "",
   "main": "fetchData.js",
   "scripts": {
-    "test": "node test/dedupe.test.js"
+    "test": "node ./test/dedupe.test.js"
   },
   "keywords": [],
   "author": "",
