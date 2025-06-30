@@ -90,15 +90,6 @@
     "description": "Restake ETH LSTs on Inception, built on Eigenlayer to earn 2 layers of rewards"
   },
   {
-    "url": "https://kiki.finance",
-    "name": "iBTC Finance",
-    "category": [
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llama.fi/ibtc-finance.jpg",
-    "description": "iBTC is an LST protocol that provides 1:1 pegging for staked BTC, offering users unrestricted liquidity without a 28-day lock-up while ensuring the same yield as directly staking BTC on the exSat network. The protocol seamlessly combines high liquidity with stable staking rewards, making it an ideal solution for optimizing BTC staking returns"
-  },
-  {
     "url": "https://rockx.com",
     "name": "Bedrock uniETH",
     "category": [
@@ -106,6 +97,15 @@
     ],
     "icon": "https://icons.llama.fi/bedrock-unieth.jpg",
     "description": "uniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes"
+  },
+  {
+    "url": "https://kiki.finance",
+    "name": "iBTC Finance",
+    "category": [
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llama.fi/ibtc-finance.jpg",
+    "description": "iBTC is an LST protocol that provides 1:1 pegging for staked BTC, offering users unrestricted liquidity without a 28-day lock-up while ensuring the same yield as directly staking BTC on the exSat network. The protocol seamlessly combines high liquidity with stable staking rewards, making it an ideal solution for optimizing BTC staking returns"
   },
   {
     "url": "https://kingprotocol.org",

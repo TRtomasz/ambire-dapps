@@ -72,8 +72,7 @@
     "category": [
       "Yield",
       "Basis Trading",
-      "Derivatives",
-      "CeDeFi"
+      "Derivatives"
     ],
     "icon": "https://icons.llama.fi/aster-asbnb.jpg",
     "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
@@ -97,15 +96,6 @@
     "description": "Stake DAO is a non-custodial decentralized protocol enabling users to access optimized yield opportunities in DeFi"
   },
   {
-    "url": "https://equilibria.fi",
-    "name": "Equilibria",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/equilibria.png",
-    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
-  },
-  {
     "url": "https://aladdin.club",
     "name": "fx Protocol",
     "category": [
@@ -114,6 +104,15 @@
     ],
     "icon": "https://icons.llama.fi/fx-protocol.jpg",
     "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
+  },
+  {
+    "url": "https://equilibria.fi",
+    "name": "Equilibria",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/equilibria.png",
+    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
   },
   {
     "url": "https://spectra.finance",
@@ -197,15 +196,6 @@
     "description": "Tranchess is a yield enhancing asset tracker with varied risk-return solutions"
   },
   {
-    "url": "https://royco.org",
-    "name": "Royco Protocol",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/royco-protocol.jpg",
-    "description": "The Incentivized Action Market (IAM) Protocol."
-  },
-  {
     "url": "https://infinifi.xyz",
     "name": "infiniFi",
     "category": [
@@ -213,6 +203,15 @@
     ],
     "icon": "https://icons.llama.fi/infinifi.jpg",
     "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena."
+  },
+  {
+    "url": "https://royco.org",
+    "name": "Royco Protocol",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/royco-protocol.jpg",
+    "description": "The Incentivized Action Market (IAM) Protocol."
   },
   {
     "url": "https://noon.capital",

@@ -31,15 +31,6 @@
     "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
   },
   {
-    "url": "https://hemi.xyz",
-    "name": "Hemi Staking",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/hemi-staking.jpg",
-    "description": "Stake your assets to earn rewards and boost your points"
-  },
-  {
     "url": "https://katana.network",
     "name": "Katana Pre-Launch",
     "category": [
@@ -47,6 +38,15 @@
     ],
     "icon": "https://icons.llama.fi/katana-pre-launch.jpg",
     "description": "Katana Pre-Launch lets users deposit eligible tokens into Yearn vaults to earn randomized reward NFTs called Krates, while securing a pro-rata share of 70M KAT, with deposits remaining user-owned and withdrawable after mainnet"
+  },
+  {
+    "url": "https://hemi.xyz",
+    "name": "Hemi Staking",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/hemi-staking.jpg",
+    "description": "Stake your assets to earn rewards and boost your points"
   },
   {
     "url": "https://ailayer.xyz",

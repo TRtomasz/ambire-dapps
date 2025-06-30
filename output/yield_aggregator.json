@@ -68,15 +68,6 @@
     "description": "Yield aggregator for flamingo finance"
   },
   {
-    "url": "https://hyperbeat.org",
-    "name": "Hyperbeat",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/hyperbeat.jpg",
-    "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
-  },
-  {
     "url": "https://superform.xyz",
     "name": "Superform",
     "category": [
@@ -84,6 +75,15 @@
     ],
     "icon": "https://icons.llama.fi/superform.png",
     "description": "Superform is the onchain wealth app. Superform earns you the best returns on your crypto to grow your onchain wealth. Use SuperVaults to automatically optimize your earnings, or build your customized portfolio by directly depositing into over 800 earning opportunities"
+  },
+  {
+    "url": "https://hyperbeat.org",
+    "name": "Hyperbeat",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/hyperbeat.jpg",
+    "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
   },
   {
     "url": "https://rings.money",
@@ -104,6 +104,15 @@
     "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
   },
   {
+    "url": "https://vfat.io",
+    "name": "vfat.io",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/vfat.png",
+    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
+  },
+  {
     "url": "https://kava.io",
     "name": "Kava Mint",
     "category": [
@@ -114,15 +123,6 @@
     ],
     "icon": "https://icons.llama.fi/kava-mint.png",
     "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
-  },
-  {
-    "url": "https://vfat.io",
-    "name": "vfat.io",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/vfat.png",
-    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
   },
   {
     "url": "https://idle.finance",
@@ -179,15 +179,6 @@
     "description": "YieldFi: The First Streamlined Asset Management Platform"
   },
   {
-    "url": "https://badger.com",
-    "name": "Badger DAO",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/badger-dao.jpg",
-    "description": "BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi."
-  },
-  {
     "url": "https://yieldyak.com",
     "name": "Yield Yak Aggregator",
     "category": [
@@ -195,6 +186,15 @@
     ],
     "icon": "https://icons.llama.fi/yield-yak-aggregator.png",
     "description": "Yield Yak Aggregator is an easy-to-use tool to earn more yield from defi farming on the Avalanche network."
+  },
+  {
+    "url": "https://badger.com",
+    "name": "Badger DAO",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/badger-dao.jpg",
+    "description": "BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi."
   },
   {
     "url": "https://pit.finance",
