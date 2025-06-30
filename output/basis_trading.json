@@ -61,15 +61,6 @@
     "description": "BounceBit CeDeFi combines CeFi and DeFi to generate yield on various assets across multiple chains. The yield is generated via delta-neutral basis trading on centralized exchanges, facilitated by CEX-integrated custody solutions like CEFFU. BounceBit CeDeFi uses the ERC-4626 Tokenized Vault Standard to enable daily rebasing of generated revenue"
   },
   {
-    "url": "https://resolv.xyz",
-    "name": "Resolv",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/resolv.jpg",
-    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
-  },
-  {
     "url": "https://bitfi.one",
     "name": "BitFi Basis",
     "category": [
@@ -79,13 +70,21 @@
     "description": "Reliable returns with bfUSD, our yield-bearing stablecoin that fuels stability while amplifying your earnings in a dynamic ecosystem."
   },
   {
+    "url": "https://resolv.xyz",
+    "name": "Resolv",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/resolv.jpg",
+    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
+  },
+  {
     "url": "https://asterdex.com",
     "name": "Aster asBNB",
     "category": [
       "Yield",
       "Basis Trading",
-      "Derivatives",
-      "CeDeFi"
+      "Derivatives"
     ],
     "icon": "https://icons.llama.fi/aster-asbnb.jpg",
     "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"

@@ -68,13 +68,13 @@
     "description": "Liquity V1 is a decentralized and immutable borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral."
   },
   {
-    "url": "https://yala.org",
-    "name": "Yala",
+    "url": "https://river.inc",
+    "name": "River",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/yala.jpg",
-    "description": "Bring Bitcoin's liquidity across blockchains"
+    "icon": "https://icons.llama.fi/river.jpg",
+    "description": "River is building the circulatory system for crypto, connecting assets, liquidity, and yield across chains. Powered by the omni-CDP stablecoin protocol"
   },
   {
     "url": "https://aladdin.club",
@@ -85,6 +85,15 @@
     ],
     "icon": "https://icons.llama.fi/fx-protocol.jpg",
     "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
+  },
+  {
+    "url": "https://yala.org",
+    "name": "Yala",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/yala.jpg",
+    "description": "Bring Bitcoin's liquidity across blockchains"
   },
   {
     "url": "https://level.money",
@@ -142,6 +151,15 @@
     "description": "Users can mint yUSD by over-collateralizing BTC."
   },
   {
+    "url": "https://orby.network",
+    "name": "Orby Network",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/orby-network.png",
+    "description": "Cronos Network's first native stablecoin lending protocol"
+  },
+  {
     "url": "https://kava.io",
     "name": "Kava Mint",
     "category": [
@@ -152,15 +170,6 @@
     ],
     "icon": "https://icons.llama.fi/kava-mint.png",
     "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
-  },
-  {
-    "url": "https://orby.network",
-    "name": "Orby Network",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/orby-network.png",
-    "description": "Cronos Network's first native stablecoin lending protocol"
   },
   {
     "url": "https://sovryn.app",
@@ -183,15 +192,6 @@
     "description": "Pando Leaf: a decentralized financial network to minting stablecoins"
   },
   {
-    "url": "https://angle.money",
-    "name": "Angle",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/angle.jpg",
-    "description": "Angle is an over-collateralized, decentralized and capital-efficient stablecoin protocol. It is based on two smart contract modules. Angle Core module allows to mint agEUR from any token at face value, open perpetuals on collateral/stablecoin pairs, or deposit tokens to earn yield. Angle Borrowing module allows to borrow or get leverage with agEUR from tokens deposited as collateral. Angle is governed by veANGLE holders."
-  },
-  {
     "url": "https://abracadabra.money",
     "name": "Abracadabra Spell",
     "category": [
@@ -200,6 +200,15 @@
     ],
     "icon": "https://icons.llama.fi/abracadabra-spell.jpg",
     "description": "Abracadabra.money is a spell book that allows users to produce magic internet money ($MIM) which is a stable coin that you can swap for any other traditional stable coin."
+  },
+  {
+    "url": "https://angle.money",
+    "name": "Angle",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/angle.jpg",
+    "description": "Angle is an over-collateralized, decentralized and capital-efficient stablecoin protocol. It is based on two smart contract modules. Angle Core module allows to mint agEUR from any token at face value, open perpetuals on collateral/stablecoin pairs, or deposit tokens to earn yield. Angle Borrowing module allows to borrow or get leverage with agEUR from tokens deposited as collateral. Angle is governed by veANGLE holders."
   },
   {
     "url": "https://bitu.io",
@@ -218,15 +227,6 @@
     ],
     "icon": "https://icons.llama.fi/frankencoin.jpg",
     "description": "Frankencoin is a collateralized, oracle-free stablecoin that tracks the value of the Swiss franc."
-  },
-  {
-    "url": "https://river.inc",
-    "name": "River",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/river.jpg",
-    "description": "River is building the circulatory system for crypto, connecting assets, liquidity, and yield across chains. Powered by the omni-CDP stablecoin protocol"
   },
   {
     "url": "https://btcfi.one",
@@ -281,6 +281,15 @@
     ],
     "icon": "https://icons.llama.fi/liquidloans.jpg",
     "description": "Fully Backed Stablecoin. Low 110% Collateral Ratio. No Repayment Schedule. Immutable. Governance-Free. No Admin Keys."
+  },
+  {
+    "url": "https://internationalmeme.fund",
+    "name": "International Meme Fund",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/international-meme-fund.png",
+    "description": "International Meme Fund"
   },
   {
     "url": "https://particle.trade",

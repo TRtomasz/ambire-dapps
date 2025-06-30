@@ -46,11 +46,11 @@
   },
   {
     "url": "https://crosscurve.fi",
-    "name": "CrossCurve (by EYWA)",
+    "name": "CrossCurve",
     "category": [
       "Cross Chain Bridge"
     ],
-    "icon": "https://icons.llama.fi/crosscurve-(by-eywa).png",
-    "description": "CrossCurve is a cross-chain trading and yield protocol built on Curve, creating a unified cross-chain liquidity market by aggregating existing Curve pools"
+    "icon": "https://icons.llama.fi/crosscurve.png",
+    "description": "Unified Cross-Chain Liquidity & High-Yield Farming. Your all-in-one solution to swap, bridge, and earn ﻿with full security."
   }
 ]

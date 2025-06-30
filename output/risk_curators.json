@@ -1,23 +1,13 @@
 [
   {
     "url": "https://euler.finance",
-    "name": "Euler DAO",
+    "name": "Euler V2",
     "category": [
-      "Risk Curators",
-      "Lending"
-    ],
-    "icon": "https://icons.llama.fi/euler-dao.jpg",
-    "description": "The lending super app."
-  },
-  {
-    "url": "https://cian.app",
-    "name": "CIAN Yield Layer",
-    "category": [
-      "Yield Aggregator",
+      "Lending",
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/cian-yield-layer.jpg",
-    "description": "Redistribute Yield Sources For Sustainable DeFi & Optimized APY For Your Assets"
+    "icon": "https://icons.llama.fi/euler-v2.png",
+    "description": "Euler revolutionizes DeFi by letting any asset become collateral for a lending market. Lenders and borrowers get market leading risk-adjusted rates. Builders can create and manage markets exactly how they want them, with institutional-grade security."
   },
   {
     "url": "https://steakhouse.financial",
@@ -36,6 +26,16 @@
     ],
     "icon": "https://icons.llama.fi/gauntlet.jpg",
     "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto."
+  },
+  {
+    "url": "https://cian.app",
+    "name": "CIAN Yield Layer",
+    "category": [
+      "Yield Aggregator",
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/cian-yield-layer.jpg",
+    "description": "Redistribute Yield Sources For Sustainable DeFi & Optimized APY For Your Assets"
   },
   {
     "url": "https://re7labs.xyz",
@@ -128,15 +128,6 @@
     "description": "Hakutora focuses on uncovering on-chain opportunities and managing risk, providing top-tier asset management and risk control solutions."
   },
   {
-    "url": "https://apostro.xyz",
-    "name": "Apostro",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/apostro.jpg",
-    "description": "Money markets for professional & institutional traders. Specialized vaults for BTCfi, stablecoins & more"
-  },
-  {
     "url": "https://9summits.io",
     "name": "9Summits",
     "category": [
@@ -144,6 +135,15 @@
     ],
     "icon": "https://icons.llama.fi/9summits.jpg",
     "description": "By curating top-performing vaults, we empower our clients to access the best opportunities in decentralized finance with confidence and precision."
+  },
+  {
+    "url": "https://apostro.xyz",
+    "name": "Apostro",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/apostro.jpg",
+    "description": "Money markets for professional & institutional traders. Specialized vaults for BTCfi, stablecoins & more"
   },
   {
     "url": "https://hyperithm.com",
@@ -155,15 +155,6 @@
     "description": "Hyperithm is a premier digital asset manager based in Tokyo and Seoul, active in quant trading and venture investments."
   },
   {
-    "url": "https://alterscope.org",
-    "name": "Alterscope",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/alterscope.jpg",
-    "description": "Alterscope is a permissionless platform for creating, deploying and managing verified, autonomous risk agents. By leveraging zero-knowledge proofs and swarm intelligence, it empowers the future of agent-driven finance."
-  },
-  {
     "url": "https://alphaping.ch",
     "name": "Alphaping",
     "category": [
@@ -171,5 +162,14 @@
     ],
     "icon": "https://icons.llama.fi/alphaping.jpg",
     "description": "We specialize in managing decentralized finance (DeFi) lending vaults and strategically deploying capital to maximize returns."
+  },
+  {
+    "url": "https://alterscope.org",
+    "name": "Alterscope",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/alterscope.jpg",
+    "description": "Alterscope is a permissionless platform for creating, deploying and managing verified, autonomous risk agents. By leveraging zero-knowledge proofs and swarm intelligence, it empowers the future of agent-driven finance."
   }
 ]
