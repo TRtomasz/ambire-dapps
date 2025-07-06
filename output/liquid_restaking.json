@@ -14,7 +14,8 @@
     "name": "ether.fi Stake",
     "category": [
       "Liquid Restaking",
-      "Onchain Capital Allocator"
+      "Onchain Capital Allocator",
+      "Lending"
     ],
     "icon": "https://icons.llama.fi/ether.fi.jpg",
     "description": "Decentralized and non-custodial Ethereum staking protocol."
@@ -70,24 +71,24 @@
   },
   {
     "url": "https://swellnetwork.io",
-    "name": "Swell Liquid Staking",
+    "name": "Swell Liquid Restaking",
     "category": [
-      "Liquid Staking",
       "Liquid Restaking",
+      "Liquid Staking",
       "Farm",
       "Chain"
     ],
     "icon": "https://icons.llama.fi/swell.png",
-    "description": "Swell is a non-custodial liquid staking protocol"
+    "description": "rswETH is an ERC-20 Liquid Restaking Token that provides liquidity for users who are wanting to \"restake\" their ETH into restaking protocols such as EigenLayer without having their restaked ETH locked"
   },
   {
-    "url": "https://inceptionlrt.com",
-    "name": "InceptionLRT (Isolated Restaking)",
+    "url": "https://rockx.com",
+    "name": "Bedrock uniETH",
     "category": [
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/inceptionlrt-(isolated-restaking).png",
-    "description": "Restake ETH LSTs on Inception, built on Eigenlayer to earn 2 layers of rewards"
+    "icon": "https://icons.llama.fi/bedrock-unieth.jpg",
+    "description": "uniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes"
   },
   {
     "url": "https://kiki.finance",
@@ -99,13 +100,13 @@
     "description": "iBTC is an LST protocol that provides 1:1 pegging for staked BTC, offering users unrestricted liquidity without a 28-day lock-up while ensuring the same yield as directly staking BTC on the exSat network. The protocol seamlessly combines high liquidity with stable staking rewards, making it an ideal solution for optimizing BTC staking returns"
   },
   {
-    "url": "https://rockx.com",
-    "name": "Bedrock uniETH",
+    "url": "https://inceptionlrt.com",
+    "name": "InceptionLRT (Isolated Restaking)",
     "category": [
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/bedrock-unieth.jpg",
-    "description": "uniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes"
+    "icon": "https://icons.llama.fi/inceptionlrt-(isolated-restaking).png",
+    "description": "Restake ETH LSTs on Inception, built on Eigenlayer to earn 2 layers of rewards"
   },
   {
     "url": "https://kingprotocol.org",

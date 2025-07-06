@@ -67,18 +67,6 @@
     "description": "CoinWind is a DeFi financial platform for smart mining."
   },
   {
-    "url": "https://asterdex.com",
-    "name": "Aster asBNB",
-    "category": [
-      "Yield",
-      "Basis Trading",
-      "Derivatives",
-      "CeDeFi"
-    ],
-    "icon": "https://icons.llama.fi/aster-asbnb.jpg",
-    "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
-  },
-  {
     "url": "https://elixir.xyz",
     "name": "Elixir",
     "category": [
@@ -86,6 +74,27 @@
     ],
     "icon": "https://icons.llama.fi/elixir.jpg",
     "description": "The Elixir network is a new primitive, purpose-built to power the next generation of institutional liquidity. Elixir powers deUSD – a fully collateralized, yield-bearing synthetic dollar. Elixir is the most widely adopted network by RWAs: exclusively bringing funds from BlackRock, Hamilton Lane, and others to DeFi for the first time through deUSD. The Elixir network is secured by 30,000+ global validators."
+  },
+  {
+    "url": "https://asterdex.com",
+    "name": "Aster asBNB",
+    "category": [
+      "Yield",
+      "Basis Trading",
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/aster-asbnb.jpg",
+    "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
+  },
+  {
+    "url": "https://aladdin.club",
+    "name": "fx Protocol",
+    "category": [
+      "CDP",
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/fx-protocol.jpg",
+    "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
   },
   {
     "url": "https://stakedao.org",
@@ -106,16 +115,6 @@
     "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
   },
   {
-    "url": "https://aladdin.club",
-    "name": "fx Protocol",
-    "category": [
-      "CDP",
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/fx-protocol.jpg",
-    "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
-  },
-  {
     "url": "https://spectra.finance",
     "name": "Spectra V2",
     "category": [
@@ -134,15 +133,6 @@
     "description": "Build, deploy, and zap into automated yield strategies with vaultcraft"
   },
   {
-    "url": "https://rate-x.io",
-    "name": "RateX",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/ratex.jpg",
-    "description": "World’s 1st Leveraged Yield Exchange"
-  },
-  {
     "url": "https://tokemak.xyz",
     "name": "Tokemak",
     "category": [
@@ -150,6 +140,15 @@
     ],
     "icon": "https://icons.llama.fi/tokemak.jpg",
     "description": "Tokemak Autopilot offers a new way to provide liquidity. Autopools autonomously rebalance your LP positions across a set of DEXs and correlated-assets, while keeping you composable within DeFi."
+  },
+  {
+    "url": "https://rate-x.io",
+    "name": "RateX",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/ratex.jpg",
+    "description": "World’s 1st Leveraged Yield Exchange"
   },
   {
     "url": "https://streamprotocol.money",
@@ -188,6 +187,15 @@
     "description": "Looped Hype (LHYPE) is an automated looping protocol that maximizes yield on staked HYPE and other yield bearing tokens. Users simply deposit HYPE to get LHYPE, then behind the scenes the protocol uses an automated looping strategy to generate additional yield, on top of any network rewards earned from staking"
   },
   {
+    "url": "https://infinifi.xyz",
+    "name": "infiniFi",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/infinifi.jpg",
+    "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena."
+  },
+  {
     "url": "https://tranchess.com",
     "name": "Tranchess Yield",
     "category": [
@@ -197,6 +205,16 @@
     "description": "Tranchess is a yield enhancing asset tracker with varied risk-return solutions"
   },
   {
+    "url": "https://term.finance",
+    "name": "TermFinance Lend",
+    "category": [
+      "Lending",
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/termfinance-lend.png",
+    "description": "TermFinance is a fixed rate borrow/lend protocol pioneering an auction model to originate fixed rate, fixed term crypto backed loans at scale."
+  },
+  {
     "url": "https://royco.org",
     "name": "Royco Protocol",
     "category": [
@@ -204,15 +222,6 @@
     ],
     "icon": "https://icons.llama.fi/royco-protocol.jpg",
     "description": "The Incentivized Action Market (IAM) Protocol."
-  },
-  {
-    "url": "https://infinifi.xyz",
-    "name": "infiniFi",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/infinifi.jpg",
-    "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena."
   },
   {
     "url": "https://noon.capital",
@@ -242,15 +251,6 @@
     "description": "Automated Vaults to maximize your returns."
   },
   {
-    "url": "https://mole.fi",
-    "name": "Mole",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/mole.png",
-    "description": "Mole is a DeFi protocol provided leveraged yield farming, hedge fund and savings."
-  },
-  {
     "url": "https://napier.finance",
     "name": "Napier",
     "category": [
@@ -260,13 +260,13 @@
     "description": "A modular yield tokenization protocol that enables you to own, manage, create any yield products without permissions."
   },
   {
-    "url": "https://amphor.io",
-    "name": "Amphor",
+    "url": "https://mole.fi",
+    "name": "Mole",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/amphor.jpg",
-    "description": "Amphor offers easy access to innovative yield strategies on DeFi ecosystem."
+    "icon": "https://icons.llama.fi/mole.png",
+    "description": "Mole is a DeFi protocol provided leveraged yield farming, hedge fund and savings."
   },
   {
     "url": "https://belt.fi",
@@ -285,6 +285,15 @@
     ],
     "icon": "https://icons.llama.fi/benddao-ape-staking.png",
     "description": "ApeCoin Staking Yield"
+  },
+  {
+    "url": "https://peapods.finance",
+    "name": "Peapods Finance",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/peapods-finance.png",
+    "description": "Peapods Finance allows you to earn real yield on any liquid asset through market volatility."
   },
   {
     "url": "https://woo.org",

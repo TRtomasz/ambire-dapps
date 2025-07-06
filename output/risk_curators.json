@@ -10,14 +10,13 @@
     "description": "The lending super app."
   },
   {
-    "url": "https://cian.app",
-    "name": "CIAN Yield Layer",
+    "url": "https://gauntlet.xyz",
+    "name": "Gauntlet",
     "category": [
-      "Yield Aggregator",
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/cian-yield-layer.jpg",
-    "description": "Redistribute Yield Sources For Sustainable DeFi & Optimized APY For Your Assets"
+    "icon": "https://icons.llama.fi/gauntlet.jpg",
+    "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto."
   },
   {
     "url": "https://steakhouse.financial",
@@ -29,13 +28,14 @@
     "description": "We build transparent, efficient, and accessible financial primitives to power the next generation of capital markets on public blockchains"
   },
   {
-    "url": "https://gauntlet.xyz",
-    "name": "Gauntlet",
+    "url": "https://cian.app",
+    "name": "CIAN Yield Layer",
     "category": [
+      "Yield Aggregator",
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/gauntlet.jpg",
-    "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto."
+    "icon": "https://icons.llama.fi/cian-yield-layer.jpg",
+    "description": "Redistribute Yield Sources For Sustainable DeFi & Optimized APY For Your Assets"
   },
   {
     "url": "https://re7labs.xyz",
@@ -56,15 +56,6 @@
     "description": "MEV Capital is an Investment & risk management firm focused on open-ended strategies across Decentralized Finance on EVM chains since 2020."
   },
   {
-    "url": "https://tulipa.capital",
-    "name": "Tulipa Capital",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/tulipa-capital.jpg",
-    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
-  },
-  {
     "url": "https://bprotocol.org",
     "name": "B.Protocol Curator",
     "category": [
@@ -74,6 +65,15 @@
     "description": "B.Protocol is a DeFi economic risk mitigation hub."
   },
   {
+    "url": "https://tulipa.capital",
+    "name": "Tulipa Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/tulipa-capital.jpg",
+    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
+  },
+  {
     "url": "https://k3.capital",
     "name": "K3 Capital",
     "category": [
@@ -81,15 +81,6 @@
     ],
     "icon": "https://icons.llama.fi/k3-capital.jpg",
     "description": "Leading institutional asset and risk management in decentralized finance"
-  },
-  {
-    "url": "https://yearn.fi",
-    "name": "Yearn Curating",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/yearn-curating.jpg",
-    "description": "Yearn Finance is DeFi's premier yield aggregator. Giving individuals, DAOs and other protocols a way to deposit digital assets and receive yield"
   },
   {
     "url": "https://agglayer.dev",
@@ -162,6 +153,15 @@
     ],
     "icon": "https://icons.llama.fi/alterscope.jpg",
     "description": "Alterscope is a permissionless platform for creating, deploying and managing verified, autonomous risk agents. By leveraging zero-knowledge proofs and swarm intelligence, it empowers the future of agent-driven finance."
+  },
+  {
+    "url": "https://yearn.fi",
+    "name": "Yearn Curating",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/yearn-curating.jpg",
+    "description": "Yearn Finance is DeFi's premier yield aggregator. Giving individuals, DAOs and other protocols a way to deposit digital assets and receive yield"
   },
   {
     "url": "https://alphaping.ch",

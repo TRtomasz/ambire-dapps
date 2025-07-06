@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://debridge.finance",
+    "name": "deBridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/811b17297bb5e7e2def952fcdc8bbf11/811b17297bb5e7e2def952fcdc8bbf11.png",
+    "description": "Interoperability for High Performance dApps"
+  },
+  {
     "url": "https://jumper.exchange",
     "name": "Jumper",
     "category": [
@@ -178,24 +187,6 @@
     "description": "Celer cBridge is a multi-chain network that enables instant, low-cost and ANY-to-ANY value transfers within and across different blockchains, such as Ethereum and Polkadot, and different layer-2 scaling solutions on top, such as Optimistic Rollup, ZK Rollup and sidechains"
   },
   {
-    "url": "https://gobob.xyz",
-    "name": "BOB Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/bob-bridge.jpg",
-    "description": "BOB is a new Bitcoin EVM L2, secured by Bitcoin PoW and connected to ETH as a rollup."
-  },
-  {
-    "url": "https://fuel.network",
-    "name": "Fuel Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/fuel.jpg",
-    "description": "Bridge between Fuel Ignition and Ethereum"
-  },
-  {
     "url": "https://poly.network",
     "name": "Poly Network",
     "category": [
@@ -205,6 +196,15 @@
     "description": "Poly Network is a global cross-chain protocol for implementing blockchain interoperability and building Web3.0 infrastructure. Poly Network has also integrated over 20 blockchains."
   },
   {
+    "url": "https://gobob.xyz",
+    "name": "BOB Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/bob-bridge.jpg",
+    "description": "BOB is a new Bitcoin EVM L2, secured by Bitcoin PoW and connected to ETH as a rollup."
+  },
+  {
     "url": "https://wrapped.com",
     "name": "Wrapped",
     "category": [
@@ -212,6 +212,15 @@
     ],
     "icon": "https://icons.llama.fi/wrapped.jpg",
     "description": "Your favorite assets on every blockchain. wrapped.com is a cross-chain institutional bridge. Designed for high-performance and speed."
+  },
+  {
+    "url": "https://fuel.network",
+    "name": "Fuel Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/fuel.jpg",
+    "description": "Bridge between Fuel Ignition and Ethereum"
   },
   {
     "url": "https://buildwithsygma.com",
@@ -232,15 +241,6 @@
     "description": "Orbit Bridge is an interchain communication protocol that allows communication between heterogeneous blockchains. Through this, users can utilize the various assets of various chains in all dApps through simple transactions on each chain."
   },
   {
-    "url": "https://biconomy.io",
-    "name": "Hyphen",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/biconomy.png",
-    "description": "Hyphen provides simple APIs that lets you easily offer instantaneous value transfers between EVM chains, various L2s & allows quick onboarding from L1 to L2s."
-  },
-  {
     "url": "https://injective.com",
     "name": "Injective Bridge",
     "category": [
@@ -248,6 +248,15 @@
     ],
     "icon": "https://icons.llama.fi/injective.png",
     "description": "Access limitless DeFi markets with zero barriers."
+  },
+  {
+    "url": "https://btcproxy.io",
+    "name": "Proxy",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/proxy.png",
+    "description": "Proxy Finance (PRXY) offers a Bitcoin Yield Strategies utilizing DeFi 2.0 including (3,3) Staking, (1,1) Bonding and (2,2) Programs for other assets. The Proxy Finance network consists of BTCpx token which is a BTC Wrapper as well as the PRXY Governance Token. Staking value of Proxy includes PRXY locked in the PRXY staking contract as well as PRXY staked in the farmProxy contract to earn BTCpx rewards"
   },
   {
     "url": "https://hatom.com",
@@ -259,15 +268,6 @@
     ],
     "icon": "https://icons.llama.fi/hatom-lending.jpg",
     "description": "Hatom Lending Protocol is a decentralized lending and borrowing platform operating within the MultiversX Network."
-  },
-  {
-    "url": "https://btcproxy.io",
-    "name": "Proxy",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/proxy.png",
-    "description": "Proxy Finance (PRXY) offers a Bitcoin Yield Strategies utilizing DeFi 2.0 including (3,3) Staking, (1,1) Bonding and (2,2) Programs for other assets. The Proxy Finance network consists of BTCpx token which is a BTC Wrapper as well as the PRXY Governance Token. Staking value of Proxy includes PRXY locked in the PRXY staking contract as well as PRXY staked in the farmProxy contract to earn BTCpx rewards"
   },
   {
     "url": "https://gravitybridge.net",
@@ -288,15 +288,6 @@
     "description": "Allbridge Classic is a simple, modern, and reliable way to transfer assets between different networks. It is a bridge between both EVM and non-EVM compatible blockchains. Our mission is to make the blockchain world borderless by providing a tool to freely move assets between various blockchains."
   },
   {
-    "url": "https://mezo.org",
-    "name": "Mezo Network",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/mezo-network.jpg",
-    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
-  },
-  {
     "url": "https://octusbridge.io",
     "name": "Octus Bridge",
     "category": [
@@ -304,15 +295,6 @@
     ],
     "icon": "https://icons.llama.fi/octus-bridge.jpg",
     "description": "Cross-chain transfers"
-  },
-  {
-    "url": "https://iotube.org",
-    "name": "ioTube",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/iotube.png",
-    "description": "ioTube is the decentralized bridge for connecting Ethereum, Binance Smart Chain, Polygon (Matic), and IoTeX. ioTube enables bi-directional exchange of tokens between IoTeX, Ethereum, Binance Smart Chain, and now Polygon!"
   },
   {
     "url": "https://morphl2.io",
@@ -324,6 +306,24 @@
     "description": "Bridge between Ethereum and Morph L2"
   },
   {
+    "url": "https://iotube.org",
+    "name": "ioTube",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/iotube.png",
+    "description": "ioTube is the decentralized bridge for connecting Ethereum, Binance Smart Chain, Polygon (Matic), and IoTeX. ioTube enables bi-directional exchange of tokens between IoTeX, Ethereum, Binance Smart Chain, and now Polygon!"
+  },
+  {
+    "url": "https://mezo.org",
+    "name": "Mezo Network",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/mezo-network.jpg",
+    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
+  },
+  {
     "url": "https://dexalot.com",
     "name": "Dexalot Portfolio",
     "category": [
@@ -333,13 +333,13 @@
     "description": "Dexalot is an omni-chain order book DEX with zero slippage, near zero gas fees, and is on its own app-specific chain, allowing users to deposit from and withdraw to multiple chains. Dexalot is also fully on-chain and non-custodial."
   },
   {
-    "url": "https://p.network",
-    "name": "pNetwork",
+    "url": "https://universal.xyz",
+    "name": "Universal Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/pnetwork.jpg",
-    "description": "pNetwork is a protocol that enables cross-chain operations, such as transferring assets from one blockchain to another. It is designed to provide interoperability between different blockchain networks, allowing users to take advantage of the unique features and capabilities of each network while still being able to access and use their assets on other networks."
+    "icon": "https://icons.llama.fi/universal-bridge.jpg",
+    "description": "Trade crypto’s most popular assets from your onchain wallet. 80+ 1:1 backed wrapped uAssets. uXRP, uSUI, uSOL "
   },
   {
     "url": "https://wanchain.org",
@@ -349,5 +349,14 @@
     ],
     "icon": "https://icons.llama.fi/wan-bridge.png",
     "description": "Wanchain, the Wide Area Network chain, is the worlds premier decentralised blockchain interoperability solution."
+  },
+  {
+    "url": "https://p.network",
+    "name": "pNetwork",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/pnetwork.jpg",
+    "description": "pNetwork is a protocol that enables cross-chain operations, such as transferring assets from one blockchain to another. It is designed to provide interoperability between different blockchain networks, allowing users to take advantage of the unique features and capabilities of each network while still being able to access and use their assets on other networks."
   }
 ]

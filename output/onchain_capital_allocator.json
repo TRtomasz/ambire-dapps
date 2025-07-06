@@ -14,7 +14,8 @@
     "name": "ether.fi Stake",
     "category": [
       "Liquid Restaking",
-      "Onchain Capital Allocator"
+      "Onchain Capital Allocator",
+      "Lending"
     ],
     "icon": "https://icons.llama.fi/ether.fi.jpg",
     "description": "Decentralized and non-custodial Ethereum staking protocol."
@@ -35,7 +36,7 @@
     "category": [
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/veda.png",
+    "icon": "https://icons.llama.fi/veda.jpg",
     "description": "Veda is the leading DeFi vault platform, enabling crypto applications, asset issuers, and protocols to build consumer-grade cross chain yield products. Veda's technology is powering many of DeFi's largest vault products, including ether.fi Liquid, Lombard DeFi Vault, and Mantle cmETH"
   },
   {
@@ -118,13 +119,13 @@
     "description": "One-Stop Staking Protocol For Omnichain LST Liquidity."
   },
   {
-    "url": "https://seamlessprotocol.com",
-    "name": "Seamless Vaults",
+    "url": "https://aera.finance",
+    "name": "Aera V2",
     "category": [
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/seamless-vaults.jpg",
-    "description": "A decentralized, non-custodial liquidity market that creates a more seamless experience for Suppliers and Borrowers."
+    "icon": "https://icons.llama.fi/aera-v2.jpg",
+    "description": "Autonomous onchain treasury management protocol for DAOs, built by the team at Gauntlet."
   },
   {
     "url": "https://lagoon.finance",
@@ -134,6 +135,25 @@
     ],
     "icon": "https://icons.llama.fi/lagoon.jpg",
     "description": "Lagoon provides an infrastructure to launch, manage and scale on-chain vaults — powered by ERC-7540 standard and Safe. Users can enter any strategies and earn interest over their assets. While each curator process deposits and withdrawals in an asynchronous manner and at different intervals"
+  },
+  {
+    "url": "https://extrafi.io",
+    "name": "Extra Finance Leverage Farming",
+    "category": [
+      "Leveraged Farming",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/extra-finance.jpg",
+    "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
+  },
+  {
+    "url": "https://seamlessprotocol.com",
+    "name": "Seamless Vaults",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/seamless-vaults.jpg",
+    "description": "A decentralized, non-custodial liquidity market that creates a more seamless experience for Suppliers and Borrowers."
   },
   {
     "url": "https://mitosis.org",
