@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://wildcat.finance",
+    "name": "Wildcat Protocol",
+    "category": [
+      "Uncollateralized Lending"
+    ],
+    "icon": "https://icons.llama.fi/wildcat-protocol.jpg",
+    "description": "Wildcat is a protocol that allows borrowers to deploy undercollateralised credit lines."
+  }
+]

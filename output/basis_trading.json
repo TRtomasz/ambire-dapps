@@ -84,8 +84,7 @@
     "category": [
       "Yield",
       "Basis Trading",
-      "Derivatives",
-      "CeDeFi"
+      "Derivatives"
     ],
     "icon": "https://icons.llama.fi/aster-asbnb.jpg",
     "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
@@ -130,12 +129,12 @@
   },
   {
     "url": "https://theo.xyz",
-    "name": "Theo Network",
+    "name": "Theo",
     "category": [
       "Basis Trading"
     ],
     "icon": "https://icons.llama.fi/theo-network.jpg",
-    "description": "Theo Network is a set of onchain contracts and off-chain systems built to capture onchain funding rates at scale"
+    "description": "Theo is a full-stack platform connecting onchain capital to global financial markets."
   },
   {
     "url": "https://aegis.im",
@@ -145,14 +144,5 @@
     ],
     "icon": "https://icons.llama.fi/aegis.jpg",
     "description": "Aegis performs funding rate arbitrage through delta-neutral trades in spot and perpetual markets, effectively generating profits from funding fees. These fees, disbursed three times daily, align perpetual contract and spot prices, ultimately rewarding YUSD holders."
-  },
-  {
-    "url": "https://myield.xyz",
-    "name": "Manta MYield",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/manta-myield.jpg",
-    "description": "A coin-denominated real yield platform that combines RWA, CEX, and on-chain yields."
   }
 ]

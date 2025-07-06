@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://asterdex.com",
-    "name": "Aster asBNB",
-    "category": [
-      "Yield",
-      "Basis Trading",
-      "Derivatives",
-      "CeDeFi"
-    ],
-    "icon": "https://icons.llama.fi/aster-asbnb.jpg",
-    "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
-  },
-  {
     "url": "https://goose.farm",
     "name": "Goose",
     "category": [

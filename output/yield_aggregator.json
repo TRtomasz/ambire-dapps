@@ -104,6 +104,15 @@
     "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
   },
   {
+    "url": "https://vfat.io",
+    "name": "vfat.io",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/vfat.png",
+    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
+  },
+  {
     "url": "https://kava.io",
     "name": "Kava Mint",
     "category": [
@@ -116,15 +125,6 @@
     "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
   },
   {
-    "url": "https://vfat.io",
-    "name": "vfat.io",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/vfat.png",
-    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
-  },
-  {
     "url": "https://idle.finance",
     "name": "Idle",
     "category": [
@@ -134,13 +134,13 @@
     "description": "Idle is a decentralized protocol and set of products that aim to unlock the power of decentralized finance as a one-stop source of yield. It allows users to algorithmically optimize their digital asset allocation across leading DeFi protocols, whether they want to maximize it or keep tabs on their risk/return profile."
   },
   {
-    "url": "https://nawa.finance",
-    "name": "Nawa Protocol",
+    "url": "https://yo.xyz",
+    "name": "YO Protocol",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/nawa-protocol.jpg",
-    "description": "Nawa Finance is an ethical & Shariah-compliant DeFi protocol offering auto-compounding vaults and liquid staking for Bitcoin assets on Core Chain"
+    "icon": "https://icons.llama.fi/yo-protocol.png",
+    "description": "Set it and forget it. YO is your secure multi-chain yield optimizer, continuously rebalancing to deliver the best risk-adjusted yield in DeFi."
   },
   {
     "url": "https://canopyhub.xyz",
@@ -150,15 +150,6 @@
     ],
     "icon": "https://icons.llama.fi/canopy.jpg",
     "description": "Canopy is a yield aggregation platform that simplifies liquidity deployment into the Movement Network."
-  },
-  {
-    "url": "https://yo.xyz",
-    "name": "YO Protocol",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/yo-protocol.png",
-    "description": "Set it and forget it. YO is your secure multi-chain yield optimizer, continuously rebalancing to deliver the best risk-adjusted yield in DeFi."
   },
   {
     "url": "https://harvest.finance",
@@ -179,15 +170,6 @@
     "description": "YieldFi: The First Streamlined Asset Management Platform"
   },
   {
-    "url": "https://badger.com",
-    "name": "Badger DAO",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/badger-dao.jpg",
-    "description": "BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi."
-  },
-  {
     "url": "https://yieldyak.com",
     "name": "Yield Yak Aggregator",
     "category": [
@@ -197,13 +179,13 @@
     "description": "Yield Yak Aggregator is an easy-to-use tool to earn more yield from defi farming on the Avalanche network."
   },
   {
-    "url": "https://pit.finance",
-    "name": "Pit Finance",
+    "url": "https://badger.com",
+    "name": "Badger DAO",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/pit-finance.jpg",
-    "description": "Boosting your decentralized finance returns through strategic asset multiplication and advanced yield optimization techniques."
+    "icon": "https://icons.llama.fi/badger-dao.jpg",
+    "description": "BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi."
   },
   {
     "url": "https://vesper.finance",
@@ -224,6 +206,15 @@
     "description": "IPOR Fusion is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
   },
   {
+    "url": "https://pit.finance",
+    "name": "Pit Finance",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/pit-finance.jpg",
+    "description": "Boosting your decentralized finance returns through strategic asset multiplication and advanced yield optimization techniques."
+  },
+  {
     "url": "https://alphafi.xyz",
     "name": "AlphaFi Agg",
     "category": [
@@ -231,14 +222,5 @@
     ],
     "icon": "https://icons.llama.fi/alphafi-agg.jpg",
     "description": "Premier Yield Optimizer on the SUI Blockchain. Earn Safe, Real Yields with AlphaFi."
-  },
-  {
-    "url": "https://ousd.com",
-    "name": "Origin Dollar",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/origin-dollar.png",
-    "description": "Origin Dollar (OUSD) is a new stablecoin that was initially launched on the Ethereum network. Its design is superior to existing stablecoins because OUSD captures competitive yields while being passively held in wallets."
   }
 ]

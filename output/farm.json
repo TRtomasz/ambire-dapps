@@ -21,6 +21,15 @@
     "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
   },
   {
+    "url": "https://ethereal.trade",
+    "name": "Ethereal Season Zero",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/ethereal-season-zero.png",
+    "description": "Deposit USDe into Ethereal and receive eUSDe receipt tokens. Hold to accumulate Ethereal points - and as a bonus unlock the maximum 30x Ethena Rewards multiplier on your deposit"
+  },
+  {
     "url": "https://bsquared.network",
     "name": "B2 Buzz",
     "category": [
@@ -40,15 +49,6 @@
     "description": "Stake your assets to earn rewards and boost your points"
   },
   {
-    "url": "https://katana.network",
-    "name": "Katana Pre-Launch",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/katana-pre-launch.jpg",
-    "description": "Katana Pre-Launch lets users deposit eligible tokens into Yearn vaults to earn randomized reward NFTs called Krates, while securing a pro-rata share of 70M KAT, with deposits remaining user-owned and withdrawable after mainnet"
-  },
-  {
     "url": "https://ailayer.xyz",
     "name": "AILayer farm",
     "category": [
@@ -58,16 +58,25 @@
     "description": "Staking tokens via AILayer Dataset counts as TVL."
   },
   {
-    "url": "https://swellnetwork.io",
-    "name": "Swell Liquid Staking",
+    "url": "https://katana.network",
+    "name": "Katana Pre-Launch",
     "category": [
-      "Liquid Staking",
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/katana-pre-launch.jpg",
+    "description": "Katana Pre-Launch lets users deposit eligible tokens into Yearn vaults to earn randomized reward NFTs called Krates, while securing a pro-rata share of 70M KAT, with deposits remaining user-owned and withdrawable after mainnet"
+  },
+  {
+    "url": "https://swellnetwork.io",
+    "name": "Swell Liquid Restaking",
+    "category": [
       "Liquid Restaking",
+      "Liquid Staking",
       "Farm",
       "Chain"
     ],
     "icon": "https://icons.llama.fi/swell.png",
-    "description": "Swell is a non-custodial liquid staking protocol"
+    "description": "rswETH is an ERC-20 Liquid Restaking Token that provides liquidity for users who are wanting to \"restake\" their ETH into restaking protocols such as EigenLayer without having their restaked ETH locked"
   },
   {
     "url": "https://bucketprotocol.io",
@@ -78,5 +87,14 @@
     ],
     "icon": "https://icons.llama.fi/bucket-cdp.jpg",
     "description": "Bucket Protocol is the leading Collateralized Debt Position (CDP) protocol within the Sui ecosystem, supporting multiple assets for collateralization while extending stablecoin loans in $BUCK at a fixed low-cost. Its real-time liquidation mechanism ensures both security and capital efficiency, and the inbuilt flash loan services facilitate the price stability of the stablecoin BUCK."
+  },
+  {
+    "url": "https://terminal.fi",
+    "name": "Terminal Finance Pre-Deposits",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/terminal-finance-pre-deposits.jpg",
+    "description": "Terminal Finance Pre-Deposits let users deposit tokens to earn Roots, Terminal's points system, along with additional rewards from ecosystem partners."
   }
 ]

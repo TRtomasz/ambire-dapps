@@ -12,7 +12,8 @@
     "url": "https://extrafi.io",
     "name": "Extra Finance Leverage Farming",
     "category": [
-      "Leveraged Farming"
+      "Leveraged Farming",
+      "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llama.fi/extra-finance.jpg",
     "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
