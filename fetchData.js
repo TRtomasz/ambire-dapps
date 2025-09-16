@@ -24,48 +24,32 @@ if (fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir);
 }
 
-// Chains to filter (not allowed chains)
-const notAllowedChains = [
-  "Bitcoin",
-  "Solana",
-  "Doge",
-  "Ripple",
-  "Tron",
-  "Polkadot",
-  "Near",
-  "Algorand",
-  "Aptos",
-  "Litecoin",
-  "Cosmos",
-  "EOS",
-  "TEZOS",
-  "Zilliqa",
-  "Cardano",
-  "Thorchain",
-  "IoTeX",
-  "NEO"
-];
+// Load filtering configuration
+const filtersConfigPath = path.join(__dirname, 'config', 'filters.json');
+let filtersConfig = {
+  notAllowedChains: [],
+  excludedCategories: [],
+  categoriesWithoutTVL: []
+};
 
-// Categories to exclude
-const excludedCategories = [
-  "CEX",
-  "AI Agents",
-  "Yield Lottery",
-  "Decentralized Stablecoin",
-  "Anchor BTC",
-  "Algo-Stables",
-  "Governance Incentives",
-  "Privacy",
-  "Reserve Currency",
-  "SoFi",
-  "Staking Pool",
-  "Staking",
-  "Token Locker",
-  "Treasury Manager"
-];
+try {
+  const rawConfig = fs.readFileSync(filtersConfigPath, 'utf-8');
+  const parsedConfig = JSON.parse(rawConfig);
+  filtersConfig = {
+    ...filtersConfig,
+    ...parsedConfig
+  };
+} catch (err) {
+  console.warn(
+    `Could not read filters configuration at ${filtersConfigPath}. Using defaults. ${err.message}`
+  );
+}
 
-const categoriesWithoutTVL = [
-]
+const {
+  notAllowedChains,
+  excludedCategories,
+  categoriesWithoutTVL
+} = filtersConfig;
 
 // Read from input.json if it exists
 let manualEntries = [];
