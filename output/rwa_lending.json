@@ -6,7 +6,25 @@
       "RWA Lending"
     ],
     "icon": "https://icons.llama.fi/usd-ai.jpg",
-    "description": "USD.AI is a yield-bearing synthetic dollar, backed by infrastructure hardware powering compute, energy, and telecom."
+    "description": "USD.AI is a yield-bearing synthetic dollar protocol backed by real-world infrastructure assets"
+  },
+  {
+    "url": "https://pareto.credit",
+    "name": "Pareto Credit",
+    "category": [
+      "RWA Lending"
+    ],
+    "icon": "https://icons.llama.fi/pareto-credit.jpg",
+    "description": "Pareto is a private credit marketplace that connects institutional lenders and borrowers, offering scalable yield opportunities and bridging institutional capital with on-chain credit markets."
+  },
+  {
+    "url": "https://figure.com",
+    "name": "Figure Markets Democratized Prime",
+    "category": [
+      "RWA Lending"
+    ],
+    "icon": "https://icons.llama.fi/figure-markets-democratized-prime.jpg",
+    "description": "Democratized Prime connects your cash or crypto with borrowers seeking liquidity on their collateral"
   },
   {
     "url": "https://csigma.finance",

@@ -15,8 +15,8 @@
     "category": [
       "Bridge",
       "Restaked BTC",
-      "Onchain Capital Allocator",
-      "Basis Trading"
+      "Basis Trading",
+      "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llama.fi/solvbtc.jpg",
     "description": "SolvBTC is a universal Bitcoin reserve token that connects Bitcoin’s value across blockchains, backed 1:1 by a transparent, secure reserve. It empowers you to tap into DeFi and CeFi markets effortlessly, transforming idle Bitcoin into a dynamic asset for lending, trading, or yield generation—while keeping you in full control."

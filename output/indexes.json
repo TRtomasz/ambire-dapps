@@ -10,13 +10,12 @@
   },
   {
     "url": "https://sosovalue.com",
-    "name": "SoSoValue Basis",
+    "name": "SoSoValue Indexes",
     "category": [
-      "Basis Trading",
       "Indexes"
     ],
-    "icon": "https://icons.llama.fi/sosovalue-basis.jpg",
-    "description": "The SoSoValue Indexes (SSI) Protocol is a cutting-edge spot index solution designed to make crypto investments simple and secure."
+    "icon": "https://icons.llama.fi/ssi.png",
+    "description": "The SoSoValue Indexes(SSI) Protocol is a cutting-edge spot index solution designed to make crypto investments simple and secured"
   },
   {
     "url": "https://enzyme.finance",
@@ -28,13 +27,14 @@
     "description": "Fast & cost-effective way to build, scale and monetize investment strategies."
   },
   {
-    "url": "https://b.watch",
-    "name": "Bwatch",
+    "url": "https://yearn.fi",
+    "name": "Yearn Curating",
     "category": [
+      "Risk Curators",
       "Indexes"
     ],
-    "icon": "https://icons.llama.fi/bwatch.png",
-    "description": "B.watch is an decentralized ETF-like crypto asset management platform, which is the only issuer of BOX token."
+    "icon": "https://icons.llama.fi/yearn-curating.jpg",
+    "description": "Yearn Finance is DeFi's premier yield aggregator. Giving individuals, DAOs and other protocols a way to deposit digital assets and receive yield"
   },
   {
     "url": "https://indexcoop.com",
@@ -46,21 +46,30 @@
     "description": "Index Coop creates and maintains the world's best crypto index products.All index products are always fully collateralized."
   },
   {
-    "url": "https://dhedge.org",
-    "name": "dHEDGE",
+    "url": "https://b.watch",
+    "name": "Bwatch",
     "category": [
       "Indexes"
     ],
-    "icon": "https://icons.llama.fi/dhedge.png",
+    "icon": "https://icons.llama.fi/bwatch.png",
+    "description": "B.watch is an decentralized ETF-like crypto asset management platform, which is the only issuer of BOX token."
+  },
+  {
+    "url": "https://dhedge.org",
+    "name": "dHEDGE Vaults",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/dhedge-vaults.png",
     "description": "Explore the universe of top-tier tokenized vaults."
   },
   {
-    "url": "https://tokensets.com",
-    "name": "Set Protocol",
+    "url": "https://xwin.finance",
+    "name": "xWin Finance",
     "category": [
       "Indexes"
     ],
-    "icon": "https://icons.llama.fi/set-protocol.png",
-    "description": "A protocol for building portfolios as digital assets (ERC-20) that represent a fully collateralized digital asset (ERC-20) that represents a fully collateralized portfolio of other assets including Bitcoin (WBTC), Ethereum (WETH), and fiat-pegged coins (DAI).portfolio of other assets including Bitcoin (WBTC), Ethereum (WETH), and fiat-pegged coins (DAI)."
+    "icon": "https://icons.llama.fi/xwin-finance.jpg",
+    "description": "xWIN Finance is a decentralized finance platform that brings innovation and accessibility to the world of crypto investments. With our unique robo-advisor engine, anyone can create a personalized portfolio of cryptocurrency assets and strategies with just a few clicks."
   }
 ]

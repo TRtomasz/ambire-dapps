@@ -19,6 +19,27 @@
     "description": "The next generation DeFi management dashboard."
   },
   {
+    "url": "https://ethena.fi",
+    "name": "Ethena USDe",
+    "category": [
+      "Basis Trading",
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/ethena-usde.png",
+    "description": "Ethena is a synthetic dollar protocol built on Ethereum"
+  },
+  {
+    "url": "https://spark.fi",
+    "name": "SparkLend",
+    "category": [
+      "Lending",
+      "Onchain Capital Allocator",
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/sparklend.jpg",
+    "description": "SparkLend is a stablecoin lending market. Unlike other lending protocols where rates fluctuate based on utilization or loan size, SparkLend offers governance-defined rates that do not vary based on those factors. This is made possible by Spark’s Liquidity Layer (SLL), which supplies consistent stablecoin liquidity to the protocol"
+  },
+  {
     "url": "https://lombard.finance",
     "name": "Lombard",
     "category": [
@@ -36,17 +57,6 @@
     ],
     "icon": "https://icons.llama.fi/convex-finance.jpg",
     "description": "Convex simplifies your Curve-boosting experience to maximize your yields."
-  },
-  {
-    "url": "https://magpiexyz.io",
-    "name": "Eigenpie",
-    "category": [
-      "Liquid Restaking",
-      "Yield",
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/eigenpie.jpg",
-    "description": "Eigenpie is an innovative SubDAO created by Magpie, focusing on the restaking of ETH LSTs via EigenLayer. As a liquid restaking platform for Ethereum, Eigenpie’s core mechanism enables users to convert their Liquid Staked ETH tokens into Isolated Liquid Restaked ETH tokens. These are restaked versions of ETH LSTs, created by Eigenpie. This process allows users to earn passive income from Ethereum staking and EigenLayer revenue simultaneously, without requiring a lockup period."
   },
   {
     "url": "https://aura.finance",
@@ -71,85 +81,41 @@
     "name": "Aster asBNB",
     "category": [
       "Yield",
-      "Basis Trading",
-      "Derivatives",
-      "CeDeFi"
+      "Bridge",
+      "Basis Trading"
     ],
     "icon": "https://icons.llama.fi/aster-asbnb.jpg",
     "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
   },
   {
-    "url": "https://elixir.xyz",
-    "name": "Elixir",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/elixir.jpg",
-    "description": "The Elixir network is a new primitive, purpose-built to power the next generation of institutional liquidity. Elixir powers deUSD – a fully collateralized, yield-bearing synthetic dollar. Elixir is the most widely adopted network by RWAs: exclusively bringing funds from BlackRock, Hamilton Lane, and others to DeFi for the first time through deUSD. The Elixir network is secured by 30,000+ global validators."
-  },
-  {
-    "url": "https://stakedao.org",
-    "name": "StakeDAO",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/stakedao.jpg",
-    "description": "Stake DAO is a non-custodial decentralized protocol enabling users to access optimized yield opportunities in DeFi"
-  },
-  {
-    "url": "https://equilibria.fi",
-    "name": "Equilibria",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/equilibria.png",
-    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
-  },
-  {
     "url": "https://aladdin.club",
     "name": "fx Protocol",
     "category": [
-      "CDP",
+      "Dual-Token Stablecoin",
       "Yield"
     ],
     "icon": "https://icons.llama.fi/fx-protocol.jpg",
     "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
   },
   {
-    "url": "https://spectra.finance",
-    "name": "Spectra V2",
+    "url": "https://stakedao.org",
+    "name": "Stake DAO",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/spectra-v2.jpg",
-    "description": "Secure your future yield at a fixed rate."
+    "icon": "https://icons.llama.fi/stake-dao.jpg",
+    "description": "Stake DAO is a non-custodial decentralized protocol enabling users to access optimized yield opportunities in DeFi"
   },
   {
-    "url": "https://vaultcraft.io",
-    "name": "VaultCraft",
+    "url": "https://usefelix.xyz",
+    "name": "Felix Vaults",
     "category": [
+      "Onchain Capital Allocator",
+      "CDP",
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/vaultcraft.jpg",
-    "description": "Build, deploy, and zap into automated yield strategies with vaultcraft"
-  },
-  {
-    "url": "https://rate-x.io",
-    "name": "RateX",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/ratex.jpg",
-    "description": "World’s 1st Leveraged Yield Exchange"
-  },
-  {
-    "url": "https://tokemak.xyz",
-    "name": "Tokemak",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/tokemak.jpg",
-    "description": "Tokemak Autopilot offers a new way to provide liquidity. Autopools autonomously rebalance your LP positions across a set of DEXs and correlated-assets, while keeping you composable within DeFi."
+    "icon": "https://icons.llama.fi/felix-vaults.jpg",
+    "description": "Deposit assets to be lent via Morpho Vaults to earn interest."
   },
   {
     "url": "https://streamprotocol.money",
@@ -161,13 +127,60 @@
     "description": "Stream offers exposure to market making opportunities and delta neutral strategies via decentralized strategies. In exchange for using this software, users may pay up to 10% in performance fees and Stream may keep more if it outperforms predicted APY. These strategies focus primarily on DEX and DeFi only trades. However in the event of reaching over capacity, Stream reserves the right to work with third parties such as major market makers to earn yield for users. If these positions are entered into there will be an announcement and it will be visible in the transparency dashboard."
   },
   {
-    "url": "https://multipli.fi",
-    "name": "Multipli.fi",
+    "url": "https://tokemak.xyz",
+    "name": "Tokemak",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/multipli.fi.png",
-    "description": "Multipli fi is a multi-chain yield generation protocol designed to address two key challenges: the limited number of cryptocurrencies on which yield can be generated and the typically low yields."
+    "icon": "https://icons.llama.fi/tokemak.jpg",
+    "description": "Tokemak Autopilot offers a new way to provide liquidity. Autopools autonomously rebalance your LP positions across a set of DEXs and correlated-assets, while keeping you composable within DeFi."
+  },
+  {
+    "url": "https://equilibria.fi",
+    "name": "Equilibria",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/equilibria.png",
+    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
+  },
+  {
+    "url": "https://elixir.xyz",
+    "name": "Elixir",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/elixir.jpg",
+    "description": "The Elixir network is a new primitive, purpose-built to power the next generation of institutional liquidity. Elixir powers deUSD – a fully collateralized, yield-bearing synthetic dollar. Elixir is the most widely adopted network by RWAs: exclusively bringing funds from BlackRock, Hamilton Lane, and others to DeFi for the first time through deUSD. The Elixir network is secured by 30,000+ global validators."
+  },
+  {
+    "url": "https://magpiexyz.io",
+    "name": "Penpie",
+    "category": [
+      "Yield",
+      "Liquid Restaking",
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llama.fi/penpie.jpg",
+    "description": "Penpie is a next-generation product by @magpiexyz_io that's set to revolutionize @pendle_fi"
+  },
+  {
+    "url": "https://infinifi.xyz",
+    "name": "infiniFi",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/infinifi.jpg",
+    "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena."
+  },
+  {
+    "url": "https://vaultcraft.io",
+    "name": "VaultCraft",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/vaultcraft.jpg",
+    "description": "Build, deploy, and zap into automated yield strategies with vaultcraft"
   },
   {
     "url": "https://ring.exchange",
@@ -179,7 +192,34 @@
     "description": "Wrapper protocol within Ring Protocol"
   },
   {
-    "url": "https://loopedhype.com",
+    "url": "https://multipli.fi",
+    "name": "Multipli.fi",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/multipli.fi.png",
+    "description": "Multipli fi is a multi-chain yield generation protocol designed to address two key challenges: the limited number of cryptocurrencies on which yield can be generated and the typically low yields."
+  },
+  {
+    "url": "https://spectra.finance",
+    "name": "Spectra V2",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/spectra-v2.jpg",
+    "description": "Secure your future yield at a fixed rate."
+  },
+  {
+    "url": "https://rate-x.io",
+    "name": "RateX",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/ratex.jpg",
+    "description": "World’s 1st Leveraged Yield Exchange"
+  },
+  {
+    "url": "https://loopingcollective.org",
     "name": "Looped Hype",
     "category": [
       "Yield"
@@ -197,6 +237,15 @@
     "description": "Tranchess is a yield enhancing asset tracker with varied risk-return solutions"
   },
   {
+    "url": "https://hyperwavefi.xyz",
+    "name": "HyperWave",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/hyperwave.jpg",
+    "description": "Hyperwave is the first liquid HLP primitive on the market, designed to bridge yield generated in Hypercore directly into the HyperEVM. By tokenizing HLP deposits, Hyperwave is bringing one of the most powerful, community-driven yield-bearing instruments into HyperEVM."
+  },
+  {
     "url": "https://royco.org",
     "name": "Royco Protocol",
     "category": [
@@ -206,13 +255,13 @@
     "description": "The Incentivized Action Market (IAM) Protocol."
   },
   {
-    "url": "https://infinifi.xyz",
-    "name": "infiniFi",
+    "url": "https://peapods.finance",
+    "name": "Peapods Finance",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/infinifi.jpg",
-    "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena."
+    "icon": "https://icons.llama.fi/peapods-finance.png",
+    "description": "Peapods Finance allows you to earn real yield on any liquid asset through market volatility."
   },
   {
     "url": "https://noon.capital",
@@ -233,40 +282,14 @@
     "description": "Deposit idle tokens, select a preferred vault, and earn yield and points"
   },
   {
-    "url": "https://toros.finance",
-    "name": "Toros",
+    "url": "https://originprotocol.com",
+    "name": "Origin ARM",
     "category": [
-      "Yield"
+      "Yield",
+      "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/toros.png",
-    "description": "Automated Vaults to maximize your returns."
-  },
-  {
-    "url": "https://mole.fi",
-    "name": "Mole",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/mole.png",
-    "description": "Mole is a DeFi protocol provided leveraged yield farming, hedge fund and savings."
-  },
-  {
-    "url": "https://napier.finance",
-    "name": "Napier",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/napier.jpg",
-    "description": "A modular yield tokenization protocol that enables you to own, manage, create any yield products without permissions."
-  },
-  {
-    "url": "https://amphor.io",
-    "name": "Amphor",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/amphor.jpg",
-    "description": "Amphor offers easy access to innovative yield strategies on DeFi ecosystem."
+    "icon": "https://icons.llama.fi/origin-arm.jpg",
+    "description": "The Origin ARM vault allows users to deposit ETH and earn passive yield. The ARM earns yield by using ETH to buy stETH from the market at a discount and redeeming it 1:1 through Lido’s stETH redemption queue."
   },
   {
     "url": "https://belt.fi",
@@ -281,7 +304,8 @@
     "url": "https://benddao.xyz",
     "name": "BendDAO APE Staking",
     "category": [
-      "Yield"
+      "Yield",
+      "NFT Lending"
     ],
     "icon": "https://icons.llama.fi/benddao-ape-staking.png",
     "description": "ApeCoin Staking Yield"
@@ -296,12 +320,39 @@
     "description": "WOOFi Earn features supercharger vaults allow users to provide liquidity in WOOFi swap and earn single sided yields by delegating the liquidity management to the sPMM pool manager."
   },
   {
-    "url": "https://thetanuts.finance",
-    "name": "Thetanuts Finance",
+    "url": "https://mole.fi",
+    "name": "Mole",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/thetanuts-finance.png",
-    "description": "Thetanuts Finance is a decentralized on-chain options protocol focused on altcoin options, allowing users to go long or short on on-chain options."
+    "icon": "https://icons.llama.fi/mole.png",
+    "description": "Mole is a DeFi protocol provided leveraged yield farming, hedge fund and savings."
+  },
+  {
+    "url": "https://cvault.finance",
+    "name": "cVault Finance",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/cvault-finance.png",
+    "description": "First high yield farmable deflationary DeFi token."
+  },
+  {
+    "url": "https://napier.finance",
+    "name": "Napier",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/napier.jpg",
+    "description": "A modular yield tokenization protocol that enables you to own, manage, create any yield products without permissions."
+  },
+  {
+    "url": "https://llama.airforce",
+    "name": "Llama Airforce",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/llama-airforce.png",
+    "description": "Airdropping knowledge bombs about the Curve ecosystem."
   }
 ]

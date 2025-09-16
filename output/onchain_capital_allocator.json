@@ -14,20 +14,22 @@
     "name": "ether.fi Stake",
     "category": [
       "Liquid Restaking",
-      "Onchain Capital Allocator"
+      "Onchain Capital Allocator",
+      "Lending"
     ],
     "icon": "https://icons.llama.fi/ether.fi.jpg",
     "description": "Decentralized and non-custodial Ethereum staking protocol."
   },
   {
     "url": "https://spark.fi",
-    "name": "Spark Liquidity Layer",
+    "name": "SparkLend",
     "category": [
+      "Lending",
       "Onchain Capital Allocator",
-      "Lending"
+      "Yield"
     ],
-    "icon": "https://icons.llama.fi/spark-liquidity-layer.jpg",
-    "description": "The Spark Liquidity Layer (SLL) automates liquidity provision of USDS, sUSDS, and USDC directly from Sky across various blockchain networks, DeFi protocols, and RWA"
+    "icon": "https://icons.llama.fi/sparklend.jpg",
+    "description": "SparkLend is a stablecoin lending market. Unlike other lending protocols where rates fluctuate based on utilization or loan size, SparkLend offers governance-defined rates that do not vary based on those factors. This is made possible by Spark’s Liquidity Layer (SLL), which supplies consistent stablecoin liquidity to the protocol"
   },
   {
     "url": "https://veda.tech",
@@ -35,7 +37,7 @@
     "category": [
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/veda.png",
+    "icon": "https://icons.llama.fi/veda.jpg",
     "description": "Veda is the leading DeFi vault platform, enabling crypto applications, asset issuers, and protocols to build consumer-grade cross chain yield products. Veda's technology is powering many of DeFi's largest vault products, including ether.fi Liquid, Lombard DeFi Vault, and Mantle cmETH"
   },
   {
@@ -45,7 +47,7 @@
       "Liquid Restaking",
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/kelp-dao.png",
+    "icon": "https://icons.llama.fi/kelp.jpg",
     "description": "Kelp is the second largest liquid restaking protocol with ~$2B+ in TVL. Its liquid restaked token, rsETH, is live across 10+ major L2s and 40+ DeFi platforms, allowing users to restake while maintaining full liquidity."
   },
   {
@@ -54,20 +56,11 @@
     "category": [
       "Bridge",
       "Restaked BTC",
-      "Onchain Capital Allocator",
-      "Basis Trading"
+      "Basis Trading",
+      "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llama.fi/solvbtc.jpg",
     "description": "SolvBTC is a universal Bitcoin reserve token that connects Bitcoin’s value across blockchains, backed 1:1 by a transparent, secure reserve. It empowers you to tap into DeFi and CeFi markets effortlessly, transforming idle Bitcoin into a dynamic asset for lending, trading, or yield generation—while keeping you in full control."
-  },
-  {
-    "url": "https://turtle.club",
-    "name": "Turtle Club",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/turtle-club.jpg",
-    "description": "Turtle Club is a liquidity distribution protocol that helps you earn more from your Web3 activity."
   },
   {
     "url": "https://upshift.finance",
@@ -80,22 +73,14 @@
   },
   {
     "url": "https://usefelix.xyz",
-    "name": "Felix CDP",
+    "name": "Felix Vaults",
     "category": [
+      "Onchain Capital Allocator",
       "CDP",
-      "Onchain Capital Allocator"
+      "Yield"
     ],
-    "icon": "https://icons.llama.fi/felix-cdp.jpg",
-    "description": "Felix is a synthetic dollar protocol on Hyperliquid L1"
-  },
-  {
-    "url": "https://yieldnest.finance",
-    "name": "YieldNest",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/yieldnest.png",
-    "description": "YieldNest is a next-generation liquid restaking protocol that provides simple-to-understand, risk-adjusted restaking strategies"
+    "icon": "https://icons.llama.fi/felix-vaults.jpg",
+    "description": "Deposit assets to be lent via Morpho Vaults to earn interest."
   },
   {
     "url": "https://moonwell.fi",
@@ -105,7 +90,25 @@
       "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llama.fi/moonwell-lending.png",
-    "description": "Moonwell is an open lending and borrowing DeFi protocol on Moonbeam & Moonriver."
+    "description": "Moonwell is an open lending and borrowing DeFi protocol on Base, Optimism, Moonbeam & Moonriver."
+  },
+  {
+    "url": "https://lagoon.finance",
+    "name": "Lagoon",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/lagoon.jpg",
+    "description": "LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products. Powered by the ERC-7540 standard, curators manage deposits and withdrawals asynchronously, while users can join any public vault to start earning on their assets."
+  },
+  {
+    "url": "https://mitosis.org",
+    "name": "Mitosis",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/mitosis.jpg",
+    "description": "Mitosis is an L1 network designed for programmable liquidity that enhances the liquidity provision experience for both DeFi projects and liquidity providers. With Mitosis, DeFi projects can conduct targeted marketing to attract liquidity. Liquidity providers can trade tokenized LP positions on the Mitosis chain, allowing users to easily trade yield positions.."
   },
   {
     "url": "https://stakestone.io",
@@ -118,57 +121,87 @@
     "description": "One-Stop Staking Protocol For Omnichain LST Liquidity."
   },
   {
+    "url": "https://avantprotocol.com",
+    "name": "Avant avUSD",
+    "category": [
+      "Basis Trading",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/avant-avusd.jpg",
+    "description": "Avant is a DeFi platform established in June 2024 with the mission to create a more inclusive financial system through a DeFi-powered stable-value token. The platform introduces avUSD, a stable-value token, and savUSD, its staked, yield-bearing counterpart."
+  },
+  {
     "url": "https://seamlessprotocol.com",
     "name": "Seamless Vaults",
     "category": [
-      "Onchain Capital Allocator"
+      "Onchain Capital Allocator",
+      "Lending"
     ],
     "icon": "https://icons.llama.fi/seamless-vaults.jpg",
     "description": "A decentralized, non-custodial liquidity market that creates a more seamless experience for Suppliers and Borrowers."
   },
   {
-    "url": "https://lagoon.finance",
-    "name": "Lagoon",
+    "url": "https://yieldnest.finance",
+    "name": "YieldNest",
     "category": [
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/lagoon.jpg",
-    "description": "Lagoon provides an infrastructure to launch, manage and scale on-chain vaults — powered by ERC-7540 standard and Safe. Users can enter any strategies and earn interest over their assets. While each curator process deposits and withdrawals in an asynchronous manner and at different intervals"
+    "icon": "https://icons.llama.fi/yieldnest.png",
+    "description": "YieldNest is a next-generation liquid restaking protocol that provides simple-to-understand, risk-adjusted restaking strategies"
   },
   {
-    "url": "https://mitosis.org",
-    "name": "Mitosis",
+    "url": "https://aera.finance",
+    "name": "Aera V2",
     "category": [
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/mitosis.jpg",
-    "description": "Mitosis is an L1 network designed for programmable liquidity that enhances the liquidity provision experience for both DeFi projects and liquidity providers. With Mitosis, DeFi projects can conduct targeted marketing to attract liquidity. Liquidity providers can trade tokenized LP positions on the Mitosis chain, allowing users to easily trade yield positions.."
+    "icon": "https://icons.llama.fi/aera-v2.jpg",
+    "description": "Autonomous onchain treasury management protocol for DAOs, built by the team at Gauntlet."
   },
   {
-    "url": "https://concrete.xyz",
-    "name": "Concrete",
+    "url": "https://extrafi.io",
+    "name": "Extra Finance Leverage Farming",
     "category": [
+      "Leveraged Farming",
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/concrete.png",
-    "description": "Access automated DeFi yields on Berachain while earning rewards from Ethena, Concrete and the Berachain ecosystem"
+    "icon": "https://icons.llama.fi/extra-finance.jpg",
+    "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
   },
   {
-    "url": "https://knightrade.io",
-    "name": "Knightrade",
+    "url": "https://almanak.co",
+    "name": "Almanak",
     "category": [
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/knightrade.png",
-    "description": "Knightrade is the on-chain, multi-strategy hedge fund platform, run by verified traders from top hedge funds and investment banks"
+    "icon": "https://icons.llama.fi/almanak.jpg",
+    "description": "Almanak is an innovative DeFi Agent Platform designed to create and deploy automated financial strategies using financial Agents. The platform combines advanced automation with emerging AI technologies to help strategies adapt to market conditions more effectively than traditional tools"
   },
   {
-    "url": "https://sommelier.finance",
-    "name": "Sommelier",
+    "url": "https://internationalmeme.fund",
+    "name": "International Meme Fund V2",
     "category": [
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/sommelier.png",
-    "description": "Provider of automated vaults that find best-in-class yields while mitigating risk."
+    "icon": "https://icons.llama.fi/international-meme-fund-v2.jpg",
+    "description": "International Meme Fund"
+  },
+  {
+    "url": "https://turtle.club",
+    "name": "Turtle Club",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/turtle-club.jpg",
+    "description": "Turtle Club is a liquidity distribution protocol that helps you earn more from your Web3 activity."
+  },
+  {
+    "url": "https://d2.finance",
+    "name": "D2 Finance",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/d2-finance.jpg",
+    "description": "Tokenized Derivatives Strategies, dynamically managing risk and reward efficiently. Offering a robust suite of institutional-grade managed strategies within innovative, non-custodial single-click vault architecture."
   }
 ]
