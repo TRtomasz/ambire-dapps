@@ -1,13 +1,40 @@
 [
   {
     "url": "https://euler.finance",
-    "name": "Euler DAO",
+    "name": "Euler V2",
     "category": [
-      "Risk Curators",
-      "Lending"
+      "Lending",
+      "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/euler-dao.jpg",
-    "description": "The lending super app."
+    "icon": "https://icons.llama.fi/euler-v2.png",
+    "description": "Euler revolutionizes DeFi by letting any asset become collateral for a lending market. Lenders and borrowers get market leading risk-adjusted rates. Builders can create and manage markets exactly how they want them, with institutional-grade security."
+  },
+  {
+    "url": "https://gauntlet.xyz",
+    "name": "Gauntlet",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/gauntlet.jpg",
+    "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto."
+  },
+  {
+    "url": "https://mevcapital.com",
+    "name": "MEV Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/mev-capital.jpg",
+    "description": "MEV Capital is an Investment & risk management firm focused on open-ended strategies across Decentralized Finance on EVM chains since 2020."
+  },
+  {
+    "url": "https://steakhouse.financial",
+    "name": "Steakhouse Financial",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/steakhouse-financial.jpg",
+    "description": "We build transparent, efficient, and accessible financial primitives to power the next generation of capital markets on public blockchains"
   },
   {
     "url": "https://cian.app",
@@ -20,24 +47,6 @@
     "description": "Redistribute Yield Sources For Sustainable DeFi & Optimized APY For Your Assets"
   },
   {
-    "url": "https://steakhouse.financial",
-    "name": "Steakhouse Financial",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/steakhouse-financial.jpg",
-    "description": "We build transparent, efficient, and accessible financial primitives to power the next generation of capital markets on public blockchains"
-  },
-  {
-    "url": "https://gauntlet.xyz",
-    "name": "Gauntlet",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/gauntlet.jpg",
-    "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto."
-  },
-  {
     "url": "https://re7labs.xyz",
     "name": "Re7 Labs",
     "category": [
@@ -45,51 +54,6 @@
     ],
     "icon": "https://icons.llama.fi/re7-labs.jpg",
     "description": "Investors and operators across decentralised ecosystems of digital assets"
-  },
-  {
-    "url": "https://mevcapital.com",
-    "name": "MEV Capital",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/mev-capital.jpg",
-    "description": "MEV Capital is an Investment & risk management firm focused on open-ended strategies across Decentralized Finance on EVM chains since 2020."
-  },
-  {
-    "url": "https://tulipa.capital",
-    "name": "Tulipa Capital",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/tulipa-capital.jpg",
-    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
-  },
-  {
-    "url": "https://bprotocol.org",
-    "name": "B.Protocol Curator",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/b.protocol-curator.jpg",
-    "description": "B.Protocol is a DeFi economic risk mitigation hub."
-  },
-  {
-    "url": "https://k3.capital",
-    "name": "K3 Capital",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/k3-capital.jpg",
-    "description": "Leading institutional asset and risk management in decentralized finance"
-  },
-  {
-    "url": "https://yearn.fi",
-    "name": "Yearn Curating",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/yearn-curating.jpg",
-    "description": "Yearn Finance is DeFi's premier yield aggregator. Giving individuals, DAOs and other protocols a way to deposit digital assets and receive yield"
   },
   {
     "url": "https://agglayer.dev",
@@ -101,6 +65,34 @@
     "description": "The Agglayer's VaultBridge is a customizable yield-generating mechanism for providing chains with a native revenue stream"
   },
   {
+    "url": "https://k3.capital",
+    "name": "K3 Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/k3-capital.jpg",
+    "description": "Leading institutional asset and risk management in decentralized finance"
+  },
+  {
+    "url": "https://bprotocol.org",
+    "name": "B.Protocol Curator",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/b.protocol-curator.jpg",
+    "description": "B.Protocol is a DeFi economic risk mitigation hub."
+  },
+  {
+    "url": "https://yearn.fi",
+    "name": "Yearn Curating",
+    "category": [
+      "Risk Curators",
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/yearn-curating.jpg",
+    "description": "Yearn Finance is DeFi's premier yield aggregator. Giving individuals, DAOs and other protocols a way to deposit digital assets and receive yield"
+  },
+  {
     "url": "https://substack.com",
     "name": "Block Analitica",
     "category": [
@@ -108,42 +100,6 @@
     ],
     "icon": "https://icons.llama.fi/block-analitica.jpg",
     "description": "The risk team behind the DAI (USDS) stablecoin"
-  },
-  {
-    "url": "https://relend.network",
-    "name": "Relend Network",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/relend-network.jpg",
-    "description": "Relend Network solves stablecoin liquidity shortages across L2s by supplying rUSDC to their DeFi ecosystems."
-  },
-  {
-    "url": "https://hakutora.xyz",
-    "name": "Hakutora",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/hakutora.jpg",
-    "description": "Hakutora focuses on uncovering on-chain opportunities and managing risk, providing top-tier asset management and risk control solutions."
-  },
-  {
-    "url": "https://apostro.xyz",
-    "name": "Apostro",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/apostro.jpg",
-    "description": "Money markets for professional & institutional traders. Specialized vaults for BTCfi, stablecoins & more"
-  },
-  {
-    "url": "https://9summits.io",
-    "name": "9Summits",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/9summits.jpg",
-    "description": "By curating top-performing vaults, we empower our clients to access the best opportunities in decentralized finance with confidence and precision."
   },
   {
     "url": "https://hyperithm.com",
@@ -155,21 +111,85 @@
     "description": "Hyperithm is a premier digital asset manager based in Tokyo and Seoul, active in quant trading and venture investments."
   },
   {
-    "url": "https://alterscope.org",
-    "name": "Alterscope",
+    "url": "https://relend.network",
+    "name": "Relend Network",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/alterscope.jpg",
-    "description": "Alterscope is a permissionless platform for creating, deploying and managing verified, autonomous risk agents. By leveraging zero-knowledge proofs and swarm intelligence, it empowers the future of agent-driven finance."
+    "icon": "https://icons.llama.fi/relend-network.jpg",
+    "description": "Relend Network solves stablecoin liquidity shortages across L2s by supplying rUSDC to their DeFi ecosystems."
+  },
+  {
+    "url": "https://tulipa.capital",
+    "name": "Tulipa Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/tulipa-capital.jpg",
+    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
+  },
+  {
+    "url": "https://zerolend.xyz",
+    "name": "ZeroLend Lending",
+    "category": [
+      "Lending",
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/zerolend-lending.jpg",
+    "description": "ZeroLend is a powerful decentralized lending protocol built on L2s. Based on Aave V3 and powered by Pyth and Chainlink"
+  },
+  {
+    "url": "https://hakutora.xyz",
+    "name": "Hakutora",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/hakutora.jpg",
+    "description": "Hakutora focuses on uncovering on-chain opportunities and managing risk, providing top-tier asset management and risk control solutions."
   },
   {
     "url": "https://alphaping.ch",
-    "name": "Alphaping",
+    "name": "AlphaPing",
     "category": [
       "Risk Curators"
     ],
     "icon": "https://icons.llama.fi/alphaping.jpg",
     "description": "We specialize in managing decentralized finance (DeFi) lending vaults and strategically deploying capital to maximize returns."
+  },
+  {
+    "url": "https://varlamore.capital",
+    "name": "Varlamore Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/varlamore-capital.jpg",
+    "description": "Varlamore Capital is a DeFi risk manager that provides catered yield opportunities for different risk profiles while enhancing liquidity for protocols"
+  },
+  {
+    "url": "https://9summits.io",
+    "name": "9Summits",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/9summits.jpg",
+    "description": "By curating top-performing vaults, we empower our clients to access the best opportunities in decentralized finance with confidence and precision."
+  },
+  {
+    "url": "https://apostro.xyz",
+    "name": "Apostro",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/apostro.jpg",
+    "description": "Money markets for professional & institutional traders. Specialized vaults for BTCfi, stablecoins & more"
+  },
+  {
+    "url": "https://x.com",
+    "name": "Ouroboros Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/ouroboros-capital.jpg",
+    "description": "Multi-Strategy Crypto Fund - NFA"
   }
 ]

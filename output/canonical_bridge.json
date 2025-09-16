@@ -1,0 +1,327 @@
+[
+  {
+    "url": "https://arbitrum.io",
+    "name": "Arbitrum",
+    "category": [
+      "Bridge",
+      "Canonical Bridge"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/ca4ce20e2401c2b31e49bb1953ac28a8/ca4ce20e2401c2b31e49bb1953ac28a8.png",
+    "description": "Built to scale Ethereum, Arbitrum brings you 10x lower costs while inheriting Ethereum’s security model. Arbitrum is a Layer 2 Optimistic Rollup."
+  },
+  {
+    "url": "https://base.org",
+    "name": "Base Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/base-bridge.jpg",
+    "description": "Base Bridge enables the transfer of certain digital assets and other data back and forth between Ethereum and Base."
+  },
+  {
+    "url": "https://linea.build",
+    "name": "Linea Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/linea-bridge.jpg",
+    "description": "The main bridge, on a technical level, in Linea is the Canonical Message Bridge. This is the underlying set of smart contracts which keep track of receiving requests to move tokens to the other layer, and of sending the message that those tokens should be transferred."
+  },
+  {
+    "url": "https://polygon.technology",
+    "name": "Polygon Bridge & Staking",
+    "category": [
+      "Chain",
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/polygon.jpg",
+    "description": "Ethereum sidechain"
+  },
+  {
+    "url": "https://optimism.io",
+    "name": "Optimism Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/optimism-bridge.jpg",
+    "description": "Bridge between Optimism and Ethereum"
+  },
+  {
+    "url": "https://world.org",
+    "name": "World Chain",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/world-chain.png",
+    "description": "World Chain is a permissionless Layer 2 blockchain on Ethereum, built with the OP Stack, offering scalability, security, Sybil resistance, community governance, and is part of the OP Superchain ecosystem"
+  },
+  {
+    "url": "https://core.app",
+    "name": "Avalanche Core Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/avalanche-core-bridge.jpg",
+    "description": "Native Bitcoin Bridge. ETH EVM support. No added fees or middlemen, ever."
+  },
+  {
+    "url": "https://mantle.xyz",
+    "name": "Mantle Bridge",
+    "category": [
+      "Canonical Bridge",
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llama.fi/mantle-bridge.jpg",
+    "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
+  },
+  {
+    "url": "https://zircuit.com",
+    "name": "Zircuit Staking",
+    "category": [
+      "Farm",
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/zircuit-staking.png",
+    "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
+  },
+  {
+    "url": "https://bsquared.network",
+    "name": "B2 Buzz",
+    "category": [
+      "Canonical Bridge",
+      "Farm",
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/b2-buzz.jpg",
+    "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
+  },
+  {
+    "url": "https://starknet.io",
+    "name": "Starknet Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/starknet-bridge.png",
+    "description": "Transfer assets between StarkNet and Ethereum"
+  },
+  {
+    "url": "https://gnosischain.com",
+    "name": "xDAI Stake Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/xdai-stake.png",
+    "description": "The first-ever USD stable blockchain and multi-chain staking token."
+  },
+  {
+    "url": "https://soniclabs.com",
+    "name": "Sonic Gateway",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/sonic-gateway.png",
+    "description": "Canonical Bridge for Sonic chain"
+  },
+  {
+    "url": "https://sui.io",
+    "name": "SuiBridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/suibridge.jpg",
+    "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture."
+  },
+  {
+    "url": "https://sophon.xyz",
+    "name": "Sophon Bridge",
+    "category": [
+      "Canonical Bridge",
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/sophon.png",
+    "description": "Sophon is a ZK chain"
+  },
+  {
+    "url": "https://arweave.dev",
+    "name": "AO Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/ao-bridge.png",
+    "description": "A decentralized supercomputer built on top of Arweave's permanent data storage."
+  },
+  {
+    "url": "https://txsync.io",
+    "name": "zkSync Era txBridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/zksync-era-txbridge.jpg",
+    "description": "Imagine a platform where zksync enthusiasts and developers all come together to learn, create, and innovate"
+  },
+  {
+    "url": "https://rsk.co",
+    "name": "RSK Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/rsk-bridge.jpg",
+    "description": "RSK bridge with Ethereum. You can convert your tokens from RSK to Ethereum and viceversa."
+  },
+  {
+    "url": "https://blast.io",
+    "name": "Blast Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/blast-bridge.jpg",
+    "description": "Bridge between Ethereum and Blast Mainnet."
+  },
+  {
+    "url": "https://scroll.io",
+    "name": "Scroll Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/scroll-bridge.jpg",
+    "description": "Transfer assets between Scroll and Ethereum"
+  },
+  {
+    "url": "https://metis.io",
+    "name": "Metis Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/metis-bridge.jpg",
+    "description": "Bridge between Metis and Ethereum"
+  },
+  {
+    "url": "https://lisk.com",
+    "name": "Lisk Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/lisk-bridge.jpg",
+    "description": "We offer Web3 founders in Emerging Markets the ultimate ecosystem to bring their real-world applications to life."
+  },
+  {
+    "url": "https://manta.network",
+    "name": "Manta CeDeFi",
+    "category": [
+      "Basis Trading",
+      "Canonical Bridge",
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/manta-cedefi.jpg",
+    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
+  },
+  {
+    "url": "https://pulsechain.com",
+    "name": "Pulsechain",
+    "category": [
+      "Chain",
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/pulsechain.jpg",
+    "description": "Energy efficient, Faster, cheaper, fee-burning Ethereum fork."
+  },
+  {
+    "url": "https://zksync.io",
+    "name": "zkSync Lite Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/zksync-lite-bridge.jpg",
+    "description": "Bridge between zkSync Lite and Ethereum chain"
+  },
+  {
+    "url": "https://cronos.org",
+    "name": "Cronos zkEVM Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/cronos-zkevm-bridge.jpg",
+    "description": "The next generation zero-knowledge layer 2 chain"
+  },
+  {
+    "url": "https://sx.technology",
+    "name": "SX Rollup Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/sx-bridge.jpg",
+    "description": "Bridge between Ethereum and SX Network"
+  },
+  {
+    "url": "https://gravity.xyz",
+    "name": "Gravity by Galxe",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/gravity-by-galxe.png",
+    "description": "Gravity, built by Galxe, is an omnichannel settlement layer designed for mass adoption. It uses Zero-Knowledge Proofs, staking architecture, and advanced consensus mechanisms for high performance."
+  },
+  {
+    "url": "https://taiko.xyz",
+    "name": "Taiko Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/taiko.png",
+    "description": "A Based Contestable Rollup, Ethereum-equivalent ZK-EVM"
+  },
+  {
+    "url": "https://eclipse.xyz",
+    "name": "Eclipse Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/eclipse-bridge.jpg",
+    "description": "Solana on Ethereum - Ethereum's first SVM L2"
+  },
+  {
+    "url": "https://rss3.io",
+    "name": "RSS3 Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/rss3-bridge.jpg",
+    "description": "Bridge to/from the VSL chain"
+  },
+  {
+    "url": "https://sorare.com",
+    "name": "Sorare Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/sorare-bridge.png",
+    "description": "Bridge between Ethereum and Sorare"
+  },
+  {
+    "url": "https://unichain.org",
+    "name": "Unichain Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/unichain-bridge.jpg",
+    "description": "The L2 designed for DeFi. By Uniswap. Built on the Superchain. "
+  },
+  {
+    "url": "https://mode.network",
+    "name": "Mode Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/mode-bridge.jpg",
+    "description": "Bridge between Ethereum and Mode Network."
+  },
+  {
+    "url": "https://zora.co",
+    "name": "Zora Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/zora.jpg",
+    "description": "Ethereum L2: post for fun. earn for real"
+  }
+]

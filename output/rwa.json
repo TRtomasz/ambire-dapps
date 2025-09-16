@@ -19,21 +19,12 @@
   },
   {
     "url": "https://ondo.finance",
-    "name": "Ondo Finance",
+    "name": "Ondo Yield Assets",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llama.fi/ondo-finance.png",
+    "icon": "https://icons.llama.fi/ondo-yield-assets.jpg",
     "description": "This share class provides liquid exposure to an ETF of short-term U.S. Treasuries"
-  },
-  {
-    "url": "https://paxos.com",
-    "name": "Paxos Gold",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/paxos-gold.png",
-    "description": "PAXG offers investors a cost-effective way to own investment-grade physical gold with all the benefits of the blockchain. Each Pax Gold (PAXG) token is backed by one fine troy ounce of gold, stored in LBMA vaults in London. If you own PAXG, you own the underlying physical gold, held in custody by Paxos Trust Company"
   },
   {
     "url": "https://tether.to",
@@ -45,13 +36,94 @@
     "description": "Tether Gold (XAUt) is a token that provides you ownership of real physical gold. By putting gold on a Blockchain, we unlock a variety of characteristics that typically only crypto assets possess"
   },
   {
-    "url": "https://franklintempleton.com",
-    "name": "Franklin Templeton",
+    "url": "https://centrifuge.io",
+    "name": "Centrifuge Protocol",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llama.fi/franklin-templeton.jpg",
-    "description": "The fund invests at least 99.5% of its total assets in U.S. government securities, cash and repurchase agreements collateralized fully by U.S. government securities or cash."
+    "icon": "https://icons.llama.fi/centrifuge-protocol.jpg",
+    "description": "Centrifuge protocol enables asset managers to tokenize, manage, and distribute tokenized funds onchain, while providing investors access to a diversified portfolio of high-quality tokenized assets."
+  },
+  {
+    "url": "https://paxos.com",
+    "name": "Paxos Gold",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/paxos-gold.png",
+    "description": "PAXG offers investors a cost-effective way to own investment-grade physical gold with all the benefits of the blockchain. Each Pax Gold (PAXG) token is backed by one fine troy ounce of gold, stored in LBMA vaults in London. If you own PAXG, you own the underlying physical gold, held in custody by Paxos Trust Company"
+  },
+  {
+    "url": "https://wisdomtreeconnect.com",
+    "name": "WisdomTree",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/wisdomtree.jpg",
+    "description": "WisdomTree Connect is designed to offer seamless access to WisdomTree’s tokenized real world assets (RWA) for a range of investors and businesses. The WisdomTree Connect platform integrates the features of blockchain technology with the investment needs of both traditional and crypto-native financial institutions. By simplifying access to tokenized funds and digital assets, WisdomTree Connect paves the way for a new era in financial services"
+  },
+  {
+    "url": "https://circle.com",
+    "name": "Circle USYC",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/circle-usyc.png",
+    "description": "Circle USYC is a regulated DeFi platform with permissioned smart contracts, on-chain transparency, and customizable investment strategies for optimized risk-reward profiles.  USYC is a Hashnote product which provides exposure to short duration US Treasuries and Reverse Repo on US Treasuries"
+  },
+  {
+    "url": "https://spiko.xyz",
+    "name": "Spiko",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/spiko.png",
+    "description": "Spiko USTBL / EUTBL are Tokenized Money Market Funds regulated by the French Financial Markets Authority that invest in US T-Bills / Eurozone T-Bills"
+  },
+  {
+    "url": "https://m0.org",
+    "name": "M0",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/m0.jpg",
+    "description": "M^0 is decentralized money middleware that allows institutions to issue cryptodollars"
+  },
+  {
+    "url": "https://midas.app",
+    "name": "Midas RWA",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/midas-rwa.png",
+    "description": "Midas is an asset tokenization protocol bringing regulatory-compliant exposure to institutional-grade assets onchain, unlocking DeFi composability for real-world assets (RWA)."
+  },
+  {
+    "url": "https://anemoy.io",
+    "name": "Anemoy Capital",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/anemoy-capital.png",
+    "description": "Anemoy is a web3 native asset manager powered by Centrifuge, providing investors with exposure to a broad spectrum of superior assets"
+  },
+  {
+    "url": "https://usual.money",
+    "name": "Usual",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/usual.jpg",
+    "description": "The Usual protocol is a decentralized finance framework centered around USD0, a stablecoin designed as a liquid deposit token. It embodies the principle of redistributing value generated by users through a revenue-based token, USUAL. This approach enables users to access yields while simultaneously gaining exposure to the protocol’s growth and long-term success."
+  },
+  {
+    "url": "https://openeden.com",
+    "name": "OpenEden USDO",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/openeden-usdo.jpg",
+    "description": "USDO is collateralized by tokenized U.S. Treasury Bills and money market funds (such as OpenEden’s TBILL), from which USDO’s yield is generated. The reserves serve as the foundation for maintaining a minimum 100% collateralization ratio, meaning every USDO token in circulation is fully backed by equivalent assets"
   },
   {
     "url": "https://superstate.co",
@@ -64,67 +136,13 @@
     "description": "The Superstate Short Duration U.S. Government Securities Fund (USTB) is a private fund tokenized on the Ethereum blockchain (ERC-20), offered exclusively to Qualified Purchasers. USTB invests in short-duration U.S. Treasury Bills and U.S. Government Agency securities (“Government Securities”) and provides yield targeting returns in line with the federal funds rate."
   },
   {
-    "url": "https://centrifuge.io",
-    "name": "Centrifuge Protocol",
+    "url": "https://blockchaincapital.com",
+    "name": "Blockchain Capital",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llama.fi/centrifuge-protocol.jpg",
-    "description": "Centrifuge protocol enables asset managers to tokenize, manage, and distribute tokenized funds onchain, while providing investors access to a diversified portfolio of high-quality tokenized assets."
-  },
-  {
-    "url": "https://anemoy.io",
-    "name": "Anemoy Capital",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/anemoy-capital.png",
-    "description": "Anemoy is a web3 native asset manager powered by Centrifuge, providing investors with exposure to a broad spectrum of superior assets"
-  },
-  {
-    "url": "https://spiko.xyz",
-    "name": "Spiko",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/spiko.png",
-    "description": "Spiko USTBL / EUTBL are Tokenized Money Market Funds regulated by the French Financial Markets Authority that invest in US T-Bills / Eurozone T-Bills"
-  },
-  {
-    "url": "https://usual.money",
-    "name": "Usual",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/usual.jpg",
-    "description": "The Usual protocol is a decentralized finance framework centered around USD0, a stablecoin designed as a liquid deposit token. It embodies the principle of redistributing value generated by users through a revenue-based token, USUAL. This approach enables users to access yields while simultaneously gaining exposure to the protocol’s growth and long-term success."
-  },
-  {
-    "url": "https://hashnote.com",
-    "name": "Hashnote USYC",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/hashnote-usyc.png",
-    "description": "Hashnote is a regulated DeFi platform with permissioned smart contracts, on-chain transparency, and customizable investment strategies for optimized risk-reward profiles.  USYC is a Hashnote product which provides exposure to short duration US Treasuries and Reverse Repo on US Treasuries"
-  },
-  {
-    "url": "https://m0.org",
-    "name": "M0",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/m0.jpg",
-    "description": "M^0 is decentralized money middleware that allows institutions to issue cryptodollars"
-  },
-  {
-    "url": "https://openeden.com",
-    "name": "OpenEden USDO",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/openeden-usdo.jpg",
-    "description": "USDO is collateralized by tokenized U.S. Treasury Bills and money market funds (such as OpenEden’s TBILL), from which USDO’s yield is generated. The reserves serve as the foundation for maintaining a minimum 100% collateralization ratio, meaning every USDO token in circulation is fully backed by equivalent assets"
+    "icon": "https://icons.llama.fi/blockchain-capital.jpg",
+    "description": "BCAP Token is an Ethereum-based smart contract digital token representing an indirect fractional non-voting economic interest in the sole limited partnership interest in Blockchain III Digital Liquid Venture Fund held by the Issuer Blockchain Capital TokenHub Pte. Ltd"
   },
   {
     "url": "https://realt.co",
@@ -134,15 +152,6 @@
     ],
     "icon": "https://icons.llama.fi/realt.png",
     "description": "RealToken provides investors with a simple, intelligent, and user-friendly method to buy into fractional, tokenized properties, leveraging the U.S. legal system and the permissionless, unrestricted token issuance of Ethereum."
-  },
-  {
-    "url": "https://midas.app",
-    "name": "Midas RWA",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/midas-rwa.png",
-    "description": "Midas is an asset tokenization protocol bringing regulatory-compliant exposure to institutional-grade assets onchain, unlocking DeFi composability for real-world assets (RWA)."
   },
   {
     "url": "https://anzen.finance",
@@ -163,6 +172,16 @@
     "description": "Libre is building the investment infrastructure to enable asset managers to seamlessly connect with distributors and enable unparalleled access to global alternatives investment funds. In addition, Libre is working on enabling access to value-add services in the alternative assets ecosystem such as collateralized lending and automated rebalancing. Currently, Libre only makes its tokenized funds available to institutional and accredited investors"
   },
   {
+    "url": "https://theo.xyz",
+    "name": "Theo Network thBill",
+    "category": [
+      "RWA",
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/theo-network-thbill.jpg",
+    "description": "thBILL is a yield-bearing basket of tokenized U.S. Treasury bills from regulated issuers, designed as a stable core asset within the Theo ecosystem."
+  },
+  {
     "url": "https://makerdao.com",
     "name": "Sky RWA",
     "category": [
@@ -172,13 +191,31 @@
     "description": "Real World Assets (RWAs) are a collateral type in the Maker Protocol which require legal entities to represent the MakerDAO in order to interact with real world counterparties in deals ratified by governance."
   },
   {
-    "url": "https://nest.credit",
-    "name": "Nest Staking",
+    "url": "https://frax.com",
+    "name": "Frax USD",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llama.fi/nest-staking.png",
-    "description": "Nest Staking provides native yield from tokenized RWAs on Plume Network"
+    "icon": "https://icons.llama.fi/frax-usd.jpg",
+    "description": "Frax USD (frxUSD) is a fully collateralized stablecoin issued by Frax Finance, combining off-chain custodians holding cash-equivalent reserves with on-chain minting and redemption mechanisms"
+  },
+  {
+    "url": "https://gaib.ai",
+    "name": "GAIB",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/gaib.jpg",
+    "description": "GAIB is a financial layer for AI infrastructure, turning GPU-backed assets into yield-generating opportunities. Its AI synthetic dollar, AID, gives investors exposure to the AI economy while earning yield from compute resources. Users can stake AID (sAID) to earn passive income without giving up liquidity. GAIB also supports cloud providers and data centers by offering capital solutions to improve access to compute. Integrated with DeFi protocols like lending, borrowing, and structured products, GAIB connects AI and blockchain to open new investment opportunities"
+  },
+  {
+    "url": "https://digift.sg",
+    "name": "DigiFT",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/digift.jpg",
+    "description": "DigiFT is the first regulated exchange for on-chain real-world assets, approved as a Recognised Market Operator with a Capital Markets Services license by the Monetary Authority of Singapore. DigiFT allows asset owners to issue blockchain-based security tokens and investors can trade with continuous liquidity via an AMM."
   },
   {
     "url": "https://stusdt.io",
@@ -190,40 +227,22 @@
     "description": "Shape, expand, and enjoy the future of real-world assets tokenization on TRON."
   },
   {
-    "url": "https://dinari.com",
-    "name": "Dinari",
+    "url": "https://nest.credit",
+    "name": "Nest Credit",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llama.fi/dinari.png",
-    "description": "Dinari dShares revolutionizes access to global stock markets by leveraging blockchain technology, enabling seamless, transparent trading of real-world assets worldwide. Our platform bridges traditional finance and DeFi, democratizing investment in major stocks for a global audience."
+    "icon": "https://icons.llama.fi/nest-credit.png",
+    "description": "Nest Credit provides native yield from tokenized RWAs on Plume Network"
   },
   {
-    "url": "https://opentrade.io",
-    "name": "OpenTrade",
+    "url": "https://xstocks.com",
+    "name": "xStocks",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llama.fi/opentrade.png",
-    "description": "Fintechs around the world use OpenTrade to power safe, compliant stablecoin yield products."
-  },
-  {
-    "url": "https://tangible.store",
-    "name": "Tangible RWA",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/tangible-rwa.png",
-    "description": "Tangible is an NFT marketplace for Real World Assets. Tangible is also the creator of Real USD, the first stablecoin backed by tokenized, yield-producing real estate.Rental income from Real USD’s backing is paid out to Real USD holders in the form of a daily rebase projected to range between 10 - 15% APY."
-  },
-  {
-    "url": "https://sygnum.com",
-    "name": "Sygnum FIUSD Liquidity Fund",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/sygnum-fiusd-liquidity-fund.jpg",
-    "description": "This project focuses on the tokenization of Fidelity International's Money Market Fund by Sygnum Bank, specifically the Fidelity Institutional Liquidity Fund (ILF) USD Fund Class G Acc. Sygnum Bank is the token issuer of the above mentioned."
+    "icon": "https://icons.llama.fi/xstocks.jpg",
+    "description": "All xStocks are freely transferable tokens. They can be used in lending protocols, on DEXs, or any DeFi app. Hold them in your own wallet, or buy on one venue and sell on another. xStocks are built to be usable."
   },
   {
     "url": "https://matrixdock.com",
@@ -232,16 +251,7 @@
       "RWA"
     ],
     "icon": "https://icons.llama.fi/matrixdock-xaum.jpg",
-    "description": "Launched in 2024, XAUm is a digital gold token issued by Matrixdock. XAUm provides investors with a secure and efficient way to own and trade gold digitally, with each token representing one gram of LBMA-certified physical gold securely stored in vaults."
-  },
-  {
-    "url": "https://brickken.com",
-    "name": "Brickken",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/brickken.jpg",
-    "description": "Brickken enables businesses to create digital tokens backed by tokenized Real World Assets (RWA). Through the Token Suite, Clients can raise private or public capital by creating their own custom white-label token store & token offering."
+    "description": "Launched in 2024, XAUm is a digital gold token issued by Matrixdock. XAUm provides investors with a secure and efficient way to own and trade gold digitally, with each token representing one fine troy ounce of LBMA-certified physical gold securely stored in vaults."
   },
   {
     "url": "https://origyn.com",
@@ -253,6 +263,51 @@
     "description": "The ORIGYN Protocol has been made possible thanks to the major contribution of the ORIGYN Foundation and embodies its vision of becoming the universal digital standard for certification, traceability, and authentication"
   },
   {
+    "url": "https://opentrade.io",
+    "name": "OpenTrade",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/opentrade.png",
+    "description": "Fintechs around the world use OpenTrade to power safe, compliant stablecoin yield products."
+  },
+  {
+    "url": "https://sygnum.com",
+    "name": "Sygnum FIUSD Liquidity Fund",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/sygnum-fiusd-liquidity-fund.jpg",
+    "description": "This project focuses on the tokenization of Fidelity International's Money Market Fund by Sygnum Bank, specifically the Fidelity Institutional Liquidity Fund (ILF) USD Fund Class G Acc. Sygnum Bank is the token issuer of the above mentioned."
+  },
+  {
+    "url": "https://dinari.com",
+    "name": "Dinari",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/dinari.png",
+    "description": "Dinari dShares revolutionizes access to global stock markets by leveraging blockchain technology, enabling seamless, transparent trading of real-world assets worldwide. Our platform bridges traditional finance and DeFi, democratizing investment in major stocks for a global audience."
+  },
+  {
+    "url": "https://tangible.store",
+    "name": "Tangible RWA",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/tangible-rwa.png",
+    "description": "Tangible is an NFT marketplace for Real World Assets. Tangible is also the creator of Real USD, the first stablecoin backed by tokenized, yield-producing real estate.Rental income from Real USD’s backing is paid out to Real USD holders in the form of a daily rebase projected to range between 10 - 15% APY."
+  },
+  {
+    "url": "https://brickken.com",
+    "name": "Brickken",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/brickken.jpg",
+    "description": "Brickken enables businesses to create digital tokens backed by tokenized Real World Assets (RWA). Through the Token Suite, Clients can raise private or public capital by creating their own custom white-label token store & token offering."
+  },
+  {
     "url": "https://clearpool.finance",
     "name": "Clearpool TPOOL",
     "category": [
@@ -260,6 +315,15 @@
     ],
     "icon": "https://icons.llama.fi/clearpool-tpool.jpg",
     "description": "This USDX pool is dedicated to investing in or purchasing treasuries and distribute the resulting yield to liquidity providers"
+  },
+  {
+    "url": "https://mansorytoken.io",
+    "name": "Mansory",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/mansory.jpg",
+    "description": "Mansory Token (MNSRY) is a branded utility token empowering holders with tiered luxury benefits like VIP events, NFT-authenticated assets, and lifestyle rewards—anchored in the Mansory automotive world."
   },
   {
     "url": "https://t-rize.io",
@@ -280,15 +344,6 @@
     "description": "Fully backed, tokenized real-world assets."
   },
   {
-    "url": "https://digift.sg",
-    "name": "DigiFT",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llama.fi/digift.jpg",
-    "description": "DigiFT is the first regulated exchange for on-chain real-world assets, approved as a Recognised Market Operator with a Capital Markets Services license by the Monetary Authority of Singapore. DigiFT allows asset owners to issue blockchain-based security tokens and investors can trade with continuous liquidity via an AMM."
-  },
-  {
     "url": "https://republic.com",
     "name": "Republic Note",
     "category": [
@@ -305,5 +360,23 @@
     ],
     "icon": "https://icons.llama.fi/comtech-gold.jpg",
     "description": "ComTech introduces Gold token namely ComTech Gold ( $CGO ) built on XDC Network."
+  },
+  {
+    "url": "https://vnx.li",
+    "name": "VNX",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/vnx.jpg",
+    "description": "VNX Commodities AG complies with the regulations and leading standards of investor protections. Rest assured, your investments are always safe with us. We believe that you should be able to make transactions with precious metals from anywhere in the world, with complete confidence and protection"
+  },
+  {
+    "url": "https://ariaprotocol.xyz",
+    "name": "Aria Protocol",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/aria-protocol.jpg",
+    "description": "Founded in 2025, Aria is the first protocol to bring iconic real-world IP—starting with music—onchain as liquid, revenue-generating tradable tokens. Built on Story, Aria transforms cultural assets into IP Real-World Assets (IPRWAs). Retail investors access income-producing IP through Aria. Early offerings include partial rights to works performed by Justin Bieber, Miley Cyrus, and BLACKPINK. Aria enables investors to access IP rights and earn real-world revenue from avenues such as streaming. Looking ahead, Aria will include programmable IP and power a permissioned remix economy, where smart contracts govern how IP is licensed, monetized, and remixed—laying the financial rails for the next era of the IP economy."
   }
 ]

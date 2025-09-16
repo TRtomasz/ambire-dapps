@@ -1,15 +1,12 @@
 [
   {
-    "url": "https://asterdex.com",
-    "name": "Aster asBNB",
+    "url": "https://doppler.finance",
+    "name": "Doppler Finance",
     "category": [
-      "Yield",
-      "Basis Trading",
-      "Derivatives",
       "CeDeFi"
     ],
-    "icon": "https://icons.llama.fi/aster-asbnb.jpg",
-    "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
+    "icon": "https://icons.llama.fi/doppler-finance.png",
+    "description": "First XRPfi protocol on XRPL"
   },
   {
     "url": "https://goose.farm",

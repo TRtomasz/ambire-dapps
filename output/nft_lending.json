@@ -17,5 +17,15 @@
     ],
     "icon": "https://icons.llama.fi/gondi-v3.jpg",
     "description": "Borrow, Lend & Refinance NFTs on the most capital efficient lending protocol"
+  },
+  {
+    "url": "https://benddao.xyz",
+    "name": "BendDAO APE Staking",
+    "category": [
+      "Yield",
+      "NFT Lending"
+    ],
+    "icon": "https://icons.llama.fi/benddao-ape-staking.png",
+    "description": "ApeCoin Staking Yield"
   }
 ]

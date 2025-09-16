@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://superfluid.finance",
+    "name": "Superfluid",
+    "category": [
+      "Payments"
+    ],
+    "icon": "https://icons.llama.fi/superfluid.png",
+    "description": "Programmable Cashflows. Handle subscriptions, salaries, rewards and any composable stream of value, with continuous settlement and per-second netting for extreme capital efficiency."
+  },
+  {
     "url": "https://amptoken.org",
     "name": "Flexa",
     "category": [

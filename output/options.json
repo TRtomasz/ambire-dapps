@@ -26,5 +26,24 @@
     ],
     "icon": "https://icons.llama.fi/deri-v4.png",
     "description": "Deri Protocol is a decentralized protocol for users to exchange risk exposures precisely and capital efficiently. It is the DeFi way to trade derivatives: to hedge, to speculate, to arbitrage, all on chain."
+  },
+  {
+    "url": "https://rysk.finance",
+    "name": "Rysk V12",
+    "category": [
+      "Options"
+    ],
+    "icon": "https://icons.llama.fi/rysk-v12.jpg",
+    "description": "Rysk V12 introduces a new way to earn high, sustainable yield on ETH, BTC, and any volatile asset in DeFi. DeFi’s biggest gap has been obvious: scalable, efficient returns on its core assets. These assets are held by everyone, yet their yields remain low and unsustainable. Rysk fixes this by reimagining covered calls, a proven strategy from traditional finance, and making it work for DeFi."
+  },
+  {
+    "url": "https://gammaswap.com",
+    "name": "GammaSwap",
+    "category": [
+      "Options",
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/gammaswap.png",
+    "description": "Trade perpetual options using DEX liquidity"
   }
 ]

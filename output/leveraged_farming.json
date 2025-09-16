@@ -12,7 +12,8 @@
     "url": "https://extrafi.io",
     "name": "Extra Finance Leverage Farming",
     "category": [
-      "Leveraged Farming"
+      "Leveraged Farming",
+      "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llama.fi/extra-finance.jpg",
     "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
@@ -27,24 +28,6 @@
     "description": "Origami is a first-in-class automated leverage protocol launching on Ethereum and 🐻"
   },
   {
-    "url": "https://kai.finance",
-    "name": "Kai Finance",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/kai-finance.png",
-    "description": "Kai Finance is a next-generation leveraged yield platform on the Sui Network."
-  },
-  {
-    "url": "https://arkis.xyz",
-    "name": "Arkis",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/arkis.jpg",
-    "description": "Arkis is a DeFi Prime Broker that acts as a credit protocol by providing on-chain loans to institutional asset managers from the protocol lenders."
-  },
-  {
     "url": "https://alpacafinance.org",
     "name": "Alpaca Leveraged Yield Farming",
     "category": [
@@ -55,6 +38,15 @@
     "description": "The 1st leveraged yield farming protocol on BSC"
   },
   {
+    "url": "https://kai.finance",
+    "name": "Kai Finance",
+    "category": [
+      "Leveraged Farming"
+    ],
+    "icon": "https://icons.llama.fi/kai-finance.png",
+    "description": "Kai Finance is a next-generation leveraged yield platform on the Sui Network."
+  },
+  {
     "url": "https://factor.fi",
     "name": "Factor Leverage Vault",
     "category": [
@@ -62,6 +54,15 @@
     ],
     "icon": "https://icons.llama.fi/factor-leverage-vault.jpg",
     "description": "Factor Leverage Vault is one-click looping, easy switching, easy migration, easy auto-compounding the reward."
+  },
+  {
+    "url": "https://arkis.xyz",
+    "name": "Arkis",
+    "category": [
+      "Leveraged Farming"
+    ],
+    "icon": "https://icons.llama.fi/arkis.jpg",
+    "description": "Arkis is a DeFi Prime Broker that acts as a credit protocol by providing on-chain loans to institutional asset managers from the protocol lenders."
   },
   {
     "url": "https://deltaprime.io",

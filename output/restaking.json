@@ -27,6 +27,15 @@
     "description": "Pell uses BTC and its LSD to provide actively validated services (AVS) to BTC ecosystem projects, plug the gap in ecosystem security, reduce cost to develop ecosystem applications and optimise yield avenue for BTC holders. Pell aims to become the largest shared liquidity and cryptonomic security layer in the BTC ecosystem across market cycles"
   },
   {
+    "url": "https://b14g.xyz",
+    "name": "b14g",
+    "category": [
+      "Restaking"
+    ],
+    "icon": "https://icons.llama.fi/b14g.jpg",
+    "description": "b14g is a modular dual-staking layer for Bitcoin that lets protocols secure their networks with both BTC and their native token—reducing sell pressure, increasing token utility, and improving sustainability."
+  },
+  {
     "url": "https://karak.network",
     "name": "Karak",
     "category": [
@@ -44,15 +53,6 @@
     ],
     "icon": "https://icons.llama.fi/kernel.jpg",
     "description": "Kernel is pioneering restaking on the BNB Chain. Restake BNB, BTC and other yield-bearing tokens and earn higher rewards."
-  },
-  {
-    "url": "https://b14g.xyz",
-    "name": "b14g",
-    "category": [
-      "Restaking"
-    ],
-    "icon": "https://icons.llama.fi/b14g.jpg",
-    "description": "b14g is a modular dual-staking layer for Bitcoin that lets protocols secure their networks with both BTC and their native token—reducing sell pressure, increasing token utility, and improving sustainability."
   },
   {
     "url": "https://parasail.network",
