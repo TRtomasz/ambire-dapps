@@ -3,52 +3,52 @@
     "url": "https://ethena.fi",
     "name": "Ethena USDe",
     "category": [
-      "Basis Trading",
-      "Yield"
+      "Basis Trading"
     ],
     "icon": "https://icons.llama.fi/ethena-usde.png",
     "description": "Ethena is a synthetic dollar protocol built on Ethereum"
   },
   {
-    "url": "https://desyn.io",
-    "name": "DeSyn Liquid Strategy",
+    "url": "https://falcon.finance",
+    "name": "Falcon Finance",
     "category": [
-      "Yield Aggregator",
       "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/desyn-liquid-strategy.jpg",
-    "description": "DeSyn is a decentralized liquidity infrastructure on Web3, empowering investors, projects, and security companies to invest, build, and manage collaboratively."
+    "icon": "https://icons.llama.fi/falcon-finance.jpg",
+    "description": "Falcon Finance is the first universal collateralization infrastructure protocol that creates sustainable yield opportunities."
   },
   {
     "url": "https://solv.finance",
     "name": "SolvBTC",
     "category": [
       "Bridge",
-      "Restaked BTC",
       "Basis Trading",
+      "Restaked BTC",
       "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llama.fi/solvbtc.jpg",
     "description": "SolvBTC is a universal Bitcoin reserve token that connects Bitcoin’s value across blockchains, backed 1:1 by a transparent, secure reserve. It empowers you to tap into DeFi and CeFi markets effortlessly, transforming idle Bitcoin into a dynamic asset for lending, trading, or yield generation—while keeping you in full control."
   },
   {
-    "url": "https://usdx.money",
-    "name": "Stables Labs USDX",
+    "url": "https://asterdex.com",
+    "name": "Aster Bridge",
     "category": [
+      "Bridge",
+      "Yield",
       "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/stables-labs-usdx.png",
-    "description": "USDX is a synthetic USD stablecoin designed to provide stability without relying on traditional banking infrastructure. Backed by delta-neutral positions across multiple exchanges, USDX seamlessly bridges the gap between DeFi, CeFi, and TradFi. It enables DeFi users to access traditional delta-neutral strategies executed in CeFi platforms. As a crypto-native stablecoin, USDX offers a scalable, censorship-resistant, and highly stable solution for users looking to navigate the world of decentralized finance with confidence."
+    "icon": "https://icons.llama.fi/aster-bridge.jpg",
+    "description": "Aster is a decentralized perpetual exchange built for everyone. It offers MEV-free, one-click trading with up to 1001x leverage in Simple Mode, and full-featured, pro-grade tools in Pro Mode. Backed by YZi Labs, Aster is building the future of DeFi: fast, flexible, and community-first"
   },
   {
-    "url": "https://bouncebit.io",
-    "name": "BounceBit CeDeFi Yield",
+    "url": "https://superstate.com",
+    "name": "Superstate USTB",
     "category": [
-      "Basis Trading",
-      "Bridge"
+      "RWA",
+      "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/bouncebit-cedefi.jpg",
-    "description": "BounceBit CeDeFi combines CeFi and DeFi to generate yield on various assets across multiple chains. The yield is generated via delta-neutral basis trading on centralized exchanges, facilitated by CEX-integrated custody solutions like CEFFU. BounceBit CeDeFi uses the ERC-4626 Tokenized Vault Standard to enable daily rebasing of generated revenue"
+    "icon": "https://icons.llama.fi/superstate-ustb.jpg",
+    "description": "The Superstate Short Duration U.S. Government Securities Fund (USTB) is a private fund tokenized on the Ethereum blockchain (ERC-20), offered exclusively to Qualified Purchasers. USTB invests in short-duration U.S. Treasury Bills and U.S. Government Agency securities (“Government Securities”) and provides yield targeting returns in line with the federal funds rate."
   },
   {
     "url": "https://resolv.xyz",
@@ -60,6 +60,15 @@
     "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
   },
   {
+    "url": "https://bouncebit.io",
+    "name": "BounceBit CeDeFi Yield",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/bouncebit-cedefi.jpg",
+    "description": "BounceBit CeDeFi combines CeFi and DeFi to generate yield on various assets across multiple chains. The yield is generated via delta-neutral basis trading on centralized exchanges, facilitated by CEX-integrated custody solutions like CEFFU. BounceBit CeDeFi uses the ERC-4626 Tokenized Vault Standard to enable daily rebasing of generated revenue"
+  },
+  {
     "url": "https://bitfi.one",
     "name": "BitFi Basis",
     "category": [
@@ -69,65 +78,22 @@
     "description": "Reliable returns with bfUSD, our yield-bearing stablecoin that fuels stability while amplifying your earnings in a dynamic ecosystem."
   },
   {
-    "url": "https://superstate.co",
-    "name": "Superstate USTB",
-    "category": [
-      "RWA",
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/superstate-ustb.jpg",
-    "description": "The Superstate Short Duration U.S. Government Securities Fund (USTB) is a private fund tokenized on the Ethereum blockchain (ERC-20), offered exclusively to Qualified Purchasers. USTB invests in short-duration U.S. Treasury Bills and U.S. Government Agency securities (“Government Securities”) and provides yield targeting returns in line with the federal funds rate."
-  },
-  {
-    "url": "https://asterdex.com",
-    "name": "Aster asBNB",
-    "category": [
-      "Yield",
-      "Bridge",
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/aster-asbnb.jpg",
-    "description": "Aster's asBNB is a BNB liquid staking derivative that accrue rewards from Binance Launchpools, HODLer airdrops and Megadrops"
-  },
-  {
     "url": "https://avantprotocol.com",
     "name": "Avant avUSD",
     "category": [
-      "Basis Trading",
-      "Onchain Capital Allocator"
+      "Basis Trading"
     ],
     "icon": "https://icons.llama.fi/avant-avusd.jpg",
     "description": "Avant is a DeFi platform established in June 2024 with the mission to create a more inclusive financial system through a DeFi-powered stable-value token. The platform introduces avUSD, a stable-value token, and savUSD, its staked, yield-bearing counterpart."
   },
   {
-    "url": "https://manta.network",
-    "name": "Manta CeDeFi",
-    "category": [
-      "Basis Trading",
-      "Canonical Bridge",
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/manta-cedefi.jpg",
-    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
-  },
-  {
-    "url": "https://theo.xyz",
-    "name": "Theo Network thBill",
-    "category": [
-      "RWA",
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/theo-network-thbill.jpg",
-    "description": "thBILL is a yield-bearing basket of tokenized U.S. Treasury bills from regulated issuers, designed as a stable core asset within the Theo ecosystem."
-  },
-  {
-    "url": "https://liminal.money",
-    "name": "Liminal",
+    "url": "https://unitas.so",
+    "name": "Unitas",
     "category": [
       "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/liminal.jpg",
-    "description": "Liminal is a DeFi protocol on Hyperliquid that offers stable, delta-neutral yields from funding rates, allowing users to earn returns without market exposure"
+    "icon": "https://icons.llama.fi/unitas.jpg",
+    "description": "Unitas is a decentralized, yield-bearing stablecoin protocol built for the next generation of finance. It issues stablecoins that earn yield natively — no reliance on traditional banks. Powered by Solana, it's fast, scalable, and censorship-resistant"
   },
   {
     "url": "https://zerobase.pro",
@@ -139,6 +105,16 @@
     "description": "ZEROBASE introduces the first zk-powered staking product on stablecoins"
   },
   {
+    "url": "https://manta.network",
+    "name": "Manta CeDeFi",
+    "category": [
+      "Basis Trading",
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/manta-cedefi.jpg",
+    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
+  },
+  {
     "url": "https://aegis.im",
     "name": "Aegis",
     "category": [
@@ -146,5 +122,32 @@
     ],
     "icon": "https://icons.llama.fi/aegis.jpg",
     "description": "Aegis performs funding rate arbitrage through delta-neutral trades in spot and perpetual markets, effectively generating profits from funding fees. These fees, disbursed three times daily, align perpetual contract and spot prices, ultimately rewarding YUSD holders."
+  },
+  {
+    "url": "https://xsy.fi",
+    "name": "XSY",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/xsy.jpg",
+    "description": "$UTY, also known as Unity, is a digital synthetic dollar (DSD). Unity is a delta-neutral asset and serves as the synthetic dollar at the center of XSY's ecosystem of decentralized financial products."
+  },
+  {
+    "url": "https://liminal.money",
+    "name": "Liminal",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/liminal.jpg",
+    "description": "Liminal is a DeFi protocol on Hyperliquid that offers stable, delta-neutral yields from funding rates, allowing users to earn returns without market exposure"
+  },
+  {
+    "url": "https://desyn.io",
+    "name": "DeSyn Basis Trading",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/desyn-basis-trading.jpg",
+    "description": "DeSyn is a decentralized liquidity infrastructure on Web3, empowering investors, projects, and security companies to invest, build, and manage collaboratively."
   }
 ]

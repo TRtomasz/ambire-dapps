@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://rumpel.xyz",
-    "name": "Rumpel Labs",
-    "category": [
-      "Synthetics"
-    ],
-    "icon": "https://icons.llama.fi/rumpel-labs.jpg",
-    "description": "Rumpel is a point tokenization protocol. It enables secondary market liquidity and price discovery for offchain loyalty points, unlocking new opportunities for point holders, traders, airdrop hunters, and point issuers."
-  },
-  {
     "url": "https://alchemix.fi",
     "name": "Alchemix",
     "category": [

@@ -1,15 +1,6 @@
 [
   {
-    "url": "https://yearn.finance",
-    "name": "Yearn Vaults",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/yearn-finance.jpg",
-    "description": "Safe App for interacting with Yearn Vaults"
-  },
-  {
-    "url": "https://instadapp.io",
+    "url": "https://fluid.io",
     "name": "Fluid Lending",
     "category": [
       "Lending",
@@ -19,33 +10,33 @@
     "description": "An ever-evolving DeFi protocol and financial system of the future by Instadapp"
   },
   {
-    "url": "https://desyn.io",
-    "name": "DeSyn Liquid Strategy",
+    "url": "https://kinetiq.xyz",
+    "name": "Kinetiq kHYPE",
+    "category": [
+      "Liquid Staking",
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/kinetiq-khype.jpg",
+    "description": "Kinetiq is a non-custodial liquid staking protocol that allows users to stake HYPE tokens on Hyperliquid L1 and receive kHYPE, a yield-bearing representation of staked HYPE that is usable in DeFi."
+  },
+  {
+    "url": "https://yearn.fi",
+    "name": "Yearn Finance",
     "category": [
       "Yield Aggregator",
-      "Basis Trading"
+      "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/desyn-liquid-strategy.jpg",
-    "description": "DeSyn is a decentralized liquidity infrastructure on Web3, empowering investors, projects, and security companies to invest, build, and manage collaboratively."
+    "icon": "https://icons.llama.fi/yearn-finance.jpg",
+    "description": "Yearn.finance is an aggregator service for decentralized finance (DeFi) investors, using automation to allow them to maximize profits from yield farming."
   },
   {
     "url": "https://cian.app",
     "name": "CIAN Yield Layer",
     "category": [
-      "Yield Aggregator",
-      "Risk Curators"
+      "Yield Aggregator"
     ],
     "icon": "https://icons.llama.fi/cian-yield-layer.jpg",
     "description": "Redistribute Yield Sources For Sustainable DeFi & Optimized APY For Your Assets"
-  },
-  {
-    "url": "https://hyperbeat.org",
-    "name": "Hyperbeat",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/hyperbeat.jpg",
-    "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
   },
   {
     "url": "https://beefy.com",
@@ -57,23 +48,14 @@
     "description": "Beefy automates yield farming to make DeFi easy, safe and efficient for all. By autocompounding your tokens, Beefy unlocks higher returns so you earn more of what you love."
   },
   {
-    "url": "https://summer.fi",
-    "name": "Summer.fi Pro",
+    "url": "https://hyperbeat.org",
+    "name": "Hyperbeat Earn",
     "category": [
-      "CDP Manager",
-      "Yield Aggregator"
+      "Yield Aggregator",
+      "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/summer.fi-pro.png",
-    "description": "Borrow, Multiply and Earn on the assets you hold across multiple protocols. Take advantage of powerful automation strategies and simple UX."
-  },
-  {
-    "url": "https://yield.fi",
-    "name": "YieldFi",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/yieldfi.jpg",
-    "description": "YieldFi: The First Streamlined Asset Management Platform"
+    "icon": "https://icons.llama.fi/hyperbeat-earn.jpg",
+    "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
   },
   {
     "url": "https://superform.xyz",
@@ -81,17 +63,18 @@
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/superform.png",
+    "icon": "https://icons.llama.fi/superform.svg",
     "description": "Superform is the onchain wealth app. Superform earns you the best returns on your crypto to grow your onchain wealth. Use SuperVaults to automatically optimize your earnings, or build your customized portfolio by directly depositing into over 800 earning opportunities"
   },
   {
-    "url": "https://vfat.io",
-    "name": "vfat.io",
+    "url": "https://summer.fi",
+    "name": "Lazy Summer Protocol",
     "category": [
-      "Yield Aggregator"
+      "Yield Aggregator",
+      "CDP Manager"
     ],
-    "icon": "https://icons.llama.fi/vfat.png",
-    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
+    "icon": "https://icons.llama.fi/lazy-summer-protocol.png",
+    "description": "The Lazy Summer Protocol offers Automated Yield across DeFi's highest quality protocols on Ethereum, Base and Arbitrum. It uses AI Powered Keepers to continually monitor and rebalance the supported Vaults offering users the best available yields within strict risk parameters, set and managed by leading risk management firm BlockAnalitica."
   },
   {
     "url": "https://yo.xyz",
@@ -103,22 +86,31 @@
     "description": "Set it and forget it. YO is your secure multi-chain yield optimizer, continuously rebalancing to deliver the best risk-adjusted yield in DeFi."
   },
   {
-    "url": "https://nucleusearn.io",
-    "name": "Nucleus",
+    "url": "https://flyingtulip.com",
+    "name": "Flying Tulip",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/nucleus.jpg",
-    "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
+    "icon": "https://icons.llama.fi/flying-tulip.jpg",
+    "description": "Flying Tulip is a yield aggregation protocol that pools user deposits into wrapper contracts and deploys them into automated yield strategies."
   },
   {
-    "url": "https://rings.money",
-    "name": "Trevee Earn",
+    "url": "https://idle.finance",
+    "name": "Idle",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/trevee-earn.jpg",
-    "description": "Rings is a meta-stablecoin for USD & ETH offering competitive yield for stakers, providing deep liquidity for Sonic DeFi, and funding Sonic DeFi projects via its lockers."
+    "icon": "https://icons.llama.fi/idle.jpg",
+    "description": "Idle is a decentralized protocol and set of products that aim to unlock the power of decentralized finance as a one-stop source of yield. It allows users to algorithmically optimize their digital asset allocation across leading DeFi protocols, whether they want to maximize it or keep tabs on their risk/return profile."
+  },
+  {
+    "url": "https://vfat.io",
+    "name": "vfat.io",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/vfat.png",
+    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
   },
   {
     "url": "https://vesper.finance",
@@ -130,25 +122,40 @@
     "description": "Vesper is a platform for easy-to-use DeFi products."
   },
   {
-    "url": "https://kava.io",
-    "name": "Kava Mint",
-    "category": [
-      "CDP",
-      "Lending",
-      "Yield Aggregator",
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/kava-mint.png",
-    "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
-  },
-  {
-    "url": "https://idle.finance",
-    "name": "Idle",
+    "url": "https://ipor.io",
+    "name": "IPOR Fusion",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/idle.jpg",
-    "description": "Idle is a decentralized protocol and set of products that aim to unlock the power of decentralized finance as a one-stop source of yield. It allows users to algorithmically optimize their digital asset allocation across leading DeFi protocols, whether they want to maximize it or keep tabs on their risk/return profile."
+    "icon": "https://icons.llama.fi/ipor-fusion.svg",
+    "description": "IPOR Fusion is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
+  },
+  {
+    "url": "https://canopyhub.xyz",
+    "name": "Canopy",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/canopy.jpg",
+    "description": "Canopy is a yield aggregation platform that simplifies liquidity deployment into the Movement Network."
+  },
+  {
+    "url": "https://nucleusearn.io",
+    "name": "Nucleus",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/nucleus.jpg",
+    "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
+  },
+  {
+    "url": "https://yield.fi",
+    "name": "YieldFi",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/yieldfi.jpg",
+    "description": "YieldFi: The First Streamlined Asset Management Platform"
   },
   {
     "url": "https://yieldyak.com",
@@ -169,24 +176,6 @@
     "description": "Harvest - grows your crypto with automated yield strategies"
   },
   {
-    "url": "https://badger.com",
-    "name": "Badger DAO",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/badger-dao.jpg",
-    "description": "BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi."
-  },
-  {
-    "url": "https://ipor.io",
-    "name": "IPOR Fusion",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/ipor-fusion.svg",
-    "description": "IPOR Fusion is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
-  },
-  {
     "url": "https://alphafi.xyz",
     "name": "AlphaFi Agg",
     "category": [
@@ -194,15 +183,6 @@
     ],
     "icon": "https://icons.llama.fi/alphafi-agg.jpg",
     "description": "Premier Yield Optimizer on the SUI Blockchain. Earn Safe, Real Yields with AlphaFi."
-  },
-  {
-    "url": "https://canopyhub.xyz",
-    "name": "Canopy",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/canopy.jpg",
-    "description": "Canopy is a yield aggregation platform that simplifies liquidity deployment into the Movement Network."
   },
   {
     "url": "https://odyssey.finance",
@@ -214,21 +194,12 @@
     "description": "Odyssey is a DeFi super-app that uses ERC-4337 smart accounts to let users run gasless, cross-chain strategies with tools like Loopr, Bundlr, and Yieldr, all in one interface"
   },
   {
-    "url": "https://nawa.finance",
-    "name": "Nawa Protocol",
+    "url": "https://badger.com",
+    "name": "Badger DAO",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/nawa-protocol.jpg",
-    "description": "Nawa Finance is an ethical & Shariah-compliant DeFi protocol offering auto-compounding vaults and liquid staking for Bitcoin assets on Core Chain"
-  },
-  {
-    "url": "https://pickle.finance",
-    "name": "Pickle",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/pickle.svg",
-    "description": "Pickle Finance is a yield aggregator, auto-compounding users LP positions saving them time and money. The governance token PICKLE can be staked as DILL, to earn a share of the protocols revenues and boost users farm APY"
+    "icon": "https://icons.llama.fi/badger-dao.jpg",
+    "description": "BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi."
   }
 ]

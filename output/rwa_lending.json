@@ -1,5 +1,15 @@
 [
   {
+    "url": "https://aave.com",
+    "name": "Aave",
+    "category": [
+      "Lending",
+      "RWA Lending"
+    ],
+    "icon": "https://static.debank.com/image/dapp/logo_url/b8a5ea5ccf34a9a94fde0e8027135492/b8a5ea5ccf34a9a94fde0e8027135492.png",
+    "description": "Aave is an Open Source Protocol to create Non-Custodial Liquidity Markets to earn interest on supplying and borrowing assets with a variable or stable interest rate. The protocol is designed for easy integration into your products and services."
+  },
+  {
     "url": "https://usd.ai",
     "name": "USD AI",
     "category": [
@@ -16,15 +26,6 @@
     ],
     "icon": "https://icons.llama.fi/pareto-credit.jpg",
     "description": "Pareto is a private credit marketplace that connects institutional lenders and borrowers, offering scalable yield opportunities and bridging institutional capital with on-chain credit markets."
-  },
-  {
-    "url": "https://figure.com",
-    "name": "Figure Markets Democratized Prime",
-    "category": [
-      "RWA Lending"
-    ],
-    "icon": "https://icons.llama.fi/figure-markets-democratized-prime.jpg",
-    "description": "Democratized Prime connects your cash or crypto with borrowers seeking liquidity on their collateral"
   },
   {
     "url": "https://csigma.finance",

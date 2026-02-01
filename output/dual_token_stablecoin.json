@@ -1,15 +1,5 @@
 [
   {
-    "url": "https://aladdin.club",
-    "name": "fx Protocol",
-    "category": [
-      "Dual-Token Stablecoin",
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/fx-protocol.jpg",
-    "description": "f(x) splits ETH into a mix of low-volatility “floating stablecoins” called fETH and high volatility “leveraged ETH” tokens called xETH. Users can supply ETH or stETH to mint either one (pure ETH is zapped into stETH before deposit)"
-  },
-  {
     "url": "https://moneyonchain.com",
     "name": "MoneyOnChain",
     "category": [
@@ -17,5 +7,24 @@
     ],
     "icon": "https://icons.llama.fi/moneyonchain.jpg",
     "description": "Money On Chain is a self-contained DeFi protocol (a stablecoin, HODL token, leveraging mechanism, and more) which empowers Bitcoiners to improve performance of their assets while also retaining full control of their private keys."
+  },
+  {
+    "url": "https://aladdin.club",
+    "name": "Concentrator",
+    "category": [
+      "Yield",
+      "Dual-Token Stablecoin"
+    ],
+    "icon": "https://icons.llama.fi/concentrator.jpg",
+    "description": "Aladdin concentrator is a platform that boosts rewards for Curve & Convex stakers and liquidity providers alike, all in a simple and easy to use interface."
+  },
+  {
+    "url": "https://rifonchain.com",
+    "name": "RIF ON CHAIN",
+    "category": [
+      "Dual-Token Stablecoin"
+    ],
+    "icon": "https://icons.llama.fi/rif-on-chain.png",
+    "description": "RIF On Chain offers a censorship-resistant stablecoin protocol on Rootstock, enabling users to mint USDRIF, a fully crypto-collateralized stablecoin, and RIF PRO, a leveraged token for RIF holders and traders"
   }
 ]

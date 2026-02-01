@@ -7,14 +7,5 @@
     ],
     "icon": "https://icons.llama.fi/nexus-mutual.png",
     "description": "Nexus Mutual offers decentralized cover against smart contract failure."
-  },
-  {
-    "url": "https://ease.org",
-    "name": "Ease.org",
-    "category": [
-      "Insurance"
-    ],
-    "icon": "https://icons.llama.fi/ease.org.png",
-    "description": "Ease is a decentralized coverage protocol that enables users to protect their DeFi tokens without a premium while earning compounding yield."
   }
 ]

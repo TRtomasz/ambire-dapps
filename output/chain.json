@@ -10,15 +10,14 @@
     "description": "Ethereum sidechain"
   },
   {
-    "url": "https://bsquared.network",
-    "name": "B2 Buzz",
+    "url": "https://noble.xyz",
+    "name": "Noble",
     "category": [
-      "Canonical Bridge",
-      "Farm",
-      "Chain"
+      "Chain",
+      "Farm"
     ],
-    "icon": "https://icons.llama.fi/b2-buzz.jpg",
-    "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
+    "icon": "https://icons.llama.fi/noble.png",
+    "description": "Native stablecoin and RWA issuance for the Cosmos ecosystem"
   },
   {
     "url": "https://frax.finance",
@@ -33,53 +32,13 @@
     "description": "Frax Ether is a liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem to maximize staking yield and smoothen the Ethereum staking process for a simplified, secure, and DeFi-native way to earn interest on ETH. "
   },
   {
-    "url": "https://noble.xyz",
-    "name": "Noble",
+    "url": "https://chilizchain.com",
+    "name": "Chiliz Governance Staking",
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/noble.png",
-    "description": "Native stablecoin and RWA issuance for the Cosmos ecosystem"
-  },
-  {
-    "url": "https://sophon.xyz",
-    "name": "Sophon Bridge",
-    "category": [
-      "Canonical Bridge",
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/sophon.png",
-    "description": "Sophon is a ZK chain"
-  },
-  {
-    "url": "https://karak.network",
-    "name": "Karak",
-    "category": [
-      "Restaking",
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/karak.png",
-    "description": "The universal restaking layer powered by the entire cryptoeconomy."
-  },
-  {
-    "url": "https://burnt.com",
-    "name": "XION Finance",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/xion-finance.jpg",
-    "description": "The First Walletless Blockchain Built For Main­stream Adoption. XION empowers developers to build, launch and scale consumer-ready products from the ground up, removing technical barriers for all users through its Chain Abstraction."
-  },
-  {
-    "url": "https://manta.network",
-    "name": "Manta CeDeFi",
-    "category": [
-      "Basis Trading",
-      "Canonical Bridge",
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/manta-cedefi.jpg",
-    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
+    "icon": "https://icons.llama.fi/chiliz-governance-staking.jpg",
+    "description": "CHZ locked for the governance of Chiliz Chain, Validators and delegators stake their CHZ to take part in the governance of the PoSA chain in order to create and validate new blocks as well as to vote on any changes which require governance consensus."
   },
   {
     "url": "https://pulsechain.com",
@@ -92,15 +51,6 @@
     "description": "Energy efficient, Faster, cheaper, fee-burning Ethereum fork."
   },
   {
-    "url": "https://chilizchain.com",
-    "name": "Chiliz Governance Staking",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/chiliz-governance-staking.jpg",
-    "description": "CHZ locked for the governance of Chiliz Chain, Validators and delegators stake their CHZ to take part in the governance of the PoSA chain in order to create and validate new blocks as well as to vote on any changes which require governance consensus."
-  },
-  {
     "url": "https://abs.xyz",
     "name": "Abstract",
     "category": [
@@ -108,6 +58,15 @@
     ],
     "icon": "https://icons.llama.fi/abstract.png",
     "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment"
+  },
+  {
+    "url": "https://burnt.com",
+    "name": "XION Finance",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/xion-finance.jpg",
+    "description": "The First Walletless Blockchain Built For Main­stream Adoption. XION empowers developers to build, launch and scale consumer-ready products from the ground up, removing technical barriers for all users through its Chain Abstraction."
   },
   {
     "url": "https://astar.network",

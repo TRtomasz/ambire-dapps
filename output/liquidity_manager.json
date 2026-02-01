@@ -9,6 +9,16 @@
     "description": "Arrakis Modular represents the next evolution of the Arrakis liquidity management smart contract framework, aiming to overcome the limitations of previous versions (V1 and V2). Arrakis Modular introduces a universal Meta Vault standard. This modular framework allows Arrakis to create entirely different two-sided LP Vault integrations, which all reuse the same Meta Vault infrastructure and interfaces."
   },
   {
+    "url": "https://kodiak.finance",
+    "name": "Kodiak Islands",
+    "category": [
+      "Liquidity manager",
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/kodiak-islands.jpg",
+    "description": "Liquidity manager for Kodiak DEX"
+  },
+  {
     "url": "https://steer.finance",
     "name": "Steer Protocol",
     "category": [
@@ -27,22 +37,13 @@
     "description": "ICHI is a non-custodial liquidity management protocol that enables the use of sophisticated algorithmic strategies on Uniswap V3. It allows token holders, institutions, and projects to earn on-chain yield and help establish deeper on-chain token liquidity. ICHI's main product is ICHI Vaults which accept single-token deposits and then deploy these tokens into Uniswap V3 concentrated liquidity pools in order to earn trading fees for the depositor (yield). In addition to on-chain yield opportunities, ICHI Vaults allow projects to build deeper, on-chain liquidity and provide them with enticing treasury management strategies."
   },
   {
-    "url": "https://stability.farm",
-    "name": "Stability",
+    "url": "https://thedeep.ink",
+    "name": "TheDeep",
     "category": [
       "Liquidity manager"
     ],
-    "icon": "https://icons.llama.fi/stability.jpg",
-    "description": "Asset management, liquidity mining and yield farming platform."
-  },
-  {
-    "url": "https://arcadia.finance",
-    "name": "Arcadia V2",
-    "category": [
-      "Liquidity manager"
-    ],
-    "icon": "https://icons.llama.fi/arcadia-v2.jpg",
-    "description": "Leverage farming protocol on base"
+    "icon": "https://icons.llama.fi/thedeep.jpg",
+    "description": "The Deep is a cross-chain platform that automates DeFi liquidity strategies for protocols. Its integrated rewards engine deepens TVL and amplifies trading volume"
   },
   {
     "url": "https://acryptos.com",
@@ -52,14 +53,5 @@
     ],
     "icon": "https://icons.llama.fi/acryptos.jpg",
     "description": "Advanced, Customized Strategies - ACryptoS's Automated Conc. Liquidity Manager (ACLM) for V3 DEXs consistently delivers strong yet sustainable yields, while Single-Token vaults automate leveraging for lending protocol users, growing more tokens with no IL risks."
-  },
-  {
-    "url": "https://gamma.xyz",
-    "name": "Gamma",
-    "category": [
-      "Liquidity manager"
-    ],
-    "icon": "https://icons.llama.fi/gamma.jpg",
-    "description": "A protocol for active liquidity management and market-making strategies. Gamma offers non-custodial, automated, and active concentrated liquidity management services."
   }
 ]

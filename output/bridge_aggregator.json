@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://brotocol.xyz",
+    "name": "Brotocol",
+    "category": [
+      "Bridge Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/xlink.png",
+    "description": "Brotocol aggregates liquidity across Bitcoin L2s, with an aim to bringing native-like DeFi experience to Bitcoin."
+  }
+]

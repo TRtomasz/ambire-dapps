@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://river.inc",
+    "name": "River Omni-CDP",
+    "category": [
+      "CeDeFi"
+    ],
+    "icon": "https://icons.llama.fi/river-omni-cdp.jpg",
+    "description": "River is building the circulatory system for crypto, connecting assets, liquidity, and yield across chains. Powered by the omni-CDP stablecoin protocol"
+  },
+  {
     "url": "https://doppler.finance",
     "name": "Doppler Finance",
     "category": [

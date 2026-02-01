@@ -11,12 +11,12 @@
   },
   {
     "url": "https://summer.fi",
-    "name": "Summer.fi Pro",
+    "name": "Lazy Summer Protocol",
     "category": [
-      "CDP Manager",
-      "Yield Aggregator"
+      "Yield Aggregator",
+      "CDP Manager"
     ],
-    "icon": "https://icons.llama.fi/summer.fi-pro.png",
-    "description": "Borrow, Multiply and Earn on the assets you hold across multiple protocols. Take advantage of powerful automation strategies and simple UX."
+    "icon": "https://icons.llama.fi/lazy-summer-protocol.png",
+    "description": "The Lazy Summer Protocol offers Automated Yield across DeFi's highest quality protocols on Ethereum, Base and Arbitrum. It uses AI Powered Keepers to continually monitor and rebalance the supported Vaults offering users the best available yields within strict risk parameters, set and managed by leading risk management firm BlockAnalitica."
   }
 ]
