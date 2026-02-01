@@ -3,8 +3,7 @@
     "url": "https://puffer.fi",
     "name": "puffer",
     "category": [
-      "Liquid Restaking",
-      "Onchain Capital Allocator"
+      "Liquid Restaking"
     ],
     "icon": "https://static.debank.com/image/dapp/logo_url/0b414ccf4b117409fdd3f457cace6d8c/0b414ccf4b117409fdd3f457cace6d8c.png",
     "description": "Native liquid Ethereum restaking supercharged by EigenLayer."
@@ -21,7 +20,7 @@
     "description": "Decentralized and non-custodial Ethereum staking protocol."
   },
   {
-    "url": "https://kelpdao.xyz",
+    "url": "https://kerneldao.com",
     "name": "Kelp",
     "category": [
       "Liquid Restaking",
@@ -29,6 +28,16 @@
     ],
     "icon": "https://icons.llama.fi/kelp.jpg",
     "description": "Kelp is the second largest liquid restaking protocol with ~$2B+ in TVL. Its liquid restaked token, rsETH, is live across 10+ major L2s and 40+ DeFi platforms, allowing users to restake while maintaining full liquidity."
+  },
+  {
+    "url": "https://methprotocol.xyz",
+    "name": "mETH Protocol",
+    "category": [
+      "Liquid Staking",
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llama.fi/meth-protocol.png",
+    "description": "A permissionless, non-custodial ETH liquid staking protocol deployed on Ethereum L1 and governed by Mantle."
   },
   {
     "url": "https://renzoprotocol.com",
@@ -40,23 +49,14 @@
     "description": "The Renzo Protocol acts as an interface on top of EigenLayer, enhancing Ethereum staking by securing Actively Validated Services and offering higher yields"
   },
   {
-    "url": "https://mantle.xyz",
-    "name": "Mantle Bridge",
-    "category": [
-      "Canonical Bridge",
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llama.fi/mantle-bridge.jpg",
-    "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
-  },
-  {
     "url": "https://mellow.finance",
-    "name": "Mellow LRT",
+    "name": "Mellow Core",
     "category": [
+      "Onchain Capital Allocator",
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/mellow-lrt.jpg",
-    "description": "Mellow Protocol is a permissionless system for active liquidity management and building trustless automatic DeFi strategies"
+    "icon": "https://icons.llama.fi/mellow-core.jpg",
+    "description": "Core Vaults encode strategy constraints directly into the vault configuration. This includes which integrations can be used, which actions are permitted, and how capital can move between execution paths. Enforcement happens onchain, making strategy behavior inspectable and resistant to off-policy execution."
   },
   {
     "url": "https://swellnetwork.io",
@@ -70,17 +70,6 @@
     "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
   },
   {
-    "url": "https://magpiexyz.io",
-    "name": "Penpie",
-    "category": [
-      "Yield",
-      "Liquid Restaking",
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/penpie.jpg",
-    "description": "Penpie is a next-generation product by @magpiexyz_io that's set to revolutionize @pendle_fi"
-  },
-  {
     "url": "https://rockx.com",
     "name": "Bedrock uniETH",
     "category": [
@@ -88,14 +77,5 @@
     ],
     "icon": "https://icons.llama.fi/bedrock-unieth.jpg",
     "description": "uniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes"
-  },
-  {
-    "url": "https://inceptionlrt.com",
-    "name": "InceptionLRT (Isolated Restaking)",
-    "category": [
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llama.fi/inceptionlrt-(isolated-restaking).png",
-    "description": "Restake ETH LSTs on Inception, built on Eigenlayer to earn 2 layers of rewards"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://yieldbasis.com",
+    "name": "Yield Basis",
+    "category": [
+      "Leveraged Farming"
+    ],
+    "icon": "https://icons.llama.fi/yield-basis.jpg",
+    "description": "YieldBasis is an on-chain liquidity protocol solving Impermanent Loss problem in AMM pools. It turns crypto into productive assets starting from Bitcoin. Using Yield Basis, LPs have a direct spot exposure to an asset and earn organic yield with significantly improved risk/reward profile (compared to conventional AMMs)."
+  },
+  {
     "url": "https://alphaventuredao.io",
     "name": "Homora V2",
     "category": [
@@ -7,16 +16,6 @@
     ],
     "icon": "https://icons.llama.fi/homora-v2.png",
     "description": "Homora is the first flagship product incubated under Alpha Venture DAO (previously Alpha Finance Lab) deployed on the Ethereum network in October, 2020. It is the largest multi-chain lending and leveraged yield farming protocol. Homora V2 is currently available on Ethereum, Avalanche, Fantom, Optimism and more coming soon."
-  },
-  {
-    "url": "https://extrafi.io",
-    "name": "Extra Finance Leverage Farming",
-    "category": [
-      "Leveraged Farming",
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/extra-finance.jpg",
-    "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
   },
   {
     "url": "https://origami.finance",
@@ -38,6 +37,16 @@
     "description": "The 1st leveraged yield farming protocol on BSC"
   },
   {
+    "url": "https://extrafi.io",
+    "name": "Extra Finance Leverage Farming",
+    "category": [
+      "Leveraged Farming",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/extra-finance.jpg",
+    "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
+  },
+  {
     "url": "https://kai.finance",
     "name": "Kai Finance",
     "category": [
@@ -54,23 +63,5 @@
     ],
     "icon": "https://icons.llama.fi/factor-leverage-vault.jpg",
     "description": "Factor Leverage Vault is one-click looping, easy switching, easy migration, easy auto-compounding the reward."
-  },
-  {
-    "url": "https://arkis.xyz",
-    "name": "Arkis",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/arkis.jpg",
-    "description": "Arkis is a DeFi Prime Broker that acts as a credit protocol by providing on-chain loans to institutional asset managers from the protocol lenders."
-  },
-  {
-    "url": "https://deltaprime.io",
-    "name": "DeltaPrime",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/deltaprime.jpg",
-    "description": "DeltaPrime aggregates the best projects from your chain within one DeFi ecosystem. Within this ecosystem you can borrow extra capital trustless and anonymous. This way, you multiply your returns with a balanced portfolio, whether through trading, LPing or farming"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
     "url": "https://lombard.finance",
-    "name": "Lombard",
+    "name": "Lombard LBTC",
     "category": [
       "Restaked BTC",
-      "Yield"
+      "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/lombard.jpg",
+    "icon": "https://icons.llama.fi/lombard-lbtc.jpg",
     "description": "Lombard is transforming Bitcoin's utility from a store of value into a productive financial tool through a security-first liquid Bitcoin primitive—LBTC. LBTC is a liquid, yield-bearing, natively cross-chain, and 1:1 backed by bitcoin."
   },
   {
@@ -14,8 +14,8 @@
     "name": "SolvBTC",
     "category": [
       "Bridge",
-      "Restaked BTC",
       "Basis Trading",
+      "Restaked BTC",
       "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llama.fi/solvbtc.jpg",

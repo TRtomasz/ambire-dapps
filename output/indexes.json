@@ -1,5 +1,15 @@
 [
   {
+    "url": "https://securitize.io",
+    "name": "BlackRock BUIDL",
+    "category": [
+      "RWA",
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/blackrock-buidl.png",
+    "description": "BlackRock USD Institutional Digital Liquidity Fund"
+  },
+  {
     "url": "https://reserve.org",
     "name": "Reserve Protocol",
     "category": [
@@ -12,7 +22,8 @@
     "url": "https://sosovalue.com",
     "name": "SoSoValue Indexes",
     "category": [
-      "Indexes"
+      "Indexes",
+      "Bridge"
     ],
     "icon": "https://icons.llama.fi/ssi.png",
     "description": "The SoSoValue Indexes(SSI) Protocol is a cutting-edge spot index solution designed to make crypto investments simple and secured"
@@ -25,25 +36,6 @@
     ],
     "icon": "https://icons.llama.fi/enzyme-finance.jpg",
     "description": "Fast & cost-effective way to build, scale and monetize investment strategies."
-  },
-  {
-    "url": "https://yearn.fi",
-    "name": "Yearn Curating",
-    "category": [
-      "Risk Curators",
-      "Indexes"
-    ],
-    "icon": "https://icons.llama.fi/yearn-curating.jpg",
-    "description": "Yearn Finance is DeFi's premier yield aggregator. Giving individuals, DAOs and other protocols a way to deposit digital assets and receive yield"
-  },
-  {
-    "url": "https://indexcoop.com",
-    "name": "Index Coop",
-    "category": [
-      "Indexes"
-    ],
-    "icon": "https://icons.llama.fi/index-coop.png",
-    "description": "Index Coop creates and maintains the world's best crypto index products.All index products are always fully collateralized."
   },
   {
     "url": "https://b.watch",
@@ -64,12 +56,12 @@
     "description": "Explore the universe of top-tier tokenized vaults."
   },
   {
-    "url": "https://xwin.finance",
-    "name": "xWin Finance",
+    "url": "https://indexcoop.com",
+    "name": "Index Coop",
     "category": [
       "Indexes"
     ],
-    "icon": "https://icons.llama.fi/xwin-finance.jpg",
-    "description": "xWIN Finance is a decentralized finance platform that brings innovation and accessibility to the world of crypto investments. With our unique robo-advisor engine, anyone can create a personalized portfolio of cryptocurrency assets and strategies with just a few clicks."
+    "icon": "https://icons.llama.fi/index-coop.png",
+    "description": "Index Coop creates and maintains the world's best crypto index products.All index products are always fully collateralized."
   }
 ]

@@ -27,12 +27,33 @@
     "description": "Rocket Pool is the first truly decentralised Ethereum staking pool. Liquid Staking, Audited SC, and Minimised Penalty Risk. Unlike solo stakers, who are required to put 32 ETH up for deposit to create a new validator, Rocket Pool nodes only need to deposit 16 ETH per validator. This will be coupled with 16 ETH from the staking pool (which stakers deposited in exchange for rETH) to create a new ETH2 validator."
   },
   {
-    "url": "https://kinetiq.xyz",
-    "name": "Kinetiq",
+    "url": "https://stakewise.io",
+    "name": "StakeWise V2",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/kinetiq.jpg",
+    "icon": "https://icons.llama.fi/stakewise.png",
+    "description": "Stake your ETH and manage your capital flexibly with the principal and yield tokens from StakeWise."
+  },
+  {
+    "url": "https://lista.org",
+    "name": "Lista Liquid Staking",
+    "category": [
+      "Liquid Staking",
+      "Lending",
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/lista-liquid-staking.jpg",
+    "description": "Lista Liquid Staking is the yield bearing & liquid staking token for Lista DAO, which appreciates against BNB in line with BNB's staking APR."
+  },
+  {
+    "url": "https://kinetiq.xyz",
+    "name": "Kinetiq kHYPE",
+    "category": [
+      "Liquid Staking",
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/kinetiq-khype.jpg",
     "description": "Kinetiq is a non-custodial liquid staking protocol that allows users to stake HYPE tokens on Hyperliquid L1 and receive kHYPE, a yield-bearing representation of staked HYPE that is usable in DeFi."
   },
   {
@@ -45,31 +66,14 @@
     "description": "Liquid Collective is a non-custodial staking protocol launched on Ethereum. Liquid Collective is built and run by a collective of leading web3 teams. The protocol was initially launched in 2023."
   },
   {
-    "url": "https://stakewise.io",
-    "name": "StakeWise V2",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/stakewise.png",
-    "description": "Stake your ETH and manage your capital flexibly with the principal and yield tokens from StakeWise."
-  },
-  {
     "url": "https://methprotocol.xyz",
     "name": "mETH Protocol",
     "category": [
-      "Liquid Staking"
+      "Liquid Staking",
+      "Liquid Restaking"
     ],
     "icon": "https://icons.llama.fi/meth-protocol.png",
     "description": "A permissionless, non-custodial ETH liquid staking protocol deployed on Ethereum L1 and governed by Mantle."
-  },
-  {
-    "url": "https://synclub.io",
-    "name": "Lista Liquid Staking",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/lista-liquid-staking.jpg",
-    "description": "Lista Liquid Staking is the yield bearing & liquid staking token for Lista DAO, which appreciates against BNB in line with BNB's staking APR."
   },
   {
     "url": "https://staderlabs.com",
@@ -112,6 +116,33 @@
     "description": "Frax Ether is a liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem to maximize staking yield and smoothen the Ethereum staking process for a simplified, secure, and DeFi-native way to earn interest on ETH. "
   },
   {
+    "url": "https://stakedhype.fi",
+    "name": "stHYPE",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llama.fi/sthype.jpg",
+    "description": "The Hyperliquid liquid staking platform."
+  },
+  {
+    "url": "https://crypto.com",
+    "name": "Crypto.com Liquid Staking",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llama.fi/crypto.com-staked-eth.jpg",
+    "description": "Liquid staking is available for ETH and Solana! Earn rewards and receive tradeable CDCETH and CDCSOL"
+  },
+  {
+    "url": "https://bifrost.io",
+    "name": "Bifrost Liquid Staking",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llama.fi/bifrost-liquid-staking.png",
+    "description": "BIfrost is a substrate developed web3 derivatives protocol that provides decentralized cross-chain liquidity for staked assets. Bifrost’s mission is to provide standardized cross-chain interest-bearing derivatives for Polkadot relay chains, parachains and heterogeneous chains bridged with Polkadot."
+  },
+  {
     "url": "https://infrared.finance",
     "name": "Infrared Finance",
     "category": [
@@ -130,33 +161,6 @@
     "description": "Spring Staked SUI (sSUI) is the first LST built using the SpringSui standard. It offers significant improvements over existing LSTs, most notably instant unstaking. Instant unstaking allows for infinite liquidity when unstaking, enhancing safety by reducing the risk of depegging. In the future, other teams will be able to deploy their own LSTs on the platform permissionlessly and at no cost using the SpringSui Standard"
   },
   {
-    "url": "https://oeth.com",
-    "name": "Origin Ether",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/origin-ether.png",
-    "description": "Origin Ether engages with Ethereum staking pools and LP strategies. It uses platforms like Convex and Curve, and plans to integrate with other AMMs, aiming to provide higher yield opportunities"
-  },
-  {
-    "url": "https://crypto.com",
-    "name": "Crypto.com Liquid Staking",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/crypto.com-staked-eth.jpg",
-    "description": "Liquid staking is available for ETH and Solana! Earn rewards and receive tradeable CDCETH and CDCSOL"
-  },
-  {
-    "url": "https://haedal.xyz",
-    "name": "Haedal Protocol",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/haedal-protocol.jpg",
-    "description": "Haedal is a liquid staking protocol built on Sui that allows anyone to stake their SUI tokens to contribute to governance and decentralisation of the Sui blockchain. In the meantime, users will get haSUI in return so that they can continue to participate in DeFi activities to earn additional yields."
-  },
-  {
     "url": "https://swellnetwork.io",
     "name": "Swell L2 Farm",
     "category": [
@@ -168,42 +172,14 @@
     "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
   },
   {
-    "url": "https://trufin.io",
-    "name": "TruStake",
+    "url": "https://hyperbeat.org",
+    "name": "Hyperbeat Earn",
     "category": [
+      "Yield Aggregator",
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/trustake.jpg",
-    "description": "The TruStake vaults provide access to institutional liquid staking on a variety of proof-of-stake networks."
-  },
-  {
-    "url": "https://tonstakers.com",
-    "name": "Tonstakers LSD",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/tonstakers-lsd.jpg",
-    "description": "The Open Network Liquid Staking protocol empowering TON DeFi ecosystem"
-  },
-  {
-    "url": "https://stakedhype.fi",
-    "name": "stakedhype",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/stakedhype.jpg",
-    "description": "The Hyperliquid liquid staking platform."
-  },
-  {
-    "url": "https://magpiexyz.io",
-    "name": "Penpie",
-    "category": [
-      "Yield",
-      "Liquid Restaking",
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/penpie.jpg",
-    "description": "Penpie is a next-generation product by @magpiexyz_io that's set to revolutionize @pendle_fi"
+    "icon": "https://icons.llama.fi/hyperbeat-earn.jpg",
+    "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
   },
   {
     "url": "https://stake.link",
@@ -215,14 +191,31 @@
     "description": "Effortlessly stake your crypto assets with stake.link's easy to use, secure liquid staking protocol."
   },
   {
-    "url": "https://stakestone.io",
-    "name": "StakeStone STONE",
+    "url": "https://tonstakers.com",
+    "name": "Tonstakers LSD",
     "category": [
-      "Liquid Staking",
-      "Onchain Capital Allocator"
+      "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/stakestone-stone.jpg",
-    "description": "One-Stop Staking Protocol For Omnichain LST Liquidity."
+    "icon": "https://icons.llama.fi/tonstakers-lsd.jpg",
+    "description": "The Open Network Liquid Staking protocol empowering TON DeFi ecosystem"
+  },
+  {
+    "url": "https://originprotocol.com",
+    "name": "Origin Ether",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llama.fi/origin-ether.png",
+    "description": "Origin Ether engages with Ethereum staking pools and LP strategies. It uses platforms like Convex and Curve, and plans to integrate with other AMMs, aiming to provide higher yield opportunities"
+  },
+  {
+    "url": "https://haedal.xyz",
+    "name": "Haedal Protocol",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llama.fi/haedal-protocol.jpg",
+    "description": "Haedal is a liquid staking protocol built on Sui that allows anyone to stake their SUI tokens to contribute to governance and decentralisation of the Sui blockchain. In the meantime, users will get haSUI in return so that they can continue to participate in DeFi activities to earn additional yields."
   },
   {
     "url": "https://veno.finance",
@@ -234,41 +227,22 @@
     "description": "Easy and Reliable Liquid Staking on Cronos chain"
   },
   {
-    "url": "http://lolik.com",
-    "name": "Lolik Liquid Staking",
+    "url": "https://trufin.io",
+    "name": "TruStake",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/lolik-liquid-staking.jpg",
-    "description": "Lolik is a decentralized liquid staking platform that supports staking on leading EVM blockchains including Ethereum, Polygon, and Bahamut. Anyone can participate in the staking process with their web3 wallet (e.g. MetaMask) directly through the platform, and earn daily rewards."
+    "icon": "https://icons.llama.fi/trustake.jpg",
+    "description": "The TruStake vaults provide access to institutional liquid staking on a variety of proof-of-stake networks."
   },
   {
-    "url": "https://venomstake.com",
-    "name": "VenomStake",
+    "url": "https://nodedao.com",
+    "name": "NodeDAO",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/venomstake.jpg",
-    "description": "VenomStake is a liquid staking platform on the Venom Blockchain that simplifies the process for users. It enables users to delegate their digital assets to a validator, who uses these to enhance and secure the network. By staking their assets, users gain rewards based on their contribution's amount and duration. VenomStake is dedicated to providing a secure and intuitive environment for managing staking activities and monitoring rewards."
-  },
-  {
-    "url": "https://dinero.xyz",
-    "name": "Dinero (pxETH)",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/dinero-(pxeth).jpg",
-    "description": "Dinero is a suite of products that scale yield for protocols and users. Dinero consists of a high yield staking solution (pxETH), a collateral-backed stablecoin (pxUSD), and a transaction relayer."
-  },
-  {
-    "url": "https://bifrost.finance",
-    "name": "Bifrost Liquid Staking",
-    "category": [
-      "Liquid Staking",
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/bifrost-liquid-staking.png",
-    "description": "BIfrost ((https://bifrost.finance) is a substrate developed web3 derivatives protocol that provides decentralized cross-chain liquidity for staked assets. Bifrost’s mission is to provide standardized cross-chain interest-bearing derivatives for Polkadot relay chains, parachains and heterogeneous chains bridged with Polkadot."
+    "icon": "https://icons.llama.fi/nodedao.jpg",
+    "description": "Experience the ease of staking on Ethereum 2.0 through NodeDAO's liquid staking service."
   },
   {
     "url": "https://metapool.app",
@@ -289,32 +263,31 @@
     "description": "GLIF is DePIN’s on-chain credit layer - liquidity providers earn rewards and hardware providers scale operations."
   },
   {
-    "url": "https://nodedao.com",
-    "name": "NodeDAO",
+    "url": "https://stackingdao.com",
+    "name": "StackingDAO",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/nodedao.jpg",
-    "description": "Experience the ease of staking on Ethereum 2.0 through NodeDAO's liquid staking service."
+    "icon": "https://icons.llama.fi/stackingdao.jpg",
+    "description": "Start stacking STX, review your existing STX locked in PoX, and unstack at any time, for the best price."
   },
   {
-    "url": "https://beets.fi",
-    "name": "Beets LST",
-    "category": [
-      "Liquid Staking",
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/beets-sml-new.png",
-    "description": "Liquid staked tokens on Fantom ($sFTMx) and Sonic ($stS)"
-  },
-  {
-    "url": "https://volo.fi",
-    "name": "Volo",
+    "url": "https://endur.fi",
+    "name": "Endur",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/volo.png",
-    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
+    "icon": "https://icons.llama.fi/endur.jpg",
+    "description": "xSTRK - Liquid Staked STRK"
+  },
+  {
+    "url": "http://lolik.com",
+    "name": "Lolik Liquid Staking",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llama.fi/lolik-liquid-staking.jpg",
+    "description": "Lolik is a decentralized liquid staking platform that supports staking on leading EVM blockchains including Ethereum, Polygon, and Bahamut. Anyone can participate in the staking process with their web3 wallet (e.g. MetaMask) directly through the platform, and earn daily rewards."
   },
   {
     "url": "https://ankr.com",
@@ -326,61 +299,13 @@
     "description": "Liquid, secure, and easy to integrate staking infrastructure."
   },
   {
-    "url": "https://kava.io",
-    "name": "Kava Mint",
-    "category": [
-      "CDP",
-      "Lending",
-      "Yield Aggregator",
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/kava-mint.png",
-    "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
-  },
-  {
-    "url": "https://verio.network",
-    "name": "Verio",
+    "url": "https://stakestone.io",
+    "name": "StakeStone STONE",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/verio.png",
-    "description": "Verio is the liquid staking and IP asset restaking platform for Story"
-  },
-  {
-    "url": "https://stackingdao.com",
-    "name": "StackingDAO",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/stackingdao.jpg",
-    "description": "Start stacking STX, review your existing STX locked in PoX, and unstack at any time, for the best price."
-  },
-  {
-    "url": "https://sceptre.fi",
-    "name": "Sceptre Liquid",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/sceptre-liquid.jpg",
-    "description": "Sceptre is an innovative multi network Liquid Staking solution build by Rome Blockchain Labs, with extensive knowledge and experience in Liquid Staking."
-  },
-  {
-    "url": "https://stsui.com",
-    "name": "AlphaFi stSUI",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/alphafi-stsui.png",
-    "description": "AlphaFi Staked SUI (stSUI) is the first liquid staked token (LST) built on the innovative AlphaFi stSUI LST Standard. It offers instant unstaking, enhancing safety by mitigating the risk of depegging. Users can stake their SUI while maintaining full liquidity, allowing them to freely transfer, trade, or use stSUI in DeFi protocols without sacrificing staking rewards. The platform also enables other teams to deploy their own LSTs using the AlphaFi stSUI LST Standard—completely permissionless and at no cost."
-  },
-  {
-    "url": "https://drop.money",
-    "name": "Drop",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/drop.png",
-    "description": "Drop is a liquid staking protocol for Interchain assets and a member of the Lido Alliance. Drop is on a mission to strengthen the economic viability of sovereign blockchain economies by transforming stagnant, frozen capital into flowing streams of opportunity"
+    "icon": "https://icons.llama.fi/stakestone-stone.jpg",
+    "description": "One-Stop Staking Protocol For Omnichain LST Liquidity."
   },
   {
     "url": "https://gogopool.com",
@@ -392,6 +317,24 @@
     "description": "Hypha is the first permissionless staking protocol built for Avalanche Subnets and node operators to launch  for cheaper and faster using the GGP token. Currently, we cater to node operators and liquid stakers."
   },
   {
+    "url": "https://venomstake.com",
+    "name": "VenomStake",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llama.fi/venomstake.jpg",
+    "description": "VenomStake is a liquid staking platform on the Venom Blockchain that simplifies the process for users. It enables users to delegate their digital assets to a validator, who uses these to enhance and secure the network. By staking their assets, users gain rewards based on their contribution's amount and duration. VenomStake is dedicated to providing a secure and intuitive environment for managing staking activities and monitoring rewards."
+  },
+  {
+    "url": "https://sceptre.fi",
+    "name": "Sceptre Liquid",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llama.fi/sceptre-liquid.jpg",
+    "description": "Sceptre is an innovative multi network Liquid Staking solution build by Rome Blockchain Labs, with extensive knowledge and experience in Liquid Staking."
+  },
+  {
     "url": "https://guarda.com",
     "name": "GETH",
     "category": [
@@ -401,52 +344,13 @@
     "description": "With GETH, you can hold or trade your staked assets at any time, without having to wait for Phase 2 of Ethereum 2.0."
   },
   {
-    "url": "https://aftermath.finance",
-    "name": "Aftermath afSUI",
-    "category": [
-      "Liquid Staking",
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/aftermath-afsui.jpg",
-    "description": "afSUI is Aftermath's liquid staked token that you receive when you stake SUI through their protocol. afSUI acts as a fungible extension of Sui's native staking mechanism, enabling permissionless delegation and enhanced capital efficiency through its deep DeFi integrations."
-  },
-  {
-    "url": "https://stride.zone",
-    "name": "Stride",
+    "url": "https://gimofinance.xyz",
+    "name": "Gimo",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/stride.png",
-    "description": "Stride is a protocol for multichain liquid staking in the Cosmos ecosystem"
-  },
-  {
-    "url": "https://silostaking.io",
-    "name": "SiloStake",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/silostake.jpg",
-    "description": "Liquid staking and MEV focused protocol on Sei."
-  },
-  {
-    "url": "https://lair.fi",
-    "name": "Lair Finance",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/lair-finance.png",
-    "description": "Lair is a liquid staking derivative service that allows users to stake their KAIA to accrue staking rewards without locking their assets."
-  },
-  {
-    "url": "https://hatom.com",
-    "name": "Hatom Lending",
-    "category": [
-      "Lending",
-      "Liquid Staking",
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/hatom-lending.jpg",
-    "description": "Hatom Lending Protocol is a decentralized lending and borrowing platform operating within the MultiversX Network."
+    "icon": "https://icons.llama.fi/gimo.jpg",
+    "description": "Liquid Staking for 0G Network"
   },
   {
     "url": "https://stakee.org",
@@ -458,112 +362,39 @@
     "description": "Earn TON with best APY at most profitable staking service."
   },
   {
-    "url": "https://splashing.xyz",
-    "name": "Splashing Stake",
+    "url": "https://dinero.xyz",
+    "name": "Dinero (pxETH)",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/splashing-stake.jpg",
-    "description": "Liquid staking on Sei Network with instant unstake"
+    "icon": "https://icons.llama.fi/dinero-(pxeth).jpg",
+    "description": "Dinero is a suite of products that scale yield for protocols and users. Dinero consists of a high yield staking solution (pxETH), a collateral-backed stablecoin (pxUSD), and a transaction relayer."
   },
   {
-    "url": "https://originprotocol.com",
-    "name": "Origin ARM",
+    "url": "https://verio.network",
+    "name": "Verio",
     "category": [
-      "Yield",
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/origin-arm.jpg",
-    "description": "The Origin ARM vault allows users to deposit ETH and earn passive yield. The ARM earns yield by using ETH to buy stETH from the market at a discount and redeeming it 1:1 through Lido’s stETH redemption queue."
+    "icon": "https://icons.llama.fi/verio.png",
+    "description": "Verio is the liquid staking and IP asset restaking platform for Story"
   },
   {
-    "url": "https://hydroprotocol.finance",
-    "name": "Hydro LST",
+    "url": "https://stride.zone",
+    "name": "Stride",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/hydro-lst.jpg",
-    "description": "Ultimate LSD & LSDFi Infrastructure Platform on Injective"
+    "icon": "https://icons.llama.fi/stride.png",
+    "description": "Stride is a protocol for multichain liquid staking in the Cosmos ecosystem"
   },
   {
-    "url": "https://exinpool.com",
-    "name": "ExinPool",
+    "url": "https://stsui.com",
+    "name": "AlphaFi stSUI",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llama.fi/exinpool.png",
-    "description": "ExinPool is a staking platform of Exin in Mixin Network"
-  },
-  {
-    "url": "https://waterneuron.fi",
-    "name": "WaterNeuron",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/waterneuron.png",
-    "description": "Liquid staking protocol"
-  },
-  {
-    "url": "https://swirlstake.com",
-    "name": "Swirl",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/swirl.jpg",
-    "description": "Swirl is a Liquid Staking solution, allowing users to stake IOTA and receive stIOTA in return. These tokens provide instant liquidity, enabling users to trade, use them as collateral in DeFi, or earn additional rewards while their IOTA remains staked. Swirl enhances staking accessibility, flexibility, and capital efficiency, making it a key component of the IOTA DeFi ecosystem"
-  },
-  {
-    "url": "https://acala.network",
-    "name": "Acala Liquid Staking",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/acala-liquid-staking.png",
-    "description": "Liquidity for staked assets. Instant redeem. Available for Polkadot and Kusama."
-  },
-  {
-    "url": "https://stfil.io",
-    "name": "STFIL",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/stfil.png",
-    "description": "STFIL is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while SPs are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion."
-  },
-  {
-    "url": "https://angles.fi",
-    "name": "Angles Stake",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/angles-stake.png",
-    "description": "Angles enhances Sonic with performant and secure LST ($anS). anS is compatible and can be used in DeFi to get maximum yield out of your Sonics"
-  },
-  {
-    "url": "https://stafi.io",
-    "name": "Stafi",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/stafi.jpg",
-    "description": "Liquid staking provider."
-  },
-  {
-    "url": "https://smilee.finance",
-    "name": "Smilee Finance gBERA",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/smilee-finance-gbera.png",
-    "description": "gBERA is a Liquid Staking Token (LST) designed to participate in Proof of Liquidity (PoL) and generate yield automatically"
-  },
-  {
-    "url": "https://primestaking.xyz",
-    "name": "Prime Staking",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/prime-staking.jpg",
-    "description": "Liquid staking on XDC"
+    "icon": "https://icons.llama.fi/alphafi-stsui.png",
+    "description": "AlphaFi Staked SUI (stSUI) is the first liquid staked token (LST) built on the innovative AlphaFi stSUI LST Standard. It offers instant unstaking, enhancing safety by mitigating the risk of depegging. Users can stake their SUI while maintaining full liquidity, allowing them to freely transfer, trade, or use stSUI in DeFi protocols without sacrificing staking rewards. The platform also enables other teams to deploy their own LSTs using the AlphaFi stSUI LST Standard—completely permissionless and at no cost."
   }
 ]

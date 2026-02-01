@@ -9,16 +9,6 @@
     "description": "tBTC is Threshold's decentralized and permissionless bridge to bring BTC to the Ethereum network. tBTC has been designed to allow bitcoin holders to participate in Ethereum's Decentralized Finance (DeFi) applications. Users wishing to utilize their bitcoin on Ethereum can use the tBTC decentralized bridge to deposit their bitcoin into the system and get a minted tBTC token in their Ethereum wallet"
   },
   {
-    "url": "https://bitlayer.org",
-    "name": "Bitlayer Bridge",
-    "category": [
-      "Bridge",
-      "Decentralized BTC"
-    ],
-    "icon": "https://icons.llama.fi/bitlayer-bridge.jpg",
-    "description": "Bridge between Bitcoin and Bitlayer chain"
-  },
-  {
     "url": "https://internetcomputer.org",
     "name": "Chain Fusion",
     "category": [
