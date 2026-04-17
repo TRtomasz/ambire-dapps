@@ -3,7 +3,8 @@
     "url": "https://sky.money",
     "name": "Sky Lending",
     "category": [
-      "CDP"
+      "CDP",
+      "RWA"
     ],
     "icon": "https://icons.llama.fi/sky-lending.jpg",
     "description": "The USDS stablecoin powers the open Sky ecosystem. It is the upgraded version of DAI, providing new ways for you to have more rewarding crypto experiences."
@@ -13,22 +14,11 @@
     "name": "Curve DEX",
     "category": [
       "Dexs",
-      "CDP",
-      "Lending"
-    ],
-    "icon": "https://icons.llama.fi/curve.png",
-    "description": "Curve is a decentralized exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading"
-  },
-  {
-    "url": "https://lista.org",
-    "name": "Lista Liquid Staking",
-    "category": [
-      "Liquid Staking",
       "Lending",
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/lista-liquid-staking.jpg",
-    "description": "Lista Liquid Staking is the yield bearing & liquid staking token for Lista DAO, which appreciates against BNB in line with BNB's staking APR."
+    "icon": "https://icons.llama.fi/curve.png",
+    "description": "Curve is a decentralized exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading"
   },
   {
     "url": "https://usdd.io",
@@ -40,13 +30,35 @@
     "description": "Decentralized USD (USDD) is a fully decentralized stablecoin pegged to the US dollar through crypto reserves"
   },
   {
+    "url": "https://lista.org",
+    "name": "Lista Liquid Staking",
+    "category": [
+      "Liquid Staking",
+      "Lending",
+      "CDP",
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/lista-liquid-staking.jpg",
+    "description": "Lista Liquid Staking is the yield bearing & liquid staking token for Lista DAO, which appreciates against BNB in line with BNB's staking APR."
+  },
+  {
     "url": "https://avalonfinance.xyz",
     "name": "Avalon USDa",
     "category": [
-      "CDP"
+      "CDP",
+      "Yield"
     ],
     "icon": "https://icons.llama.fi/avalon-labs.jpg",
     "description": "USDa is the flagship CDP (Collateralized Debt Position) product based on Avalon's CeDeFi lending platform"
+  },
+  {
+    "url": "https://reservoir.xyz",
+    "name": "Reservoir Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/reservoir-protocol.jpg",
+    "description": "Reservoir is a pioneering stablecoin protocol designed to be the most trusted and scalable solution in decentralized finance. Offering a suite of products, including the rUSD stablecoin, srUSD liquid yielding asset, and trUSD term-based yielding asset, Reservoir is at the forefront of DeFi innovation. With a focus on real-world asset integration and consistent yield generation, Reservoir is poised to play a crucial role in onboarding the next trillion dollars of assets into the decentralized economy."
   },
   {
     "url": "https://liquity.org",
@@ -69,44 +81,6 @@
     "description": "Deposit assets to be lent via Morpho Vaults to earn interest."
   },
   {
-    "url": "https://inverse.finance",
-    "name": "Inverse Finance FiRM",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/inverse-finance-firm.jpg",
-    "description": "FiRM is a Fixed Rate Market protocol to borrow the DOLA usd stablecoin at a fixed-rate with the DOLA Borrowing Right token DBR."
-  },
-  {
-    "url": "https://mezo.org",
-    "name": "Mezo Bridge",
-    "category": [
-      "Bridge",
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/mezo-network.jpg",
-    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
-  },
-  {
-    "url": "https://reservoir.xyz",
-    "name": "Reservoir Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/reservoir-protocol.jpg",
-    "description": "Reservoir is a pioneering stablecoin protocol designed to be the most trusted and scalable solution in decentralized finance. Offering a suite of products, including the rUSD stablecoin, srUSD liquid yielding asset, and trUSD term-based yielding asset, Reservoir is at the forefront of DeFi innovation. With a focus on real-world asset integration and consistent yield generation, Reservoir is poised to play a crucial role in onboarding the next trillion dollars of assets into the decentralized economy."
-  },
-  {
-    "url": "https://bucketprotocol.io",
-    "name": "Bucket Farm",
-    "category": [
-      "Farm",
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/bucket-farm.jpg",
-    "description": "Deposit tokens to earn $DROPS token for the upcoming token $BUT"
-  },
-  {
     "url": "https://frankencoin.com",
     "name": "Frankencoin",
     "category": [
@@ -114,34 +88,6 @@
     ],
     "icon": "https://icons.llama.fi/frankencoin.jpg",
     "description": "Frankencoin is a collateralized, oracle-free stablecoin that tracks the value of the Swiss franc."
-  },
-  {
-    "url": "https://sovryn.app",
-    "name": "Sovryn Zero",
-    "category": [
-      "CDP",
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/sovryn-zero.png",
-    "description": "Sovryn is a non-custodial and permission-less smart contract based system for bitcoin lending, borrowing and margin trading."
-  },
-  {
-    "url": "https://bitu.io",
-    "name": "BitU Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/bitu-protocol.jpg",
-    "description": "BitU Protocol offers a USD-pegged stablecoin primitive that provides stability and embedded yield. Through our Active Liquidity Management Module, we leverage on-chain transparency and off-chain capital efficiency to deliver resilient yield to support accessible ecosystem growth."
-  },
-  {
-    "url": "https://overnight.fi",
-    "name": "Overnight Finance",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/overnight-finance.jpg",
-    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
   },
   {
     "url": "https://kava.io",
@@ -154,6 +100,72 @@
     "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
   },
   {
+    "url": "https://mezo.org",
+    "name": "Mezo Bridge",
+    "category": [
+      "Bridge",
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/mezo-network.jpg",
+    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
+  },
+  {
+    "url": "https://bucketprotocol.io",
+    "name": "Bucket Farm",
+    "category": [
+      "Farm",
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/bucket-farm.jpg",
+    "description": "Deposit tokens to earn $DROPS token for the upcoming token $BUT"
+  },
+  {
+    "url": "https://sovryn.app",
+    "name": "Sovryn Zero",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/sovryn-zero.png",
+    "description": "Sovryn is a non-custodial and permission-less smart contract based system for bitcoin lending, borrowing and margin trading."
+  },
+  {
+    "url": "https://inverse.finance",
+    "name": "Inverse Finance FiRM",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/inverse-finance-firm.jpg",
+    "description": "FiRM is a Fixed Rate Market protocol to borrow the DOLA usd stablecoin at a fixed-rate with the DOLA Borrowing Right token DBR."
+  },
+  {
+    "url": "https://bitu.io",
+    "name": "BitU Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/bitu-protocol.jpg",
+    "description": "BitU Protocol offers a USD-pegged stablecoin primitive that provides stability and embedded yield. Through our Active Liquidity Management Module, we leverage on-chain transparency and off-chain capital efficiency to deliver resilient yield to support accessible ecosystem growth."
+  },
+  {
+    "url": "https://enosys.global",
+    "name": "Enosys Loans",
+    "category": [
+      "CDP",
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/enosys-loans.jpg",
+    "description": "Liquity V2 fork on Flare"
+  },
+  {
+    "url": "https://overnight.fi",
+    "name": "Overnight Finance",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/overnight-finance.jpg",
+    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
+  },
+  {
     "url": "https://pando.im",
     "name": "Pando Leaf",
     "category": [
@@ -163,15 +175,6 @@
     "description": "Pando Leaf: a decentralized financial network to minting stablecoins"
   },
   {
-    "url": "https://abracadabra.money",
-    "name": "Abracadabra Spell",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/abracadabra-spell.jpg",
-    "description": "Abracadabra.money is a spell book that allows users to produce magic internet money ($MIM) which is a stable coin that you can swap for any other traditional stable coin."
-  },
-  {
     "url": "https://btcfi.one",
     "name": "BTCFi CDP",
     "category": [
@@ -179,23 +182,5 @@
     ],
     "icon": "https://icons.llama.fi/btcfi-cdp.jpg",
     "description": "BTCFi is a decentralized crosschain Bitcoin asset management platform offering native Bitcoin collateralization to mint a Bitcoin-backed stablecoin, BtcUSD."
-  },
-  {
-    "url": "https://angle.money",
-    "name": "Angle",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/angle.jpg",
-    "description": "Angle is an over-collateralized, decentralized and capital-efficient stablecoin protocol. It is based on two smart contract modules. Angle Core module allows to mint agEUR from any token at face value, open perpetuals on collateral/stablecoin pairs, or deposit tokens to earn yield. Angle Borrowing module allows to borrow or get leverage with agEUR from tokens deposited as collateral. Angle is governed by veANGLE holders."
-  },
-  {
-    "url": "https://must.finance",
-    "name": "Mustang Finance",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/mustang-finance.jpg",
-    "description": "Mustang is the Saga native decentralized stablecoin protocl. MUST is always pegged to $1.00. It is over-collateralized, yield-bearing, and redeemable for $1 worth of collateral at any time."
   }
 ]

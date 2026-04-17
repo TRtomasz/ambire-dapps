@@ -28,6 +28,17 @@
     "description": "Built to scale Ethereum, Arbitrum brings you 10x lower costs while inheriting Ethereum’s security model. Arbitrum is a Layer 2 Optimistic Rollup."
   },
   {
+    "url": "https://hyperliquid.xyz",
+    "name": "Hyperliquid Bridge",
+    "category": [
+      "Bridge",
+      "Derivatives",
+      "Dexs"
+    ],
+    "icon": "https://icons.llama.fi/hyperliquid.png",
+    "description": "Hyperliquid is a Layer 1 blockchain best known for perpetual futures and spot trading. Native USDC is minted on Hyperliquid via CCTP, and USDC is bridged from Arbitrum."
+  },
+  {
     "url": "https://usdt0.to",
     "name": "USDT0",
     "category": [
@@ -37,17 +48,6 @@
     "description": "USDT0 is a one stop solution for Tether’s Interoperability and Expansion."
   },
   {
-    "url": "https://hyperfoundation.org",
-    "name": "Hyperliquid Bridge",
-    "category": [
-      "Bridge",
-      "Derivatives",
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/hyperliquid.png",
-    "description": "Hyperliquid is a decentralized perpetual exchange with best-in-class speed, liquidity, and price."
-  },
-  {
     "url": "https://portalbridge.com",
     "name": "Portal",
     "category": [
@@ -55,6 +55,17 @@
     ],
     "icon": "https://icons.llama.fi/portal.png",
     "description": "A token bridge built on Wormhole."
+  },
+  {
+    "url": "https://asterdex.com",
+    "name": "Aster Bridge",
+    "category": [
+      "Bridge",
+      "Yield",
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/aster-bridge.jpg",
+    "description": "Aster is a decentralized perpetual exchange built for everyone. It offers MEV-free, one-click trading with up to 1001x leverage in Simple Mode, and full-featured, pro-grade tools in Pro Mode. Backed by YZi Labs, Aster is building the future of DeFi: fast, flexible, and community-first"
   },
   {
     "url": "https://lighter.xyz",
@@ -78,15 +89,13 @@
     "description": "SolvBTC is a universal Bitcoin reserve token that connects Bitcoin’s value across blockchains, backed 1:1 by a transparent, secure reserve. It empowers you to tap into DeFi and CeFi markets effortlessly, transforming idle Bitcoin into a dynamic asset for lending, trading, or yield generation—while keeping you in full control."
   },
   {
-    "url": "https://asterdex.com",
-    "name": "Aster Bridge",
+    "url": "https://hyperunit.xyz",
+    "name": "Unit",
     "category": [
-      "Bridge",
-      "Yield",
-      "Basis Trading"
+      "Bridge"
     ],
-    "icon": "https://icons.llama.fi/aster-bridge.jpg",
-    "description": "Aster is a decentralized perpetual exchange built for everyone. It offers MEV-free, one-click trading with up to 1001x leverage in Simple Mode, and full-featured, pro-grade tools in Pro Mode. Backed by YZi Labs, Aster is building the future of DeFi: fast, flexible, and community-first"
+    "icon": "https://icons.llama.fi/unit.jpg",
+    "description": "Unit is the asset tokenization layer on Hyperliquid, enabling seamless deposits and withdrawals."
   },
   {
     "url": "https://merlinchain.io",
@@ -98,24 +107,6 @@
     "description": "Merlin's Seal is an event associated with the Merlin Chain, focusing on the fair launch of its governance token, $MERL. Users stake assets to earn M-points, which are then used to determine the distribution of $MERL rewards"
   },
   {
-    "url": "https://hyperunit.xyz",
-    "name": "Unit",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/unit.jpg",
-    "description": "Unit is the asset tokenization layer on Hyperliquid, enabling seamless deposits and withdrawals."
-  },
-  {
-    "url": "https://free.tech",
-    "name": "Free Protocol",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/free-protocol.png",
-    "description": "Free your assets early with http://free.tech. Instantly liquify your staked assets and unlock extra yield potential."
-  },
-  {
     "url": "https://unirouter.io",
     "name": "UniRouter",
     "category": [
@@ -123,6 +114,15 @@
     ],
     "icon": "https://icons.llama.fi/unirouter.jpg",
     "description": "Empower #Bitcoin with Next-gen Liquid Staking"
+  },
+  {
+    "url": "https://au.cc",
+    "name": "FAssets",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/fassets.jpg",
+    "description": "FAssets is a trustless, over-collateralized bridge protocol on Flare that lets users mint wrapped versions of non-smart contract assets (e.g. XRP, BTC, DOGE) to use in DeFi, backed by on-chain collateral and Flare’s data oracles"
   },
   {
     "url": "https://connext.network",
@@ -134,24 +134,6 @@
     "description": "Fast, non-custodial L1-L2 and cross-L2 communication."
   },
   {
-    "url": "https://edgex.exchange",
-    "name": "edgeX Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/edgex-bridge.jpg",
-    "description": "A high-performance, orderbook-based perpetual DEX with native trading experience"
-  },
-  {
-    "url": "https://paradex.trade",
-    "name": "Paradex Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/paradex-bridge.jpg",
-    "description": "Trade perpetuals on a high-performance DEX with deep liquidity, capital efficiency and low fees"
-  },
-  {
     "url": "https://echo-protocol.xyz",
     "name": "Echo Bridge",
     "category": [
@@ -161,13 +143,13 @@
     "description": "Bridge BTC assets, restaking, earn interest & borrow on Move"
   },
   {
-    "url": "https://au.cc",
-    "name": "FAssets",
+    "url": "https://edgex.exchange",
+    "name": "edgeX Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/fassets.jpg",
-    "description": "FAssets is a trustless, over-collateralized bridge protocol on Flare that lets users mint wrapped versions of non-smart contract assets (e.g. XRP, BTC, DOGE) to use in DeFi, backed by on-chain collateral and Flare’s data oracles"
+    "icon": "https://icons.llama.fi/edgex-bridge.jpg",
+    "description": "A high-performance, orderbook-based perpetual DEX with native trading experience"
   },
   {
     "url": "https://axelar.network",
@@ -198,22 +180,13 @@
     "description": "Grvt is the preeminent DEX for onchain financial privacy that is powered by zero-knowledge technology, ensuring private, trustless, scalable and secure infrastructure"
   },
   {
-    "url": "https://multichain.org",
-    "name": "Multichain",
+    "url": "https://ring.exchange",
+    "name": "Ring Few",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/multichain.jpg",
-    "description": "Cross-Chain Router Protocol (CRP), envisioned to be the ultimate router for Web3."
-  },
-  {
-    "url": "https://pumpbtc.xyz",
-    "name": "PumpBTC",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/pumpbtc.png",
-    "description": "PumpBTC serves as a Liquid Restaking Solution for Babylon. PumpBTC aims to help BTC holders maximize yields through Babylon's liquid staking - essentially rebuilding WBTC with native yield"
+    "icon": "https://icons.llama.fi/ring-protocol.png",
+    "description": "Wrapper protocol within Ring Protocol"
   },
   {
     "url": "https://mezo.org",
@@ -226,22 +199,22 @@
     "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
   },
   {
-    "url": "https://debridge.com",
-    "name": "deBridge",
+    "url": "https://paradex.trade",
+    "name": "Paradex Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/debridge.jpg",
-    "description": "deBridge is a cross-chain interoperability and liquidity transfer protocol that allows the decentralized transfer of arbitrary data and assets between various blockchains"
+    "icon": "https://icons.llama.fi/paradex-bridge.jpg",
+    "description": "Trade perpetuals on a high-performance DEX with deep liquidity, capital efficiency and low fees"
   },
   {
-    "url": "https://celer.network",
-    "name": "cBridge",
+    "url": "https://multichain.org",
+    "name": "Multichain",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/cbridge.jpg",
-    "description": "Celer cBridge is a multi-chain network that enables instant, low-cost and ANY-to-ANY value transfers within and across different blockchains, such as Ethereum and Polkadot, and different layer-2 scaling solutions on top, such as Optimistic Rollup, ZK Rollup and sidechains"
+    "icon": "https://icons.llama.fi/multichain.jpg",
+    "description": "Cross-Chain Router Protocol (CRP), envisioned to be the ultimate router for Web3."
   },
   {
     "url": "https://poly.network",
@@ -253,13 +226,13 @@
     "description": "Poly Network is a global cross-chain protocol for implementing blockchain interoperability and building Web3.0 infrastructure. Poly Network has also integrated over 20 blockchains."
   },
   {
-    "url": "https://wrapped.com",
-    "name": "Wrapped",
+    "url": "https://pumpbtc.xyz",
+    "name": "PumpBTC",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/wrapped.jpg",
-    "description": "Your favorite assets on every blockchain. wrapped.com is a cross-chain institutional bridge. Designed for high-performance and speed."
+    "icon": "https://icons.llama.fi/pumpbtc.png",
+    "description": "PumpBTC serves as a Liquid Restaking Solution for Babylon. PumpBTC aims to help BTC holders maximize yields through Babylon's liquid staking - essentially rebuilding WBTC with native yield"
   },
   {
     "url": "https://sunx.io",
@@ -271,22 +244,40 @@
     "description": "SunX is the first top-tier decentralized perpetual contract trading platform on the TRON blockchain, dedicated to providing users with an institutional-grade trading experience and ultimate asset security."
   },
   {
-    "url": "https://octusbridge.io",
-    "name": "Octus Bridge",
+    "url": "https://wanchain.org",
+    "name": "Wan Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/octus-bridge.jpg",
-    "description": "Cross-chain transfers"
+    "icon": "https://icons.llama.fi/wan-bridge.png",
+    "description": "Wanchain, the Wide Area Network chain, is the worlds premier decentralised blockchain interoperability solution."
   },
   {
-    "url": "https://morphl2.io",
-    "name": "Morph Bridge",
+    "url": "https://wrapped.com",
+    "name": "Wrapped",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/morph-bridge.jpg",
-    "description": "Bridge between Ethereum and Morph L2"
+    "icon": "https://icons.llama.fi/wrapped.jpg",
+    "description": "Your favorite assets on every blockchain. wrapped.com is a cross-chain institutional bridge. Designed for high-performance and speed."
+  },
+  {
+    "url": "https://celer.network",
+    "name": "cBridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/cbridge.jpg",
+    "description": "Celer cBridge is a multi-chain network that enables instant, low-cost and ANY-to-ANY value transfers within and across different blockchains, such as Ethereum and Polkadot, and different layer-2 scaling solutions on top, such as Optimistic Rollup, ZK Rollup and sidechains"
+  },
+  {
+    "url": "https://hatom.com",
+    "name": "Hatom TAO Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/hatom-protocol.jpg",
+    "description": "Bridge protocol for transferring TAO tokens from Finney to MultiversX"
   },
   {
     "url": "https://allbridge.io",
@@ -307,22 +298,13 @@
     "description": "Orderly is an omnichain CLOB infrastructure.It’s the ultimate trading lego for seamless integration by any builder on any blockchain. Give your app the transparency and composability of DEXs, with the speed and performance of CEXs."
   },
   {
-    "url": "https://wanchain.org",
-    "name": "Wan Bridge",
+    "url": "https://morphl2.io",
+    "name": "Morph Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llama.fi/wan-bridge.png",
-    "description": "Wanchain, the Wide Area Network chain, is the worlds premier decentralised blockchain interoperability solution."
-  },
-  {
-    "url": "https://btcproxy.io",
-    "name": "Proxy",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/proxy.png",
-    "description": "Proxy Finance (PRXY) offers a Bitcoin Yield Strategies utilizing DeFi 2.0 including (3,3) Staking, (1,1) Bonding and (2,2) Programs for other assets. The Proxy Finance network consists of BTCpx token which is a BTC Wrapper as well as the PRXY Governance Token. Staking value of Proxy includes PRXY locked in the PRXY staking contract as well as PRXY staked in the farmProxy contract to earn BTCpx rewards"
+    "icon": "https://icons.llama.fi/morph-bridge.jpg",
+    "description": "Bridge between Ethereum and Morph L2"
   },
   {
     "url": "https://orbitchain.io",
@@ -332,15 +314,6 @@
     ],
     "icon": "https://icons.llama.fi/orbit-bridge.png",
     "description": "Orbit Bridge is an interchain communication protocol that allows communication between heterogeneous blockchains. Through this, users can utilize the various assets of various chains in all dApps through simple transactions on each chain."
-  },
-  {
-    "url": "https://hatom.com",
-    "name": "Hatom TAO Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/hatom-protocol.jpg",
-    "description": "Bridge protocol for transferring TAO tokens from Finney to MultiversX"
   },
   {
     "url": "https://injective.com",
@@ -361,15 +334,6 @@
     "description": "Gravity Bridge is a decentralized Cosmos blockchain whose primary purpose is to secure the operation of bridges between blockchains."
   },
   {
-    "url": "https://fuel.network",
-    "name": "Fuel Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llama.fi/fuel.jpg",
-    "description": "Bridge between Fuel Ignition and Ethereum"
-  },
-  {
     "url": "https://p.network",
     "name": "pNetwork",
     "category": [
@@ -377,6 +341,24 @@
     ],
     "icon": "https://icons.llama.fi/pnetwork.jpg",
     "description": "pNetwork is a protocol that enables cross-chain operations, such as transferring assets from one blockchain to another. It is designed to provide interoperability between different blockchain networks, allowing users to take advantage of the unique features and capabilities of each network while still being able to access and use their assets on other networks."
+  },
+  {
+    "url": "https://debridge.com",
+    "name": "deBridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/debridge.jpg",
+    "description": "deBridge is a cross-chain interoperability and liquidity transfer protocol that allows the decentralized transfer of arbitrary data and assets between various blockchains"
+  },
+  {
+    "url": "https://fuel.network",
+    "name": "Fuel Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llama.fi/fuel.jpg",
+    "description": "Bridge between Fuel Ignition and Ethereum"
   },
   {
     "url": "https://universal.xyz",

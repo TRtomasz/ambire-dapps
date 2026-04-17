@@ -10,13 +10,13 @@
   },
   {
     "url": "https://aladdin.club",
-    "name": "Concentrator",
+    "name": "fx Protocol",
     "category": [
-      "Yield",
-      "Dual-Token Stablecoin"
+      "Dual-Token Stablecoin",
+      "Yield"
     ],
-    "icon": "https://icons.llama.fi/concentrator.jpg",
-    "description": "Aladdin concentrator is a platform that boosts rewards for Curve & Convex stakers and liquidity providers alike, all in a simple and easy to use interface."
+    "icon": "https://icons.llama.fi/fx-protocol.jpg",
+    "description": "f(x) Protocol is a decentralized on-chain trading platform that enables stress-free leverage on ETH and WBTC while delivering the highest organic & sustainable yield on stablecoins. By utilizing an innovative mechanism, we offer up to 7X long or short exposure with minimum liquidation risk & funding costs. To fuel the leverage positions, the protocol mints fxUSD, a scalable & decentralized stablecoin with a strong peg to the dollar and backed by wstETH and WBTC."
   },
   {
     "url": "https://rifonchain.com",

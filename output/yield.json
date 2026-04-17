@@ -3,7 +3,8 @@
     "url": "https://pendle.finance",
     "name": "Pendle",
     "category": [
-      "Yield"
+      "Yield",
+      "Derivatives"
     ],
     "icon": "https://static.debank.com/image/dapp/logo_url/81297971d7ffd8e2698cefd8de2072dc/81297971d7ffd8e2698cefd8de2072dc.png",
     "description": "Earn at your convenience."
@@ -50,15 +51,14 @@
     "description": "Aster is a decentralized perpetual exchange built for everyone. It offers MEV-free, one-click trading with up to 1001x leverage in Simple Mode, and full-featured, pro-grade tools in Pro Mode. Backed by YZi Labs, Aster is building the future of DeFi: fast, flexible, and community-first"
   },
   {
-    "url": "https://eth.limo",
-    "name": "Aerodrome Slipstream",
+    "url": "https://avalonfinance.xyz",
+    "name": "Avalon USDa",
     "category": [
-      "Dexs",
-      "Yield",
-      "Launchpad"
+      "CDP",
+      "Yield"
     ],
-    "icon": "https://icons.llama.fi/aerodrome.png",
-    "description": "A central trading and liquidity marketplace on Base."
+    "icon": "https://icons.llama.fi/avalon-labs.jpg",
+    "description": "USDa is the flagship CDP (Collateralized Debt Position) product based on Avalon's CeDeFi lending platform"
   },
   {
     "url": "https://multipli.fi",
@@ -70,15 +70,6 @@
     "description": "Multipli fi is a multi-chain yield generation protocol designed to address two key challenges: the limited number of cryptocurrencies on which yield can be generated and the typically low yields."
   },
   {
-    "url": "https://infinifi.xyz",
-    "name": "infiniFi",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/infinifi.jpg",
-    "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena."
-  },
-  {
     "url": "https://stakedao.org",
     "name": "Stake DAO",
     "category": [
@@ -88,22 +79,13 @@
     "description": "Stake DAO is a non-custodial decentralized protocol enabling users to access optimized yield opportunities in DeFi"
   },
   {
-    "url": "https://aura.finance",
-    "name": "Aura",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/aura.png",
-    "description": "Aura Finance is a protocol built on top of the Balancer system to provide maximum incentives to Balancer liquidity providers and BAL stakers (into veBAL) through social aggregation of BAL deposits and Aura's native token."
-  },
-  {
     "url": "https://strata.money",
     "name": "Strata Markets",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/strata-markets.jpg",
-    "description": "Strata is a perpetual risk-tranching protocol that offers structured yield products on crypto-native yields. It allows investors to tailor their risk-reward preferences while earning yields through two risk tranches: Senior and Junior"
+    "icon": "https://icons.llama.fi/strata-markets.png",
+    "description": "Strata is a generalized risk-tranching protocol designed to offer structured yields via tokenized senior and junior tranches across diverse on-chain and off-chain yield strategies."
   },
   {
     "url": "https://usefelix.xyz",
@@ -117,6 +99,33 @@
     "description": "Deposit assets to be lent via Morpho Vaults to earn interest."
   },
   {
+    "url": "https://infinifi.xyz",
+    "name": "infiniFi",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/infinifi.jpg",
+    "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena."
+  },
+  {
+    "url": "https://aura.finance",
+    "name": "Aura",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/aura.png",
+    "description": "Aura Finance is a protocol built on top of the Balancer system to provide maximum incentives to Balancer liquidity providers and BAL stakers (into veBAL) through social aggregation of BAL deposits and Aura's native token."
+  },
+  {
+    "url": "https://eth.limo",
+    "name": "sDAI",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/sdai.jpg",
+    "description": "All the DAI bridged to Gnosis Chain is earning interest at MakerDAO. This interest is redirected to the sDAI holder. You can use sDAI in Defi like you would normally use xDAI."
+  },
+  {
     "url": "https://lorenzo-protocol.xyz",
     "name": "Lorenzo sUSD1+",
     "category": [
@@ -124,24 +133,6 @@
     ],
     "icon": "https://icons.llama.fi/lorenzo-susd1+.jpg",
     "description": "sUSD1+ is a value-accruing yield-generating stablecoin developed by Lorenzo Labs. Users can mint sUSD1+ by depositing major stablecoins such as USD1, USDT, or USDC"
-  },
-  {
-    "url": "https://auto.finance",
-    "name": "AUTOfinance",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/autofinance.jpg",
-    "description": "AUTOfinance maximizes returns through Autopools by autonomously routing liquidity across integrated DeFi destinations while preserving composability."
-  },
-  {
-    "url": "https://zoofi.io",
-    "name": "Zoo Finance",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/zoo-finance.jpg",
-    "description": "Structured Asset Protocol for Better Liquidity Utilization."
   },
   {
     "url": "https://yuzu.money",
@@ -153,50 +144,61 @@
     "description": "An overcollateralized stablecoin backed by curated on-chain strategies designed to offer some of the highest yields in DeFi. Users can stake yzUSD to receive the yield-bearing syzUSD. Depositors in yzPP accept first-loss risk on the underlying strategies in exchange for a higher target yield, which is partially funded by a Reserve Fund."
   },
   {
-    "url": "https://aladdin.club",
-    "name": "Concentrator",
-    "category": [
-      "Yield",
-      "Dual-Token Stablecoin"
-    ],
-    "icon": "https://icons.llama.fi/concentrator.jpg",
-    "description": "Aladdin concentrator is a platform that boosts rewards for Curve & Convex stakers and liquidity providers alike, all in a simple and easy to use interface."
-  },
-  {
-    "url": "https://equilibria.fi",
-    "name": "Equilibria",
+    "url": "https://auto.finance",
+    "name": "AUTOfinance",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/equilibria.png",
-    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
+    "icon": "https://icons.llama.fi/autofinance.jpg",
+    "description": "AUTOfinance maximizes returns through Autopools by autonomously routing liquidity across integrated DeFi destinations while preserving composability."
+  },
+  {
+    "url": "https://originprotocol.com",
+    "name": "Origin Ether",
+    "category": [
+      "Liquid Staking",
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/origin-ether.png",
+    "description": "Origin Ether engages with Ethereum staking pools and LP strategies. It uses platforms like Convex and Curve, and plans to integrate with other AMMs, aiming to provide higher yield opportunities"
   },
   {
     "url": "https://spectra.finance",
     "name": "Spectra V2",
     "category": [
-      "Yield"
+      "Yield",
+      "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llama.fi/spectra-v2.jpg",
     "description": "Secure your future yield at a fixed rate."
   },
   {
-    "url": "https://magpiexyz.io",
-    "name": "Penpie",
+    "url": "https://aladdin.club",
+    "name": "fx Protocol",
     "category": [
+      "Dual-Token Stablecoin",
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/penpie.jpg",
-    "description": "Penpie is a next-generation product by @magpiexyz_io that's set to revolutionize @pendle_fi"
+    "icon": "https://icons.llama.fi/fx-protocol.jpg",
+    "description": "f(x) Protocol is a decentralized on-chain trading platform that enables stress-free leverage on ETH and WBTC while delivering the highest organic & sustainable yield on stablecoins. By utilizing an innovative mechanism, we offer up to 7X long or short exposure with minimum liquidation risk & funding costs. To fuel the leverage positions, the protocol mints fxUSD, a scalable & decentralized stablecoin with a strong peg to the dollar and backed by wstETH and WBTC."
   },
   {
-    "url": "https://noon.capital",
-    "name": "Noon",
+    "url": "https://zoofi.io",
+    "name": "Zoo Finance",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/noon.png",
-    "description": "Noon is a yield optimization protocol that generates delta-neutral returns, maximizes governance token utility, and ensures fair, sustainable value distribution"
+    "icon": "https://icons.llama.fi/zoo-finance.jpg",
+    "description": "Structured Asset Protocol for Better Liquidity Utilization."
+  },
+  {
+    "url": "https://superearn.io",
+    "name": "SuperEarn",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/superearn.jpg",
+    "description": "SuperEarn is a decentralized yield-earning DeFi protocol that allows users to deposit supported crypto assets and earn returns by allocating those assets into on-chain earning strategies."
   },
   {
     "url": "https://rocksolid.network",
@@ -208,22 +210,31 @@
     "description": "RockSolid is a single-click integrated DeFi Vault platform that makes it simple for users to access the best DeFi rewards."
   },
   {
-    "url": "https://royco.org",
-    "name": "Royco Protocol",
+    "url": "https://noon.capital",
+    "name": "Noon",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/royco-protocol.jpg",
-    "description": "The Incentivized Action Market (IAM) Protocol."
+    "icon": "https://icons.llama.fi/noon.png",
+    "description": "Noon is a yield optimization protocol that generates delta-neutral returns, maximizes governance token utility, and ensures fair, sustainable value distribution"
   },
   {
-    "url": "https://rate-x.io",
-    "name": "RateX DEX",
+    "url": "https://sierra.money",
+    "name": "Sierra Protocol",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/ratex-dex.jpg",
-    "description": "World's 1st Leveraged Yield Exchange"
+    "icon": "https://icons.llama.fi/sierra-protocol.jpg",
+    "description": "The Sierra Protocol reimagines money by issuing SIERRA, a Liquid Yield Token (LYT) built to deliver the best user experience across CeFi and DeFi"
+  },
+  {
+    "url": "https://royco.org",
+    "name": "Royco V1",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/royco-v1.jpg",
+    "description": "The Incentivized Action Market (IAM) Protocol."
   },
   {
     "url": "https://term.finance",
@@ -235,6 +246,15 @@
     "description": "Fixed-rate lending via on-chain auctions"
   },
   {
+    "url": "https://piku.co",
+    "name": "Piku",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/piku.jpg",
+    "description": "USP is a yield-optimized stablecoin governed by PikuDAO. It launches fully backed 1:1 by USD-denominated stablecoins, and over time the backing is diversified into a basket of on-chain and off-chain yield-generating assets. The yield from these assets increases the underlying value of USP, allowing it to appreciate above its initial $1.00 launch value. USP functions as a savings-oriented asset with simplified access."
+  },
+  {
     "url": "https://loopingcollective.org",
     "name": "Looped Hype",
     "category": [
@@ -244,13 +264,22 @@
     "description": "Looped Hype (LHYPE) is an automated looping protocol that maximizes yield on staked HYPE and other yield bearing tokens. Users simply deposit HYPE to get LHYPE, then behind the scenes the protocol uses an automated looping strategy to generate additional yield, on top of any network rewards earned from staking"
   },
   {
-    "url": "https://latch.io",
-    "name": "Latch",
+    "url": "https://equilibria.fi",
+    "name": "Equilibria",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llama.fi/latch.jpg",
-    "description": "Deposit idle tokens, select a preferred vault, and earn yield and points"
+    "icon": "https://icons.llama.fi/equilibria.png",
+    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
+  },
+  {
+    "url": "https://magpiexyz.io",
+    "name": "Penpie",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llama.fi/penpie.jpg",
+    "description": "Penpie is a next-generation product by @magpiexyz_io that's set to revolutionize @pendle_fi"
   },
   {
     "url": "https://belt.fi",
@@ -260,23 +289,5 @@
     ],
     "icon": "https://icons.llama.fi/belt-finance.png",
     "description": "Yield aggregator + AMM"
-  },
-  {
-    "url": "https://troves.fi",
-    "name": "Troves",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/troves.jpg",
-    "description": "Troves is a DeFi yield aggregator on Starknet that automatically invests your assets across various DeFi protocols within a given strategy to maximise your returns"
-  },
-  {
-    "url": "https://zyf.ai",
-    "name": "ZyFAI",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/zyfai.jpg",
-    "description": "ZyFAI is a DeFi Agent built to optimize DeFi yields with real-time data and automated on-chain actions"
   }
 ]

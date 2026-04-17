@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://saturn.credit",
+    "name": "Saturn",
+    "category": [
+      "Stablecoin Wrapper"
+    ],
+    "icon": "https://icons.llama.fi/saturn.jpg",
+    "description": "Saturn is a dual-token Bitcoin-backed credit protocol where USDat is a stablecoin backed by tokenized treasuries and sUSDat is a yield-bearing version backed by digital credit exposure."
+  }
+]

@@ -1,21 +1,12 @@
 [
   {
     "url": "https://polymarket.com",
-    "name": "Polymarket",
+    "name": "Polymarket International",
     "category": [
       "Prediction Market"
     ],
-    "icon": "https://icons.llama.fi/polymarket.jpg",
+    "icon": "https://icons.llama.fi/polymarket-international.jpg",
     "description": "Polymarket is an information markets platform that lets you trade on the world’s most highly-debated topics (e.g. coronavirus, politics, current events, etc). On Polymarket, you build a portfolio based on your forecasts and earn a return if you are right."
-  },
-  {
-    "url": "https://opinion.trade",
-    "name": "OPINION",
-    "category": [
-      "Prediction Market"
-    ],
-    "icon": "https://icons.llama.fi/opinion.jpg",
-    "description": "Opinion is building a prediction exchange that enables direct trading of macroeconomic data, predictions, and news as standardized assets, leveraging proprietary on-chain infrastructure, AI Oracle, and trading tools to create new opportunities for retail users, institutions, and global decision makers in democratizing economic insights and risk management."
   },
   {
     "url": "https://predict.fun",

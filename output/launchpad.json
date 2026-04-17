@@ -1,10 +1,9 @@
 [
   {
-    "url": "https://eth.limo",
+    "url": "https://aerodrome.finance",
     "name": "Aerodrome Slipstream",
     "category": [
       "Dexs",
-      "Yield",
       "Launchpad"
     ],
     "icon": "https://icons.llama.fi/aerodrome.png",

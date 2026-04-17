@@ -20,12 +20,12 @@
   },
   {
     "url": "https://polygon.technology",
-    "name": "Polygon Bridge & Staking",
+    "name": "Polygon Bridge",
     "category": [
       "Chain",
       "Canonical Bridge"
     ],
-    "icon": "https://icons.llama.fi/polygon.jpg",
+    "icon": "https://icons.llama.fi/polygon-bridge.jpg",
     "description": "Ethereum sidechain"
   },
   {
@@ -47,25 +47,6 @@
     "description": "The main bridge, on a technical level, in Linea is the Canonical Message Bridge. This is the underlying set of smart contracts which keep track of receiving requests to move tokens to the other layer, and of sending the message that those tokens should be transferred."
   },
   {
-    "url": "https://starknet.io",
-    "name": "Starknet Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/starknet-bridge.png",
-    "description": "Transfer assets between StarkNet and Ethereum"
-  },
-  {
-    "url": "https://bsquared.network",
-    "name": "B2 Buzz",
-    "category": [
-      "Canonical Bridge",
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/b2-buzz.jpg",
-    "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
-  },
-  {
     "url": "https://world.org",
     "name": "World Chain",
     "category": [
@@ -75,13 +56,14 @@
     "description": "World Chain is a permissionless Layer 2 blockchain on Ethereum, built with the OP Stack, offering scalability, security, Sybil resistance, community governance, and is part of the OP Superchain ecosystem"
   },
   {
-    "url": "https://mantle.xyz",
-    "name": "Mantle Bridge",
+    "url": "https://bsquared.network",
+    "name": "Buzz Farming",
     "category": [
+      "Farm",
       "Canonical Bridge"
     ],
-    "icon": "https://icons.llama.fi/mantle-bridge.jpg",
-    "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
+    "icon": "https://icons.llama.fi/buzz-farming.jpg",
+    "description": "Buzz Farming collaborates with well-known BTCFi projects such as Babylon, Lombard, and Bedrock, as well as prominent blockchains, offering users a variety of multifaceted profit strategies. Users can conveniently select and operate investment strategies through Buzz Farming"
   },
   {
     "url": "https://gnosis.io",
@@ -93,6 +75,24 @@
     "description": "The first-ever USD stable blockchain and multi-chain staking token."
   },
   {
+    "url": "https://mantle.xyz",
+    "name": "Mantle Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/mantle-bridge.jpg",
+    "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
+  },
+  {
+    "url": "https://starknet.io",
+    "name": "Starknet Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/starknet-bridge.png",
+    "description": "Transfer assets between StarkNet and Ethereum"
+  },
+  {
     "url": "https://core.app",
     "name": "Avalanche Core Bridge",
     "category": [
@@ -100,15 +100,6 @@
     ],
     "icon": "https://icons.llama.fi/avalanche-core-bridge.jpg",
     "description": "Native Bitcoin Bridge. ETH EVM support. No added fees or middlemen, ever."
-  },
-  {
-    "url": "https://txsync.io",
-    "name": "zkSync Era txBridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/zksync-era-txbridge.jpg",
-    "description": "Imagine a platform where zksync enthusiasts and developers all come together to learn, create, and innovate"
   },
   {
     "url": "https://sophon.xyz",
@@ -120,24 +111,6 @@
     "description": "Sophon is a ZK chain"
   },
   {
-    "url": "https://sui.io",
-    "name": "SuiBridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/suibridge.jpg",
-    "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture."
-  },
-  {
-    "url": "https://arweave.net",
-    "name": "AO Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/ao-bridge.png",
-    "description": "A decentralized supercomputer built on top of Arweave's permanent data storage."
-  },
-  {
     "url": "https://blast.io",
     "name": "Blast Bridge",
     "category": [
@@ -145,15 +118,6 @@
     ],
     "icon": "https://icons.llama.fi/blast-bridge.jpg",
     "description": "Bridge between Ethereum and Blast Mainnet."
-  },
-  {
-    "url": "https://standx.com",
-    "name": "StandX Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/standx-bridge.jpg",
-    "description": "StandX is a Perps DEX live on Mainnet across BNB and Solana, powered by its native yield bearing DUSD."
   },
   {
     "url": "https://soniclabs.com",
@@ -165,6 +129,52 @@
     "description": "Canonical Bridge for Sonic chain"
   },
   {
+    "url": "https://arweave.net",
+    "name": "AO Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/ao-bridge.png",
+    "description": "A decentralized supercomputer built on top of Arweave's permanent data storage."
+  },
+  {
+    "url": "https://pulsechain.com",
+    "name": "PulseChain Bridge",
+    "category": [
+      "Canonical Bridge",
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/pulsechain-bridge.jpg",
+    "description": "Bridge between PulseChain and Ethereum"
+  },
+  {
+    "url": "https://inkonchain.com",
+    "name": "Ink Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/ink-bridge.jpg",
+    "description": "Bridge for Ink chain by Kraken"
+  },
+  {
+    "url": "https://standx.com",
+    "name": "StandX Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/standx-bridge.jpg",
+    "description": "StandX is a Perps DEX live on Mainnet across BNB and Solana, powered by its native yield bearing DUSD."
+  },
+  {
+    "url": "https://sui.io",
+    "name": "SuiBridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/suibridge.jpg",
+    "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture."
+  },
+  {
     "url": "https://scroll.io",
     "name": "Scroll Bridge",
     "category": [
@@ -174,16 +184,6 @@
     "description": "Transfer assets between Scroll and Ethereum"
   },
   {
-    "url": "https://pulsechain.com",
-    "name": "Pulsechain",
-    "category": [
-      "Chain",
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/pulsechain.jpg",
-    "description": "Energy efficient, Faster, cheaper, fee-burning Ethereum fork."
-  },
-  {
     "url": "https://lisk.com",
     "name": "Lisk Bridge",
     "category": [
@@ -191,15 +191,6 @@
     ],
     "icon": "https://icons.llama.fi/lisk-bridge.jpg",
     "description": "We offer Web3 founders in Emerging Markets the ultimate ecosystem to bring their real-world applications to life."
-  },
-  {
-    "url": "https://metis.io",
-    "name": "Metis Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/metis-bridge.jpg",
-    "description": "Bridge between Metis and Ethereum"
   },
   {
     "url": "https://manta.network",
@@ -221,13 +212,22 @@
     "description": "Bridge between zkSync Lite and Ethereum chain"
   },
   {
-    "url": "https://sx.technology",
-    "name": "SX Rollup Bridge",
+    "url": "https://metis.io",
+    "name": "Metis Bridge",
     "category": [
       "Canonical Bridge"
     ],
-    "icon": "https://icons.llama.fi/sx-bridge.jpg",
-    "description": "Bridge between Ethereum and SX Network"
+    "icon": "https://icons.llama.fi/metis-bridge.jpg",
+    "description": "Bridge between Metis and Ethereum"
+  },
+  {
+    "url": "https://megaeth.com",
+    "name": "MegaETH Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/megaeth-bridge.jpg",
+    "description": "Decentralized exchange on MegaETH."
   },
   {
     "url": "https://cronos.org",
