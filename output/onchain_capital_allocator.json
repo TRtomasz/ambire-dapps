@@ -5,10 +5,20 @@
     "category": [
       "Liquid Restaking",
       "Onchain Capital Allocator",
-      "Lending"
+      "Lending",
+      "Crypto Card Issuer"
     ],
     "icon": "https://icons.llama.fi/ether.fi.jpg",
     "description": "Decentralized and non-custodial Ethereum staking protocol."
+  },
+  {
+    "url": "https://grove.finance",
+    "name": "Grove Finance",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/grove-finance.jpg",
+    "description": "Grove is a capital allocation protocol within the Sky (formerly MakerDAO) ecosystem, launched June 2025. It deploys capital into tokenized RWA assets, Aave lending, Morpho vaults, and Curve LP positions across Ethereum, Base, Avalanche, and Plume"
   },
   {
     "url": "https://spark.fi",
@@ -22,7 +32,7 @@
     "description": "SparkLend is a stablecoin lending market. Unlike other lending protocols where rates fluctuate based on utilization or loan size, SparkLend offers governance-defined rates that do not vary based on those factors. This is made possible by Spark’s Liquidity Layer (SLL), which supplies consistent stablecoin liquidity to the protocol"
   },
   {
-    "url": "https://kerneldao.com",
+    "url": "https://kelpdao.xyz",
     "name": "Kelp",
     "category": [
       "Liquid Restaking",
@@ -41,6 +51,15 @@
     "description": "Veda is the leading DeFi vault platform, enabling crypto applications, asset issuers, and protocols to build consumer-grade cross chain yield products. Veda's technology is powering many of DeFi's largest vault products, including ether.fi Liquid, Lombard DeFi Vault, and Mantle cmETH"
   },
   {
+    "url": "https://concrete.xyz",
+    "name": "Concrete",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/concrete.png",
+    "description": "Concrete provides full-stack yield infrastructure for DeFi, powering automated, risk-managed vault products across major ecosystems. Concrete combines quantitative modeling, modular architecture, and cross-chain integrations to deliver institutional-grade vaults with transparent, sustainable performance."
+  },
+  {
     "url": "https://lombard.finance",
     "name": "Lombard LBTC",
     "category": [
@@ -49,15 +68,6 @@
     ],
     "icon": "https://icons.llama.fi/lombard-lbtc.jpg",
     "description": "Lombard is transforming Bitcoin's utility from a store of value into a productive financial tool through a security-first liquid Bitcoin primitive—LBTC. LBTC is a liquid, yield-bearing, natively cross-chain, and 1:1 backed by bitcoin."
-  },
-  {
-    "url": "https://concrete.xyz",
-    "name": "Concrete",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/concrete.png",
-    "description": "Concrete provides full-stack yield infrastructure for DeFi, powering automated, risk-managed vault products across major ecosystems. Concrete combines quantitative modeling, modular architecture, and cross-chain integrations to deliver institutional-grade vaults with transparent, sustainable performance."
   },
   {
     "url": "https://solv.finance",
@@ -92,12 +102,12 @@
   },
   {
     "url": "https://ultrayield.app",
-    "name": "UltraYield by Edge",
+    "name": "UltraYield Curator",
     "category": [
       "Risk Curators",
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/ultrayield-by-edge.jpg",
+    "icon": "https://icons.llama.fi/ultrayield-curator.jpg",
     "description": "UltraYield, created by leading crypto hedge fund Edge Capital, offers sophisticated yield-generating vaults that make institutional-grade strategies accessible to everyone."
   },
   {
@@ -110,14 +120,32 @@
     "description": "LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products. Powered by the ERC-7540 standard, curators manage deposits and withdrawals asynchronously, while users can join any public vault to start earning on their assets."
   },
   {
-    "url": "https://seamlessprotocol.com",
-    "name": "Seamless V2",
+    "url": "https://avantprotocol.com",
+    "name": "Avant avUSD",
     "category": [
-      "Lending",
+      "Basis Trading",
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/seamless-v2.jpg",
-    "description": "A decentralized, non-custodial liquidity market that creates a more seamless experience for Suppliers and Borrowers."
+    "icon": "https://icons.llama.fi/avant-avusd.jpg",
+    "description": "Avant is a DeFi platform established in June 2024 with the mission to create a more inclusive financial system through a DeFi-powered stable-value token. The platform introduces avUSD, a stable-value token, and savUSD, its staked, yield-bearing counterpart."
+  },
+  {
+    "url": "https://ember.so",
+    "name": "Ember Protocol",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/ember-protocol.jpg",
+    "description": "Ember is the investment platform and infrastructure for launching, accessing, and distributing traditional and onchain financial products through crypto capital markets."
+  },
+  {
+    "url": "https://aera.finance",
+    "name": "Aera V3",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/aera-v3.jpg",
+    "description": "Autonomous onchain treasury management protocol for DAOs, built by the team at Gauntlet."
   },
   {
     "url": "https://usefelix.xyz",
@@ -140,13 +168,14 @@
     "description": "Plasma Vaults are on-chain investment vaults that generate yield by deploying user deposits across leading DeFi protocols through Veda's infrastructure"
   },
   {
-    "url": "https://aera.finance",
-    "name": "Aera V3",
+    "url": "https://spectra.finance",
+    "name": "Spectra V2",
     "category": [
+      "Yield",
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/aera-v3.jpg",
-    "description": "Autonomous onchain treasury management protocol for DAOs, built by the team at Gauntlet."
+    "icon": "https://icons.llama.fi/spectra-v2.jpg",
+    "description": "Secure your future yield at a fixed rate."
   },
   {
     "url": "https://moonwell.fi",
@@ -168,25 +197,6 @@
     "description": "Makina the most advanced DeFi Execution Engine empowering sophisticated Operators to execute onchain yield strategies which maximize risk-adjusted return."
   },
   {
-    "url": "https://ember.so",
-    "name": "Ember Protocol",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/ember-protocol.jpg",
-    "description": "Ember is the investment platform and infrastructure for launching, accessing, and distributing traditional and onchain financial products through crypto capital markets."
-  },
-  {
-    "url": "https://extrafi.io",
-    "name": "Extra Finance Leverage Farming",
-    "category": [
-      "Leveraged Farming",
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/extra-finance.jpg",
-    "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
-  },
-  {
     "url": "https://yieldnest.finance",
     "name": "YieldNest",
     "category": [
@@ -194,24 +204,6 @@
     ],
     "icon": "https://icons.llama.fi/yieldnest.png",
     "description": "YieldNest is a next-generation liquid restaking protocol that provides simple-to-understand, risk-adjusted restaking strategies"
-  },
-  {
-    "url": "https://turtle.club",
-    "name": "Turtle Club",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/turtle-club.jpg",
-    "description": "Turtle Club is a liquidity distribution protocol that helps you earn more from your Web3 activity."
-  },
-  {
-    "url": "https://knightrade.io",
-    "name": "Knightrade",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/knightrade.png",
-    "description": "Knightrade is the on-chain, multi-strategy hedge fund platform, run by verified traders from top hedge funds and investment banks"
   },
   {
     "url": "https://d2.finance",

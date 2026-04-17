@@ -1,15 +1,5 @@
 [
   {
-    "url": "https://securitize.io",
-    "name": "BlackRock BUIDL",
-    "category": [
-      "RWA",
-      "Indexes"
-    ],
-    "icon": "https://icons.llama.fi/blackrock-buidl.png",
-    "description": "BlackRock USD Institutional Digital Liquidity Fund"
-  },
-  {
     "url": "https://reserve.org",
     "name": "Reserve Protocol",
     "category": [
@@ -36,15 +26,6 @@
     ],
     "icon": "https://icons.llama.fi/enzyme-finance.jpg",
     "description": "Fast & cost-effective way to build, scale and monetize investment strategies."
-  },
-  {
-    "url": "https://b.watch",
-    "name": "Bwatch",
-    "category": [
-      "Indexes"
-    ],
-    "icon": "https://icons.llama.fi/bwatch.png",
-    "description": "B.watch is an decentralized ETF-like crypto asset management platform, which is the only issuer of BOX token."
   },
   {
     "url": "https://dhedge.org",

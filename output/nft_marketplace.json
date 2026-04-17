@@ -43,15 +43,5 @@
     ],
     "icon": "https://static.debank.com/image/dapp/logo_url/17b034dc7990b3a5d5bbc56f625700db/17b034dc7990b3a5d5bbc56f625700db.png",
     "description": "Discover, sell and buy NFTs on Rarible! Our aggregated NFT marketplace for Ethereum NFTs and Polygon NFTs powers brands, collections and creator marketplaces."
-  },
-  {
-    "url": "https://immutable.com",
-    "name": "Immutable zkEVM",
-    "category": [
-      "Chain",
-      "NFT Marketplace"
-    ],
-    "icon": "https://icons.llama.fi/immutable-zkevm.png",
-    "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://ether.fi",
+    "name": "ether.fi Stake",
+    "category": [
+      "Liquid Restaking",
+      "Onchain Capital Allocator",
+      "Lending",
+      "Crypto Card Issuer"
+    ],
+    "icon": "https://icons.llama.fi/ether.fi.jpg",
+    "description": "Decentralized and non-custodial Ethereum staking protocol."
+  }
+]

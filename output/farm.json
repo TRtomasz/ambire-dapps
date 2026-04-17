@@ -1,23 +1,22 @@
 [
   {
     "url": "https://bsquared.network",
-    "name": "B2 Buzz",
+    "name": "Buzz Farming",
     "category": [
-      "Canonical Bridge",
-      "Farm"
+      "Farm",
+      "Canonical Bridge"
     ],
-    "icon": "https://icons.llama.fi/b2-buzz.jpg",
-    "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
+    "icon": "https://icons.llama.fi/buzz-farming.jpg",
+    "description": "Buzz Farming collaborates with well-known BTCFi projects such as Babylon, Lombard, and Bedrock, as well as prominent blockchains, offering users a variety of multifaceted profit strategies. Users can conveniently select and operate investment strategies through Buzz Farming"
   },
   {
-    "url": "https://noble.xyz",
-    "name": "Noble",
+    "url": "https://afiprotocol.xyz",
+    "name": "AFI Protocol",
     "category": [
-      "Chain",
       "Farm"
     ],
-    "icon": "https://icons.llama.fi/noble.png",
-    "description": "Native stablecoin and RWA issuance for the Cosmos ecosystem"
+    "icon": "https://icons.llama.fi/afi-protocol.jpg",
+    "description": "AFI builds Proof-of-Reserve infrastructure for Real-World Assets, unlocking institutional-grade yield that's fully composable in DeFi"
   },
   {
     "url": "https://zircuit.com",
@@ -27,6 +26,15 @@
     ],
     "icon": "https://icons.llama.fi/zircuit-staking.png",
     "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
+  },
+  {
+    "url": "https://firelight.finance",
+    "name": "Firelight",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/firelight.jpg",
+    "description": "When a user stakes XRP through Firelight, the XRP is locked on the XRPL, and a liquid staking token (LST) is minted on the Flare Network. This LST allows stakers to participate in further DeFi opportunities without losing exposure to their underlying XRP."
   },
   {
     "url": "https://ailayer.xyz",
@@ -58,15 +66,6 @@
     "description": "Stake your assets to earn rewards and boost your points"
   },
   {
-    "url": "https://firelight.finance",
-    "name": "Firelight",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/firelight.jpg",
-    "description": "When a user stakes XRP through Firelight, the XRP is locked on the XRPL, and a liquid staking token (LST) is minted on the Flare Network. This LST allows stakers to participate in further DeFi opportunities without losing exposure to their underlying XRP."
-  },
-  {
     "url": "https://bucketprotocol.io",
     "name": "Bucket Farm",
     "category": [
@@ -84,14 +83,5 @@
     ],
     "icon": "https://icons.llama.fi/katana-pre-launch.jpg",
     "description": "Katana Pre-Launch lets users deposit eligible tokens into Yearn vaults to earn randomized reward NFTs called Krates, while securing a pro-rata share of 70M KAT, with deposits remaining user-owned and withdrawable after mainnet"
-  },
-  {
-    "url": "https://vechain.org",
-    "name": "StarGate",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/stargate.jpg",
-    "description": "VeChain's next-generation staking platform, designed to transform how users participate in the VeChainThor network"
   }
 ]
