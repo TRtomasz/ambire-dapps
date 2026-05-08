@@ -76,15 +76,6 @@
     "description": " dYdX Chain Mainnet, a robust blockchain built with the CosmosSDK. This documentation is diligently maintained by the dYdX Operations subDAO to provide a comprehensive resource for validators, developers, and the dYdX community at large."
   },
   {
-    "url": "https://avantisfi.com",
-    "name": "Avantis",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/avantis.png",
-    "description": "Avantis is a onchain perpetuals DEX built offering advanced risk management for LPs, loss protection for traders, and access to trading leverage crypto and synthetic real world assets. Avantis is built on and backed Base, and other investors such as Pantera Capital and Galaxy Digital."
-  },
-  {
     "url": "https://ostium.io",
     "name": "Ostium",
     "category": [
@@ -94,13 +85,13 @@
     "description": "Trade FX, metals, energy, & RWAs from your wallet"
   },
   {
-    "url": "https://ethereal.trade",
-    "name": "Ethereal DEX",
+    "url": "https://avantisfi.com",
+    "name": "Avantis",
     "category": [
       "Derivatives"
     ],
-    "icon": "https://icons.llama.fi/ethereal-dex.jpg",
-    "description": "Ethereal is a non-custodial DEX for spot and perpetual contracts built on the Ethena Network, using USDe as the primary collateral and engineered for CEX-level performance with DeFi security"
+    "icon": "https://icons.llama.fi/avantis.png",
+    "description": "Avantis is a onchain perpetuals DEX built offering advanced risk management for LPs, loss protection for traders, and access to trading leverage crypto and synthetic real world assets. Avantis is built on and backed Base, and other investors such as Pantera Capital and Galaxy Digital."
   },
   {
     "url": "https://synthetix.io",
@@ -121,6 +112,15 @@
     "description": "Engineered for high-performing precision trades in a decentralized ecosystem."
   },
   {
+    "url": "https://ethereal.trade",
+    "name": "Ethereal DEX",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/ethereal-dex.jpg",
+    "description": "Ethereal is a non-custodial DEX for spot and perpetual contracts built on the Ethena Network, using USDe as the primary collateral and engineered for CEX-level performance with DeFi security"
+  },
+  {
     "url": "https://moonlander.trade",
     "name": "Moonlander",
     "category": [
@@ -128,33 +128,6 @@
     ],
     "icon": "https://icons.llama.fi/moonlander.png",
     "description": "Moonlander is a decentralized perpetual trading platform on Cronos zkEVM chain that offers both a staking pool and on-chain perpetuals, primed to empower all traders and stakers with galactic opportunities. Leveraging on the latest layer 2 zk-technology, transactions on Moonlander are executed at higher speed and lower fees"
-  },
-  {
-    "url": "https://myx.finance",
-    "name": "MYX Finance",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/myx-finance.png",
-    "description": "A decentralized derivatives protocol with a Matching Pool Mechanism"
-  },
-  {
-    "url": "https://gains.trade",
-    "name": "Gains Network",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/gains-network.png",
-    "description": "Gains Network is building the decentralized finance ecosystem of the future. Our goal is to build the most advanced and optimised suite of DeFi products in the space."
-  },
-  {
-    "url": "https://reya.xyz",
-    "name": "Reya Perps",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llama.fi/reya-perps.jpg",
-    "description": "The only DEX where speed never compromises security. Uniquely built as a based-rollup powered by zk-proofs, Reya DEX delivers 1 millisecond speed, 0 trading fess and 100% Ethereum uptime and security"
   },
   {
     "url": "https://contango.xyz",
@@ -166,6 +139,15 @@
     "description": "Contango lets you loop anything on-chain. You can create leverage (re)staking positions, arb rates differentials, farm points, or simply go long or short like a perp at low funding"
   },
   {
+    "url": "https://gains.trade",
+    "name": "Gains Network",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/gains-network.png",
+    "description": "Gains Network is building the decentralized finance ecosystem of the future. Our goal is to build the most advanced and optimised suite of DeFi products in the space."
+  },
+  {
     "url": "https://fulcrom.finance",
     "name": "Fulcrom Perps",
     "category": [
@@ -175,22 +157,22 @@
     "description": "Fulcrom is a decentralised perpetual exchange that allows users to trade leveraged positions with low fees and zero price impact, whilst having the peace of mind that all trades and collateral are stored transparently on-chain."
   },
   {
-    "url": "https://wasabi.xyz",
-    "name": "Wasabi Perps",
+    "url": "https://reya.xyz",
+    "name": "Reya Perps",
     "category": [
       "Derivatives"
     ],
-    "icon": "https://icons.llama.fi/wasabi-perps.jpg",
-    "description": "Wasabi is a leverage trading protocol: Long, short, and earn on your favorite long tail assets such as memecoins and NFTs. Wasabi’s asset-backed perps keep the position value closely pegged to the underlying asset, reflecting the true price action on your PnL. It also generates additional downstream effects such as moving the spot price with leverage, listing pairs as soon as they launch, and generating low-risk yield opportunities through single sided staking"
+    "icon": "https://icons.llama.fi/reya-perps.jpg",
+    "description": "The only DEX where speed never compromises security. Uniquely built as a based-rollup powered by zk-proofs, Reya DEX delivers 1 millisecond speed, 0 trading fess and 100% Ethereum uptime and security"
   },
   {
-    "url": "https://toros.finance",
-    "name": "Toros",
+    "url": "https://myx.finance",
+    "name": "MYX Finance",
     "category": [
       "Derivatives"
     ],
-    "icon": "https://icons.llama.fi/toros.png",
-    "description": "Automated Vaults to maximize your returns."
+    "icon": "https://icons.llama.fi/myx-finance.png",
+    "description": "A decentralized derivatives protocol with a Matching Pool Mechanism"
   },
   {
     "url": "https://antarctic.exchange",
@@ -200,5 +182,14 @@
     ],
     "icon": "https://icons.llama.fi/antarctic-exchange.jpg",
     "description": "Antarctic Exchange (AX) is a high-performance decentralized perpetual futures DEX delivering CEX-grade trading with deep liquidity, low fees, and a clean, self-custodial UX."
+  },
+  {
+    "url": "https://mux.network",
+    "name": "MUX Perps",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llama.fi/mux-perps.png",
+    "description": "MUX Protocol Suite contains the MUX Leveraged Trading Protocol and MUX Aggregator. MUX offers optimized trading cost, deep aggregated liquidity, diverse market options and a wide range of leverage options for traders."
   }
 ]

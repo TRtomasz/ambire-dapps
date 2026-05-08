@@ -34,14 +34,5 @@
     ],
     "icon": "https://icons.llama.fi/extra-finance.jpg",
     "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
-  },
-  {
-    "url": "https://arkis.xyz",
-    "name": "Arkis",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/arkis.jpg",
-    "description": "Arkis is a DeFi Prime Broker that acts as a credit protocol by providing on-chain loans to institutional asset managers from the protocol lenders."
   }
 ]

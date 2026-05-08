@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://stargate.finance",
-    "name": "Stargate V2",
-    "category": [
-      "Cross Chain Bridge"
-    ],
-    "icon": "https://icons.llama.fi/stargate-v2.png",
-    "description": "Stargate V2 offers reduced bridging costs, expands chain connectivity, and improves capital efficiency using transaction batching, Hydra, and an AI-driven Planning Module (AIPM)."
-  },
-  {
     "url": "https://hyperlane.xyz",
     "name": "Hyperlane",
     "category": [
@@ -16,6 +7,15 @@
     ],
     "icon": "https://icons.llama.fi/hyperlane.jpg",
     "description": "Open interoperability across 150+ chains | Bridge + issue tokens + build interchain apps."
+  },
+  {
+    "url": "https://stargate.finance",
+    "name": "Stargate V2",
+    "category": [
+      "Cross Chain Bridge"
+    ],
+    "icon": "https://icons.llama.fi/stargate-v2.png",
+    "description": "Stargate V2 offers reduced bridging costs, expands chain connectivity, and improves capital efficiency using transaction batching, Hydra, and an AI-driven Planning Module (AIPM)."
   },
   {
     "url": "https://near-intents.org",

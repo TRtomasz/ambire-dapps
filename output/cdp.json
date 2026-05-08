@@ -14,8 +14,8 @@
     "name": "Curve DEX",
     "category": [
       "Dexs",
-      "Lending",
-      "CDP"
+      "CDP",
+      "Lending"
     ],
     "icon": "https://icons.llama.fi/curve.png",
     "description": "Curve is a decentralized exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading"
@@ -31,15 +31,15 @@
   },
   {
     "url": "https://lista.org",
-    "name": "Lista Liquid Staking",
+    "name": "Lista Lending",
     "category": [
-      "Liquid Staking",
       "Lending",
+      "Liquid Staking",
       "CDP",
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/lista-liquid-staking.jpg",
-    "description": "Lista Liquid Staking is the yield bearing & liquid staking token for Lista DAO, which appreciates against BNB in line with BNB's staking APR."
+    "icon": "https://icons.llama.fi/lista-lending.png",
+    "description": "Lista Lending is a decentralized P2P lending protocol on BNB Chain that uses a vault-based system to pool liquidity and allocate it across lending markets based on supply and demand."
   },
   {
     "url": "https://avalonfinance.xyz",
@@ -52,15 +52,6 @@
     "description": "USDa is the flagship CDP (Collateralized Debt Position) product based on Avalon's CeDeFi lending platform"
   },
   {
-    "url": "https://reservoir.xyz",
-    "name": "Reservoir Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/reservoir-protocol.jpg",
-    "description": "Reservoir is a pioneering stablecoin protocol designed to be the most trusted and scalable solution in decentralized finance. Offering a suite of products, including the rUSD stablecoin, srUSD liquid yielding asset, and trUSD term-based yielding asset, Reservoir is at the forefront of DeFi innovation. With a focus on real-world asset integration and consistent yield generation, Reservoir is poised to play a crucial role in onboarding the next trillion dollars of assets into the decentralized economy."
-  },
-  {
     "url": "https://liquity.org",
     "name": "Liquity V1",
     "category": [
@@ -68,6 +59,15 @@
     ],
     "icon": "https://icons.llama.fi/liquity-v1.jpg",
     "description": "Liquity V1 is a decentralized and immutable borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral."
+  },
+  {
+    "url": "https://reservoir.xyz",
+    "name": "Reservoir Protocol",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/reservoir-protocol.jpg",
+    "description": "Reservoir is a pioneering stablecoin protocol designed to be the most trusted and scalable solution in decentralized finance. Offering a suite of products, including the rUSD stablecoin, srUSD liquid yielding asset, and trUSD term-based yielding asset, Reservoir is at the forefront of DeFi innovation. With a focus on real-world asset integration and consistent yield generation, Reservoir is poised to play a crucial role in onboarding the next trillion dollars of assets into the decentralized economy."
   },
   {
     "url": "https://usefelix.xyz",
@@ -100,16 +100,6 @@
     "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
   },
   {
-    "url": "https://mezo.org",
-    "name": "Mezo Bridge",
-    "category": [
-      "Bridge",
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/mezo-network.jpg",
-    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
-  },
-  {
     "url": "https://bucketprotocol.io",
     "name": "Bucket Farm",
     "category": [
@@ -123,19 +113,11 @@
     "url": "https://sovryn.app",
     "name": "Sovryn Zero",
     "category": [
-      "CDP"
+      "CDP",
+      "Dexs"
     ],
     "icon": "https://icons.llama.fi/sovryn-zero.png",
     "description": "Sovryn is a non-custodial and permission-less smart contract based system for bitcoin lending, borrowing and margin trading."
-  },
-  {
-    "url": "https://inverse.finance",
-    "name": "Inverse Finance FiRM",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llama.fi/inverse-finance-firm.jpg",
-    "description": "FiRM is a Fixed Rate Market protocol to borrow the DOLA usd stablecoin at a fixed-rate with the DOLA Borrowing Right token DBR."
   },
   {
     "url": "https://bitu.io",
@@ -147,23 +129,13 @@
     "description": "BitU Protocol offers a USD-pegged stablecoin primitive that provides stability and embedded yield. Through our Active Liquidity Management Module, we leverage on-chain transparency and off-chain capital efficiency to deliver resilient yield to support accessible ecosystem growth."
   },
   {
-    "url": "https://enosys.global",
-    "name": "Enosys Loans",
-    "category": [
-      "CDP",
-      "Dexs"
-    ],
-    "icon": "https://icons.llama.fi/enosys-loans.jpg",
-    "description": "Liquity V2 fork on Flare"
-  },
-  {
-    "url": "https://overnight.fi",
-    "name": "Overnight Finance",
+    "url": "https://inverse.finance",
+    "name": "Inverse Finance FiRM",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/overnight-finance.jpg",
-    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
+    "icon": "https://icons.llama.fi/inverse-finance-firm.jpg",
+    "description": "FiRM is a Fixed Rate Market protocol to borrow the DOLA usd stablecoin at a fixed-rate with the DOLA Borrowing Right token DBR."
   },
   {
     "url": "https://pando.im",
@@ -175,6 +147,15 @@
     "description": "Pando Leaf: a decentralized financial network to minting stablecoins"
   },
   {
+    "url": "https://enosys.global",
+    "name": "Enosys Loans",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/enosys-loans.jpg",
+    "description": "Liquity V2 fork on Flare"
+  },
+  {
     "url": "https://btcfi.one",
     "name": "BTCFi CDP",
     "category": [
@@ -182,5 +163,14 @@
     ],
     "icon": "https://icons.llama.fi/btcfi-cdp.jpg",
     "description": "BTCFi is a decentralized crosschain Bitcoin asset management platform offering native Bitcoin collateralization to mint a Bitcoin-backed stablecoin, BtcUSD."
+  },
+  {
+    "url": "https://overnight.fi",
+    "name": "Overnight Finance",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llama.fi/overnight-finance.jpg",
+    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
   }
 ]

@@ -12,6 +12,17 @@
     "description": "Decentralized and non-custodial Ethereum staking protocol."
   },
   {
+    "url": "https://spark.fi",
+    "name": "SparkLend",
+    "category": [
+      "Lending",
+      "Yield",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/sparklend.jpg",
+    "description": "SparkLend is a stablecoin lending market. Unlike other lending protocols where rates fluctuate based on utilization or loan size, SparkLend offers governance-defined rates that do not vary based on those factors. This is made possible by Spark’s Liquidity Layer (SLL), which supplies consistent stablecoin liquidity to the protocol"
+  },
+  {
     "url": "https://grove.finance",
     "name": "Grove Finance",
     "category": [
@@ -19,17 +30,6 @@
     ],
     "icon": "https://icons.llama.fi/grove-finance.jpg",
     "description": "Grove is a capital allocation protocol within the Sky (formerly MakerDAO) ecosystem, launched June 2025. It deploys capital into tokenized RWA assets, Aave lending, Morpho vaults, and Curve LP positions across Ethereum, Base, Avalanche, and Plume"
-  },
-  {
-    "url": "https://spark.fi",
-    "name": "SparkLend",
-    "category": [
-      "Lending",
-      "Onchain Capital Allocator",
-      "Yield"
-    ],
-    "icon": "https://icons.llama.fi/sparklend.jpg",
-    "description": "SparkLend is a stablecoin lending market. Unlike other lending protocols where rates fluctuate based on utilization or loan size, SparkLend offers governance-defined rates that do not vary based on those factors. This is made possible by Spark’s Liquidity Layer (SLL), which supplies consistent stablecoin liquidity to the protocol"
   },
   {
     "url": "https://kelpdao.xyz",
@@ -82,15 +82,6 @@
     "description": "SolvBTC is a universal Bitcoin reserve token that connects Bitcoin’s value across blockchains, backed 1:1 by a transparent, secure reserve. It empowers you to tap into DeFi and CeFi markets effortlessly, transforming idle Bitcoin into a dynamic asset for lending, trading, or yield generation—while keeping you in full control."
   },
   {
-    "url": "https://upshift.finance",
-    "name": "Upshift",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/upshift.jpg",
-    "description": "Upshift opens access to transparent yields backed by secure risk controls. Supply, stake and access cross-chain yields."
-  },
-  {
     "url": "https://mellow.finance",
     "name": "Mellow Core",
     "category": [
@@ -101,14 +92,13 @@
     "description": "Core Vaults encode strategy constraints directly into the vault configuration. This includes which integrations can be used, which actions are permitted, and how capital can move between execution paths. Enforcement happens onchain, making strategy behavior inspectable and resistant to off-policy execution."
   },
   {
-    "url": "https://ultrayield.app",
-    "name": "UltraYield Curator",
+    "url": "https://upshift.finance",
+    "name": "Upshift",
     "category": [
-      "Risk Curators",
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/ultrayield-curator.jpg",
-    "description": "UltraYield, created by leading crypto hedge fund Edge Capital, offers sophisticated yield-generating vaults that make institutional-grade strategies accessible to everyone."
+    "icon": "https://icons.llama.fi/upshift.jpg",
+    "description": "Upshift opens access to transparent yields backed by secure risk controls. Supply, stake and access cross-chain yields."
   },
   {
     "url": "https://lagoon.finance",
@@ -118,6 +108,15 @@
     ],
     "icon": "https://icons.llama.fi/lagoon.jpg",
     "description": "LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products. Powered by the ERC-7540 standard, curators manage deposits and withdrawals asynchronously, while users can join any public vault to start earning on their assets."
+  },
+  {
+    "url": "https://ember.so",
+    "name": "Ember Protocol",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/ember-protocol.jpg",
+    "description": "Ember is the investment platform and infrastructure for launching, accessing, and distributing traditional and onchain financial products through crypto capital markets."
   },
   {
     "url": "https://avantprotocol.com",
@@ -130,15 +129,6 @@
     "description": "Avant is a DeFi platform established in June 2024 with the mission to create a more inclusive financial system through a DeFi-powered stable-value token. The platform introduces avUSD, a stable-value token, and savUSD, its staked, yield-bearing counterpart."
   },
   {
-    "url": "https://ember.so",
-    "name": "Ember Protocol",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/ember-protocol.jpg",
-    "description": "Ember is the investment platform and infrastructure for launching, accessing, and distributing traditional and onchain financial products through crypto capital markets."
-  },
-  {
     "url": "https://aera.finance",
     "name": "Aera V3",
     "category": [
@@ -146,6 +136,16 @@
     ],
     "icon": "https://icons.llama.fi/aera-v3.jpg",
     "description": "Autonomous onchain treasury management protocol for DAOs, built by the team at Gauntlet."
+  },
+  {
+    "url": "https://ultrayield.app",
+    "name": "UltraYield Curator",
+    "category": [
+      "Risk Curators",
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/ultrayield-curator.jpg",
+    "description": "UltraYield, created by leading crypto hedge fund Edge Capital, offers sophisticated yield-generating vaults that make institutional-grade strategies accessible to everyone."
   },
   {
     "url": "https://usefelix.xyz",
@@ -157,15 +157,6 @@
     ],
     "icon": "https://icons.llama.fi/felix-vaults.jpg",
     "description": "Deposit assets to be lent via Morpho Vaults to earn interest."
-  },
-  {
-    "url": "https://plasma.to",
-    "name": "Plasma Saving Vaults",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/plasma-saving-vaults.jpg",
-    "description": "Plasma Vaults are on-chain investment vaults that generate yield by deploying user deposits across leading DeFi protocols through Veda's infrastructure"
   },
   {
     "url": "https://spectra.finance",
@@ -188,13 +179,13 @@
     "description": "Moonwell is an open lending and borrowing DeFi protocol on Base, Optimism, Moonbeam & Moonriver."
   },
   {
-    "url": "https://makina.finance",
-    "name": "Makina",
+    "url": "https://plasma.to",
+    "name": "Plasma Saving Vaults",
     "category": [
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/makina-finance.jpg",
-    "description": "Makina the most advanced DeFi Execution Engine empowering sophisticated Operators to execute onchain yield strategies which maximize risk-adjusted return."
+    "icon": "https://icons.llama.fi/plasma-saving-vaults.jpg",
+    "description": "Plasma Vaults are on-chain investment vaults that generate yield by deploying user deposits across leading DeFi protocols through Veda's infrastructure"
   },
   {
     "url": "https://yieldnest.finance",
@@ -204,6 +195,15 @@
     ],
     "icon": "https://icons.llama.fi/yieldnest.png",
     "description": "YieldNest is a next-generation liquid restaking protocol that provides simple-to-understand, risk-adjusted restaking strategies"
+  },
+  {
+    "url": "https://makina.finance",
+    "name": "Makina",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llama.fi/makina-finance.jpg",
+    "description": "Makina the most advanced DeFi Execution Engine empowering sophisticated Operators to execute onchain yield strategies which maximize risk-adjusted return."
   },
   {
     "url": "https://d2.finance",

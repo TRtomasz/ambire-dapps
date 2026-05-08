@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://ventuals.com",
+    "name": "Ventuals",
+    "category": [
+      "Interface"
+    ],
+    "icon": "https://icons.llama.fi/ventuals.jpg",
+    "description": "Ventuals is a decentralized trading protocol that creates perpetual futures markets on private-company valuations, powered by Hyperliquid’s HIP-3 infrastructure"
+  }
+]

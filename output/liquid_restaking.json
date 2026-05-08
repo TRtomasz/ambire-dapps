@@ -41,15 +41,6 @@
     "description": "A permissionless, non-custodial ETH liquid staking protocol deployed on Ethereum L1 and governed by Mantle."
   },
   {
-    "url": "https://renzoprotocol.com",
-    "name": "Renzo",
-    "category": [
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llama.fi/renzo.png",
-    "description": "Renzo is an institutional-grade onchain platform for staking, restaking, and capital deployment, offering transparent, secure access to advanced yield strategies through modular products: Reserve Vaults, Staking Suite, and Enterprise Suite."
-  },
-  {
     "url": "https://mellow.finance",
     "name": "Mellow Core",
     "category": [
@@ -58,6 +49,15 @@
     ],
     "icon": "https://icons.llama.fi/mellow-core.jpg",
     "description": "Core Vaults encode strategy constraints directly into the vault configuration. This includes which integrations can be used, which actions are permitted, and how capital can move between execution paths. Enforcement happens onchain, making strategy behavior inspectable and resistant to off-policy execution."
+  },
+  {
+    "url": "https://renzoprotocol.com",
+    "name": "Renzo",
+    "category": [
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llama.fi/renzo.png",
+    "description": "Renzo is an institutional-grade onchain platform for staking, restaking, and capital deployment, offering transparent, secure access to advanced yield strategies through modular products: Reserve Vaults, Staking Suite, and Enterprise Suite."
   },
   {
     "url": "https://swellnetwork.io",
