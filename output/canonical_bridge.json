@@ -47,15 +47,6 @@
     "description": "The main bridge, on a technical level, in Linea is the Canonical Message Bridge. This is the underlying set of smart contracts which keep track of receiving requests to move tokens to the other layer, and of sending the message that those tokens should be transferred."
   },
   {
-    "url": "https://world.org",
-    "name": "World Chain",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/world-chain.png",
-    "description": "World Chain is a permissionless Layer 2 blockchain on Ethereum, built with the OP Stack, offering scalability, security, Sybil resistance, community governance, and is part of the OP Superchain ecosystem"
-  },
-  {
     "url": "https://bsquared.network",
     "name": "Buzz Farming",
     "category": [
@@ -84,6 +75,15 @@
     "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
   },
   {
+    "url": "https://world.org",
+    "name": "World Chain",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/world-chain.png",
+    "description": "World Chain is a permissionless Layer 2 blockchain on Ethereum, built with the OP Stack, offering scalability, security, Sybil resistance, community governance, and is part of the OP Superchain ecosystem"
+  },
+  {
     "url": "https://starknet.io",
     "name": "Starknet Bridge",
     "category": [
@@ -107,17 +107,8 @@
     "category": [
       "Canonical Bridge"
     ],
-    "icon": "https://icons.llama.fi/sophon.png",
+    "icon": "https://icons.llama.fi/sophon.jpg",
     "description": "Sophon is a ZK chain"
-  },
-  {
-    "url": "https://blast.io",
-    "name": "Blast Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/blast-bridge.jpg",
-    "description": "Bridge between Ethereum and Blast Mainnet."
   },
   {
     "url": "https://soniclabs.com",
@@ -127,6 +118,15 @@
     ],
     "icon": "https://icons.llama.fi/sonic-gateway.png",
     "description": "Canonical Bridge for Sonic chain"
+  },
+  {
+    "url": "https://blast.io",
+    "name": "Blast Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/blast-bridge.jpg",
+    "description": "Bridge between Ethereum and Blast Mainnet."
   },
   {
     "url": "https://arweave.net",
@@ -148,15 +148,6 @@
     "description": "Bridge between PulseChain and Ethereum"
   },
   {
-    "url": "https://inkonchain.com",
-    "name": "Ink Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/ink-bridge.jpg",
-    "description": "Bridge for Ink chain by Kraken"
-  },
-  {
     "url": "https://standx.com",
     "name": "StandX Bridge",
     "category": [
@@ -175,15 +166,6 @@
     "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture."
   },
   {
-    "url": "https://scroll.io",
-    "name": "Scroll Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/scroll-bridge.jpg",
-    "description": "Transfer assets between Scroll and Ethereum"
-  },
-  {
     "url": "https://lisk.com",
     "name": "Lisk Bridge",
     "category": [
@@ -193,32 +175,13 @@
     "description": "We offer Web3 founders in Emerging Markets the ultimate ecosystem to bring their real-world applications to life."
   },
   {
-    "url": "https://manta.network",
-    "name": "Manta CeDeFi",
-    "category": [
-      "Basis Trading",
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/manta-cedefi.jpg",
-    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
-  },
-  {
-    "url": "https://zksync.io",
-    "name": "zkSync Lite Bridge",
+    "url": "https://scroll.io",
+    "name": "Scroll Bridge",
     "category": [
       "Canonical Bridge"
     ],
-    "icon": "https://icons.llama.fi/zksync-lite-bridge.jpg",
-    "description": "Bridge between zkSync Lite and Ethereum chain"
-  },
-  {
-    "url": "https://metis.io",
-    "name": "Metis Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/metis-bridge.jpg",
-    "description": "Bridge between Metis and Ethereum"
+    "icon": "https://icons.llama.fi/scroll-bridge.jpg",
+    "description": "Transfer assets between Scroll and Ethereum"
   },
   {
     "url": "https://megaeth.com",
@@ -230,6 +193,43 @@
     "description": "Decentralized exchange on MegaETH."
   },
   {
+    "url": "https://metis.io",
+    "name": "Metis Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/metis-bridge.jpg",
+    "description": "Bridge between Metis and Ethereum"
+  },
+  {
+    "url": "https://inkonchain.com",
+    "name": "Ink Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/ink-bridge.jpg",
+    "description": "Bridge for Ink chain by Kraken"
+  },
+  {
+    "url": "https://zksync.io",
+    "name": "zkSync Lite Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/zksync-lite-bridge.jpg",
+    "description": "Bridge between zkSync Lite and Ethereum chain"
+  },
+  {
+    "url": "https://manta.network",
+    "name": "Manta Pacific",
+    "category": [
+      "Canonical Bridge",
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/manta-pacific.jpg",
+    "description": "Bridge between Ethereum and Manta Pacific Chain."
+  },
+  {
     "url": "https://cronos.org",
     "name": "Cronos zkEVM Bridge",
     "category": [
@@ -239,15 +239,6 @@
     "description": "The next generation zero-knowledge layer 2 chain"
   },
   {
-    "url": "https://taiko.xyz",
-    "name": "Taiko Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llama.fi/taiko.png",
-    "description": "A Based Contestable Rollup, Ethereum-equivalent ZK-EVM"
-  },
-  {
     "url": "https://gravity.xyz",
     "name": "Gravity by Galxe",
     "category": [
@@ -255,5 +246,14 @@
     ],
     "icon": "https://icons.llama.fi/gravity-by-galxe.png",
     "description": "Gravity, built by Galxe, is an omnichannel settlement layer designed for mass adoption. It uses Zero-Knowledge Proofs, staking architecture, and advanced consensus mechanisms for high performance."
+  },
+  {
+    "url": "https://taiko.xyz",
+    "name": "Taiko Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llama.fi/taiko.png",
+    "description": "A Based Contestable Rollup, Ethereum-equivalent ZK-EVM"
   }
 ]

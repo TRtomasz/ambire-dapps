@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://reserve.org",
-    "name": "Reserve Protocol",
-    "category": [
-      "Indexes"
-    ],
-    "icon": "https://icons.llama.fi/reserve.png",
-    "description": "The Reserve Protocol is a platform which enables anyone to create yield-bearing, decentralized, and asset-backed currencies (RTokens). RTokens provide an alternative to inflation-prone currencies, empowering people to maintain their purchasing power over time and across borders"
-  },
-  {
     "url": "https://sosovalue.com",
     "name": "SoSoValue Indexes",
     "category": [
@@ -28,13 +19,22 @@
     "description": "Fast & cost-effective way to build, scale and monetize investment strategies."
   },
   {
-    "url": "https://dhedge.org",
-    "name": "dHEDGE Vaults",
+    "url": "https://reserve.org",
+    "name": "Reserve Protocol",
     "category": [
       "Indexes"
     ],
-    "icon": "https://icons.llama.fi/dhedge-vaults.png",
-    "description": "Explore the universe of top-tier tokenized vaults."
+    "icon": "https://icons.llama.fi/reserve.png",
+    "description": "The Reserve Protocol is a platform which enables anyone to create yield-bearing, decentralized, and asset-backed currencies (RTokens). RTokens provide an alternative to inflation-prone currencies, empowering people to maintain their purchasing power over time and across borders"
+  },
+  {
+    "url": "https://chamberfi.com",
+    "name": "Chamber Vaults",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llama.fi/chamber-vaults.jpg",
+    "description": "Chamber, formerly dHEDGE, is a non-custodial vault protocol for creating and managing onchain vaults. The protocol uses smart contracts to manage how vaults interact with supported assets, integrations, and DeFi protocols. Chamber also powers products and strategies across its wider ecosystem, including Toros Finance and mStable."
   },
   {
     "url": "https://indexcoop.com",

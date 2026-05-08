@@ -88,13 +88,13 @@
     "description": "Unitas is a decentralized, yield-bearing stablecoin protocol built for the next generation of finance. It issues stablecoins that earn yield natively — no reliance on traditional banks. Powered by Solana, it's fast, scalable, and censorship-resistant"
   },
   {
-    "url": "https://resolv.xyz",
-    "name": "Resolv",
+    "url": "https://mainstreet.finance",
+    "name": "Mainstreet",
     "category": [
       "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/resolv.jpg",
-    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
+    "icon": "https://icons.llama.fi/mainstreet.jpg",
+    "description": "Rebasing synthetic dollar"
   },
   {
     "url": "https://zerobase.pro",
@@ -106,23 +106,22 @@
     "description": "ZEROBASE introduces the first zk-powered staking product on stablecoins"
   },
   {
-    "url": "https://mainstreet.finance",
-    "name": "Mainstreet",
+    "url": "https://resolv.xyz",
+    "name": "Resolv",
     "category": [
       "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/mainstreet.jpg",
-    "description": "Rebasing synthetic dollar"
+    "icon": "https://icons.llama.fi/resolv.jpg",
+    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
   },
   {
-    "url": "https://manta.network",
-    "name": "Manta CeDeFi",
+    "url": "https://bitway.com",
+    "name": "Bitway",
     "category": [
-      "Basis Trading",
-      "Canonical Bridge"
+      "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/manta-cedefi.jpg",
-    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
+    "icon": "https://icons.llama.fi/bitway.jpg",
+    "description": "Bitway is a capital gateway connecting on-chain liquidity with global markets."
   },
   {
     "url": "https://aegis.im",
@@ -134,6 +133,16 @@
     "description": "Aegis performs funding rate arbitrage through delta-neutral trades in spot and perpetual markets, effectively generating profits from funding fees. These fees, disbursed three times daily, align perpetual contract and spot prices, ultimately rewarding YUSD holders."
   },
   {
+    "url": "https://manta.network",
+    "name": "Manta Pacific",
+    "category": [
+      "Canonical Bridge",
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/manta-pacific.jpg",
+    "description": "Bridge between Ethereum and Manta Pacific Chain."
+  },
+  {
     "url": "https://xsy.fi",
     "name": "XSY",
     "category": [
@@ -141,15 +150,6 @@
     ],
     "icon": "https://icons.llama.fi/xsy.jpg",
     "description": "$UTY, also known as Unity, is a digital synthetic dollar (DSD). Unity is a delta-neutral asset and serves as the synthetic dollar at the center of XSY's ecosystem of decentralized financial products."
-  },
-  {
-    "url": "https://bitway.com",
-    "name": "Bitway",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/bitway.jpg",
-    "description": "Bitway is a capital gateway connecting on-chain liquidity with global markets."
   },
   {
     "url": "https://liminal.money",

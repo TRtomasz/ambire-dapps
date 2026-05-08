@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://moneyonchain.com",
-    "name": "MoneyOnChain",
-    "category": [
-      "Dual-Token Stablecoin"
-    ],
-    "icon": "https://icons.llama.fi/moneyonchain.jpg",
-    "description": "Money On Chain is a self-contained DeFi protocol (a stablecoin, HODL token, leveraging mechanism, and more) which empowers Bitcoiners to improve performance of their assets while also retaining full control of their private keys."
-  },
-  {
     "url": "https://aladdin.club",
     "name": "fx Protocol",
     "category": [
@@ -17,6 +8,15 @@
     ],
     "icon": "https://icons.llama.fi/fx-protocol.jpg",
     "description": "f(x) Protocol is a decentralized on-chain trading platform that enables stress-free leverage on ETH and WBTC while delivering the highest organic & sustainable yield on stablecoins. By utilizing an innovative mechanism, we offer up to 7X long or short exposure with minimum liquidation risk & funding costs. To fuel the leverage positions, the protocol mints fxUSD, a scalable & decentralized stablecoin with a strong peg to the dollar and backed by wstETH and WBTC."
+  },
+  {
+    "url": "https://moneyonchain.com",
+    "name": "MoneyOnChain",
+    "category": [
+      "Dual-Token Stablecoin"
+    ],
+    "icon": "https://icons.llama.fi/moneyonchain.jpg",
+    "description": "Money On Chain is a self-contained DeFi protocol (a stablecoin, HODL token, leveraging mechanism, and more) which empowers Bitcoiners to improve performance of their assets while also retaining full control of their private keys."
   },
   {
     "url": "https://rifonchain.com",
