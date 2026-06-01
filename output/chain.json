@@ -60,15 +60,6 @@
     "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment"
   },
   {
-    "url": "https://immutable.com",
-    "name": "Immutable zkEVM",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/immutable-zkevm.png",
-    "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
-  },
-  {
     "url": "https://burnt.com",
     "name": "XION Finance",
     "category": [
@@ -76,6 +67,15 @@
     ],
     "icon": "https://icons.llama.fi/xion-finance.jpg",
     "description": "The First Walletless Blockchain Built For Main­stream Adoption. XION empowers developers to build, launch and scale consumer-ready products from the ground up, removing technical barriers for all users through its Chain Abstraction."
+  },
+  {
+    "url": "https://immutable.com",
+    "name": "Immutable zkEVM",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llama.fi/immutable-zkevm.png",
+    "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
   },
   {
     "url": "https://astar.network",

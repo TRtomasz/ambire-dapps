@@ -79,6 +79,15 @@
     "description": "Avant is a DeFi platform established in June 2024 with the mission to create a more inclusive financial system through a DeFi-powered stable-value token. The platform introduces avUSD, a stable-value token, and savUSD, its staked, yield-bearing counterpart."
   },
   {
+    "url": "https://mainstreet.finance",
+    "name": "Mainstreet",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/mainstreet.jpg",
+    "description": "Rebasing synthetic dollar"
+  },
+  {
     "url": "https://unitas.so",
     "name": "Unitas",
     "category": [
@@ -88,13 +97,13 @@
     "description": "Unitas is a decentralized, yield-bearing stablecoin protocol built for the next generation of finance. It issues stablecoins that earn yield natively — no reliance on traditional banks. Powered by Solana, it's fast, scalable, and censorship-resistant"
   },
   {
-    "url": "https://resolv.xyz",
-    "name": "Resolv",
+    "url": "https://bitway.com",
+    "name": "Bitway Earn",
     "category": [
       "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/resolv.jpg",
-    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
+    "icon": "https://icons.llama.fi/bitway.jpg",
+    "description": "Bitway Earn is an asset management product from the Bitway suite that allows users to deploy on-chain capital into global investment opportunities. It functions as a comprehensive gateway for both retail and institutional players seeking to access yield globally."
   },
   {
     "url": "https://zerobase.pro",
@@ -106,13 +115,22 @@
     "description": "ZEROBASE introduces the first zk-powered staking product on stablecoins"
   },
   {
-    "url": "https://mainstreet.finance",
-    "name": "Mainstreet",
+    "url": "https://aegis.im",
+    "name": "Aegis YUSD",
     "category": [
       "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/mainstreet.jpg",
-    "description": "Rebasing synthetic dollar"
+    "icon": "https://icons.llama.fi/aegis-yusd.jpg",
+    "description": "Aegis performs funding rate arbitrage through delta-neutral trades in spot and perpetual markets, effectively generating profits from funding fees. These fees, disbursed three times daily, align perpetual contract and spot prices, ultimately rewarding YUSD holders."
+  },
+  {
+    "url": "https://resolv.xyz",
+    "name": "Resolv",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llama.fi/resolv.jpg",
+    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability, and is backed by an innovative insurance pool (RLP) to provide additional security and overcollateralization."
   },
   {
     "url": "https://manta.network",
@@ -125,13 +143,13 @@
     "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
   },
   {
-    "url": "https://aegis.im",
-    "name": "Aegis",
+    "url": "https://liminal.money",
+    "name": "Liminal Basis",
     "category": [
       "Basis Trading"
     ],
-    "icon": "https://icons.llama.fi/aegis.jpg",
-    "description": "Aegis performs funding rate arbitrage through delta-neutral trades in spot and perpetual markets, effectively generating profits from funding fees. These fees, disbursed three times daily, align perpetual contract and spot prices, ultimately rewarding YUSD holders."
+    "icon": "https://icons.llama.fi/liminal-basis.jpg",
+    "description": "Liminal is designed to capture yield sources offered by Hyperliquid and distribute them through fully automated strategies across all ecosystems"
   },
   {
     "url": "https://xsy.fi",
@@ -141,24 +159,6 @@
     ],
     "icon": "https://icons.llama.fi/xsy.jpg",
     "description": "$UTY, also known as Unity, is a digital synthetic dollar (DSD). Unity is a delta-neutral asset and serves as the synthetic dollar at the center of XSY's ecosystem of decentralized financial products."
-  },
-  {
-    "url": "https://bitway.com",
-    "name": "Bitway",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/bitway.jpg",
-    "description": "Bitway is a capital gateway connecting on-chain liquidity with global markets."
-  },
-  {
-    "url": "https://liminal.money",
-    "name": "Liminal",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llama.fi/liminal.jpg",
-    "description": "Liminal is a DeFi protocol on Hyperliquid that offers stable, delta-neutral yields from funding rates, allowing users to earn returns without market exposure"
   },
   {
     "url": "https://desyn.io",

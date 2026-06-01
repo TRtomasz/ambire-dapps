@@ -44,5 +44,14 @@
     ],
     "icon": "https://icons.llama.fi/csigma-finance.jpg",
     "description": "cSigma is a blockchain-based protocol that connects global borrowers and lenders by standardizing and streamlining the commercial lending process, empowering credit service providers and pool managers while offering crypto-uncorrelated yield opportunities to stablecoin holders transparently and efficiently."
+  },
+  {
+    "url": "https://kasu.finance",
+    "name": "Kasu",
+    "category": [
+      "RWA Lending"
+    ],
+    "icon": "https://icons.llama.fi/kasu.png",
+    "description": "Kasu is a real-world asset protocol bridging institutional-grade private credit yields to DeFi, enabling lenders to earn sustainable returns from tokenised private debt, invoice finance, and other high-grade credit products. It connects TradFi lenders and DeFi liquidity through a hybrid capital stack with transparent, on-chain yield"
   }
 ]

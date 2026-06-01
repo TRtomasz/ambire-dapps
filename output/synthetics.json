@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://alchemix.fi",
+    "name": "Alchemix V3",
+    "category": [
+      "Synthetics"
+    ],
+    "icon": "https://icons.llama.fi/alchemix-v3.jpg",
+    "description": "Alchemix is a DeFi protocol that allows for the creation of synthetic tokens that represent the future yield of a deposit. It enables users to retrieve near instant tokenized value against temporary* deposits of stablecoins."
+  },
+  {
     "url": "https://metronome.io",
     "name": "Metronome Synth",
     "category": [

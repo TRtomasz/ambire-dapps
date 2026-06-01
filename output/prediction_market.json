@@ -9,12 +9,12 @@
     "description": "Polymarket is an information markets platform that lets you trade on the world’s most highly-debated topics (e.g. coronavirus, politics, current events, etc). On Polymarket, you build a portfolio based on your forecasts and earn a return if you are right."
   },
   {
-    "url": "https://predict.fun",
-    "name": "Predict Fun",
+    "url": "https://rain.one",
+    "name": "Rain",
     "category": [
       "Prediction Market"
     ],
-    "icon": "https://icons.llama.fi/predict-fun.jpg",
-    "description": "The yield-bearing prediction market built on Blast"
+    "icon": "https://icons.llama.fi/rain.jpg",
+    "description": "Rain | Decentralized Prediction markets Protocol. Predict anything. Create markets. Trade options. Own the future!."
   }
 ]

@@ -14,6 +14,7 @@
     "name": "Fluid Lending",
     "category": [
       "Lending",
+      "Dexs",
       "Yield Aggregator"
     ],
     "icon": "https://icons.llama.fi/fluid-lending.png",
@@ -48,6 +49,15 @@
     "description": "Beefy automates yield farming to make DeFi easy, safe and efficient for all. By autocompounding your tokens, Beefy unlocks higher returns so you earn more of what you love."
   },
   {
+    "url": "https://vesper.finance",
+    "name": "Vesper",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/vesper.jpg",
+    "description": "Vesper is a platform for easy-to-use DeFi products."
+  },
+  {
     "url": "https://yo.xyz",
     "name": "YO Protocol",
     "category": [
@@ -55,6 +65,42 @@
     ],
     "icon": "https://icons.llama.fi/yo-protocol.png",
     "description": "Set it and forget it. YO is your secure multi-chain yield optimizer, continuously rebalancing to deliver the best risk-adjusted yield in DeFi."
+  },
+  {
+    "url": "https://vfat.io",
+    "name": "vfat.io",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/vfat.png",
+    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
+  },
+  {
+    "url": "https://ipor.io",
+    "name": "Fusion by IPOR",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/fusion-by-ipor.svg",
+    "description": "Fusion (by IPOR) is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
+  },
+  {
+    "url": "https://superform.xyz",
+    "name": "Superform",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/superform.svg",
+    "description": "Superform is the onchain wealth app. Superform earns you the best returns on your crypto to grow your onchain wealth. Use SuperVaults to automatically optimize your earnings, or build your customized portfolio by directly depositing into over 800 earning opportunities"
+  },
+  {
+    "url": "https://nucleusearn.io",
+    "name": "Nucleus",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/nucleus.jpg",
+    "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
   },
   {
     "url": "https://hyperbeat.org",
@@ -67,24 +113,6 @@
     "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
   },
   {
-    "url": "https://vesper.finance",
-    "name": "Vesper",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/vesper.jpg",
-    "description": "Vesper is a platform for easy-to-use DeFi products."
-  },
-  {
-    "url": "https://ipor.io",
-    "name": "Fusion by IPOR",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/fusion-by-ipor.svg",
-    "description": "Fusion (by IPOR) is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
-  },
-  {
     "url": "https://summer.fi",
     "name": "Lazy Summer Protocol",
     "category": [
@@ -93,42 +121,6 @@
     ],
     "icon": "https://icons.llama.fi/lazy-summer-protocol.png",
     "description": "The Lazy Summer Protocol offers Automated Yield across DeFi's highest quality protocols on Ethereum, Base and Arbitrum. It uses AI Powered Keepers to continually monitor and rebalance the supported Vaults offering users the best available yields within strict risk parameters, set and managed by leading risk management firm BlockAnalitica."
-  },
-  {
-    "url": "https://superform.xyz",
-    "name": "Superform",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/superform.svg",
-    "description": "Superform is the onchain wealth app. Superform earns you the best returns on your crypto to grow your onchain wealth. Use SuperVaults to automatically optimize your earnings, or build your customized portfolio by directly depositing into over 800 earning opportunities"
-  },
-  {
-    "url": "https://vfat.io",
-    "name": "vfat.io",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/vfat.png",
-    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
-  },
-  {
-    "url": "https://nucleusearn.io",
-    "name": "Nucleus",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/nucleus.jpg",
-    "description": "Nucleus is the default yield provider for networks. Nucleus stands to revolutionize the way users interact with networks by removing the opportunity costs of exploring new ecosystems via embedding yield for all users at the network layer."
-  },
-  {
-    "url": "https://yield.fi",
-    "name": "YieldFi",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llama.fi/yieldfi.jpg",
-    "description": "YieldFi: The First Streamlined Asset Management Platform"
   },
   {
     "url": "https://yieldyak.com",
@@ -140,13 +132,13 @@
     "description": "Yield Yak Aggregator is an easy-to-use tool to earn more yield from defi farming on the Avalanche network."
   },
   {
-    "url": "https://odyssey.finance",
-    "name": "Odyssey Finance",
+    "url": "https://alphafi.xyz",
+    "name": "AlphaFi Agg",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/odyssey-finance.jpg",
-    "description": "Odyssey is a DeFi super-app that uses ERC-4337 smart accounts to let users run gasless, cross-chain strategies with tools like Loopr, Bundlr, and Yieldr, all in one interface"
+    "icon": "https://icons.llama.fi/alphafi-agg.jpg",
+    "description": "Premier Yield Optimizer on the SUI Blockchain. Earn Safe, Real Yields with AlphaFi."
   },
   {
     "url": "https://harvest.finance",
@@ -158,12 +150,21 @@
     "description": "Harvest - grows your crypto with automated yield strategies"
   },
   {
-    "url": "https://alphafi.xyz",
-    "name": "AlphaFi Agg",
+    "url": "https://yield.fi",
+    "name": "YieldFi",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llama.fi/alphafi-agg.jpg",
-    "description": "Premier Yield Optimizer on the SUI Blockchain. Earn Safe, Real Yields with AlphaFi."
+    "icon": "https://icons.llama.fi/yieldfi.jpg",
+    "description": "YieldFi: The First Streamlined Asset Management Platform"
+  },
+  {
+    "url": "https://odyssey.finance",
+    "name": "Odyssey Finance",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llama.fi/odyssey-finance.jpg",
+    "description": "Odyssey is a DeFi super-app that uses ERC-4337 smart accounts to let users run gasless, cross-chain strategies with tools like Loopr, Bundlr, and Yieldr, all in one interface"
   }
 ]
