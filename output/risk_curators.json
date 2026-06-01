@@ -1,5 +1,16 @@
 [
   {
+    "url": "https://sky.money",
+    "name": "Sky Lending",
+    "category": [
+      "CDP",
+      "Risk Curators",
+      "RWA"
+    ],
+    "icon": "https://icons.llama.fi/sky-lending.jpg",
+    "description": "The USDS stablecoin powers the open Sky ecosystem. It is the upgraded version of DAI, providing new ways for you to have more rewarding crypto experiences."
+  },
+  {
     "url": "https://sentora.com",
     "name": "Sentora",
     "category": [
@@ -18,32 +29,13 @@
     "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto."
   },
   {
-    "url": "https://euler.finance",
-    "name": "Euler V2",
-    "category": [
-      "Lending",
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/euler-v2.png",
-    "description": "Euler revolutionizes DeFi by letting any asset become collateral for a lending market. Lenders and borrowers get market leading risk-adjusted rates. Builders can create and manage markets exactly how they want them, with institutional-grade security."
-  },
-  {
-    "url": "https://mevcapital.com",
-    "name": "MEV Capital",
+    "url": "https://k3.capital",
+    "name": "K3 Capital",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/mev-capital.jpg",
-    "description": "MEV Capital is an Investment & risk management firm focused on open-ended strategies across Decentralized Finance on EVM chains since 2020."
-  },
-  {
-    "url": "https://agglayer.dev",
-    "name": "Vault Bridge",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/vault-bridge.jpg",
-    "description": "The Agglayer's VaultBridge is a customizable yield-generating mechanism for providing chains with a native revenue stream"
+    "icon": "https://icons.llama.fi/k3-capital.jpg",
+    "description": "Leading institutional asset and risk management in decentralized finance"
   },
   {
     "url": "https://yearn.fi",
@@ -56,32 +48,13 @@
     "description": "Yearn.finance is an aggregator service for decentralized finance (DeFi) investors, using automation to allow them to maximize profits from yield farming."
   },
   {
-    "url": "https://k3.capital",
-    "name": "K3 Capital",
+    "url": "https://kpk.io",
+    "name": "KPK",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/k3-capital.jpg",
-    "description": "Leading institutional asset and risk management in decentralized finance"
-  },
-  {
-    "url": "https://hyperithm.com",
-    "name": "Hyperithm",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/hyperithm.jpg",
-    "description": "Hyperithm is a premier digital asset manager based in Tokyo and Seoul, active in quant trading and venture investments."
-  },
-  {
-    "url": "https://ultrayield.app",
-    "name": "UltraYield Curator",
-    "category": [
-      "Risk Curators",
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llama.fi/ultrayield-curator.jpg",
-    "description": "UltraYield, created by leading crypto hedge fund Edge Capital, offers sophisticated yield-generating vaults that make institutional-grade strategies accessible to everyone."
+    "icon": "https://icons.llama.fi/kpk.jpg",
+    "description": "KPK is a noncustodial onchain asset manager for DAOs, institutions and capital allocators, actively managing capital across DeFi since 2020. Over $2bn deployed onchain,"
   },
   {
     "url": "https://telosc.com",
@@ -93,22 +66,13 @@
     "description": "Telos Consilium (Telosc) is a Web3 advisory and treasury firm offering risk-curated vault allocations, tokenized equity, and capital structuring services."
   },
   {
-    "url": "https://clearstar.xyz",
-    "name": "Clearstar",
+    "url": "https://agglayer.dev",
+    "name": "Vault Bridge",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/clearstar.jpg",
-    "description": "Building onchain infra and strategies."
-  },
-  {
-    "url": "https://re7labs.xyz",
-    "name": "Re7 Labs",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llama.fi/re7-labs.jpg",
-    "description": "Investors and operators across decentralised ecosystems of digital assets"
+    "icon": "https://icons.llama.fi/vault-bridge.jpg",
+    "description": "The Agglayer's VaultBridge is a customizable yield-generating mechanism for providing chains with a native revenue stream"
   },
   {
     "url": "https://rockawayx.com",
@@ -120,31 +84,40 @@
     "description": "On-chain asset manager. Risk curator on Morpho and other DeFi lending protocols. Market-neutral yield strategies for institutional and HNWI clients - stablecoins, ETH, BTC, SOL"
   },
   {
-    "url": "https://kpk.io",
-    "name": "kpk",
+    "url": "https://clearstar.xyz",
+    "name": "Clearstar",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/kpk.jpg",
-    "description": "kpk provides infrastructure to secure, manage, and grow onchain assets—contributing to the development of the largest liquidity network in crypto, aligned with the strategic goals of onchain organisations."
+    "icon": "https://icons.llama.fi/clearstar.jpg",
+    "description": "Building onchain infra and strategies."
   },
   {
-    "url": "https://blockanalitica.com",
-    "name": "Block Analitica",
+    "url": "https://hyperithm.com",
+    "name": "Hyperithm",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/block-analitica.jpg",
-    "description": "The risk team behind the DAI (USDS) stablecoin"
+    "icon": "https://icons.llama.fi/hyperithm.jpg",
+    "description": "Hyperithm is a premier digital asset manager based in Tokyo and Seoul, active in quant trading and venture investments."
   },
   {
-    "url": "https://tulipa.capital",
-    "name": "Tulipa Capital",
+    "url": "https://re7labs.xyz",
+    "name": "Re7 Labs",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/tulipa-capital.jpg",
-    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
+    "icon": "https://icons.llama.fi/re7-labs.jpg",
+    "description": "Investors and operators across decentralised ecosystems of digital assets"
+  },
+  {
+    "url": "https://ultrayield.app",
+    "name": "UltraYield Curator",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/ultrayield-curator.jpg",
+    "description": "UltraYield, created by leading crypto hedge fund Edge Capital, offers sophisticated yield-generating vaults that make institutional-grade strategies accessible to everyone."
   },
   {
     "url": "https://alphaping.ch",
@@ -156,13 +129,58 @@
     "description": "We specialize in managing decentralized finance (DeFi) lending vaults and strategically deploying capital to maximize returns."
   },
   {
-    "url": "https://bprotocol.org",
-    "name": "B.Protocol Curator",
+    "url": "https://mevcapital.com",
+    "name": "MEV Capital",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/b.protocol-curator.jpg",
-    "description": "B.Protocol is a DeFi economic risk mitigation hub."
+    "icon": "https://icons.llama.fi/mev-capital.jpg",
+    "description": "MEV Capital is an Investment & risk management firm focused on open-ended strategies across Decentralized Finance on EVM chains since 2020."
+  },
+  {
+    "url": "https://galaxy.com",
+    "name": "Galaxy Curation",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/galaxy-curation.jpg",
+    "description": "Galaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence."
+  },
+  {
+    "url": "https://wintermute.com",
+    "name": "Armitage by Wintermute",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/armitage-by-wintermute.jpg",
+    "description": "Armitage is Wintermute's onchain vault curation arm, applying institutional-grade risk management and trading infrastructure to DeFi yield."
+  },
+  {
+    "url": "https://tulipa.capital",
+    "name": "Tulipa Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/tulipa-capital.jpg",
+    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
+  },
+  {
+    "url": "https://blockanalitica.com",
+    "name": "Block Analitica",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/block-analitica.jpg",
+    "description": "The risk team behind the DAI (USDS) stablecoin"
+  },
+  {
+    "url": "https://gamilabs.io",
+    "name": "Gami Labs",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/gami-labs.jpg",
+    "description": "Gami provides on-chain asset management infrastructure with active curation & dynamic risk management."
   },
   {
     "url": "https://hakutora.xyz",
@@ -174,23 +192,32 @@
     "description": "Hakutora focuses on uncovering on-chain opportunities and managing risk, providing top-tier asset management and risk control solutions."
   },
   {
-    "url": "https://volosui.com",
-    "name": "Volo Vault",
-    "category": [
-      "Risk Curators",
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llama.fi/volo-vaults.jpg",
-    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
-  },
-  {
-    "url": "https://628labs.xyz",
-    "name": "TAU Labs",
+    "url": "https://anthias.xyz",
+    "name": "Anthias Labs",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llama.fi/tau-labs.jpg",
-    "description": "TAU Labs curates strategies and manages risk across DeFi protocols and assets. Our proprietary automations and quantitative approach optimize yield across a wide variety of structured products."
+    "icon": "https://icons.llama.fi/anthias-labs.jpg",
+    "description": "Anthias Labs is a boutique on-chain advisory firm focused on DeFi risk management and system design"
+  },
+  {
+    "url": "https://volosui.com",
+    "name": "Volo LST",
+    "category": [
+      "Liquid Staking",
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/volo-lst.jpg",
+    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
+  },
+  {
+    "url": "https://feather.zone",
+    "name": "Feather",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llama.fi/feather.jpg",
+    "description": "Feather delivers risk-adjusted, permissionless lending at scale. Its on-chain risk engine continuously calibrates collateral factors, liquidation thresholds, and oracle feeds—engineering capital efficiency without compromising safety"
   },
   {
     "url": "https://api3.org",

@@ -1,13 +1,13 @@
 [
   {
     "url": "https://bsquared.network",
-    "name": "Buzz Farming",
+    "name": "B2 Buzz",
     "category": [
-      "Farm",
-      "Canonical Bridge"
+      "Canonical Bridge",
+      "Farm"
     ],
-    "icon": "https://icons.llama.fi/buzz-farming.jpg",
-    "description": "Buzz Farming collaborates with well-known BTCFi projects such as Babylon, Lombard, and Bedrock, as well as prominent blockchains, offering users a variety of multifaceted profit strategies. Users can conveniently select and operate investment strategies through Buzz Farming"
+    "icon": "https://icons.llama.fi/b2-buzz.jpg",
+    "description": "Launched by B² Network, B² Buzz is a staking event where a user can deposit major cryptocurrency assets from Bitcoin, Ethereum, BNB Chain, and Polygon. By doing so, a user will receive a certain amount of Parts which can be used to assemble Mining Rigs. Mining Rigs are employed to mine B² native tokens."
   },
   {
     "url": "https://afiprotocol.xyz",
@@ -17,15 +17,6 @@
     ],
     "icon": "https://icons.llama.fi/afi-protocol.jpg",
     "description": "AFI builds Proof-of-Reserve infrastructure for Real-World Assets, unlocking institutional-grade yield that's fully composable in DeFi"
-  },
-  {
-    "url": "https://zircuit.com",
-    "name": "Zircuit Staking",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/zircuit-staking.png",
-    "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
   },
   {
     "url": "https://firelight.finance",
@@ -57,13 +48,13 @@
     "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
   },
   {
-    "url": "https://hemi.xyz",
-    "name": "Hemi Staking",
+    "url": "https://zircuit.com",
+    "name": "Zircuit Staking",
     "category": [
       "Farm"
     ],
-    "icon": "https://icons.llama.fi/hemi-staking.jpg",
-    "description": "Stake your assets to earn rewards and boost your points"
+    "icon": "https://icons.llama.fi/zircuit-staking.png",
+    "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
   },
   {
     "url": "https://bucketprotocol.io",
@@ -74,6 +65,15 @@
     ],
     "icon": "https://icons.llama.fi/bucket-farm.jpg",
     "description": "Deposit tokens to earn $DROPS token for the upcoming token $BUT"
+  },
+  {
+    "url": "https://hemi.xyz",
+    "name": "Hemi Staking",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llama.fi/hemi-staking.jpg",
+    "description": "Stake your assets to earn rewards and boost your points"
   },
   {
     "url": "https://katana.network",
