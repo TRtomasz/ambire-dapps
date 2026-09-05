@@ -6,7 +6,7 @@
       "Dexs",
       "Launchpad"
     ],
-    "icon": "https://icons.llama.fi/aerodrome.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/aerodrome",
     "description": "A central trading and liquidity marketplace on Base."
   },
   {
@@ -15,7 +15,7 @@
     "category": [
       "Launchpad"
     ],
-    "icon": "https://icons.llama.fi/pinksale.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/pinksale",
     "description": "PinkSale is a decentralized launchpad that allows users to launch their own token and create their own initial token sale"
   },
   {
@@ -24,7 +24,7 @@
     "category": [
       "Launchpad"
     ],
-    "icon": "https://icons.llama.fi/dxsale.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/dxsale",
     "description": "With currently 16 supported chains, Dx is the biggest IDO Launchpad in the crypto space. As a truly decentralized token management platform, we aim for a low-barrier approach to launching your project. Instead of a steep learning curve and cumbersome interfaces, our platform will provide all the necessary tools to create and launch your project with no prior coding skills required. Of course, you can also use our platform if you're just here to invest in a project you deem interesting. This will be the first decision you will face"
   },
   {
@@ -33,7 +33,7 @@
     "category": [
       "Launchpad"
     ],
-    "icon": "https://icons.llama.fi/juicebox.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/juicebox",
     "description": "The programmable crypto fundraising protocol for builders and creators. Light enough for a group of friends, powerful enough for a global network of anons. Community-owned, on Ethereum"
   }
 ]

@@ -15,17 +15,8 @@
     "category": [
       "RWA Lending"
     ],
-    "icon": "https://icons.llama.fi/usd-ai.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/usd-ai",
     "description": "USD.AI is a yield-bearing synthetic dollar protocol backed by real-world infrastructure assets"
-  },
-  {
-    "url": "https://pareto.credit",
-    "name": "Pareto Credit",
-    "category": [
-      "RWA Lending"
-    ],
-    "icon": "https://icons.llama.fi/pareto-credit.jpg",
-    "description": "Pareto is a private credit marketplace that connects institutional lenders and borrowers, offering scalable yield opportunities and bridging institutional capital with on-chain credit markets."
   },
   {
     "url": "https://figure.com",
@@ -33,8 +24,26 @@
     "category": [
       "RWA Lending"
     ],
-    "icon": "https://icons.llama.fi/figure-markets-democratized-prime.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/figure-markets-democratized-prime",
     "description": "Democratized Prime connects your cash or crypto with borrowers seeking liquidity on their collateral"
+  },
+  {
+    "url": "https://pareto.credit",
+    "name": "Pareto Credit",
+    "category": [
+      "RWA Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/pareto-credit",
+    "description": "Pareto is a private credit marketplace that connects institutional lenders and borrowers, offering scalable yield opportunities and bridging institutional capital with on-chain credit markets."
+  },
+  {
+    "url": "https://3f.xyz",
+    "name": "3F",
+    "category": [
+      "RWA Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/3f",
+    "description": "3F is a vault protocol built on Morpho that gives you leveraged exposure to tokenized RWAs."
   },
   {
     "url": "https://csigma.finance",
@@ -42,7 +51,16 @@
     "category": [
       "RWA Lending"
     ],
-    "icon": "https://icons.llama.fi/csigma-finance.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/csigma-finance",
     "description": "cSigma is a blockchain-based protocol that connects global borrowers and lenders by standardizing and streamlining the commercial lending process, empowering credit service providers and pool managers while offering crypto-uncorrelated yield opportunities to stablecoin holders transparently and efficiently."
+  },
+  {
+    "url": "https://kasu.finance",
+    "name": "Kasu",
+    "category": [
+      "RWA Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/kasu",
+    "description": "Kasu is a real-world asset protocol bridging institutional-grade private credit yields to DeFi, enabling lenders to earn sustainable returns from tokenised private debt, invoice finance, and other high-grade credit products. It connects TradFi lenders and DeFi liquidity through a hybrid capital stack with transparent, on-chain yield"
   }
 ]
