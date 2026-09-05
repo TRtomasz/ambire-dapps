@@ -5,7 +5,7 @@
     "category": [
       "CeDeFi"
     ],
-    "icon": "https://icons.llama.fi/doppler-finance.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/doppler-finance",
     "description": "First XRPfi protocol on XRPL"
   },
   {
@@ -14,7 +14,7 @@
     "category": [
       "CeDeFi"
     ],
-    "icon": "https://icons.llama.fi/river-omni-cdp.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/river-omni-cdp",
     "description": "River is building the circulatory system for crypto, connecting assets, liquidity, and yield across chains. Powered by the omni-CDP stablecoin protocol"
   }
 ]

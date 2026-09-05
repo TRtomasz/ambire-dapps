@@ -1,11 +1,22 @@
 [
   {
+    "url": "https://circle.com",
+    "name": "Circle USYC",
+    "category": [
+      "RWA",
+      "Cross Chain Bridge",
+      "Stablecoin Wrapper"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/circle-usyc",
+    "description": "Circle USYC is a regulated DeFi platform with permissioned smart contracts, on-chain transparency, and customizable investment strategies for optimized risk-reward profiles.  USYC is a Hashnote product which provides exposure to short duration US Treasuries and Reverse Repo on US Treasuries"
+  },
+  {
     "url": "https://stargate.finance",
     "name": "Stargate V2",
     "category": [
       "Cross Chain Bridge"
     ],
-    "icon": "https://icons.llama.fi/stargate-v2.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/stargate-v2",
     "description": "Stargate V2 offers reduced bridging costs, expands chain connectivity, and improves capital efficiency using transaction batching, Hydra, and an AI-driven Planning Module (AIPM)."
   },
   {
@@ -14,17 +25,8 @@
     "category": [
       "Cross Chain Bridge"
     ],
-    "icon": "https://icons.llama.fi/hyperlane.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/hyperlane",
     "description": "Open interoperability across 150+ chains | Bridge + issue tokens + build interchain apps."
-  },
-  {
-    "url": "https://near-intents.org",
-    "name": "NEAR Intents",
-    "category": [
-      "Cross Chain Bridge"
-    ],
-    "icon": "https://icons.llama.fi/near-intents.jpg",
-    "description": "NEAR Intents are a new type of transaction that allow information, requests, assets, and actions to be exchanged between AI agents, services, and end users"
   },
   {
     "url": "https://across.to",
@@ -32,25 +34,16 @@
     "category": [
       "Cross Chain Bridge"
     ],
-    "icon": "https://icons.llama.fi/across.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/across",
     "description": "Across protocol is a novel bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet."
   },
   {
     "url": "https://synapseprotocol.com",
-    "name": "Synapse",
+    "name": "Synapse Cross Chain Bridge",
     "category": [
       "Cross Chain Bridge"
     ],
-    "icon": "https://icons.llama.fi/synapse.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/synapse-cross-chain-bridge",
     "description": "Synapse is a universal cross-chain liquidity network. Synapse connects blockchains by offering an extensible cross-chain communication protocol that supports assets, smart contract calls, and more"
-  },
-  {
-    "url": "https://mayaprotocol.com",
-    "name": "Maya Protocol",
-    "category": [
-      "Cross Chain Bridge"
-    ],
-    "icon": "https://icons.llama.fi/maya-protocol.jpg",
-    "description": "MAYAChain is a friendly fork of THORChain. Similarly, it does not rely on pegging or wrapping assets, instead managing funds directly in on-chain vaults and safeguarding them through economic security. This is achieved using the Tendermint consensus engine, Cosmos-SDK state machine, and GG20 Threshold Signature Scheme (TSS)."
   }
 ]

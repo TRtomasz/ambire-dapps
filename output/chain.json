@@ -6,7 +6,7 @@
       "Chain",
       "Canonical Bridge"
     ],
-    "icon": "https://icons.llama.fi/polygon-bridge.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/polygon-bridge",
     "description": "Ethereum sidechain"
   },
   {
@@ -19,7 +19,7 @@
       "Lending",
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/fraxtal.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/fraxtal",
     "description": "Fraxtal, launched by Frax finance, is an L2 ETH scaling solution featuring a modular rollup design on the OP stack. It uses frxETH for gas, adds Blockspace Incentives (FLOX) for rewarding engagement, and offers a veFXS contract for cross-chain staking"
   },
   {
@@ -28,7 +28,7 @@
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/noble.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/noble",
     "description": "Native stablecoin and RWA issuance for the Cosmos ecosystem"
   },
   {
@@ -37,27 +37,8 @@
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/chiliz-governance-staking.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/chiliz-governance-staking",
     "description": "CHZ locked for the governance of Chiliz Chain, Validators and delegators stake their CHZ to take part in the governance of the PoSA chain in order to create and validate new blocks as well as to vote on any changes which require governance consensus."
-  },
-  {
-    "url": "https://pulsechain.com",
-    "name": "PulseChain Bridge",
-    "category": [
-      "Canonical Bridge",
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/pulsechain-bridge.jpg",
-    "description": "Bridge between PulseChain and Ethereum"
-  },
-  {
-    "url": "https://abs.xyz",
-    "name": "Abstract",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llama.fi/abstract.png",
-    "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment"
   },
   {
     "url": "https://immutable.com",
@@ -65,7 +46,7 @@
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/immutable-zkevm.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/immutable-zkevm",
     "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
   },
   {
@@ -74,8 +55,17 @@
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/xion-finance.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/xion-finance",
     "description": "The First Walletless Blockchain Built For Main­stream Adoption. XION empowers developers to build, launch and scale consumer-ready products from the ground up, removing technical barriers for all users through its Chain Abstraction."
+  },
+  {
+    "url": "https://abs.xyz",
+    "name": "Abstract",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/abstract",
+    "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment"
   },
   {
     "url": "https://astar.network",
@@ -83,7 +73,7 @@
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/astar-dapps-staking.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/astar-dapps-staking",
     "description": "Astar Network is a multi-chain decentralized application layer on Kusama Network. dApp staking is a mechanism that incentives developers who built in the Astar ecosystem. Users can stake on those dApps to earn staking rewards and at the same time support the project by giving them a daily income."
   },
   {
@@ -92,7 +82,7 @@
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llama.fi/zklink-nova.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/zklink-nova",
     "description": "The first aggregated Layer 3 zkEVM network that links Ethereum and its Layer 2 Rollups for any use case, with exceptional composability, interoperability, scalability, and security through zero-knowledge proofs."
   }
 ]

@@ -5,17 +5,8 @@
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/eigencloud.png",
-    "description": "EigenCloud is a protocol built on Ethereum that introduces restaking, a new primitive in cryptoeconomic security. This primitive enables the reuse of ETH on the consensus layer"
-  },
-  {
-    "url": "https://symbiotic.fi",
-    "name": "Symbiotic",
-    "category": [
-      "Restaking"
-    ],
-    "icon": "https://icons.llama.fi/symbiotic.png",
-    "description": "Symbiotic is a generalized shared security system enabling decentralized networks to bootstrap powerful, fully sovereign ecosystems."
+    "icon": "https://icons.llamao.fi/icons/protocols/eigencloud",
+    "description": "Eigen Labs is an AI research lab building tools for human and agent coordination that preserve and maximize individual agency in the PostAGI era"
   },
   {
     "url": "https://b14g.xyz",
@@ -23,16 +14,7 @@
     "category": [
       "Restaking"
     ],
-    "icon": "https://icons.llama.fi/b14g.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/b14g",
     "description": "b14g is a modular dual-staking layer for Bitcoin that lets protocols secure their networks with both BTC and their native token—reducing sell pressure, increasing token utility, and improving sustainability."
-  },
-  {
-    "url": "https://opengdp.network",
-    "name": "OpenGDP Shared Security",
-    "category": [
-      "Restaking"
-    ],
-    "icon": "https://icons.llama.fi/opengdp-shared-security.jpg",
-    "description": "The universal restaking layer powered by the entire cryptoeconomy."
   }
 ]

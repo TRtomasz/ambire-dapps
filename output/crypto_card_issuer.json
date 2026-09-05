@@ -3,12 +3,22 @@
     "url": "https://ether.fi",
     "name": "ether.fi Stake",
     "category": [
-      "Liquid Restaking",
+      "Liquid Staking",
       "Onchain Capital Allocator",
       "Lending",
       "Crypto Card Issuer"
     ],
-    "icon": "https://icons.llama.fi/ether.fi.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/ether.fi",
     "description": "Decentralized and non-custodial Ethereum staking protocol."
+  },
+  {
+    "url": "https://plasma.to",
+    "name": "Plasma Saving Vaults",
+    "category": [
+      "Onchain Capital Allocator",
+      "Crypto Card Issuer"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/plasma-saving-vaults",
+    "description": "Plasma Vaults are on-chain investment vaults that generate yield by deploying user deposits across leading DeFi protocols through Veda's infrastructure"
   }
 ]

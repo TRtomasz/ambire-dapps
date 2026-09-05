@@ -9,25 +9,13 @@
     "description": "Native liquid Ethereum restaking supercharged by EigenLayer."
   },
   {
-    "url": "https://ether.fi",
-    "name": "ether.fi Stake",
-    "category": [
-      "Liquid Restaking",
-      "Onchain Capital Allocator",
-      "Lending",
-      "Crypto Card Issuer"
-    ],
-    "icon": "https://icons.llama.fi/ether.fi.jpg",
-    "description": "Decentralized and non-custodial Ethereum staking protocol."
-  },
-  {
     "url": "https://kelpdao.xyz",
     "name": "Kelp",
     "category": [
       "Liquid Restaking",
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llama.fi/kelp.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/kelp",
     "description": "Kelp is the second largest liquid restaking protocol with ~$2B+ in TVL. Its liquid restaked token, rsETH, is live across 10+ major L2s and 40+ DeFi platforms, allowing users to restake while maintaining full liquidity."
   },
   {
@@ -37,17 +25,8 @@
       "Liquid Staking",
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/meth-protocol.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/meth-protocol",
     "description": "A permissionless, non-custodial ETH liquid staking protocol deployed on Ethereum L1 and governed by Mantle."
-  },
-  {
-    "url": "https://renzoprotocol.com",
-    "name": "Renzo",
-    "category": [
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llama.fi/renzo.png",
-    "description": "Renzo is an institutional-grade onchain platform for staking, restaking, and capital deployment, offering transparent, secure access to advanced yield strategies through modular products: Reserve Vaults, Staking Suite, and Enterprise Suite."
   },
   {
     "url": "https://mellow.finance",
@@ -56,8 +35,17 @@
       "Onchain Capital Allocator",
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/mellow-core.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/mellow-core",
     "description": "Core Vaults encode strategy constraints directly into the vault configuration. This includes which integrations can be used, which actions are permitted, and how capital can move between execution paths. Enforcement happens onchain, making strategy behavior inspectable and resistant to off-policy execution."
+  },
+  {
+    "url": "https://renzoprotocol.com",
+    "name": "Renzo",
+    "category": [
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/renzo",
+    "description": "Renzo is an institutional-grade onchain platform for staking, restaking, and capital deployment, offering transparent, secure access to advanced yield strategies through modular products: Reserve Vaults, Staking Suite, and Enterprise Suite."
   },
   {
     "url": "https://swellnetwork.io",
@@ -67,7 +55,7 @@
       "Liquid Staking",
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/swell.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/swell",
     "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
   },
   {
@@ -76,7 +64,7 @@
     "category": [
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/bedrock-unieth.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/bedrock-unieth",
     "description": "uniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes"
   }
 ]

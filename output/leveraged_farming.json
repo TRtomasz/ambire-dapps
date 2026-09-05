@@ -5,7 +5,7 @@
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/yield-basis.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/yield-basis",
     "description": "YieldBasis is an on-chain liquidity protocol solving Impermanent Loss problem in AMM pools. It turns crypto into productive assets starting from Bitcoin. Using Yield Basis, LPs have a direct spot exposure to an asset and earn organic yield with significantly improved risk/reward profile (compared to conventional AMMs)."
   },
   {
@@ -14,7 +14,7 @@
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/homora-v2.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/homora-v2",
     "description": "Homora is the first flagship product incubated under Alpha Venture DAO (previously Alpha Finance Lab) deployed on the Ethereum network in October, 2020. It is the largest multi-chain lending and leveraged yield farming protocol. Homora V2 is currently available on Ethereum, Avalanche, Fantom, Optimism and more coming soon."
   },
   {
@@ -23,7 +23,7 @@
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/origami-finance.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/origami-finance",
     "description": "Origami is a first-in-class automated leverage protocol launching on Ethereum and 🐻"
   },
   {
@@ -32,16 +32,7 @@
     "category": [
       "Leveraged Farming"
     ],
-    "icon": "https://icons.llama.fi/extra-finance.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/extra-finance",
     "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
-  },
-  {
-    "url": "https://arkis.xyz",
-    "name": "Arkis",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llama.fi/arkis.jpg",
-    "description": "Arkis is a DeFi Prime Broker that acts as a credit protocol by providing on-chain loans to institutional asset managers from the protocol lenders."
   }
 ]

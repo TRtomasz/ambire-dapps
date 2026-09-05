@@ -5,8 +5,17 @@
     "category": [
       "Liquidity Manager"
     ],
-    "icon": "https://icons.llama.fi/arrakis-modular.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/arrakis-modular",
     "description": "Arrakis Modular represents the next evolution of the Arrakis liquidity management smart contract framework, aiming to overcome the limitations of previous versions (V1 and V2). Arrakis Modular introduces a universal Meta Vault standard. This modular framework allows Arrakis to create entirely different two-sided LP Vault integrations, which all reuse the same Meta Vault infrastructure and interfaces."
+  },
+  {
+    "url": "https://altura.trade",
+    "name": "Altura",
+    "category": [
+      "Liquidity Manager"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/altura",
+    "description": "Altura is an on-chain capital management protocol offering a multi-strategy stablecoin vault on HyperEVM."
   },
   {
     "url": "https://kodiak.finance",
@@ -15,7 +24,7 @@
       "Liquidity Manager",
       "Dexs"
     ],
-    "icon": "https://icons.llama.fi/kodiak-islands.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
     "description": "Liquidity Manager for Kodiak DEX"
   },
   {
@@ -24,26 +33,8 @@
     "category": [
       "Liquidity Manager"
     ],
-    "icon": "https://icons.llama.fi/steer-protocol.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/steer-protocol",
     "description": "Steer is a decentralized compute protocol that provides a scaling solution for data processing through its robust off-chain infrastructure. Services are targeted at leveraging off-chain data for on-chain automation, such as automated liquidity management in DeFi."
-  },
-  {
-    "url": "https://ichi.org",
-    "name": "ICHI",
-    "category": [
-      "Liquidity Manager"
-    ],
-    "icon": "https://icons.llama.fi/ichi.png",
-    "description": "ICHI is a non-custodial liquidity management protocol that enables the use of sophisticated algorithmic strategies on Uniswap V3. It allows token holders, institutions, and projects to earn on-chain yield and help establish deeper on-chain token liquidity. ICHI's main product is ICHI Vaults which accept single-token deposits and then deploy these tokens into Uniswap V3 concentrated liquidity pools in order to earn trading fees for the depositor (yield). In addition to on-chain yield opportunities, ICHI Vaults allow projects to build deeper, on-chain liquidity and provide them with enticing treasury management strategies."
-  },
-  {
-    "url": "https://altura.trade",
-    "name": "Altura",
-    "category": [
-      "Liquidity Manager"
-    ],
-    "icon": "https://icons.llama.fi/altura.jpg",
-    "description": "Altura is an on-chain capital management protocol offering a multi-strategy stablecoin vault on HyperEVM."
   },
   {
     "url": "https://acryptos.com",
@@ -51,7 +42,7 @@
     "category": [
       "Liquidity Manager"
     ],
-    "icon": "https://icons.llama.fi/acryptos.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/acryptos",
     "description": "Advanced, Customized Strategies - ACryptoS's Automated Conc. Liquidity Manager (ACLM) for V3 DEXs consistently delivers strong yet sustainable yields, while Single-Token vaults automate leveraging for lending protocol users, growing more tokens with no IL risks."
   }
 ]
