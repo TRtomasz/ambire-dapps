@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://3jane.xyz",
+    "name": "3Jane Lending",
+    "category": [
+      "Uncollateralized Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/3jane-lending",
+    "description": "3Jane protocol is a peer-to-pool credit-based money market enabling algorithmic, real-time uncollateralized USDC credit lines for yield farmers, traders, businesses, and/or AI agents"
+  }
+]
