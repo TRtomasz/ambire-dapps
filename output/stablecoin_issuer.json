@@ -5,7 +5,7 @@
     "category": [
       "Stablecoin Issuer"
     ],
-    "icon": "https://icons.llama.fi/m0.jpg",
-    "description": "M^0 is decentralized money middleware that allows institutions to issue cryptodollars"
+    "icon": "https://icons.llamao.fi/icons/protocols/m0",
+    "description": "M0 is the modular stablecoin infrastructure. Build a stablecoin around your business, with the freedom to choose your regulated issuer and the option to change later"
   }
 ]

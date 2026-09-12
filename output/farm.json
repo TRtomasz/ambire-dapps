@@ -3,38 +3,10 @@
     "url": "https://bsquared.network",
     "name": "Buzz Farming",
     "category": [
-      "Farm",
-      "Canonical Bridge"
+      "Farm"
     ],
-    "icon": "https://icons.llama.fi/buzz-farming.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/buzz-farming",
     "description": "Buzz Farming collaborates with well-known BTCFi projects such as Babylon, Lombard, and Bedrock, as well as prominent blockchains, offering users a variety of multifaceted profit strategies. Users can conveniently select and operate investment strategies through Buzz Farming"
-  },
-  {
-    "url": "https://afiprotocol.xyz",
-    "name": "AFI Protocol",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/afi-protocol.jpg",
-    "description": "AFI builds Proof-of-Reserve infrastructure for Real-World Assets, unlocking institutional-grade yield that's fully composable in DeFi"
-  },
-  {
-    "url": "https://zircuit.com",
-    "name": "Zircuit Staking",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/zircuit-staking.png",
-    "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
-  },
-  {
-    "url": "https://firelight.finance",
-    "name": "Firelight",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llama.fi/firelight.jpg",
-    "description": "When a user stakes XRP through Firelight, the XRP is locked on the XRPL, and a liquid staking token (LST) is minted on the Flare Network. This LST allows stakers to participate in further DeFi opportunities without losing exposure to their underlying XRP."
   },
   {
     "url": "https://ailayer.xyz",
@@ -42,7 +14,7 @@
     "category": [
       "Farm"
     ],
-    "icon": "https://icons.llama.fi/ainn-layer2.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/ainn-layer2",
     "description": "Staking tokens via AILayer Dataset counts as TVL."
   },
   {
@@ -53,8 +25,26 @@
       "Liquid Staking",
       "Liquid Restaking"
     ],
-    "icon": "https://icons.llama.fi/swell.png",
+    "icon": "https://icons.llamao.fi/icons/protocols/swell",
     "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
+  },
+  {
+    "url": "https://firelight.finance",
+    "name": "Firelight",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/firelight",
+    "description": "When a user stakes XRP through Firelight, the XRP is locked on the XRPL, and a liquid staking token (LST) is minted on the Flare Network. This LST allows stakers to participate in further DeFi opportunities without losing exposure to their underlying XRP."
+  },
+  {
+    "url": "https://zircuit.com",
+    "name": "Zircuit Staking",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/zircuit-staking",
+    "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
   },
   {
     "url": "https://hemi.xyz",
@@ -62,7 +52,7 @@
     "category": [
       "Farm"
     ],
-    "icon": "https://icons.llama.fi/hemi-staking.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/hemi-staking",
     "description": "Stake your assets to earn rewards and boost your points"
   },
   {
@@ -72,8 +62,17 @@
       "Farm",
       "CDP"
     ],
-    "icon": "https://icons.llama.fi/bucket-farm.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/bucket-farm",
     "description": "Deposit tokens to earn $DROPS token for the upcoming token $BUT"
+  },
+  {
+    "url": "https://stellardefihub.com",
+    "name": "Stellar DeFi Hub",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/stellar-defi-hub",
+    "description": "Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults and accrue rewards"
   },
   {
     "url": "https://katana.network",
@@ -81,7 +80,7 @@
     "category": [
       "Farm"
     ],
-    "icon": "https://icons.llama.fi/katana-pre-launch.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/katana-pre-launch",
     "description": "Katana Pre-Launch lets users deposit eligible tokens into Yearn vaults to earn randomized reward NFTs called Krates, while securing a pro-rata share of 70M KAT, with deposits remaining user-owned and withdrawable after mainnet"
   }
 ]
