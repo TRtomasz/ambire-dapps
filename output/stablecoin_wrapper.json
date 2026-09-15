@@ -1,11 +1,32 @@
 [
   {
+    "url": "https://circle.com",
+    "name": "Circle USYC",
+    "category": [
+      "RWA",
+      "Cross Chain Bridge",
+      "Stablecoin Wrapper"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/circle-usyc",
+    "description": "Circle USYC is a regulated DeFi platform with permissioned smart contracts, on-chain transparency, and customizable investment strategies for optimized risk-reward profiles.  USYC is a Hashnote product which provides exposure to short duration US Treasuries and Reverse Repo on US Treasuries"
+  },
+  {
     "url": "https://saturn.credit",
     "name": "Saturn",
     "category": [
       "Stablecoin Wrapper"
     ],
-    "icon": "https://icons.llama.fi/saturn.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/saturn",
     "description": "Saturn is a dual-token Bitcoin-backed credit protocol where USDat is a stablecoin backed by tokenized treasuries and sUSDat is a yield-bearing version backed by digital credit exposure."
+  },
+  {
+    "url": "https://unitas.so",
+    "name": "Unitas USDu",
+    "category": [
+      "Basis Trading",
+      "Stablecoin Wrapper"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/unitas-usdu",
+    "description": "Unitas is a decentralized, yield-bearing stablecoin protocol built for the next generation of finance. It issues stablecoins that earn yield natively — no reliance on traditional banks. Powered by Solana, it's fast, scalable, and censorship-resistant"
   }
 ]
