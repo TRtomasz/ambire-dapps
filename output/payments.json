@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://streamflow.finance",
+    "name": "Streamflow",
+    "category": [
+      "Payments"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/streamflow",
+    "description": "Streamflow exponentially grows on-chain economies by providing infrastructure for creation, distribution, and incentive alignment of tokens."
+  }
+]

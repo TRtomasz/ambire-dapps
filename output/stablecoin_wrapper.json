@@ -5,7 +5,27 @@
     "category": [
       "Stablecoin Wrapper"
     ],
-    "icon": "https://icons.llama.fi/saturn.jpg",
+    "icon": "https://icons.llamao.fi/icons/protocols/saturn",
     "description": "Saturn is a dual-token Bitcoin-backed credit protocol where USDat is a stablecoin backed by tokenized treasuries and sUSDat is a yield-bearing version backed by digital credit exposure."
+  },
+  {
+    "url": "https://circle.com",
+    "name": "Circle Gateway",
+    "category": [
+      "Cross Chain Bridge",
+      "Stablecoin Wrapper"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/circle-gateway",
+    "description": "Circle Gateway enables a unified USDC balance, unlocking on-demand liquidity and redefining crosschain UX"
+  },
+  {
+    "url": "https://unitas.so",
+    "name": "Unitas USDu",
+    "category": [
+      "Basis Trading",
+      "Stablecoin Wrapper"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/unitas-usdu",
+    "description": "Unitas is a decentralized, yield-bearing stablecoin protocol built for the next generation of finance. It issues stablecoins that earn yield natively — no reliance on traditional banks. Powered by Solana, it's fast, scalable, and censorship-resistant"
   }
 ]
