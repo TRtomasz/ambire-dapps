@@ -67,14 +67,13 @@
     "description": "Fusion (by IPOR) is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
   },
   {
-    "url": "https://alphafi.xyz",
-    "name": "AlphaFi Lending",
+    "url": "https://vfat.io",
+    "name": "vfat.io",
     "category": [
-      "Lending",
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/alphafi-lending",
-    "description": "AlphaLend is a DeFi protocol on the Sui blockchain that enables permissionless lending and borrowing of digital assets. By depositing assets into the protocol, users can earn interest or use their holdings as collateral to access liquidity. Designed with security and composability in mind, AlphaLend provides essential financial primitives for building and interacting with decentralized applications."
+    "icon": "https://icons.llamao.fi/icons/protocols/vfat",
+    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
   },
   {
     "url": "https://yo.xyz",
@@ -86,13 +85,14 @@
     "description": "Set it and forget it. YO is your secure multi-chain yield optimizer, continuously rebalancing to deliver the best risk-adjusted yield in DeFi."
   },
   {
-    "url": "https://vfat.io",
-    "name": "vfat.io",
+    "url": "https://alphafi.xyz",
+    "name": "AlphaFi Lending",
     "category": [
+      "Lending",
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/vfat",
-    "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
+    "icon": "https://icons.llamao.fi/icons/protocols/alphafi-lending",
+    "description": "AlphaLend is a DeFi protocol on the Sui blockchain that enables permissionless lending and borrowing of digital assets. By depositing assets into the protocol, users can earn interest or use their holdings as collateral to access liquidity. Designed with security and composability in mind, AlphaLend provides essential financial primitives for building and interacting with decentralized applications."
   },
   {
     "url": "https://hyperbeat.org",

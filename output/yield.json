@@ -160,15 +160,6 @@
     "description": "Strata is a generalized risk-tranching protocol designed to offer structured yields via tokenized senior and junior tranches across diverse on-chain and off-chain yield strategies."
   },
   {
-    "url": "https://rocksolid.network",
-    "name": "RockSolid Network",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/rocksolid-network",
-    "description": "RockSolid is a single-click integrated DeFi Vault platform that makes it simple for users to access the best DeFi rewards."
-  },
-  {
     "url": "https://zoofi.io",
     "name": "Zoo Finance",
     "category": [
@@ -176,6 +167,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/zoo-finance",
     "description": "Structured Asset Protocol for Better Liquidity Utilization."
+  },
+  {
+    "url": "https://rocksolid.network",
+    "name": "RockSolid Network",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/rocksolid-network",
+    "description": "RockSolid is a single-click integrated DeFi Vault platform that makes it simple for users to access the best DeFi rewards."
   },
   {
     "url": "https://royco.org",

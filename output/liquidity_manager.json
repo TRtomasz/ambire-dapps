@@ -18,15 +18,6 @@
     "description": "Altura is an on-chain capital management protocol offering a multi-strategy stablecoin vault on HyperEVM."
   },
   {
-    "url": "https://steer.finance",
-    "name": "Steer Protocol",
-    "category": [
-      "Liquidity Manager"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/steer-protocol",
-    "description": "Steer is a decentralized compute protocol that provides a scaling solution for data processing through its robust off-chain infrastructure. Services are targeted at leveraging off-chain data for on-chain automation, such as automated liquidity management in DeFi."
-  },
-  {
     "url": "https://kodiak.finance",
     "name": "Kodiak Islands",
     "category": [
@@ -35,6 +26,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
     "description": "Liquidity Manager for Kodiak DEX"
+  },
+  {
+    "url": "https://steer.finance",
+    "name": "Steer Protocol",
+    "category": [
+      "Liquidity Manager"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/steer-protocol",
+    "description": "Steer is a decentralized compute protocol that provides a scaling solution for data processing through its robust off-chain infrastructure. Services are targeted at leveraging off-chain data for on-chain automation, such as automated liquidity management in DeFi."
   },
   {
     "url": "https://snuggle.fi",

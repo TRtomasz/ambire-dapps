@@ -249,15 +249,6 @@
     "description": "Nado is a vertically-integrated decentralized exchange for spot and perpetual futures, featuring an off-chain sequencer and on-chain settlement on Ink. The platform delivers a high-performance CLOB experience where trades execute in milliseconds, with deep liquidity powered in part by the NLP (Nado Liquidity Provider) vault."
   },
   {
-    "url": "https://pulsex.com",
-    "name": "PulseX V1",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pulsex",
-    "description": "PulseX enables you to exchange tokens (\"PRC20s\") on PulseChain for one another"
-  },
-  {
     "url": "https://fables.fi",
     "name": "Fables",
     "category": [
@@ -265,6 +256,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/fables",
     "description": "A dynamic-fee ve(3,3) DEX built on Uniswap v4. Each pool charges a fee tuned to its asset — calendar-based for tokenised stocks, volatility-based for crypto — so LPs are paid more when a trade is more likely to be against them."
+  },
+  {
+    "url": "https://pulsex.com",
+    "name": "PulseX V1",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/pulsex",
+    "description": "PulseX enables you to exchange tokens (\"PRC20s\") on PulseChain for one another"
   },
   {
     "url": "https://prjx.com",
@@ -304,6 +304,15 @@
     "description": "BDEX V3 is a concentrated-liquidity decentralized exchange on BOT Chain"
   },
   {
+    "url": "https://cetus.zone",
+    "name": "Cetus CLMM",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/cetus-clmm",
+    "description": "Cetus is a pioneer DEX and concentrated liquidity protocol focusing on Move-based ecosystems like Aptos and Sui. It works as a crucial part of the ecosystem infrastructure to satisfy the comprehensive needs of traders, LPs, upper applications and an increasing DeFi population."
+  },
+  {
     "url": "https://ekubo.org",
     "name": "Ekubo",
     "category": [
@@ -313,13 +322,14 @@
     "description": "Ekubo Protocol is a dex built for Starknet, that features concentrated liquidity, a singleton architecture, and extensions"
   },
   {
-    "url": "https://cetus.zone",
-    "name": "Cetus CLMM",
+    "url": "https://kodiak.finance",
+    "name": "Kodiak Islands",
     "category": [
+      "Liquidity Manager",
       "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/cetus-clmm",
-    "description": "Cetus is a pioneer DEX and concentrated liquidity protocol focusing on Move-based ecosystems like Aptos and Sui. It works as a crucial part of the ecosystem infrastructure to satisfy the comprehensive needs of traders, LPs, upper applications and an increasing DeFi population."
+    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
+    "description": "Liquidity Manager for Kodiak DEX"
   },
   {
     "url": "https://ston.fi",
@@ -376,23 +386,13 @@
     "description": "Bancor is an on-chain liquidity protocol that enables automated, decentralized exchange on Ethereum and across blockchains."
   },
   {
-    "url": "https://kodiak.finance",
-    "name": "Kodiak Islands",
-    "category": [
-      "Liquidity Manager",
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
-    "description": "Liquidity Manager for Kodiak DEX"
-  },
-  {
-    "url": "https://agni.finance",
-    "name": "Agni Finance",
+    "url": "https://saphyre.xyz",
+    "name": "Saphyre V3",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/agni-finance",
-    "description": "Agni Finance is a high-capital efficiency, AMM-based DEX and launchpad built to support the Mantle Network ecosystem."
+    "icon": "https://icons.llamao.fi/icons/protocols/saphyre-v3",
+    "description": "Execution Infrastructure for On-Chain Trading."
   },
   {
     "url": "https://stellar.org",
@@ -404,13 +404,13 @@
     "description": "The Stellar network acts as a decentralized distributed exchange that allows users to trade and convert assets with the network's Offer operations"
   },
   {
-    "url": "https://saphyre.xyz",
-    "name": "Saphyre V3",
+    "url": "https://agni.finance",
+    "name": "Agni Finance",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/saphyre-v3",
-    "description": "Execution Infrastructure for On-Chain Trading."
+    "icon": "https://icons.llamao.fi/icons/protocols/agni-finance",
+    "description": "Agni Finance is a high-capital efficiency, AMM-based DEX and launchpad built to support the Mantle Network ecosystem."
   },
   {
     "url": "https://ramses.xyz",
@@ -420,6 +420,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/ramses-cl-v2",
     "description": "RamsesX is a ve(3,3) exchange on Arbitrum with legacy liquidity pools and x(3,3) governance."
+  },
+  {
+    "url": "https://deepbook.tech",
+    "name": "DeepBook V3",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/deepbook-v3",
+    "description": "DeepBook is a fully on-chain central limit order book and the liquidity layer of Sui."
   },
   {
     "url": "https://dodoex.io",
@@ -438,15 +447,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/merchant-moe",
     "description": "Liquidity Book is an AMM on Merchant Moe offering low-cost trading, higher fee potential for providers, and requires less capital. It features zero slippage, surge pricing, and high efficiency"
-  },
-  {
-    "url": "https://deepbook.tech",
-    "name": "DeepBook V3",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/deepbook-v3",
-    "description": "DeepBook is a fully on-chain central limit order book and the liquidity layer of Sui."
   },
   {
     "url": "https://bluefin.io",
@@ -476,6 +476,15 @@
     "description": "Chainflip is a cross-chain AMM enabling native asset swaps without wrapped tokens or specialised wallets."
   },
   {
+    "url": "https://lfj.gg",
+    "name": "Joe DEX",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/trader-joe",
+    "description": "Let's F***ing Joe is your one-stop decentralized trading platform on the Avalanche network."
+  },
+  {
     "url": "https://osmosis.zone",
     "name": "Osmosis DEX",
     "category": [
@@ -492,15 +501,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/tempo-stablecoin-dex",
     "description": "Tempo Stablecoin Dex is a decentralized exchange for stablecoins on Tempo."
-  },
-  {
-    "url": "https://lfj.gg",
-    "name": "Joe DEX",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/trader-joe",
-    "description": "Let's F***ing Joe is your one-stop decentralized trading platform on the Avalanche network."
   },
   {
     "url": "https://roninchain.com",

@@ -268,6 +268,15 @@
     "description": "Liquid, secure, and easy to integrate staking infrastructure."
   },
   {
+    "url": "https://glif.io",
+    "name": "GLIF",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/glif",
+    "description": "GLIF is DePIN’s on-chain credit layer - liquidity providers earn rewards and hardware providers scale operations."
+  },
+  {
     "url": "https://stakee.org",
     "name": "Stakee",
     "category": [
@@ -277,13 +286,13 @@
     "description": "Earn TON with best APY at most profitable staking service."
   },
   {
-    "url": "https://glif.io",
-    "name": "GLIF",
+    "url": "https://volosui.com",
+    "name": "Volo LST",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/glif",
-    "description": "GLIF is DePIN’s on-chain credit layer - liquidity providers earn rewards and hardware providers scale operations."
+    "icon": "https://icons.llamao.fi/icons/protocols/volo-lst",
+    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
   },
   {
     "url": "https://hyperbeat.org",
@@ -303,15 +312,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/infrared-finance",
     "description": "Infrared Finance is a BERA liquid staking protocol which utilizes proof of liquidity to maximize yields"
-  },
-  {
-    "url": "https://volosui.com",
-    "name": "Volo LST",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/volo-lst",
-    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
   },
   {
     "url": "https://stakestone.io",
