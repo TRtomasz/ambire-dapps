@@ -539,15 +539,6 @@
     "description": "Veda is the leading DeFi vault platform, enabling crypto applications, asset issuers, and protocols to build consumer-grade cross chain yield products. Veda's technology is powering many of DeFi's largest vault products, including ether.fi Liquid, Lombard DeFi Vault, and Mantle cmETH"
   },
   {
-    "url": "https://chain.link",
-    "name": "CCIP",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/ccip",
-    "description": "Chainlink CCIP is a cross-chain interoperability protocol that lets apps and assets move tokens and messages across blockchains through Chainlink’s own secure messaging and transfer layer"
-  },
-  {
     "url": "https://portalbridge.com",
     "name": "Portal",
     "category": [
@@ -555,6 +546,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/portal",
     "description": "A token bridge built on Wormhole."
+  },
+  {
+    "url": "https://chain.link",
+    "name": "CCIP",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/ccip",
+    "description": "Chainlink CCIP is a cross-chain interoperability protocol that lets apps and assets move tokens and messages across blockchains through Chainlink’s own secure messaging and transfer layer"
   },
   {
     "url": "https://gauntlet.xyz",
@@ -767,6 +767,16 @@
     "description": "Convex simplifies your Curve-boosting experience to maximize your yields."
   },
   {
+    "url": "https://bittensor.com",
+    "name": "Bittensor dTAO",
+    "category": [
+      "Dexs",
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/bittensor-dtao",
+    "description": "Bittensor's native dTAO AMM pools, which price each subnet's alpha token against TAO and hold the network's subnet liquidity."
+  },
+  {
     "url": "https://superstate.com",
     "name": "Invesco USTB",
     "category": [
@@ -798,16 +808,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/aster-bridge",
     "description": "Aster is a decentralized perpetual exchange built for everyone. It offers MEV-free, one-click trading with up to 1001x leverage in Simple Mode, and full-featured, pro-grade tools in Pro Mode. Backed by YZi Labs, Aster is building the future of DeFi: fast, flexible, and community-first"
-  },
-  {
-    "url": "https://bittensor.com",
-    "name": "Bittensor dTAO",
-    "category": [
-      "Dexs",
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bittensor-dtao",
-    "description": "Bittensor's native dTAO AMM pools, which price each subnet's alpha token against TAO and hold the network's subnet liquidity."
   },
   {
     "url": "https://k3.capital",
@@ -846,6 +846,15 @@
     "description": "USDtb is a digital dollar, otherwise known as a USD stablecoin. USDtb can be used the same way a holder would use any other dollar, whether to send and receive payments, acquire and trade assets, or to simply hold dollars."
   },
   {
+    "url": "https://world.org",
+    "name": "World Chain",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/world-chain",
+    "description": "World Chain is a permissionless Layer 2 blockchain on Ethereum, built with the OP Stack, offering scalability, security, Sybil resistance, community governance, and is part of the OP Superchain ecosystem"
+  },
+  {
     "url": "https://merlinchain.io",
     "name": "Merlins Seal",
     "category": [
@@ -853,15 +862,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/merlins-seal",
     "description": "Merlin's Seal is an event associated with the Merlin Chain, focusing on the fair launch of its governance token, $MERL. Users stake assets to earn M-points, which are then used to determine the distribution of $MERL rewards"
-  },
-  {
-    "url": "https://hyperlend.finance",
-    "name": "HyperLend Pooled",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/hyperlend",
-    "description": "HyperLend is a high-performance lending protocol on Hyperliquid EVM, built for capital efficiency. It offers real-time leverage, dynamic rates, and deep liquidity"
   },
   {
     "url": "https://upshift.finance",
@@ -873,13 +873,13 @@
     "description": "Upshift opens access to transparent yields backed by secure risk controls. Supply, stake and access cross-chain yields."
   },
   {
-    "url": "https://world.org",
-    "name": "World Chain",
+    "url": "https://hyperlend.finance",
+    "name": "HyperLend Pooled",
     "category": [
-      "Canonical Bridge"
+      "Lending"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/world-chain",
-    "description": "World Chain is a permissionless Layer 2 blockchain on Ethereum, built with the OP Stack, offering scalability, security, Sybil resistance, community governance, and is part of the OP Superchain ecosystem"
+    "icon": "https://icons.llamao.fi/icons/protocols/hyperlend",
+    "description": "HyperLend is a high-performance lending protocol on Hyperliquid EVM, built for capital efficiency. It offers real-time leverage, dynamic rates, and deep liquidity"
   },
   {
     "url": "https://re.xyz",
@@ -991,15 +991,6 @@
     "description": "Core Vaults are Mellow's current vault architecture for institutions, neobanks, fintechs, and asset issuers to launch Earn, treasury, and RWA products under their own brand. Each vault operates under a mandate covering eligible depositors, supported assets, approved venues, and allocation limits, enforced onchain by verifiers alongside multi-asset accounting, asynchronous deposit and redemption queues."
   },
   {
-    "url": "https://hyperithm.com",
-    "name": "Hyperithm",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/hyperithm",
-    "description": "Hyperithm is a premier digital asset manager based in Tokyo and Seoul, active in quant trading and venture investments."
-  },
-  {
     "url": "https://staderlabs.com",
     "name": "Stader",
     "category": [
@@ -1007,6 +998,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/stader",
     "description": "Stader offers the most convenient & safest way to maximize your returns on staking."
+  },
+  {
+    "url": "https://hyperithm.com",
+    "name": "Hyperithm",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/hyperithm",
+    "description": "Hyperithm is a premier digital asset manager based in Tokyo and Seoul, active in quant trading and venture investments."
   },
   {
     "url": "https://b14g.xyz",
@@ -1018,16 +1018,6 @@
     "description": "b14g is a modular dual-staking layer for Bitcoin that lets protocols secure their networks with both BTC and their native token—reducing sell pressure, increasing token utility, and improving sustainability."
   },
   {
-    "url": "https://bsquared.network",
-    "name": "Buzz Farming",
-    "category": [
-      "Farm",
-      "Chain"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/buzz-farming",
-    "description": "Buzz Farming collaborates with well-known BTCFi projects such as Babylon, Lombard, and Bedrock, as well as prominent blockchains, offering users a variety of multifaceted profit strategies. Users can conveniently select and operate investment strategies through Buzz Farming"
-  },
-  {
     "url": "https://gnosis.io",
     "name": "xDAI Stake Bridge",
     "category": [
@@ -1035,6 +1025,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/xdai-stake",
     "description": "The first-ever USD stable blockchain and multi-chain staking token."
+  },
+  {
+    "url": "https://bsquared.network",
+    "name": "Buzz Farming",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/buzz-farming",
+    "description": "Buzz Farming collaborates with well-known BTCFi projects such as Babylon, Lombard, and Bedrock, as well as prominent blockchains, offering users a variety of multifaceted profit strategies. Users can conveniently select and operate investment strategies through Buzz Farming"
   },
   {
     "url": "https://opentrade.io",
@@ -1055,13 +1054,13 @@
     "description": "The main bridge, on a technical level, in Linea is the Canonical Message Bridge. This is the underlying set of smart contracts which keep track of receiving requests to move tokens to the other layer, and of sending the message that those tokens should be transferred."
   },
   {
-    "url": "https://clearstar.xyz",
-    "name": "Clearstar",
+    "url": "https://near.com",
+    "name": "NEAR Intents",
     "category": [
-      "Risk Curators"
+      "Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/clearstar",
-    "description": "Building onchain infra and strategies."
+    "icon": "https://icons.llamao.fi/icons/protocols/near-intents",
+    "description": "NEAR Intents are a new type of transaction that allow information, requests, assets, and actions to be exchanged between AI agents, services, and end users"
   },
   {
     "url": "https://benqi.fi",
@@ -1074,13 +1073,13 @@
     "description": "Stake AVAX on BENQI's Liquid Staking Protocol and freely utilize it within powerful Decentralized Financial applications."
   },
   {
-    "url": "https://bitfi.one",
-    "name": "BitFi Basis",
+    "url": "https://clearstar.xyz",
+    "name": "Clearstar",
     "category": [
-      "Basis Trading"
+      "Risk Curators"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bitfi-basis",
-    "description": "Reliable returns with bfUSD, our yield-bearing stablecoin that fuels stability while amplifying your earnings in a dynamic ecosystem."
+    "icon": "https://icons.llamao.fi/icons/protocols/clearstar",
+    "description": "Building onchain infra and strategies."
   },
   {
     "url": "https://olympusdao.finance",
@@ -1092,6 +1091,15 @@
     "description": "Cooler Loans is Olympus DAO's native lending protocol. Borrowers deposit gOHM as collateral to borrow stablecoins at a fixed 0.5% APR."
   },
   {
+    "url": "https://starknet.io",
+    "name": "Starknet Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/starknet-bridge",
+    "description": "Transfer assets between StarkNet and Ethereum"
+  },
+  {
     "url": "https://au.cc",
     "name": "FAssets",
     "category": [
@@ -1101,22 +1109,13 @@
     "description": "FAssets is a trustless, over-collateralized bridge protocol on Flare that lets users mint wrapped versions of non-smart contract assets (e.g. XRP, BTC, DOGE) to use in DeFi, backed by on-chain collateral and Flare’s data oracles"
   },
   {
-    "url": "https://near.com",
-    "name": "NEAR Intents",
+    "url": "https://bitfi.one",
+    "name": "BitFi Basis",
     "category": [
-      "Bridge"
+      "Basis Trading"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/near-intents",
-    "description": "NEAR Intents are a new type of transaction that allow information, requests, assets, and actions to be exchanged between AI agents, services, and end users"
-  },
-  {
-    "url": "https://starknet.io",
-    "name": "Starknet Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/starknet-bridge",
-    "description": "Transfer assets between StarkNet and Ethereum"
+    "icon": "https://icons.llamao.fi/icons/protocols/bitfi-basis",
+    "description": "Reliable returns with bfUSD, our yield-bearing stablecoin that fuels stability while amplifying your earnings in a dynamic ecosystem."
   },
   {
     "url": "https://kpk.io",
@@ -1137,15 +1136,6 @@
     "description": "Plume Vaults is Plume's flagship real-world asset protocol, built to enable onchain access to real world yield through structured vaults"
   },
   {
-    "url": "https://valantis.xyz",
-    "name": "stHYPE",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/sthype",
-    "description": "The Hyperliquid liquid staking platform."
-  },
-  {
     "url": "https://aerodrome.finance",
     "name": "Aerodrome Slipstream",
     "category": [
@@ -1154,6 +1144,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/aerodrome",
     "description": "A central trading and liquidity marketplace on Base."
+  },
+  {
+    "url": "https://valantis.xyz",
+    "name": "stHYPE",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/sthype",
+    "description": "The Hyperliquid liquid staking platform."
   },
   {
     "url": "https://usd.ai",
@@ -1184,15 +1183,6 @@
     "description": "M0 is the modular stablecoin infrastructure. Build a stablecoin around your business, with the freedom to choose your regulated issuer and the option to change later"
   },
   {
-    "url": "https://figure.com",
-    "name": "Figure Markets Democratized Prime",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/figure-markets-democratized-prime",
-    "description": "Democratized Prime connects your cash or crypto with borrowers seeking liquidity on their collateral"
-  },
-  {
     "url": "https://liquity.org",
     "name": "Liquity V1",
     "category": [
@@ -1200,33 +1190,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/liquity-v1",
     "description": "Liquity V1 is a decentralized and immutable borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral."
-  },
-  {
-    "url": "https://digift.io",
-    "name": "DigiFT",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/digift",
-    "description": "DigiFT is the first regulated exchange for on-chain real-world assets, approved as a Recognised Market Operator with a Capital Markets Services license by the Monetary Authority of Singapore. DigiFT allows asset owners to issue blockchain-based security tokens and investors can trade with continuous liquidity via an AMM."
-  },
-  {
-    "url": "https://aera.finance",
-    "name": "Aera V3",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/aera-v3",
-    "description": "Autonomous onchain treasury management protocol for DAOs, built by the team at Gauntlet."
-  },
-  {
-    "url": "https://derive.xyz",
-    "name": "Derive V2",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/derive",
-    "description": "Trade options, perps and spot on the most powerful self-custodial exchange."
   },
   {
     "url": "https://tonstakers.com",
@@ -1238,6 +1201,33 @@
     "description": "The Open Network Liquid Staking protocol empowering TON DeFi ecosystem"
   },
   {
+    "url": "https://aera.finance",
+    "name": "Aera V3",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/aera-v3",
+    "description": "Autonomous onchain treasury management protocol for DAOs, built by the team at Gauntlet."
+  },
+  {
+    "url": "https://figure.com",
+    "name": "Figure Markets Democratized Prime",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/figure-markets-democratized-prime",
+    "description": "Democratized Prime connects your cash or crypto with borrowers seeking liquidity on their collateral"
+  },
+  {
+    "url": "https://derive.xyz",
+    "name": "Derive V2",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/derive",
+    "description": "Trade options, perps and spot on the most powerful self-custodial exchange."
+  },
+  {
     "url": "https://stargate.finance",
     "name": "Stargate V2",
     "category": [
@@ -1245,6 +1235,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/stargate-v2",
     "description": "Stargate V2 offers reduced bridging costs, expands chain connectivity, and improves capital efficiency using transaction batching, Hydra, and an AI-driven Planning Module (AIPM)."
+  },
+  {
+    "url": "https://naviprotocol.io",
+    "name": "NAVI Lending",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/navi-lending",
+    "description": "NAVI offers over collateralized lending/borrowing for SUI, USDC, USDT, wETH and wBTC and supports features like isolated pool, flash loan and soon to come crosschain lending/borrowing."
   },
   {
     "url": "https://frax.com",
@@ -1260,6 +1259,15 @@
     "description": "Fraxtal, launched by Frax finance, is an L2 ETH scaling solution featuring a modular rollup design on the OP stack. It uses frxETH for gas, adds Blockspace Incentives (FLOX) for rewarding engagement, and offers a veFXS contract for cross-chain staking"
   },
   {
+    "url": "https://suilend.fi",
+    "name": "Suilend",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/suilend",
+    "description": "Suilend is a lending protocol on Sui, built by the team behind Solend."
+  },
+  {
     "url": "https://blend.capital",
     "name": "Blend Pools V2",
     "category": [
@@ -1267,33 +1275,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/blend-pools-v2",
     "description": "Lending markets created with Blend."
-  },
-  {
-    "url": "https://pinksale.finance",
-    "name": "PinkSale",
-    "category": [
-      "Launchpad"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pinksale",
-    "description": "PinkSale is a decentralized launchpad that allows users to launch their own token and create their own initial token sale"
-  },
-  {
-    "url": "https://naviprotocol.io",
-    "name": "NAVI Lending",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/navi-lending",
-    "description": "NAVI offers over collateralized lending/borrowing for SUI, USDC, USDT, wETH and wBTC and supports features like isolated pool, flash loan and soon to come crosschain lending/borrowing."
-  },
-  {
-    "url": "https://lagoon.finance",
-    "name": "Lagoon",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/lagoon",
-    "description": "LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products. Powered by the ERC-7540 standard, curators manage deposits and withdrawals asynchronously, while users can join any public vault to start earning on their assets."
   },
   {
     "url": "https://figuremarkets.com",
@@ -1305,6 +1286,24 @@
     "description": "A crypto exchange designed for traders who demand more. Benefit from the security and asset control of decentralized custody with the ease and liquidity of a centralized exchange"
   },
   {
+    "url": "https://pinksale.finance",
+    "name": "PinkSale",
+    "category": [
+      "Launchpad"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/pinksale",
+    "description": "PinkSale is a decentralized launchpad that allows users to launch their own token and create their own initial token sale"
+  },
+  {
+    "url": "https://lagoon.finance",
+    "name": "Lagoon",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/lagoon",
+    "description": "LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products. Powered by the ERC-7540 standard, curators manage deposits and withdrawals asynchronously, while users can join any public vault to start earning on their assets."
+  },
+  {
     "url": "https://axelar.network",
     "name": "Axelar",
     "category": [
@@ -1314,15 +1313,6 @@
     "description": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click."
   },
   {
-    "url": "https://suilend.fi",
-    "name": "Suilend",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/suilend",
-    "description": "Suilend is a lending protocol on Sui, built by the team behind Solend."
-  },
-  {
     "url": "https://stakedao.org",
     "name": "Stake DAO Yield",
     "category": [
@@ -1330,6 +1320,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/stake-dao-yield",
     "description": "Stake DAO is a non-custodial decentralized protocol enabling users to access optimized yield opportunities in DeFi"
+  },
+  {
+    "url": "https://wintermute.com",
+    "name": "Armitage by Wintermute",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/armitage-by-wintermute",
+    "description": "Armitage is Wintermute's onchain vault curation arm, applying institutional-grade risk management and trading infrastructure to DeFi yield."
   },
   {
     "url": "https://saturn.credit",
@@ -1366,15 +1365,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/tydro",
     "description": "Tydro is a non-custodial lending protocol for onchain capital markets. Powered by Aave and built on Ink"
-  },
-  {
-    "url": "https://wintermute.com",
-    "name": "Armitage by Wintermute",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/armitage-by-wintermute",
-    "description": "Armitage is Wintermute's onchain vault curation arm, applying institutional-grade risk management and trading infrastructure to DeFi yield."
   },
   {
     "url": "https://yieldbasis.com",
@@ -1423,6 +1413,15 @@
     "description": "f(x) Protocol is a decentralized on-chain trading platform that enables stress-free leverage on ETH and WBTC while delivering the highest organic & sustainable yield on stablecoins. By utilizing an innovative mechanism, we offer up to 7X long or short exposure with minimum liquidation risk & funding costs. To fuel the leverage positions, the protocol mints fxUSD, a scalable & decentralized stablecoin with a strong peg to the dollar and backed by wstETH and WBTC."
   },
   {
+    "url": "https://near.org",
+    "name": "NEAR Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/near",
+    "description": "Effortlessly create and distribute innovative decentralized apps across any blockchain, while helping build a more open web, with the NEAR Blockchain Operating System (BOS)."
+  },
+  {
     "url": "https://avalonfinance.xyz",
     "name": "Avalon Superearn",
     "category": [
@@ -1450,15 +1449,6 @@
     "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
   },
   {
-    "url": "https://near.org",
-    "name": "NEAR Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/near",
-    "description": "Effortlessly create and distribute innovative decentralized apps across any blockchain, while helping build a more open web, with the NEAR Blockchain Operating System (BOS)."
-  },
-  {
     "url": "https://renzoprotocol.com",
     "name": "Renzo",
     "category": [
@@ -1471,20 +1461,19 @@
     "url": "https://avantprotocol.com",
     "name": "Avant avUSD",
     "category": [
-      "Basis Trading",
       "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/avant-avusd",
     "description": "Avant is a DeFi platform established in June 2024 with the mission to create a more inclusive financial system through a DeFi-powered stable-value token. The platform introduces avUSD, a stable-value token, and savUSD, its staked, yield-bearing counterpart."
   },
   {
-    "url": "https://beefy.com",
-    "name": "Beefy",
+    "url": "https://metapool.app",
+    "name": "Meta Pool Near",
     "category": [
-      "Yield Aggregator"
+      "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/beefy",
-    "description": "Beefy automates yield farming to make DeFi easy, safe and efficient for all. By autocompounding your tokens, Beefy unlocks higher returns so you earn more of what you love."
+    "icon": "https://icons.llamao.fi/icons/protocols/meta-pool-near",
+    "description": "Meta Pool is a liquid staking protocol built on the NEAR blockchain."
   },
   {
     "url": "https://ember.so",
@@ -1496,6 +1485,15 @@
     "description": "Ember is the investment platform and infrastructure for launching, accessing, and distributing traditional and onchain financial products through crypto capital markets."
   },
   {
+    "url": "https://beefy.com",
+    "name": "Beefy",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/beefy",
+    "description": "Beefy automates yield farming to make DeFi easy, safe and efficient for all. By autocompounding your tokens, Beefy unlocks higher returns so you earn more of what you love."
+  },
+  {
     "url": "https://extended.exchange",
     "name": "Extended Perps",
     "category": [
@@ -1503,15 +1501,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/extended-perps",
     "description": "Extended is a perp DEX, built by ex-Revolut team, on a mission to offer the most extensive product portfolio in DeFi—featuring cross-asset collateral, unified margin, perps, spot, and lending markets."
-  },
-  {
-    "url": "https://metapool.app",
-    "name": "Meta Pool Near",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/meta-pool-near",
-    "description": "Meta Pool is a liquid staking protocol built on the NEAR blockchain."
   },
   {
     "url": "https://nexusmutual.io",
@@ -1560,6 +1549,15 @@
     "description": "RSK bridge with Ethereum. You can convert your tokens from RSK to Ethereum and viceversa."
   },
   {
+    "url": "https://valos.io",
+    "name": "Valos",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/valos",
+    "description": "Institutional-Grade Digital Asset Yield Solutions."
+  },
+  {
     "url": "https://riverai.inc",
     "name": "River Omni-CDP",
     "category": [
@@ -1569,13 +1567,22 @@
     "description": "River is building the circulatory system for crypto, connecting assets, liquidity, and yield across chains. Powered by the omni-CDP stablecoin protocol"
   },
   {
-    "url": "https://valos.io",
-    "name": "Valos",
+    "url": "https://stake.link",
+    "name": "stake.link liquid",
     "category": [
-      "RWA"
+      "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/valos",
-    "description": "Institutional-Grade Digital Asset Yield Solutions."
+    "icon": "https://icons.llamao.fi/icons/protocols/stake.link-liquid",
+    "description": "Effortlessly stake your crypto assets with stake.link's easy to use, secure liquid staking protocol."
+  },
+  {
+    "url": "https://vvs.finance",
+    "name": "VVS Standard",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/vvs-standard",
+    "description": "VVS is designed to be the simplest DeFi platform for users to swap tokens, earn high yields, and most importantly have fun!"
   },
   {
     "url": "https://echo-protocol.xyz",
@@ -1594,24 +1601,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/enzyme-finance",
     "description": "Fast & cost-effective way to build, scale and monetize investment strategies."
-  },
-  {
-    "url": "https://vvs.finance",
-    "name": "VVS Standard",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/vvs-standard",
-    "description": "VVS is designed to be the simplest DeFi platform for users to swap tokens, earn high yields, and most importantly have fun!"
-  },
-  {
-    "url": "https://stake.link",
-    "name": "stake.link liquid",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/stake.link-liquid",
-    "description": "Effortlessly stake your crypto assets with stake.link's easy to use, secure liquid staking protocol."
   },
   {
     "url": "https://save.finance",
@@ -1706,15 +1695,6 @@
     "description": "sUSD1+ is a value-accruing yield-generating stablecoin developed by Lorenzo Labs. Users can mint sUSD1+ by depositing major stablecoins such as USD1, USDT, or USDC"
   },
   {
-    "url": "https://yuzu.money",
-    "name": "Yuzu Money",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/yuzu-money",
-    "description": "An overcollateralized stablecoin backed by curated on-chain strategies designed to offer some of the highest yields in DeFi. Users can stake yzUSD to receive the yield-bearing syzUSD. Depositors in yzPP accept first-loss risk on the underlying strategies in exchange for a higher target yield, which is partially funded by a Reserve Fund."
-  },
-  {
     "url": "https://firelight.finance",
     "name": "Firelight",
     "category": [
@@ -1722,6 +1702,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/firelight",
     "description": "When a user stakes XRP through Firelight, the XRP is locked on the XRPL, and a liquid staking token (LST) is minted on the Flare Network. This LST allows stakers to participate in further DeFi opportunities without losing exposure to their underlying XRP."
+  },
+  {
+    "url": "https://yuzu.money",
+    "name": "Yuzu Money",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/yuzu-money",
+    "description": "An overcollateralized stablecoin backed by curated on-chain strategies designed to offer some of the highest yields in DeFi. Users can stake yzUSD to receive the yield-bearing syzUSD. Depositors in yzPP accept first-loss risk on the underlying strategies in exchange for a higher target yield, which is partially funded by a Reserve Fund."
   },
   {
     "url": "https://valdora.finance",
@@ -1733,6 +1722,15 @@
     "description": "Valdora Finance is the liquid staking protocol built on ZIGChain, offering secure, non-custodial, and decentralized staking through its flagship token — stZIG."
   },
   {
+    "url": "https://springsui.com",
+    "name": "SpringSui",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/spring-sui",
+    "description": "Spring Staked SUI (sSUI) is the first LST built using the SpringSui standard. It offers significant improvements over existing LSTs, most notably instant unstaking. Instant unstaking allows for infinite liquidity when unstaking, enhancing safety by reducing the risk of depegging. In the future, other teams will be able to deploy their own LSTs on the platform permissionlessly and at no cost using the SpringSui Standard"
+  },
+  {
     "url": "https://wisetoken.com",
     "name": "Wise Token",
     "category": [
@@ -1742,15 +1740,6 @@
     "description": "A stable coin yield protocol, one of several powering WISE: the ETH-backed neutral reserve asset with the largest LP on Uniswap, and a Burn Alliance."
   },
   {
-    "url": "https://treehouse.finance",
-    "name": "Treehouse Protocol",
-    "category": [
-      "DOR"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/treehouse-protocol",
-    "description": "Treehouse is a decentralized application that introduces Treehouse Assets (tAssets) and Decentralized Offered Rates (DOR), new primitives that enable fixed income products in digital assets."
-  },
-  {
     "url": "https://ipor.io",
     "name": "Fusion by IPOR",
     "category": [
@@ -1758,6 +1747,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/fusion-by-ipor.svg",
     "description": "Fusion (by IPOR) is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
+  },
+  {
+    "url": "https://treehouse.finance",
+    "name": "Treehouse Protocol",
+    "category": [
+      "DOR"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/treehouse-protocol",
+    "description": "Treehouse is a decentralized application that introduces Treehouse Assets (tAssets) and Decentralized Offered Rates (DOR), new primitives that enable fixed income products in digital assets."
   },
   {
     "url": "https://reservoir.xyz",
@@ -1778,15 +1776,6 @@
     "description": "Tori Finance is a synthetic dollar protocol where trUSD is backed by delta-neutral trading positions and can be staked into strUSD to earn yield from those market-neutral strategies."
   },
   {
-    "url": "https://zestprotocol.com",
-    "name": "Zest V2",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/zest-v2",
-    "description": "Zest Protocol is an open-source, on-chain lending platform built for Bitcoin, allowing users to earn or borrow against their BTC"
-  },
-  {
     "url": "https://dydx.trade",
     "name": "dYdX V4",
     "category": [
@@ -1796,22 +1785,13 @@
     "description": " dYdX Chain Mainnet, a robust blockchain built with the CosmosSDK. This documentation is diligently maintained by the dYdX Operations subDAO to provide a comprehensive resource for validators, developers, and the dYdX community at large."
   },
   {
-    "url": "https://rysk.finance",
-    "name": "Rysk V12",
+    "url": "https://zestprotocol.com",
+    "name": "Zest V2",
     "category": [
-      "Options Vault"
+      "Lending"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/rysk-v12",
-    "description": "Rysk V12 introduces a new way to earn high, sustainable yield on ETH, BTC, and any volatile asset in DeFi. DeFi’s biggest gap has been obvious: scalable, efficient returns on its core assets. These assets are held by everyone, yet their yields remain low and unsustainable. Rysk fixes this by reimagining covered calls, a proven strategy from traditional finance, and making it work for DeFi."
-  },
-  {
-    "url": "https://springsui.com",
-    "name": "SpringSui",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/spring-sui",
-    "description": "Spring Staked SUI (sSUI) is the first LST built using the SpringSui standard. It offers significant improvements over existing LSTs, most notably instant unstaking. Instant unstaking allows for infinite liquidity when unstaking, enhancing safety by reducing the risk of depegging. In the future, other teams will be able to deploy their own LSTs on the platform permissionlessly and at no cost using the SpringSui Standard"
+    "icon": "https://icons.llamao.fi/icons/protocols/zest-v2",
+    "description": "Zest Protocol is an open-source, on-chain lending platform built for Bitcoin, allowing users to earn or borrow against their BTC"
   },
   {
     "url": "https://circle.com",
@@ -1824,6 +1804,15 @@
     "description": "Circle Gateway enables a unified USDC balance, unlocking on-demand liquidity and redefining crosschain UX"
   },
   {
+    "url": "https://thorchain.org",
+    "name": "THORChain DEX",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/thorchain-dex",
+    "description": "THORChain is a decentralized exchange (DEX) enabling native cross-chain swaps without wrapped assets or bridges. All trades occur on-chain and are permissionless."
+  },
+  {
     "url": "https://frankencoin.com",
     "name": "Frankencoin",
     "category": [
@@ -1833,13 +1822,13 @@
     "description": "Frankencoin is a collateralized, oracle-free stablecoin that tracks the value of the Swiss franc."
   },
   {
-    "url": "https://thorchain.org",
-    "name": "THORChain DEX",
+    "url": "https://zircuit.com",
+    "name": "Zircuit Staking",
     "category": [
-      "Dexs"
+      "Farm"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/thorchain-dex",
-    "description": "THORChain is a decentralized exchange (DEX) enabling native cross-chain swaps without wrapped assets or bridges. All trades occur on-chain and are permissionless."
+    "icon": "https://icons.llamao.fi/icons/protocols/zircuit-staking",
+    "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
   },
   {
     "url": "https://edgex.exchange",
@@ -1870,16 +1859,6 @@
     "description": "Bridge between Ethereum and Blast Mainnet."
   },
   {
-    "url": "https://alphafi.xyz",
-    "name": "AlphaFi Lending",
-    "category": [
-      "Lending",
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/alphafi-lending",
-    "description": "AlphaLend is a DeFi protocol on the Sui blockchain that enables permissionless lending and borrowing of digital assets. By depositing assets into the protocol, users can earn interest or use their holdings as collateral to access liquidity. Designed with security and composability in mind, AlphaLend provides essential financial primitives for building and interacting with decentralized applications."
-  },
-  {
     "url": "https://zerobase.pro",
     "name": "ZEROBASE CeDeFi",
     "category": [
@@ -1889,13 +1868,13 @@
     "description": "ZEROBASE introduces the first zk-powered staking product on stablecoins"
   },
   {
-    "url": "https://zircuit.com",
-    "name": "Zircuit Staking",
+    "url": "https://chutes.ai",
+    "name": "Chutes",
     "category": [
-      "Farm"
+      "Decentralized AI"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/zircuit-staking",
-    "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
+    "icon": "https://icons.llamao.fi/icons/protocols/chutes",
+    "description": "The Decentralized, Distributed Serverless AI Compute Platform"
   },
   {
     "url": "https://inkonchain.com",
@@ -1905,6 +1884,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/ink-bridge",
     "description": "Bridge for Ink chain by Kraken"
+  },
+  {
+    "url": "https://soniclabs.com",
+    "name": "Sonic Gateway",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/sonic-gateway",
+    "description": "Canonical Bridge for Sonic chain"
   },
   {
     "url": "https://stusdt.io",
@@ -1925,15 +1913,6 @@
     "description": "Bridge between PulseChain and Ethereum"
   },
   {
-    "url": "https://soniclabs.com",
-    "name": "Sonic Gateway",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/sonic-gateway",
-    "description": "Canonical Bridge for Sonic chain"
-  },
-  {
     "url": "https://origami.finance",
     "name": "Origami Finance",
     "category": [
@@ -1941,15 +1920,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/origami-finance",
     "description": "Origami is a first-in-class automated leverage protocol launching on Ethereum and 🐻"
-  },
-  {
-    "url": "https://chutes.ai",
-    "name": "Chutes",
-    "category": [
-      "Decentralized AI"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/chutes",
-    "description": "The Decentralized, Distributed Serverless AI Compute Platform"
   },
   {
     "url": "https://arrakis.finance",
@@ -1980,6 +1950,15 @@
     "description": "Gami provides on-chain asset management infrastructure with active curation & dynamic risk management."
   },
   {
+    "url": "https://stellardefihub.com",
+    "name": "Stellar DeFi Hub",
+    "category": [
+      "Farm"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/stellar-defi-hub",
+    "description": "Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults and accrue rewards"
+  },
+  {
     "url": "https://axis.to",
     "name": "Axis",
     "category": [
@@ -1996,6 +1975,24 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/nado-spot",
     "description": "Nado is a vertically-integrated decentralized exchange for spot and perpetual futures, featuring an off-chain sequencer and on-chain settlement on Ink. The platform delivers a high-performance CLOB experience where trades execute in milliseconds, with deep liquidity powered in part by the NLP (Nado Liquidity Provider) vault."
+  },
+  {
+    "url": "https://current.finance",
+    "name": "Current",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/current",
+    "description": "Current is the capital efficiency layer for all future assets on Sui. One click multiply yield, isolated lending market, your capital has never worked this hard before."
+  },
+  {
+    "url": "https://40acres.finance",
+    "name": "40 Acres",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/40-acres",
+    "description": "40acres is a pioneering DeFi platform and community DAO that empowers users to unlock the potential of their assets through Self-Repaying, non-liquidating loans"
   },
   {
     "url": "https://markets.xyz",
@@ -2025,6 +2022,15 @@
     "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena."
   },
   {
+    "url": "https://fables.fi",
+    "name": "Fables",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/fables",
+    "description": "A dynamic-fee ve(3,3) DEX built on Uniswap v4. Each pool charges a fee tuned to its asset — calendar-based for tokenised stocks, volatility-based for crypto — so LPs are paid more when a trade is more likely to be against them."
+  },
+  {
     "url": "https://agglayer.dev",
     "name": "Vault Bridge",
     "category": [
@@ -2032,42 +2038,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/vault-bridge",
     "description": "The Agglayer's VaultBridge is a customizable yield-generating mechanism for providing chains with a native revenue stream"
-  },
-  {
-    "url": "https://current.finance",
-    "name": "Current",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/current",
-    "description": "Current is the capital efficiency layer for all future assets on Sui. One click multiply yield, isolated lending market, your capital has never worked this hard before."
-  },
-  {
-    "url": "https://tulipa.capital",
-    "name": "Tulipa Capital",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/tulipa-capital",
-    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
-  },
-  {
-    "url": "https://galaxy.com",
-    "name": "Galaxy Curation",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/galaxy-curation",
-    "description": "Galaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence."
-  },
-  {
-    "url": "https://lisk.com",
-    "name": "Lisk Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/lisk-bridge",
-    "description": "We offer Web3 founders in Emerging Markets the ultimate ecosystem to bring their real-world applications to life."
   },
   {
     "url": "https://pulsex.com",
@@ -2079,15 +2049,6 @@
     "description": "PulseX enables you to exchange tokens (\"PRC20s\") on PulseChain for one another"
   },
   {
-    "url": "https://fables.fi",
-    "name": "Fables",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/fables",
-    "description": "A dynamic-fee ve(3,3) DEX built on Uniswap v4. Each pool charges a fee tuned to its asset — calendar-based for tokenised stocks, volatility-based for crypto — so LPs are paid more when a trade is more likely to be against them."
-  },
-  {
     "url": "https://hemi.xyz",
     "name": "Hemi Staking",
     "category": [
@@ -2097,13 +2058,13 @@
     "description": "Stake your assets to earn rewards and boost your points"
   },
   {
-    "url": "https://ring.exchange",
-    "name": "Ring Few",
+    "url": "https://galaxy.com",
+    "name": "Galaxy Curation",
     "category": [
-      "Bridge"
+      "Risk Curators"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/ring-protocol",
-    "description": "Wrapper protocol within Ring Protocol"
+    "icon": "https://icons.llamao.fi/icons/protocols/galaxy-curation",
+    "description": "Galaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence."
   },
   {
     "url": "https://usefelix.xyz",
@@ -2116,6 +2077,33 @@
     "description": "Deposit assets to be lent via Morpho Vaults to earn interest."
   },
   {
+    "url": "https://tulipa.capital",
+    "name": "Tulipa Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/tulipa-capital",
+    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
+  },
+  {
+    "url": "https://ring.exchange",
+    "name": "Ring Few",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/ring-protocol",
+    "description": "Wrapper protocol within Ring Protocol"
+  },
+  {
+    "url": "https://haedal.xyz",
+    "name": "Haedal Protocol",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/haedal-protocol",
+    "description": "Haedal is a liquid staking protocol built on Sui that allows anyone to stake their SUI tokens to contribute to governance and decentralisation of the Sui blockchain. In the meantime, users will get haSUI in return so that they can continue to participate in DeFi activities to earn additional yields."
+  },
+  {
     "url": "https://sierra.money",
     "name": "Sierra Protocol",
     "category": [
@@ -2123,24 +2111,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/sierra-protocol",
     "description": "The Sierra Protocol reimagines money by issuing SIERRA, a Liquid Yield Token (LYT) built to deliver the best user experience across CeFi and DeFi"
-  },
-  {
-    "url": "https://40acres.finance",
-    "name": "40 Acres",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/40-acres",
-    "description": "40acres is a pioneering DeFi platform and community DAO that empowers users to unlock the potential of their assets through Self-Repaying, non-liquidating loans"
-  },
-  {
-    "url": "https://fluxfinance.com",
-    "name": "Flux Finance",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/flux-finance",
-    "description": "Flux Finance is a decentralized lending platform supporting permissioned assets"
   },
   {
     "url": "https://unitas.so",
@@ -2153,6 +2123,24 @@
     "description": "Unitas is a decentralized, yield-bearing stablecoin protocol built for the next generation of finance. It issues stablecoins that earn yield natively — no reliance on traditional banks. Powered by Solana, it's fast, scalable, and censorship-resistant"
   },
   {
+    "url": "https://lisk.com",
+    "name": "Lisk Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/lisk-bridge",
+    "description": "We offer Web3 founders in Emerging Markets the ultimate ecosystem to bring their real-world applications to life."
+  },
+  {
+    "url": "https://fluxfinance.com",
+    "name": "Flux Finance",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/flux-finance",
+    "description": "Flux Finance is a decentralized lending platform supporting permissioned assets"
+  },
+  {
     "url": "https://brickken.com",
     "name": "Brickken",
     "category": [
@@ -2160,15 +2148,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/brickken",
     "description": "Brickken enables businesses to create digital tokens backed by tokenized Real World Assets (RWA). Through the Token Suite, Clients can raise private or public capital by creating their own custom white-label token store & token offering."
-  },
-  {
-    "url": "https://prjx.com",
-    "name": "Project X",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/project-x",
-    "description": "Project X is built on the belief that tech is becoming increasingly commoditized and the next era of DeFi will be won by innovating on distribution, incentive design and UX."
   },
   {
     "url": "https://auto.finance",
@@ -2189,22 +2168,13 @@
     "description": "Tangible is an NFT marketplace for Real World Assets. Tangible is also the creator of Real USD, the first stablecoin backed by tokenized, yield-producing real estate.Rental income from Real USD’s backing is paid out to Real USD holders in the form of a daily rebase projected to range between 10 - 15% APY."
   },
   {
-    "url": "https://scroll.io",
-    "name": "Scroll Bridge",
+    "url": "https://prjx.com",
+    "name": "Project X",
     "category": [
-      "Canonical Bridge"
+      "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/scroll-bridge",
-    "description": "Transfer assets between Scroll and Ethereum"
-  },
-  {
-    "url": "https://alchemix.fi",
-    "name": "Alchemix V3",
-    "category": [
-      "Synthetics"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/alchemix-v3",
-    "description": "Alchemix is a DeFi protocol that allows for the creation of synthetic tokens that represent the future yield of a deposit. It enables users to retrieve near instant tokenized value against temporary* deposits of stablecoins."
+    "icon": "https://icons.llamao.fi/icons/protocols/project-x",
+    "description": "Project X is built on the belief that tech is becoming increasingly commoditized and the next era of DeFi will be won by innovating on distribution, incentive design and UX."
   },
   {
     "url": "https://metalx.com",
@@ -2216,6 +2186,15 @@
     "description": "MetalX Lending is a DeFi lending protocol powered by the XPR Network"
   },
   {
+    "url": "https://scroll.io",
+    "name": "Scroll Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/scroll-bridge",
+    "description": "Transfer assets between Scroll and Ethereum"
+  },
+  {
     "url": "https://chilizchain.com",
     "name": "Chiliz Governance Staking",
     "category": [
@@ -2225,15 +2204,6 @@
     "description": "CHZ locked for the governance of Chiliz Chain, Validators and delegators stake their CHZ to take part in the governance of the PoSA chain in order to create and validate new blocks as well as to vote on any changes which require governance consensus."
   },
   {
-    "url": "https://3f.xyz",
-    "name": "3F",
-    "category": [
-      "Leveraged Farming"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/3f",
-    "description": "3F is a vault protocol built on Morpho that gives you leveraged exposure to tokenized RWAs."
-  },
-  {
     "url": "https://kinetic.market",
     "name": "Kinetic",
     "category": [
@@ -2241,6 +2211,24 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/kinetic",
     "description": "Kinetic is an ecosystem-tailored money market enhanced with an optional work-to-earn element."
+  },
+  {
+    "url": "https://alchemix.fi",
+    "name": "Alchemix V3",
+    "category": [
+      "Synthetics"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/alchemix-v3",
+    "description": "Alchemix is a DeFi protocol that allows for the creation of synthetic tokens that represent the future yield of a deposit. It enables users to retrieve near instant tokenized value against temporary* deposits of stablecoins."
+  },
+  {
+    "url": "https://3f.xyz",
+    "name": "3F",
+    "category": [
+      "Leveraged Farming"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/3f",
+    "description": "3F is a vault protocol built on Morpho that gives you leveraged exposure to tokenized RWAs."
   },
   {
     "url": "https://kaio.xyz",
@@ -2261,6 +2249,15 @@
     "description": "Aquarius is a novel AMM protocol and a liquidity management layer to Stellar. It offers stable and volatile pools with multihop swaps on top, and a community governance tool to distribute rewards between pool liquidity providers based on voting and bribing."
   },
   {
+    "url": "https://veno.finance",
+    "name": "Veno Finance",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/veno-finance",
+    "description": "Easy and Reliable Liquid Staking on Cronos chain"
+  },
+  {
     "url": "https://makina.finance",
     "name": "Makina",
     "category": [
@@ -2270,15 +2267,6 @@
     "description": "Makina the most advanced DeFi Execution Engine empowering sophisticated Operators to execute onchain yield strategies which maximize risk-adjusted return."
   },
   {
-    "url": "https://haedal.xyz",
-    "name": "Haedal Protocol",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/haedal-protocol",
-    "description": "Haedal is a liquid staking protocol built on Sui that allows anyone to stake their SUI tokens to contribute to governance and decentralisation of the Sui blockchain. In the meantime, users will get haSUI in return so that they can continue to participate in DeFi activities to earn additional yields."
-  },
-  {
     "url": "https://noon.capital",
     "name": "Noon",
     "category": [
@@ -2286,15 +2274,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/noon",
     "description": "Noon is a yield optimization protocol that generates delta-neutral returns, maximizes governance token utility, and ensures fair, sustainable value distribution"
-  },
-  {
-    "url": "https://veno.finance",
-    "name": "Veno Finance",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/veno-finance",
-    "description": "Easy and Reliable Liquid Staking on Cronos chain"
   },
   {
     "url": "https://nodedao.com",
@@ -2316,13 +2295,13 @@
     "description": "Deposit tokens to earn $DROPS token for the upcoming token $BUT"
   },
   {
-    "url": "https://stellardefihub.com",
-    "name": "Stellar DeFi Hub",
+    "url": "https://stackingdao.com",
+    "name": "StackingDAO",
     "category": [
-      "Farm"
+      "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/stellar-defi-hub",
-    "description": "Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults and accrue rewards"
+    "icon": "https://icons.llamao.fi/icons/protocols/stackingdao",
+    "description": "Start stacking STX, review your existing STX locked in PoX, and unstack at any time, for the best price."
   },
   {
     "url": "https://reserve.org",
@@ -2334,24 +2313,6 @@
     "description": "The Reserve Protocol is a platform which enables anyone to create yield-bearing, decentralized, and asset-backed currencies (RTokens). RTokens provide an alternative to inflation-prone currencies, empowering people to maintain their purchasing power over time and across borders"
   },
   {
-    "url": "https://stackingdao.com",
-    "name": "StackingDAO",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/stackingdao",
-    "description": "Start stacking STX, review your existing STX locked in PoX, and unstack at any time, for the best price."
-  },
-  {
-    "url": "https://yo.xyz",
-    "name": "YO Protocol",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/yo-protocol",
-    "description": "Set it and forget it. YO is your secure multi-chain yield optimizer, continuously rebalancing to deliver the best risk-adjusted yield in DeFi."
-  },
-  {
     "url": "https://strata.markets",
     "name": "Strata Markets",
     "category": [
@@ -2359,15 +2320,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/strata-markets",
     "description": "Strata is a generalized risk-tranching protocol designed to offer structured yields via tokenized senior and junior tranches across diverse on-chain and off-chain yield strategies."
-  },
-  {
-    "url": "https://gravity.xyz",
-    "name": "Gravity by Galxe",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/gravity-by-galxe",
-    "description": "Gravity, built by Galxe, is an omnichannel settlement layer designed for mass adoption. It uses Zero-Knowledge Proofs, staking architecture, and advanced consensus mechanisms for high performance."
   },
   {
     "url": "https://vfat.io",
@@ -2379,31 +2331,32 @@
     "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody"
   },
   {
-    "url": "https://aegis.im",
-    "name": "Aegis YUSD",
+    "url": "https://gravity.xyz",
+    "name": "Gravity by Galxe",
     "category": [
-      "Basis Trading"
+      "Canonical Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/aegis-yusd",
-    "description": "Aegis performs funding rate arbitrage through delta-neutral trades in spot and perpetual markets, effectively generating profits from funding fees. These fees, disbursed three times daily, align perpetual contract and spot prices, ultimately rewarding YUSD holders."
+    "icon": "https://icons.llamao.fi/icons/protocols/gravity-by-galxe",
+    "description": "Gravity, built by Galxe, is an omnichannel settlement layer designed for mass adoption. It uses Zero-Knowledge Proofs, staking architecture, and advanced consensus mechanisms for high performance."
   },
   {
-    "url": "https://grvt.io",
-    "name": "Grvt Bridge",
+    "url": "https://yo.xyz",
+    "name": "YO Protocol",
     "category": [
-      "Bridge"
+      "Yield Aggregator"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/grvt-bridge",
-    "description": "Grvt is the preeminent DEX for onchain financial privacy that is powered by zero-knowledge technology, ensuring private, trustless, scalable and secure infrastructure"
+    "icon": "https://icons.llamao.fi/icons/protocols/yo-protocol",
+    "description": "Set it and forget it. YO is your secure multi-chain yield optimizer, continuously rebalancing to deliver the best risk-adjusted yield in DeFi."
   },
   {
-    "url": "https://mysticfinance.xyz",
-    "name": "Mystic Finance Lending",
+    "url": "https://alphafi.xyz",
+    "name": "AlphaFi Lending",
     "category": [
-      "Lending"
+      "Lending",
+      "Yield Aggregator"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/mystic-finance-lending",
-    "description": "The RWAfi money market: lend, borrow and leverage your assets on Plume Network's native money market"
+    "icon": "https://icons.llamao.fi/icons/protocols/alphafi-lending",
+    "description": "AlphaLend is a DeFi protocol on the Sui blockchain that enables permissionless lending and borrowing of digital assets. By depositing assets into the protocol, users can earn interest or use their holdings as collateral to access liquidity. Designed with security and composability in mind, AlphaLend provides essential financial primitives for building and interacting with decentralized applications."
   },
   {
     "url": "https://extrafi.io",
@@ -2415,6 +2368,42 @@
     "description": "Extra Finance is a community-driven lending & leveraged yield farming protocol built on Optimism."
   },
   {
+    "url": "https://rysk.finance",
+    "name": "Rysk V12",
+    "category": [
+      "Options Vault"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/rysk-v12",
+    "description": "Rysk V12 introduces a new way to earn high, sustainable yield on ETH, BTC, and any volatile asset in DeFi. DeFi’s biggest gap has been obvious: scalable, efficient returns on its core assets. These assets are held by everyone, yet their yields remain low and unsustainable. Rysk fixes this by reimagining covered calls, a proven strategy from traditional finance, and making it work for DeFi."
+  },
+  {
+    "url": "https://aegis.im",
+    "name": "Aegis YUSD",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/aegis-yusd",
+    "description": "Aegis performs funding rate arbitrage through delta-neutral trades in spot and perpetual markets, effectively generating profits from funding fees. These fees, disbursed three times daily, align perpetual contract and spot prices, ultimately rewarding YUSD holders."
+  },
+  {
+    "url": "https://mysticfinance.xyz",
+    "name": "Mystic Finance Lending",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/mystic-finance-lending",
+    "description": "The RWAfi money market: lend, borrow and leverage your assets on Plume Network's native money market"
+  },
+  {
+    "url": "https://grvt.io",
+    "name": "Grvt Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/grvt-bridge",
+    "description": "Grvt is the preeminent DEX for onchain financial privacy that is powered by zero-knowledge technology, ensuring private, trustless, scalable and secure infrastructure"
+  },
+  {
     "url": "https://crypto.com",
     "name": "Crypto.com Liquid Staking",
     "category": [
@@ -2422,15 +2411,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/crypto.com-staked-eth",
     "description": "Liquid staking is available for ETH and Solana! Earn rewards and receive tradeable CDCETH and CDCSOL"
-  },
-  {
-    "url": "https://sui.io",
-    "name": "SuiBridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/suibridge",
-    "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture."
   },
   {
     "url": "https://connext.network",
@@ -2449,6 +2429,25 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/altura",
     "description": "Altura is an on-chain capital management protocol offering a multi-strategy stablecoin vault on HyperEVM."
+  },
+  {
+    "url": "https://sui.io",
+    "name": "SuiBridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/suibridge",
+    "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture."
+  },
+  {
+    "url": "https://hydration.net",
+    "name": "Hydration Lending",
+    "category": [
+      "Lending",
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/hydration-lending",
+    "description": "Hydration Lending is a decentralized lending protocol on Hydration."
   },
   {
     "url": "https://templarfi.org",
@@ -2479,16 +2478,6 @@
     "description": "Plasma Vaults are on-chain investment vaults that generate yield by deploying user deposits across leading DeFi protocols through Veda's infrastructure"
   },
   {
-    "url": "https://hydration.net",
-    "name": "Hydration Lending",
-    "category": [
-      "Lending",
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/hydration-lending",
-    "description": "Hydration Lending is a decentralized lending protocol on Hydration."
-  },
-  {
     "url": "https://inverse.finance",
     "name": "Inverse Finance FiRM",
     "category": [
@@ -2496,15 +2485,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/inverse-finance-firm",
     "description": "FiRM is a Fixed Rate Market protocol to borrow the DOLA usd stablecoin at a fixed-rate with the DOLA Borrowing Right token DBR."
-  },
-  {
-    "url": "https://d2.finance",
-    "name": "D2 Finance",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/d2-finance",
-    "description": "Tokenized Derivatives Strategies, dynamically managing risk and reward efficiently. Offering a robust suite of institutional-grade managed strategies within innovative, non-custodial single-click vault architecture."
   },
   {
     "url": "https://botchain.ai",
@@ -2516,6 +2496,15 @@
     "description": "BDEX V3 is a concentrated-liquidity decentralized exchange on BOT Chain"
   },
   {
+    "url": "https://d2.finance",
+    "name": "D2 Finance",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/d2-finance",
+    "description": "Tokenized Derivatives Strategies, dynamically managing risk and reward efficiently. Offering a robust suite of institutional-grade managed strategies within innovative, non-custodial single-click vault architecture."
+  },
+  {
     "url": "https://y10k.capital",
     "name": "Y10K Capital",
     "category": [
@@ -2523,33 +2512,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/y10k-capital",
     "description": "Actively managed onchain vehicle by Yield Network and RockawayX team focused on private onchain liquidity deals."
-  },
-  {
-    "url": "https://metis.io",
-    "name": "Metis Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/metis-bridge",
-    "description": "Bridge between Metis and Ethereum"
-  },
-  {
-    "url": "https://ankr.com",
-    "name": "Ankr",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/ankr",
-    "description": "Liquid, secure, and easy to integrate staking infrastructure."
-  },
-  {
-    "url": "https://orderly.network",
-    "name": "Orderly Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/orderly-bridge",
-    "description": "Orderly is an omnichain CLOB infrastructure.It’s the ultimate trading lego for seamless integration by any builder on any blockchain. Give your app the transparency and composability of DEXs, with the speed and performance of CEXs."
   },
   {
     "url": "https://immutable.com",
@@ -2561,13 +2523,49 @@
     "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
   },
   {
-    "url": "https://standx.com",
-    "name": "StandX Bridge",
+    "url": "https://ankr.com",
+    "name": "Ankr",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/ankr",
+    "description": "Liquid, secure, and easy to integrate staking infrastructure."
+  },
+  {
+    "url": "https://metis.io",
+    "name": "Metis Bridge",
     "category": [
       "Canonical Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/standx-bridge",
-    "description": "StandX is a Perps DEX live on Mainnet across BNB and Solana, powered by its native yield bearing DUSD."
+    "icon": "https://icons.llamao.fi/icons/protocols/metis-bridge",
+    "description": "Bridge between Metis and Ethereum"
+  },
+  {
+    "url": "https://zoofi.io",
+    "name": "Zoo Finance",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/zoo-finance",
+    "description": "Structured Asset Protocol for Better Liquidity Utilization."
+  },
+  {
+    "url": "https://orderly.network",
+    "name": "Orderly Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/orderly-bridge",
+    "description": "Orderly is an omnichain CLOB infrastructure.It’s the ultimate trading lego for seamless integration by any builder on any blockchain. Give your app the transparency and composability of DEXs, with the speed and performance of CEXs."
+  },
+  {
+    "url": "https://cetus.zone",
+    "name": "Cetus CLMM",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/cetus-clmm",
+    "description": "Cetus is a pioneer DEX and concentrated liquidity protocol focusing on Move-based ecosystems like Aptos and Sui. It works as a crucial part of the ecosystem infrastructure to satisfy the comprehensive needs of traders, LPs, upper applications and an increasing DeFi population."
   },
   {
     "url": "https://pumpbtc.xyz",
@@ -2579,22 +2577,22 @@
     "description": "PumpBTC serves as a Liquid Restaking Solution for Babylon. PumpBTC aims to help BTC holders maximize yields through Babylon's liquid staking - essentially rebuilding WBTC with native yield"
   },
   {
-    "url": "https://rifonchain.com",
-    "name": "RIF ON CHAIN",
+    "url": "https://standx.com",
+    "name": "StandX Bridge",
     "category": [
-      "Dual-Token Stablecoin"
+      "Canonical Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/rif-on-chain",
-    "description": "RIF On Chain offers a censorship-resistant stablecoin protocol on Rootstock, enabling users to mint USDRIF, a fully crypto-collateralized stablecoin, and RIF PRO, a leveraged token for RIF holders and traders"
+    "icon": "https://icons.llamao.fi/icons/protocols/standx-bridge",
+    "description": "StandX is a Perps DEX live on Mainnet across BNB and Solana, powered by its native yield bearing DUSD."
   },
   {
-    "url": "https://rocksolid.network",
-    "name": "RockSolid Network",
+    "url": "https://wrapped.com",
+    "name": "Wrapped",
     "category": [
-      "Yield"
+      "Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/rocksolid-network",
-    "description": "RockSolid is a single-click integrated DeFi Vault platform that makes it simple for users to access the best DeFi rewards."
+    "icon": "https://icons.llamao.fi/icons/protocols/wrapped",
+    "description": "Your favorite assets on every blockchain. wrapped.com is a cross-chain institutional bridge. Designed for high-performance and speed."
   },
   {
     "url": "https://manta.network",
@@ -2607,6 +2605,15 @@
     "description": "Bridge between Ethereum and Manta Pacific Chain."
   },
   {
+    "url": "https://glif.io",
+    "name": "GLIF",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/glif",
+    "description": "GLIF is DePIN’s on-chain credit layer - liquidity providers earn rewards and hardware providers scale operations."
+  },
+  {
     "url": "https://ekubo.org",
     "name": "Ekubo",
     "category": [
@@ -2616,49 +2623,13 @@
     "description": "Ekubo Protocol is a dex built for Starknet, that features concentrated liquidity, a singleton architecture, and extensions"
   },
   {
-    "url": "https://wrapped.com",
-    "name": "Wrapped",
+    "url": "https://burnt.com",
+    "name": "XION Finance",
     "category": [
-      "Bridge"
+      "Chain"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/wrapped",
-    "description": "Your favorite assets on every blockchain. wrapped.com is a cross-chain institutional bridge. Designed for high-performance and speed."
-  },
-  {
-    "url": "https://rockx.com",
-    "name": "Bedrock uniETH",
-    "category": [
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bedrock-unieth",
-    "description": "uniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes"
-  },
-  {
-    "url": "https://cetus.zone",
-    "name": "Cetus CLMM",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/cetus-clmm",
-    "description": "Cetus is a pioneer DEX and concentrated liquidity protocol focusing on Move-based ecosystems like Aptos and Sui. It works as a crucial part of the ecosystem infrastructure to satisfy the comprehensive needs of traders, LPs, upper applications and an increasing DeFi population."
-  },
-  {
-    "url": "https://ts.finance",
-    "name": "TermMax",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/termmax",
-    "description": "TermMax is a DeFi AMM protocol that allows users to lend, borrow and one-click leverage at fixed-rates and with maturity dates. Users may earn passive yields via Vaults without the hassle of managing positions. Curators and Order Makers are empowered by the Range Order Tool to set their pricing curves and slippages to manage risk and return efficiently with ease"
-  },
-  {
-    "url": "https://zoofi.io",
-    "name": "Zoo Finance",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/zoo-finance",
-    "description": "Structured Asset Protocol for Better Liquidity Utilization."
+    "icon": "https://icons.llamao.fi/icons/protocols/xion-finance",
+    "description": "The First Walletless Blockchain Built For Main­stream Adoption. XION empowers developers to build, launch and scale consumer-ready products from the ground up, removing technical barriers for all users through its Chain Abstraction."
   },
   {
     "url": "https://stakee.org",
@@ -2670,22 +2641,59 @@
     "description": "Earn TON with best APY at most profitable staking service."
   },
   {
-    "url": "https://glif.io",
-    "name": "GLIF",
+    "url": "https://rockx.com",
+    "name": "Bedrock uniETH",
+    "category": [
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/bedrock-unieth",
+    "description": "uniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes"
+  },
+  {
+    "url": "https://rifonchain.com",
+    "name": "RIF ON CHAIN",
+    "category": [
+      "Dual-Token Stablecoin"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/rif-on-chain",
+    "description": "RIF On Chain offers a censorship-resistant stablecoin protocol on Rootstock, enabling users to mint USDRIF, a fully crypto-collateralized stablecoin, and RIF PRO, a leveraged token for RIF holders and traders"
+  },
+  {
+    "url": "https://ts.finance",
+    "name": "TermMax",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/termmax",
+    "description": "TermMax is a DeFi AMM protocol that allows users to lend, borrow and one-click leverage at fixed-rates and with maturity dates. Users may earn passive yields via Vaults without the hassle of managing positions. Curators and Order Makers are empowered by the Range Order Tool to set their pricing curves and slippages to manage risk and return efficiently with ease"
+  },
+  {
+    "url": "https://volosui.com",
+    "name": "Volo LST",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/glif",
-    "description": "GLIF is DePIN’s on-chain credit layer - liquidity providers earn rewards and hardware providers scale operations."
+    "icon": "https://icons.llamao.fi/icons/protocols/volo-lst",
+    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
   },
   {
-    "url": "https://gammaresearch.xyz",
-    "name": "Gamma Research",
+    "url": "https://kodiak.finance",
+    "name": "Kodiak Islands",
     "category": [
-      "Risk Curators"
+      "Liquidity Manager",
+      "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/gamma-research",
-    "description": "Gamma Research provides institutional risk management and strategy curation for on-chain vaults."
+    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
+    "description": "Liquidity Manager for Kodiak DEX"
+  },
+  {
+    "url": "https://rocksolid.network",
+    "name": "RockSolid Network",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/rocksolid-network",
+    "description": "RockSolid is a single-click integrated DeFi Vault platform that makes it simple for users to access the best DeFi rewards."
   },
   {
     "url": "https://chamberfi.com",
@@ -2697,15 +2705,6 @@
     "description": "Chamber, formerly dHEDGE, is a non-custodial vault protocol for creating and managing onchain vaults. The protocol uses smart contracts to manage how vaults interact with supported assets, integrations, and DeFi protocols. Chamber also powers products and strategies across its wider ecosystem, including Toros Finance and mStable."
   },
   {
-    "url": "https://internetcomputer.org",
-    "name": "Chain Fusion",
-    "category": [
-      "Decentralized BTC"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/chain-fusion",
-    "description": "Chain Fusion allows the Internet Computer Protocol (ICP) to interconnect with multiple blockchains in a decentralized manner, eliminating the need for a single trusted intermediary such as a bridge. The ability of ICP smart contracts to utilise threshold signature schemes to sign and submit transactions directly to other chains enables Chain-key tokens. Each Chain-key token on ICP is backed 1:1 by the native asset and is redeemable at any time. The native wallets are managed by a smart contracts on ICP, there are no intermediaries or centralized bridges. Chain-key tokens begin with ck (e.g. ckBTC, ckETH, etc.). They transact quickly (1 second finality) and transaction fees are negligible."
-  },
-  {
     "url": "https://ston.fi",
     "name": "STON.fi",
     "category": [
@@ -2713,6 +2712,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/ston.fi",
     "description": "Decentralized automated market maker (AMM) built on the TON blockchain"
+  },
+  {
+    "url": "https://internetcomputer.org",
+    "name": "Chain Fusion",
+    "category": [
+      "Decentralized BTC"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/chain-fusion",
+    "description": "Chain Fusion allows the Internet Computer Protocol (ICP) to interconnect with multiple blockchains in a decentralized manner, eliminating the need for a single trusted intermediary such as a bridge. The ability of ICP smart contracts to utilise threshold signature schemes to sign and submit transactions directly to other chains enables Chain-key tokens. Each Chain-key token on ICP is backed 1:1 by the native asset and is redeemable at any time. The native wallets are managed by a smart contracts on ICP, there are no intermediaries or centralized bridges. Chain-key tokens begin with ck (e.g. ckBTC, ckETH, etc.). They transact quickly (1 second finality) and transaction fees are negligible."
   },
   {
     "url": "https://yieldnest.finance",
@@ -2724,6 +2732,24 @@
     "description": "YieldNest is a next-generation liquid restaking protocol that provides simple-to-understand, risk-adjusted restaking strategies"
   },
   {
+    "url": "https://usenest.xyz",
+    "name": "nest CL",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/nest-cl",
+    "description": "NEST is built for Hyperliquid. Smart pools and efficient swaps power onchain rewards that compound value back to voters and the ecosystem."
+  },
+  {
+    "url": "https://gammaresearch.xyz",
+    "name": "Gamma Research",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/gamma-research",
+    "description": "Gamma Research provides institutional risk management and strategy curation for on-chain vaults."
+  },
+  {
     "url": "https://gearbox.finance",
     "name": "Gearbox",
     "category": [
@@ -2733,13 +2759,13 @@
     "description": "Gearbox Protocol is building a permissionless credit layer. Designed for seamless wallet integrations, reimagining traditional lending. So you can lend, borrow, or 10x leverage - directly inside your favorite wallets in one click."
   },
   {
-    "url": "https://abs.xyz",
-    "name": "Abstract",
+    "url": "https://phar.gg",
+    "name": "Pharaoh V3",
     "category": [
-      "Chain"
+      "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/abstract",
-    "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment"
+    "icon": "https://icons.llamao.fi/icons/protocols/pharaoh-v3",
+    "description": "Pharaoh is a concentrated liquidity layer and exchange built on the Avalanche C-Chain, powered by the latest metaDEX x(3,3) methodology—a more fluid and accessible version of the popular ve(3,3) model."
   },
   {
     "url": "https://bitu.io",
@@ -2761,15 +2787,6 @@
     "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
   },
   {
-    "url": "https://usenest.xyz",
-    "name": "nest CL",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/nest-cl",
-    "description": "NEST is built for Hyperliquid. Smart pools and efficient swaps power onchain rewards that compound value back to voters and the ecosystem."
-  },
-  {
     "url": "https://sunx.io",
     "name": "SunX Bridge",
     "category": [
@@ -2779,49 +2796,13 @@
     "description": "SunX is the first top-tier decentralized perpetual contract trading platform on the TRON blockchain, dedicated to providing users with an institutional-grade trading experience and ultimate asset security."
   },
   {
-    "url": "https://harvest.finance",
-    "name": "Harvest Finance",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/harvest-finance",
-    "description": "Harvest - grows your crypto with automated yield strategies"
-  },
-  {
-    "url": "https://waterline.build",
-    "name": "Waterline",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/waterline",
-    "description": "Waterline is a risk curator on Morpho, building onchain vault solutions based on client specifications."
-  },
-  {
-    "url": "https://phar.gg",
-    "name": "Pharaoh V3",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pharaoh-v3",
-    "description": "Pharaoh is a concentrated liquidity layer and exchange built on the Avalanche C-Chain, powered by the latest metaDEX x(3,3) methodology—a more fluid and accessible version of the popular ve(3,3) model."
-  },
-  {
-    "url": "https://burnt.com",
-    "name": "XION Finance",
+    "url": "https://abs.xyz",
+    "name": "Abstract",
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/xion-finance",
-    "description": "The First Walletless Blockchain Built For Main­stream Adoption. XION empowers developers to build, launch and scale consumer-ready products from the ground up, removing technical barriers for all users through its Chain Abstraction."
-  },
-  {
-    "url": "https://goldfinger.finance",
-    "name": "GoldFinger",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/goldfinger",
-    "description": "ART (Aurum Reserve Token) is gold-backed, yield-bearing token on BSC. Each ART is redeemable for physical gold reserves and automatically accrues daily yield from gold-related portfolio, enabling seamless DeFi composability while preserving gold's store-of-value properties."
+    "icon": "https://icons.llamao.fi/icons/protocols/abstract",
+    "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment"
   },
   {
     "url": "https://infrared.finance",
@@ -2833,13 +2814,31 @@
     "description": "Infrared Finance is a BERA liquid staking protocol which utilizes proof of liquidity to maximize yields"
   },
   {
-    "url": "https://volosui.com",
-    "name": "Volo LST",
+    "url": "https://waterline.build",
+    "name": "Waterline",
     "category": [
-      "Liquid Staking"
+      "Risk Curators"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/volo-lst",
-    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
+    "icon": "https://icons.llamao.fi/icons/protocols/waterline",
+    "description": "Waterline is a risk curator on Morpho, building onchain vault solutions based on client specifications."
+  },
+  {
+    "url": "https://harvest.finance",
+    "name": "Harvest Finance",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/harvest-finance",
+    "description": "Harvest - grows your crypto with automated yield strategies"
+  },
+  {
+    "url": "https://goldfinger.finance",
+    "name": "GoldFinger",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/goldfinger",
+    "description": "ART (Aurum Reserve Token) is gold-backed, yield-bearing token on BSC. Each ART is redeemable for physical gold reserves and automatically accrues daily yield from gold-related portfolio, enabling seamless DeFi composability while preserving gold's store-of-value properties."
   },
   {
     "url": "https://cronos.org",
@@ -2851,6 +2850,15 @@
     "description": "The next generation zero-knowledge layer 2 chain"
   },
   {
+    "url": "https://arcus.xyz",
+    "name": "Arcus Perps",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/arcus-perps",
+    "description": "Built by the team behind dYdX in partnership with Robinhood Crypto. Arcus is a blockchain-based smart contract protocol that permits self-custodial peer-to-peer trading of Stock Tokens, cryptoassets and perpetual futures."
+  },
+  {
     "url": "https://t-rize.io",
     "name": "T RIZE",
     "category": [
@@ -2860,13 +2868,13 @@
     "description": "T-RIZE is an institutional-grade RWA tokenization platform enhanced by decentralized machine learning."
   },
   {
-    "url": "https://native.org",
-    "name": "Native Credit Pool",
+    "url": "https://neutral.trade",
+    "name": "Neutral Trade",
     "category": [
-      "Lending"
+      "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/native-credit-pool",
-    "description": "Native Credit Pool is a unified, single-sided asset supply pool that enables market makers to borrow assets for trading, thereby enhancing liquidity in the on-chain spot market."
+    "icon": "https://icons.llamao.fi/icons/protocols/neutral-trade",
+    "description": "Neutral Trade is the on-chain multi-strategy hedge fund, built by experienced quants and traders from Goldman Sachs and Top Global Hedge Funds"
   },
   {
     "url": "https://moneyonchain.com",
@@ -2876,24 +2884,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/moneyonchain",
     "description": "Money On Chain is a self-contained DeFi protocol (a stablecoin, HODL token, leveraging mechanism, and more) which empowers Bitcoiners to improve performance of their assets while also retaining full control of their private keys."
-  },
-  {
-    "url": "https://paradex.trade",
-    "name": "Paradex Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/paradex-bridge",
-    "description": "Trade perpetuals on a high-performance DEX with deep liquidity, capital efficiency and low fees"
-  },
-  {
-    "url": "https://neutral.trade",
-    "name": "Neutral Trade",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/neutral-trade",
-    "description": "Neutral Trade is the on-chain multi-strategy hedge fund, built by experienced quants and traders from Goldman Sachs and Top Global Hedge Funds"
   },
   {
     "url": "https://tectonic.finance",
@@ -2914,6 +2904,15 @@
     "description": "By curating top-performing vaults, we empower our clients to access the best opportunities in decentralized finance with confidence and precision."
   },
   {
+    "url": "https://paradex.trade",
+    "name": "Paradex Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/paradex-bridge",
+    "description": "Trade perpetuals on a high-performance DEX with deep liquidity, capital efficiency and low fees"
+  },
+  {
     "url": "https://hakutora.xyz",
     "name": "Hakutora",
     "category": [
@@ -2921,15 +2920,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/hakutora",
     "description": "Hakutora focuses on uncovering on-chain opportunities and managing risk, providing top-tier asset management and risk control solutions."
-  },
-  {
-    "url": "https://arcus.xyz",
-    "name": "Arcus Perps",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/arcus-perps",
-    "description": "Built by the team behind dYdX in partnership with Robinhood Crypto. Arcus is a blockchain-based smart contract protocol that permits self-custodial peer-to-peer trading of Stock Tokens, cryptoassets and perpetual futures."
   },
   {
     "url": "https://across.to",
@@ -2941,6 +2931,15 @@
     "description": "Across protocol is a novel bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet."
   },
   {
+    "url": "https://astar.network",
+    "name": "Astar dApps Staking",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/astar-dapps-staking",
+    "description": "Astar Network is a multi-chain decentralized application layer on Kusama Network. dApp staking is a mechanism that incentives developers who built in the Astar ecosystem. Users can stake on those dApps to earn staking rewards and at the same time support the project by giving them a daily income."
+  },
+  {
     "url": "https://liminal.money",
     "name": "Liminal Basis",
     "category": [
@@ -2948,6 +2947,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/liminal-basis",
     "description": "Liminal is designed to capture yield sources offered by Hyperliquid and distribute them through fully automated strategies across all ecosystems"
+  },
+  {
+    "url": "https://native.org",
+    "name": "Native Credit Pool",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/native-credit-pool",
+    "description": "Native Credit Pool is a unified, single-sided asset supply pool that enables market makers to borrow assets for trading, thereby enhancing liquidity in the on-chain spot market."
   },
   {
     "url": "https://steer.finance",
@@ -2977,13 +2985,13 @@
     "description": "One-Stop Staking Protocol For Omnichain LST Liquidity."
   },
   {
-    "url": "https://rain.one",
-    "name": "Rain",
+    "url": "https://api3.org",
+    "name": "Api3",
     "category": [
-      "Prediction Market"
+      "Risk Curators"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/rain",
-    "description": "Rain | Decentralized Prediction markets Protocol. Predict anything. Create markets. Trade options. Own the future!."
+    "icon": "https://icons.llamao.fi/icons/protocols/api3",
+    "description": "Api3 is a risk curator and first-party oracle provider. It curates OEV-enabled lending markets that recapture liquidation incentives, redirecting this revenue back to dApps and DeFi users as additional yield."
   },
   {
     "url": "https://sovryn.app",
@@ -2995,6 +3003,15 @@
     "description": "Sovryn is a non-custodial and permission-less smart contract based system for bitcoin lending, borrowing and margin trading."
   },
   {
+    "url": "https://txflow.com",
+    "name": "TxFlow Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/txflow-bridge",
+    "description": "TxFlow is an open Layer 1 with multi-application ecosystem around TIP Liquidity Standards — where every Channel shares on-chain liquidity, settlement, and market data without bridging"
+  },
+  {
     "url": "https://clearpool.finance",
     "name": "Clearpool TPOOL",
     "category": [
@@ -3002,15 +3019,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/clearpool-tpool",
     "description": "This USDX pool is dedicated to investing in or purchasing treasuries and distribute the resulting yield to liquidity providers"
-  },
-  {
-    "url": "https://astar.network",
-    "name": "Astar dApps Staking",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/astar-dapps-staking",
-    "description": "Astar Network is a multi-chain decentralized application layer on Kusama Network. dApp staking is a mechanism that incentives developers who built in the Astar ecosystem. Users can stake on those dApps to earn staking rewards and at the same time support the project by giving them a daily income."
   },
   {
     "url": "https://guarda.com",
@@ -3031,13 +3039,13 @@
     "description": "Unlock stablecoin yield in your wallet or DeFi app"
   },
   {
-    "url": "https://api3.org",
-    "name": "Api3",
+    "url": "https://rain.one",
+    "name": "Rain",
     "category": [
-      "Risk Curators"
+      "Prediction Market"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/api3",
-    "description": "Api3 is a risk curator and first-party oracle provider. It curates OEV-enabled lending markets that recapture liquidation incentives, redirecting this revenue back to dApps and DeFi users as additional yield."
+    "icon": "https://icons.llamao.fi/icons/protocols/rain",
+    "description": "Rain | Decentralized Prediction markets Protocol. Predict anything. Create markets. Trade options. Own the future!."
   },
   {
     "url": "https://dx.app",
@@ -3047,15 +3055,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/dxsale",
     "description": "With currently 16 supported chains, Dx is the biggest IDO Launchpad in the crypto space. As a truly decentralized token management platform, we aim for a low-barrier approach to launching your project. Instead of a steep learning curve and cumbersome interfaces, our platform will provide all the necessary tools to create and launch your project with no prior coding skills required. Of course, you can also use our platform if you're just here to invest in a project you deem interesting. This will be the first decision you will face"
-  },
-  {
-    "url": "https://txflow.com",
-    "name": "TxFlow Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/txflow-bridge",
-    "description": "TxFlow is an open Layer 1 with multi-application ecosystem around TIP Liquidity Standards — where every Channel shares on-chain liquidity, settlement, and market data without bridging"
   },
   {
     "url": "https://sygnum.com",
@@ -3076,15 +3075,6 @@
     "description": "Katana Pre-Launch lets users deposit eligible tokens into Yearn vaults to earn randomized reward NFTs called Krates, while securing a pro-rata share of 70M KAT, with deposits remaining user-owned and withdrawable after mainnet"
   },
   {
-    "url": "https://piku.co",
-    "name": "Piku Finance",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/piku-finance",
-    "description": "Piku Finance is an on-chain yield platform offering USP, a yield-optimized stablecoin, together with institutional-grade Morini Capital vaults focused on market-neutral, foreign exchange arbitrage, carry trade, and basis trade strategies."
-  },
-  {
     "url": "https://moonlander.trade",
     "name": "Moonlander",
     "category": [
@@ -3092,15 +3082,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/moonlander",
     "description": "Moonlander is a decentralized perpetual trading platform on Cronos zkEVM chain that offers both a staking pool and on-chain perpetuals, primed to empower all traders and stakers with galactic opportunities. Leveraging on the latest layer 2 zk-technology, transactions on Moonlander are executed at higher speed and lower fees"
-  },
-  {
-    "url": "https://gaib.ai",
-    "name": "GAIB",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/gaib",
-    "description": "GAIB is a financial layer for AI infrastructure, turning GPU-backed assets into yield-generating opportunities. Its AI synthetic dollar, AID, gives investors exposure to the AI economy while earning yield from compute resources. Users can stake AID (sAID) to earn passive income without giving up liquidity. GAIB also supports cloud providers and data centers by offering capital solutions to improve access to compute. Integrated with DeFi protocols like lending, borrowing, and structured products, GAIB connects AI and blockchain to open new investment opportunities"
   },
   {
     "url": "https://spectra.finance",
@@ -3112,13 +3093,22 @@
     "description": "Secure your future yield at a fixed rate."
   },
   {
-    "url": "https://summer.fi",
-    "name": "Summer.fi Pro",
+    "url": "https://gaib.ai",
+    "name": "GAIB",
     "category": [
-      "CDP Manager"
+      "RWA"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/summer.fi-pro",
-    "description": "Borrow, Multiply and Earn on the assets you hold across multiple protocols. Take advantage of powerful automation strategies and simple UX."
+    "icon": "https://icons.llamao.fi/icons/protocols/gaib",
+    "description": "GAIB is a financial layer for AI infrastructure, turning GPU-backed assets into yield-generating opportunities. Its AI synthetic dollar, AID, gives investors exposure to the AI economy while earning yield from compute resources. Users can stake AID (sAID) to earn passive income without giving up liquidity. GAIB also supports cloud providers and data centers by offering capital solutions to improve access to compute. Integrated with DeFi protocols like lending, borrowing, and structured products, GAIB connects AI and blockchain to open new investment opportunities"
+  },
+  {
+    "url": "https://piku.co",
+    "name": "Piku Finance",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/piku-finance",
+    "description": "Piku Finance is an on-chain yield platform offering USP, a yield-optimized stablecoin, together with institutional-grade Morini Capital vaults focused on market-neutral, foreign exchange arbitrage, carry trade, and basis trade strategies."
   },
   {
     "url": "https://saucerswap.finance",
@@ -3139,6 +3129,15 @@
     "description": "Orbit Bridge is an interchain communication protocol that allows communication between heterogeneous blockchains. Through this, users can utilize the various assets of various chains in all dApps through simple transactions on each chain."
   },
   {
+    "url": "https://summer.fi",
+    "name": "Summer.fi Pro",
+    "category": [
+      "CDP Manager"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/summer.fi-pro",
+    "description": "Borrow, Multiply and Earn on the assets you hold across multiple protocols. Take advantage of powerful automation strategies and simple UX."
+  },
+  {
     "url": "https://sparkdex.ai",
     "name": "SparkDEX V4",
     "category": [
@@ -3146,15 +3145,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/sparkdex-v4",
     "description": "First AI-driven DeFi ecosystem on Flare Network."
-  },
-  {
-    "url": "https://youves.com",
-    "name": "Youves",
-    "category": [
-      "Synthetics"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/youves",
-    "description": "Youves is a decentralised, non-custodial and self-governed platform for the creation and management of synthetic assets. Minters of synthetic assets earn a passive income in YOU, the governance token on Youves."
   },
   {
     "url": "https://bancor.network",
@@ -3166,41 +3156,13 @@
     "description": "Bancor is an on-chain liquidity protocol that enables automated, decentralized exchange on Ethereum and across blockchains."
   },
   {
-    "url": "https://kodiak.finance",
-    "name": "Kodiak Islands",
+    "url": "https://youves.com",
+    "name": "Youves",
     "category": [
-      "Liquidity Manager",
-      "Dexs"
+      "Synthetics"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
-    "description": "Liquidity Manager for Kodiak DEX"
-  },
-  {
-    "url": "https://agni.finance",
-    "name": "Agni Finance",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/agni-finance",
-    "description": "Agni Finance is a high-capital efficiency, AMM-based DEX and launchpad built to support the Mantle Network ecosystem."
-  },
-  {
-    "url": "https://yieldyak.com",
-    "name": "Yield Yak Aggregator",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/yield-yak-aggregator",
-    "description": "Yield Yak Aggregator is an easy-to-use tool to earn more yield from defi farming on the Avalanche network."
-  },
-  {
-    "url": "https://stellar.org",
-    "name": "Stellar DEX",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/stellar-dex",
-    "description": "The Stellar network acts as a decentralized distributed exchange that allows users to trade and convert assets with the network's Offer operations"
+    "icon": "https://icons.llamao.fi/icons/protocols/youves",
+    "description": "Youves is a decentralised, non-custodial and self-governed platform for the creation and management of synthetic assets. Minters of synthetic assets earn a passive income in YOU, the governance token on Youves."
   },
   {
     "url": "https://rise.trade",
@@ -3212,6 +3174,51 @@
     "description": "RISEx is a fully onchain perpetuals exchange built on RISE Chain."
   },
   {
+    "url": "https://saphyre.xyz",
+    "name": "Saphyre V3",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/saphyre-v3",
+    "description": "Execution Infrastructure for On-Chain Trading."
+  },
+  {
+    "url": "https://stellar.org",
+    "name": "Stellar DEX",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/stellar-dex",
+    "description": "The Stellar network acts as a decentralized distributed exchange that allows users to trade and convert assets with the network's Offer operations"
+  },
+  {
+    "url": "https://yieldyak.com",
+    "name": "Yield Yak Aggregator",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/yield-yak-aggregator",
+    "description": "Yield Yak Aggregator is an easy-to-use tool to earn more yield from defi farming on the Avalanche network."
+  },
+  {
+    "url": "https://agni.finance",
+    "name": "Agni Finance",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/agni-finance",
+    "description": "Agni Finance is a high-capital efficiency, AMM-based DEX and launchpad built to support the Mantle Network ecosystem."
+  },
+  {
+    "url": "https://indexcoop.com",
+    "name": "Index Coop",
+    "category": [
+      "Indexes"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/index-coop",
+    "description": "Index Coop creates and maintains the world's best crypto index products.All index products are always fully collateralized."
+  },
+  {
     "url": "https://strato.nexus",
     "name": "STRATO",
     "category": [
@@ -3219,15 +3226,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/strato",
     "description": "EVM-compatible L1 blockchain with DeFi suite including CDP stablecoin (USDST), lending, AMM pools, tokenized precious metals, and cross-chain bridging. Built by BlockApps."
-  },
-  {
-    "url": "https://superform.xyz",
-    "name": "Superform",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/superform.svg",
-    "description": "Superform is the onchain wealth app. Superform earns you the best returns on your crypto to grow your onchain wealth. Use SuperVaults to automatically optimize your earnings, or build your customized portfolio by directly depositing into over 800 earning opportunities"
   },
   {
     "url": "https://morphl2.io",
@@ -3239,13 +3237,22 @@
     "description": "Bridge between Ethereum and Morph L2"
   },
   {
-    "url": "https://indexcoop.com",
-    "name": "Index Coop",
+    "url": "https://superform.xyz",
+    "name": "Superform",
     "category": [
-      "Indexes"
+      "Yield Aggregator"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/index-coop",
-    "description": "Index Coop creates and maintains the world's best crypto index products.All index products are always fully collateralized."
+    "icon": "https://icons.llamao.fi/icons/protocols/superform.svg",
+    "description": "Superform is the onchain wealth app. Superform earns you the best returns on your crypto to grow your onchain wealth. Use SuperVaults to automatically optimize your earnings, or build your customized portfolio by directly depositing into over 800 earning opportunities"
+  },
+  {
+    "url": "https://flowdesk.co",
+    "name": "Flowdesk",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/flowdesk",
+    "description": "Flowdesk is a full-service digital asset trading and technology firm that also curates a vault on Morpho."
   },
   {
     "url": "https://syntetika.io",
@@ -3284,13 +3291,13 @@
     "description": "Strategy curator operating vaults on upshift."
   },
   {
-    "url": "https://saphyre.xyz",
-    "name": "Saphyre V3",
+    "url": "https://bifrost.io",
+    "name": "Bifrost Liquid Staking",
     "category": [
-      "Dexs"
+      "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/saphyre-v3",
-    "description": "Execution Infrastructure for On-Chain Trading."
+    "icon": "https://icons.llamao.fi/icons/protocols/bifrost-liquid-staking",
+    "description": "Bifrost is a staking yield layer that establishes a standardized multi-chain liquid staking rewards infrastructure, delivering composable crypto-native yields and unified liquidity for stablecoins, RWAs, and DeFi across various blockchains. Its modular design allows developers to tap into multi-chain staking rewards with one integration, greatly lowering development costs and enhancing user simplicity."
   },
   {
     "url": "https://superearn.io",
@@ -3302,13 +3309,13 @@
     "description": "SuperEarn is a decentralized yield-earning DeFi protocol that allows users to deposit supported crypto assets and earn returns by allocating those assets into on-chain earning strategies."
   },
   {
-    "url": "https://mezo.org",
-    "name": "Mezo Bridge",
+    "url": "https://streamflow.finance",
+    "name": "Streamflow",
     "category": [
-      "Bridge"
+      "Payments"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/mezo-network",
-    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
+    "icon": "https://icons.llamao.fi/icons/protocols/streamflow",
+    "description": "Streamflow exponentially grows on-chain economies by providing infrastructure for creation, distribution, and incentive alignment of tokens."
   },
   {
     "url": "https://zklink.io",
@@ -3320,13 +3327,31 @@
     "description": "The first aggregated Layer 3 zkEVM network that links Ethereum and its Layer 2 Rollups for any use case, with exceptional composability, interoperability, scalability, and security through zero-knowledge proofs."
   },
   {
-    "url": "https://bifrost.io",
-    "name": "Bifrost Liquid Staking",
+    "url": "https://ramses.xyz",
+    "name": "Ramses CL V2",
     "category": [
-      "Liquid Staking"
+      "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bifrost-liquid-staking",
-    "description": "Bifrost is a staking yield layer that establishes a standardized multi-chain liquid staking rewards infrastructure, delivering composable crypto-native yields and unified liquidity for stablecoins, RWAs, and DeFi across various blockchains. Its modular design allows developers to tap into multi-chain staking rewards with one integration, greatly lowering development costs and enhancing user simplicity."
+    "icon": "https://icons.llamao.fi/icons/protocols/ramses-cl-v2",
+    "description": "RamsesX is a ve(3,3) exchange on Arbitrum with legacy liquidity pools and x(3,3) governance."
+  },
+  {
+    "url": "https://mezo.org",
+    "name": "Mezo Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/mezo-network",
+    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
+  },
+  {
+    "url": "https://belt.fi",
+    "name": "Belt Finance",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/belt-finance",
+    "description": "Yield aggregator + AMM"
   },
   {
     "url": "https://moonwell.fi",
@@ -3339,31 +3364,13 @@
     "description": "Moonwell is an open lending and borrowing DeFi protocol on Base, Optimism, Moonbeam & Moonriver."
   },
   {
-    "url": "https://flowdesk.co",
-    "name": "Flowdesk",
+    "url": "https://gains.trade",
+    "name": "Gains Network",
     "category": [
-      "Risk Curators"
+      "Derivatives"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/flowdesk",
-    "description": "Flowdesk is a full-service digital asset trading and technology firm that also curates a vault on Morpho."
-  },
-  {
-    "url": "https://belt.fi",
-    "name": "Belt Finance",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/belt-finance",
-    "description": "Yield aggregator + AMM"
-  },
-  {
-    "url": "https://pangolins.io",
-    "name": "Pangolins",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pangolins",
-    "description": "Pangolins is a non-custodial onchain risk curator that selects lending markets, sets liquidity constraints, and manages risk boundaries for vault depositors."
+    "icon": "https://icons.llamao.fi/icons/protocols/gains-network",
+    "description": "Gains Network is building the decentralized finance ecosystem of the future. Our goal is to build the most advanced and optimised suite of DeFi products in the space."
   },
   {
     "url": "https://stobox.io",
@@ -3384,13 +3391,13 @@
     "description": "Estate protocol offers investors access to fractional ownership of real estate in the most sought-after markets in the world with secure, globally recognized asset protection. Estate Protocol enables cross-border investments with minimal barriers, allowing anyone to invest in high-quality real estate with as little as $50."
   },
   {
-    "url": "https://streamflow.finance",
-    "name": "Streamflow",
+    "url": "https://pangolins.io",
+    "name": "Pangolins",
     "category": [
-      "Payments"
+      "Risk Curators"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/streamflow",
-    "description": "Streamflow exponentially grows on-chain economies by providing infrastructure for creation, distribution, and incentive alignment of tokens."
+    "icon": "https://icons.llamao.fi/icons/protocols/pangolins",
+    "description": "Pangolins is a non-custodial onchain risk curator that selects lending markets, sets liquidity constraints, and manages risk boundaries for vault depositors."
   },
   {
     "url": "https://juicebox.money",
@@ -3411,13 +3418,13 @@
     "description": "T3tris is a zero-fee, permissionless vault infrastructure."
   },
   {
-    "url": "https://ramses.xyz",
-    "name": "Ramses CL V2",
+    "url": "https://taiko.xyz",
+    "name": "Taiko Bridge",
     "category": [
-      "Dexs"
+      "Canonical Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/ramses-cl-v2",
-    "description": "RamsesX is a ve(3,3) exchange on Arbitrum with legacy liquidity pools and x(3,3) governance."
+    "icon": "https://icons.llamao.fi/icons/protocols/taiko",
+    "description": "A Based Contestable Rollup, Ethereum-equivalent ZK-EVM"
   },
   {
     "url": "https://badger.com",
@@ -3447,15 +3454,6 @@
     "description": "Fulcrom is a decentralised perpetual exchange that allows users to trade leveraged positions with low fees and zero price impact, whilst having the peace of mind that all trades and collateral are stored transparently on-chain."
   },
   {
-    "url": "https://gains.trade",
-    "name": "Gains Network",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/gains-network",
-    "description": "Gains Network is building the decentralized finance ecosystem of the future. Our goal is to build the most advanced and optimised suite of DeFi products in the space."
-  },
-  {
     "url": "https://paimon.finance",
     "name": "Paimon",
     "category": [
@@ -3465,13 +3463,13 @@
     "description": "Paimon is a BSC-based RWA and DeFi protocol focused on bringing institutional-grade real-world financial assets on-chain through tokenization and decentralized infrastructure bridging TradFi and DeFi."
   },
   {
-    "url": "https://taiko.xyz",
-    "name": "Taiko Bridge",
+    "url": "https://deepbook.tech",
+    "name": "DeepBook V3",
     "category": [
-      "Canonical Bridge"
+      "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/taiko",
-    "description": "A Based Contestable Rollup, Ethereum-equivalent ZK-EVM"
+    "icon": "https://icons.llamao.fi/icons/protocols/deepbook-v3",
+    "description": "DeepBook is a fully on-chain central limit order book and the liquidity layer of Sui."
   },
   {
     "url": "https://dodoex.io",
@@ -3481,6 +3479,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/dodo-amm",
     "description": "Trade crypto assets with market-leading liquidity"
+  },
+  {
+    "url": "https://contango.xyz",
+    "name": "Contango V2",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/contango-v2",
+    "description": "Contango lets you loop anything on-chain. You can create leverage (re)staking positions, arb rates differentials, farm points, or simply go long or short like a perp at low funding"
   },
   {
     "url": "https://p.network",
@@ -3510,31 +3517,13 @@
     "description": "$UTY, also known as Unity, is a digital synthetic dollar (DSD). Unity is a delta-neutral asset and serves as the synthetic dollar at the center of XSY's ecosystem of decentralized financial products."
   },
   {
-    "url": "https://deepbook.tech",
-    "name": "DeepBook V3",
+    "url": "https://hydroprotocol.finance",
+    "name": "Hydro LST",
     "category": [
-      "Dexs"
+      "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/deepbook-v3",
-    "description": "DeepBook is a fully on-chain central limit order book and the liquidity layer of Sui."
-  },
-  {
-    "url": "https://vesu.xyz",
-    "name": "Vesu",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/vesu",
-    "description": "The Future of Lending on Starknet - Vesu is a modular and permissionless lending protocol allowing anyone to earn, borrow and create markets."
-  },
-  {
-    "url": "https://contango.xyz",
-    "name": "Contango V2",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/contango-v2",
-    "description": "Contango lets you loop anything on-chain. You can create leverage (re)staking positions, arb rates differentials, farm points, or simply go long or short like a perp at low funding"
+    "icon": "https://icons.llamao.fi/icons/protocols/hydro-lst",
+    "description": "Ultimate LSD & LSDFi Infrastructure Platform on Injective"
   },
   {
     "url": "https://bluefin.io",
@@ -3546,13 +3535,13 @@
     "description": "Bluefin is a decentralized orderbook-based exchange built for both professional and first-time traders. It focuses on security, transparency and redefining the user experience of using on-chain trading platforms - and is backed by Polychain, SIG, Brevan Howard, and other leading firms."
   },
   {
-    "url": "https://hydroprotocol.finance",
-    "name": "Hydro LST",
+    "url": "https://vesu.xyz",
+    "name": "Vesu",
     "category": [
-      "Liquid Staking"
+      "Lending"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/hydro-lst",
-    "description": "Ultimate LSD & LSDFi Infrastructure Platform on Injective"
+    "icon": "https://icons.llamao.fi/icons/protocols/vesu",
+    "description": "The Future of Lending on Starknet - Vesu is a modular and permissionless lending protocol allowing anyone to earn, borrow and create markets."
   },
   {
     "url": "https://snuggle.fi",
@@ -3564,24 +3553,6 @@
     "description": "Snuggle is an automated concentrated Liquidity Manager for Uniswap V3 on Base. It automatically rebalances LP positions to maximize fee earnings while minimizing impermanent loss"
   },
   {
-    "url": "https://growi.fi",
-    "name": "GrowiHF",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/growihf",
-    "description": "Growi is a quantitative asset management protocol that leverages mathematical modeling to fine-tune trading strategies and maximize yield. Our approach ensures efficient capital allocation, advanced risk management, and consistent returns for investors"
-  },
-  {
-    "url": "https://afx.xyz",
-    "name": "AFX LP",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/afx-lp",
-    "description": "AFX LP Vault is the protocol-level vault that provides liquidity to the AFX exchange."
-  },
-  {
     "url": "https://628labs.xyz",
     "name": "TAU Labs",
     "category": [
@@ -3591,22 +3562,13 @@
     "description": "TAU Labs curates strategies and manages risk across DeFi protocols and assets. Our proprietary automations and quantitative approach optimize yield across a wide variety of structured products."
   },
   {
-    "url": "https://hyperswap.exchange",
-    "name": "HyperSwap V3",
+    "url": "https://growi.fi",
+    "name": "GrowiHF",
     "category": [
-      "Dexs"
+      "Yield"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/hyperswap-v3",
-    "description": "Explore token swaps, liquidity management and easy token launches"
-  },
-  {
-    "url": "https://flyingtulip.com",
-    "name": "Flying Tulip Lend",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/flying-tulip-lend",
-    "description": "Flying Tulip Lend is a custom lending market live on Sonic and Ethereum."
+    "icon": "https://icons.llamao.fi/icons/protocols/growihf",
+    "description": "Growi is a quantitative asset management protocol that leverages mathematical modeling to fine-tune trading strategies and maximize yield. Our approach ensures efficient capital allocation, advanced risk management, and consistent returns for investors"
   },
   {
     "url": "https://monarq-am.com",
@@ -3618,6 +3580,24 @@
     "description": "Digital asset manager curating the MXRPY yield vault on Flare."
   },
   {
+    "url": "https://afx.xyz",
+    "name": "AFX LP",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/afx-lp",
+    "description": "AFX LP Vault is the protocol-level vault that provides liquidity to the AFX exchange."
+  },
+  {
+    "url": "https://hyperswap.exchange",
+    "name": "HyperSwap V3",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/hyperswap-v3",
+    "description": "Explore token swaps, liquidity management and easy token launches"
+  },
+  {
     "url": "https://chainflip.io",
     "name": "Chainflip AMM",
     "category": [
@@ -3627,13 +3607,13 @@
     "description": "Chainflip is a cross-chain AMM enabling native asset swaps without wrapped tokens or specialised wallets."
   },
   {
-    "url": "https://osmosis.zone",
-    "name": "Osmosis DEX",
+    "url": "https://flyingtulip.com",
+    "name": "Flying Tulip Lend",
     "category": [
-      "Dexs"
+      "Lending"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/osmosis-dex",
-    "description": "Osmosis DEX is the advanced automated market maker (AMM) protocol at the core of the Osmosis blockchain."
+    "icon": "https://icons.llamao.fi/icons/protocols/flying-tulip-lend",
+    "description": "Flying Tulip Lend is a custom lending market live on Sonic and Ethereum."
   },
   {
     "url": "https://yield.fi",
@@ -3645,15 +3625,6 @@
     "description": "YieldFi: The First Streamlined Asset Management Platform"
   },
   {
-    "url": "https://anvil.xyz",
-    "name": "Anvil",
-    "category": [
-      "Collateral Management"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/anvil",
-    "description": "Anvil is a DeFi protocol for onchain collateral management that allows users to issue fully secured credit."
-  },
-  {
     "url": "https://mevcapital.com",
     "name": "MEV Capital",
     "category": [
@@ -3661,78 +3632,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/mev-capital",
     "description": "MEV Capital is an Investment & risk management firm focused on open-ended strategies across Decentralized Finance on EVM chains since 2020."
-  },
-  {
-    "url": "https://tempo.xyz",
-    "name": "Tempo Stablecoin Dex",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/tempo-stablecoin-dex",
-    "description": "Tempo Stablecoin Dex is a decentralized exchange for stablecoins on Tempo."
-  },
-  {
-    "url": "https://bouncebit.io",
-    "name": "BounceBit Prime",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bouncebit-prime",
-    "description": "Build structured positions in Franklin's Benji & BlackRock BUIDL. Holdings remain in custody while Prime deploys them as collateral and runs delta-neutral strategies for you across approved venues."
-  },
-  {
-    "url": "https://berachain.com",
-    "name": "BEND",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bend",
-    "description": "Bend is a decentralized lending protocol forked from Morpho, designed to enable efficient lending and borrowing with native Proof-of-Liquidity (PoL) on Berachain. As a lending primitive layer, Bend allows the creation of immutable and efficient lending markets in a permissionless way"
-  },
-  {
-    "url": "https://pando.im",
-    "name": "Pando Leaf",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pando",
-    "description": "Pando Leaf: a decentralized financial network to minting stablecoins"
-  },
-  {
-    "url": "https://veranta.xyz",
-    "name": "Veranta",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/veranta",
-    "description": "Perpetuals exchange for leveraged long and short exposure to crypto and global markets including equities, FX, indices, metals and commodities."
-  },
-  {
-    "url": "https://syntropia.ai",
-    "name": "Syntropia",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/syntropia",
-    "description": "Capture the best risk adjusted yield on stablecoins across DeFi protocols while maintaining full transparency."
-  },
-  {
-    "url": "https://blockanalitica.com",
-    "name": "Block Analitica",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/block-analitica",
-    "description": "The risk team behind the DAI (USDS) stablecoin"
-  },
-  {
-    "url": "https://exact.ly",
-    "name": "Exactly",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/exactly",
-    "description": "Exactly is a decentralized, non-custodial, open-source protocol that provides an autonomous fixed and variable interest rate market, enabling users to frictionlessly exchange their assets' time value and complete the DeFi credit market."
   },
   {
     "url": "https://lfj.gg",
@@ -3744,6 +3643,96 @@
     "description": "Let's F***ing Joe is your one-stop decentralized trading platform on the Avalanche network."
   },
   {
+    "url": "https://osmosis.zone",
+    "name": "Osmosis DEX",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/osmosis-dex",
+    "description": "Osmosis DEX is the advanced automated market maker (AMM) protocol at the core of the Osmosis blockchain."
+  },
+  {
+    "url": "https://veranta.xyz",
+    "name": "Veranta",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/veranta",
+    "description": "Perpetuals exchange for leveraged long and short exposure to crypto and global markets including equities, FX, indices, metals and commodities."
+  },
+  {
+    "url": "https://berachain.com",
+    "name": "BEND",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/bend",
+    "description": "Bend is a decentralized lending protocol forked from Morpho, designed to enable efficient lending and borrowing with native Proof-of-Liquidity (PoL) on Berachain. As a lending primitive layer, Bend allows the creation of immutable and efficient lending markets in a permissionless way"
+  },
+  {
+    "url": "https://anvil.xyz",
+    "name": "Anvil",
+    "category": [
+      "Collateral Management"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/anvil",
+    "description": "Anvil is a DeFi protocol for onchain collateral management that allows users to issue fully secured credit."
+  },
+  {
+    "url": "https://bouncebit.io",
+    "name": "BounceBit Prime",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/bouncebit-prime",
+    "description": "Build structured positions in Franklin's Benji & BlackRock BUIDL. Holdings remain in custody while Prime deploys them as collateral and runs delta-neutral strategies for you across approved venues."
+  },
+  {
+    "url": "https://scallop.io",
+    "name": "Scallop Lend",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/scallop-lend",
+    "description": "Scallop is the pioneering Next Generation Money Market for the Sui ecosystem which emphasizes institutional-grade quality, enhanced composability, and robust security."
+  },
+  {
+    "url": "https://exact.ly",
+    "name": "Exactly",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/exactly",
+    "description": "Exactly is a decentralized, non-custodial, open-source protocol that provides an autonomous fixed and variable interest rate market, enabling users to frictionlessly exchange their assets' time value and complete the DeFi credit market."
+  },
+  {
+    "url": "https://pando.im",
+    "name": "Pando Leaf",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/pando",
+    "description": "Pando Leaf: a decentralized financial network to minting stablecoins"
+  },
+  {
+    "url": "https://tempo.xyz",
+    "name": "Tempo Stablecoin Dex",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/tempo-stablecoin-dex",
+    "description": "Tempo Stablecoin Dex is a decentralized exchange for stablecoins on Tempo."
+  },
+  {
+    "url": "https://syntropia.ai",
+    "name": "Syntropia",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/syntropia",
+    "description": "Capture the best risk adjusted yield on stablecoins across DeFi protocols while maintaining full transparency."
+  },
+  {
     "url": "https://metronome.io",
     "name": "Metronome Synth",
     "category": [
@@ -3751,6 +3740,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/metronome-synth",
     "description": "Metronome Synth is a leading synthetic protocol that enables users to post multi-collateral assets from their existing crypto holdings and create a multitude of synthetic assets in one complete platform. Synth will enable the creation of crypto synthetic assets, and the ability to swap synthetic assets with zero-slippage."
+  },
+  {
+    "url": "https://blockanalitica.com",
+    "name": "Block Analitica",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/block-analitica",
+    "description": "The risk team behind the DAI (USDS) stablecoin"
   },
   {
     "url": "https://ostium.io",
@@ -3762,6 +3760,15 @@
     "description": "Trade FX, metals, energy, & RWAs from your wallet"
   },
   {
+    "url": "https://fuel.network",
+    "name": "Fuel Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/fuel",
+    "description": "Bridge between Fuel Ignition and Ethereum"
+  },
+  {
     "url": "https://bifi.finance",
     "name": "BiFi",
     "category": [
@@ -3771,6 +3778,15 @@
     "description": "BiFi (abbreviation of Bifrost Finance) is the decentralized finance platform built on Bifrost, the universal multichain middleware."
   },
   {
+    "url": "https://hipo.finance",
+    "name": "Hipo",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/hipo",
+    "description": "Hipo is a liquid staking protocol on TON. Users stake GRAM and receive hGRAM, which accrues validation rewards through a rising hGRAM/GRAM exchange rate."
+  },
+  {
     "url": "https://bima.money",
     "name": "BIMA CDP",
     "category": [
@@ -3778,15 +3794,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/bima-cdp",
     "description": "Bitcoin-backed Stablecoin for Universal Yield."
-  },
-  {
-    "url": "https://fuel.network",
-    "name": "Fuel Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/fuel",
-    "description": "Bridge between Fuel Ignition and Ethereum"
   },
   {
     "url": "https://sx.bet",
@@ -3816,24 +3823,6 @@
     "description": "Anthias Labs is a boutique on-chain advisory firm focused on DeFi risk management and system design"
   },
   {
-    "url": "https://hipo.finance",
-    "name": "Hipo",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/hipo",
-    "description": "Hipo is a liquid staking protocol on TON. Users stake GRAM and receive hGRAM, which accrues validation rewards through a rising hGRAM/GRAM exchange rate."
-  },
-  {
-    "url": "https://scallop.io",
-    "name": "Scallop Lend",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/scallop-lend",
-    "description": "Scallop is the pioneering Next Generation Money Market for the Sui ecosystem which emphasizes institutional-grade quality, enhanced composability, and robust security."
-  },
-  {
     "url": "https://subfrost.io",
     "name": "SUBFROST",
     "category": [
@@ -3841,6 +3830,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/subfrost",
     "description": "SUBFROST is a decentralized signing network that issues frBTC and frUSD, trust-minimized assets which power the ultimate UX on Bitcoin L1. SUBFROST's portfolio of apps deliver this UX directly to end-users, and its API products enable developers to build the next generation of advanced crypto applications."
+  },
+  {
+    "url": "https://republic.com",
+    "name": "Republic Note",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/republic-note",
+    "description": "One asset, broad exposure to venture & crypto"
   },
   {
     "url": "https://megaeth.com",
@@ -3852,6 +3850,15 @@
     "description": "Decentralized exchange on MegaETH."
   },
   {
+    "url": "https://roninchain.com",
+    "name": "Katana DEX",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/katana-dex",
+    "description": "Katana a DEX For Ronin"
+  },
+  {
     "url": "https://3jane.xyz",
     "name": "3Jane Lending",
     "category": [
@@ -3861,13 +3868,22 @@
     "description": "3Jane protocol is a peer-to-pool credit-based money market enabling algorithmic, real-time uncollateralized USDC credit lines for yield farmers, traders, businesses, and/or AI agents"
   },
   {
-    "url": "https://reya.xyz",
-    "name": "Reya Perps",
+    "url": "https://fusionist.io",
+    "name": "Endurance Bridge",
     "category": [
-      "Derivatives"
+      "Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/reya-perps",
-    "description": "The only DEX where speed never compromises security. Uniquely built as a based-rollup powered by zk-proofs, Reya DEX delivers 1 millisecond speed, 0 trading fess and 100% Ethereum uptime and security"
+    "icon": "https://icons.llamao.fi/icons/protocols/endurance-bridge",
+    "description": "Bridge between Endurance and BSC for ACE"
+  },
+  {
+    "url": "https://predict.fun",
+    "name": "Predict Fun",
+    "category": [
+      "Prediction Market"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/predict-fun",
+    "description": "Predict is a BNB-based prediction market, enabling users to trade real-world outcomes in categories spanning sports, crypto, global affairs and more. It eliminates the problem of \"idle capital\" by offering DeFi-powered yields on open positions"
   },
   {
     "url": "https://aura.finance",
@@ -3886,32 +3902,5 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/mux-perps",
     "description": "MUX Protocol Suite contains the MUX Leveraged Trading Protocol and MUX Aggregator. MUX offers optimized trading cost, deep aggregated liquidity, diverse market options and a wide range of leverage options for traders."
-  },
-  {
-    "url": "https://predict.fun",
-    "name": "Predict Fun",
-    "category": [
-      "Prediction Market"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/predict-fun",
-    "description": "Predict is a BNB-based prediction market, enabling users to trade real-world outcomes in categories spanning sports, crypto, global affairs and more. It eliminates the problem of \"idle capital\" by offering DeFi-powered yields on open positions"
-  },
-  {
-    "url": "https://roninchain.com",
-    "name": "Katana DEX",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/katana-dex",
-    "description": "Katana a DEX For Ronin"
-  },
-  {
-    "url": "https://overnight.fi",
-    "name": "Overnight Finance",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/overnight-finance",
-    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
   }
 ]

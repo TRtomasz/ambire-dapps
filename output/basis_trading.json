@@ -60,16 +60,6 @@
     "description": "Reliable returns with bfUSD, our yield-bearing stablecoin that fuels stability while amplifying your earnings in a dynamic ecosystem."
   },
   {
-    "url": "https://avantprotocol.com",
-    "name": "Avant avUSD",
-    "category": [
-      "Basis Trading",
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/avant-avusd",
-    "description": "Avant is a DeFi platform established in June 2024 with the mission to create a more inclusive financial system through a DeFi-powered stable-value token. The platform introduces avUSD, a stable-value token, and savUSD, its staked, yield-bearing counterpart."
-  },
-  {
     "url": "https://bitway.com",
     "name": "Bitway Earn",
     "category": [

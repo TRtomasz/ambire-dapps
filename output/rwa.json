@@ -84,15 +84,6 @@
     "description": "USD.AI is a yield-bearing synthetic dollar protocol backed by real-world infrastructure assets"
   },
   {
-    "url": "https://digift.io",
-    "name": "DigiFT",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/digift",
-    "description": "DigiFT is the first regulated exchange for on-chain real-world assets, approved as a Recognised Market Operator with a Capital Markets Services license by the Monetary Authority of Singapore. DigiFT allows asset owners to issue blockchain-based security tokens and investors can trade with continuous liquidity via an AMM."
-  },
-  {
     "url": "https://frax.com",
     "name": "Fraxtal",
     "category": [
@@ -248,5 +239,14 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/paimon",
     "description": "Paimon is a BSC-based RWA and DeFi protocol focused on bringing institutional-grade real-world financial assets on-chain through tokenization and decentralized infrastructure bridging TradFi and DeFi."
+  },
+  {
+    "url": "https://republic.com",
+    "name": "Republic Note",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/republic-note",
+    "description": "One asset, broad exposure to venture & crypto"
   }
 ]

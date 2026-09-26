@@ -151,14 +151,5 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/bima-cdp",
     "description": "Bitcoin-backed Stablecoin for Universal Yield."
-  },
-  {
-    "url": "https://overnight.fi",
-    "name": "Overnight Finance",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/overnight-finance",
-    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
   }
 ]

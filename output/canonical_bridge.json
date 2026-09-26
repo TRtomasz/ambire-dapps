@@ -92,15 +92,6 @@
     "description": "Native Bitcoin Bridge. ETH EVM support. No added fees or middlemen, ever."
   },
   {
-    "url": "https://mantle.xyz",
-    "name": "Mantle Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/mantle-bridge",
-    "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
-  },
-  {
     "url": "https://near.org",
     "name": "NEAR Bridge",
     "category": [
@@ -108,6 +99,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/near",
     "description": "Effortlessly create and distribute innovative decentralized apps across any blockchain, while helping build a more open web, with the NEAR Blockchain Operating System (BOS)."
+  },
+  {
+    "url": "https://mantle.xyz",
+    "name": "Mantle Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/mantle-bridge",
+    "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
   },
   {
     "url": "https://rootstock.io",
@@ -146,15 +146,6 @@
     "description": "Bridge for Ink chain by Kraken"
   },
   {
-    "url": "https://pulsechain.com",
-    "name": "PulseChain Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pulsechain-bridge",
-    "description": "Bridge between PulseChain and Ethereum"
-  },
-  {
     "url": "https://soniclabs.com",
     "name": "Sonic Gateway",
     "category": [
@@ -162,6 +153,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/sonic-gateway",
     "description": "Canonical Bridge for Sonic chain"
+  },
+  {
+    "url": "https://pulsechain.com",
+    "name": "PulseChain Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/pulsechain-bridge",
+    "description": "Bridge between PulseChain and Ethereum"
   },
   {
     "url": "https://lisk.com",

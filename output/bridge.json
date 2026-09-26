@@ -57,15 +57,6 @@
     "description": "USDT0 is a one stop solution for Tether’s Interoperability and Expansion."
   },
   {
-    "url": "https://chain.link",
-    "name": "CCIP",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/ccip",
-    "description": "Chainlink CCIP is a cross-chain interoperability protocol that lets apps and assets move tokens and messages across blockchains through Chainlink’s own secure messaging and transfer layer"
-  },
-  {
     "url": "https://portalbridge.com",
     "name": "Portal",
     "category": [
@@ -73,6 +64,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/portal",
     "description": "A token bridge built on Wormhole."
+  },
+  {
+    "url": "https://chain.link",
+    "name": "CCIP",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/ccip",
+    "description": "Chainlink CCIP is a cross-chain interoperability protocol that lets apps and assets move tokens and messages across blockchains through Chainlink’s own secure messaging and transfer layer"
   },
   {
     "url": "https://hyperunit.xyz",
@@ -92,6 +92,16 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/lighter-bridge",
     "description": "Lighter is a decentralized trading platform that is designed to deliver unmatched security and scale. Lighter provides verifiable matching and liquidations, while operating at the best-in-class traditional exchange level performances."
+  },
+  {
+    "url": "https://bittensor.com",
+    "name": "Bittensor dTAO",
+    "category": [
+      "Dexs",
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/bittensor-dtao",
+    "description": "Bittensor's native dTAO AMM pools, which price each subnet's alpha token against TAO and hold the network's subnet liquidity."
   },
   {
     "url": "https://solv.finance",
@@ -117,16 +127,6 @@
     "description": "Aster is a decentralized perpetual exchange built for everyone. It offers MEV-free, one-click trading with up to 1001x leverage in Simple Mode, and full-featured, pro-grade tools in Pro Mode. Backed by YZi Labs, Aster is building the future of DeFi: fast, flexible, and community-first"
   },
   {
-    "url": "https://bittensor.com",
-    "name": "Bittensor dTAO",
-    "category": [
-      "Dexs",
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bittensor-dtao",
-    "description": "Bittensor's native dTAO AMM pools, which price each subnet's alpha token against TAO and hold the network's subnet liquidity."
-  },
-  {
     "url": "https://merlinchain.io",
     "name": "Merlins Seal",
     "category": [
@@ -136,15 +136,6 @@
     "description": "Merlin's Seal is an event associated with the Merlin Chain, focusing on the fair launch of its governance token, $MERL. Users stake assets to earn M-points, which are then used to determine the distribution of $MERL rewards"
   },
   {
-    "url": "https://au.cc",
-    "name": "FAssets",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/fassets",
-    "description": "FAssets is a trustless, over-collateralized bridge protocol on Flare that lets users mint wrapped versions of non-smart contract assets (e.g. XRP, BTC, DOGE) to use in DeFi, backed by on-chain collateral and Flare’s data oracles"
-  },
-  {
     "url": "https://near.com",
     "name": "NEAR Intents",
     "category": [
@@ -152,6 +143,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/near-intents",
     "description": "NEAR Intents are a new type of transaction that allow information, requests, assets, and actions to be exchanged between AI agents, services, and end users"
+  },
+  {
+    "url": "https://au.cc",
+    "name": "FAssets",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/fassets",
+    "description": "FAssets is a trustless, over-collateralized bridge protocol on Flare that lets users mint wrapped versions of non-smart contract assets (e.g. XRP, BTC, DOGE) to use in DeFi, backed by on-chain collateral and Flare’s data oracles"
   },
   {
     "url": "https://axelar.network",
@@ -324,5 +324,14 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/fuel",
     "description": "Bridge between Fuel Ignition and Ethereum"
+  },
+  {
+    "url": "https://fusionist.io",
+    "name": "Endurance Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/endurance-bridge",
+    "description": "Bridge between Endurance and BSC for ACE"
   }
 ]

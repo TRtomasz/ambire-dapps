@@ -10,16 +10,6 @@
     "description": "Ethereum sidechain"
   },
   {
-    "url": "https://bsquared.network",
-    "name": "Buzz Farming",
-    "category": [
-      "Farm",
-      "Chain"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/buzz-farming",
-    "description": "Buzz Farming collaborates with well-known BTCFi projects such as Babylon, Lombard, and Bedrock, as well as prominent blockchains, offering users a variety of multifaceted profit strategies. Users can conveniently select and operate investment strategies through Buzz Farming"
-  },
-  {
     "url": "https://frax.com",
     "name": "Fraxtal",
     "category": [
@@ -60,15 +50,6 @@
     "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
   },
   {
-    "url": "https://abs.xyz",
-    "name": "Abstract",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/abstract",
-    "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment"
-  },
-  {
     "url": "https://burnt.com",
     "name": "XION Finance",
     "category": [
@@ -76,6 +57,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/xion-finance",
     "description": "The First Walletless Blockchain Built For Main­stream Adoption. XION empowers developers to build, launch and scale consumer-ready products from the ground up, removing technical barriers for all users through its Chain Abstraction."
+  },
+  {
+    "url": "https://abs.xyz",
+    "name": "Abstract",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/abstract",
+    "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment"
   },
   {
     "url": "https://astar.network",

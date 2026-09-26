@@ -158,15 +158,6 @@
     "description": "The Agglayer's VaultBridge is a customizable yield-generating mechanism for providing chains with a native revenue stream"
   },
   {
-    "url": "https://tulipa.capital",
-    "name": "Tulipa Capital",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/tulipa-capital",
-    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
-  },
-  {
     "url": "https://galaxy.com",
     "name": "Galaxy Curation",
     "category": [
@@ -174,6 +165,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/galaxy-curation",
     "description": "Galaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence."
+  },
+  {
+    "url": "https://tulipa.capital",
+    "name": "Tulipa Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/tulipa-capital",
+    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
   },
   {
     "url": "https://y10k.capital",
@@ -230,6 +230,15 @@
     "description": "Api3 is a risk curator and first-party oracle provider. It curates OEV-enabled lending markets that recapture liquidation incentives, redirecting this revenue back to dApps and DeFi users as additional yield."
   },
   {
+    "url": "https://flowdesk.co",
+    "name": "Flowdesk",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/flowdesk",
+    "description": "Flowdesk is a full-service digital asset trading and technology firm that also curates a vault on Morpho."
+  },
+  {
     "url": "https://syntetika.io",
     "name": "Syntetika",
     "category": [
@@ -246,15 +255,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/nemo-trading",
     "description": "Strategy curator operating vaults on upshift."
-  },
-  {
-    "url": "https://flowdesk.co",
-    "name": "Flowdesk",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/flowdesk",
-    "description": "Flowdesk is a full-service digital asset trading and technology firm that also curates a vault on Morpho."
   },
   {
     "url": "https://pangolins.io",

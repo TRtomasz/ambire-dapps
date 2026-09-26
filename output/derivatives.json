@@ -112,15 +112,6 @@
     "description": "RISEx is a fully onchain perpetuals exchange built on RISE Chain."
   },
   {
-    "url": "https://fulcrom.finance",
-    "name": "Fulcrom Perps",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/fulcrom-perps",
-    "description": "Fulcrom is a decentralised perpetual exchange that allows users to trade leveraged positions with low fees and zero price impact, whilst having the peace of mind that all trades and collateral are stored transparently on-chain."
-  },
-  {
     "url": "https://gains.trade",
     "name": "Gains Network",
     "category": [
@@ -128,6 +119,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/gains-network",
     "description": "Gains Network is building the decentralized finance ecosystem of the future. Our goal is to build the most advanced and optimised suite of DeFi products in the space."
+  },
+  {
+    "url": "https://fulcrom.finance",
+    "name": "Fulcrom Perps",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/fulcrom-perps",
+    "description": "Fulcrom is a decentralised perpetual exchange that allows users to trade leveraged positions with low fees and zero price impact, whilst having the peace of mind that all trades and collateral are stored transparently on-chain."
   },
   {
     "url": "https://contango.xyz",
@@ -164,15 +164,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/ostium",
     "description": "Trade FX, metals, energy, & RWAs from your wallet"
-  },
-  {
-    "url": "https://reya.xyz",
-    "name": "Reya Perps",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/reya-perps",
-    "description": "The only DEX where speed never compromises security. Uniquely built as a based-rollup powered by zk-proofs, Reya DEX delivers 1 millisecond speed, 0 trading fess and 100% Ethereum uptime and security"
   },
   {
     "url": "https://mux.network",
