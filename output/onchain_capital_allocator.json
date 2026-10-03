@@ -32,15 +32,6 @@
     "description": "Veda is the leading DeFi vault platform, enabling crypto applications, asset issuers, and protocols to build consumer-grade cross chain yield products. Veda's technology is powering many of DeFi's largest vault products, including ether.fi Liquid, Lombard DeFi Vault, and Mantle cmETH"
   },
   {
-    "url": "https://concrete.xyz",
-    "name": "Concrete",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/concrete",
-    "description": "Concrete provides full-stack yield infrastructure for DeFi, powering automated, risk-managed vault products across major ecosystems. Concrete combines quantitative modeling, modular architecture, and cross-chain integrations to deliver institutional-grade vaults with transparent, sustainable performance."
-  },
-  {
     "url": "https://grove.finance",
     "name": "Grove Finance",
     "category": [
@@ -48,6 +39,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/grove-finance",
     "description": "Grove is a capital allocation protocol within the Sky (formerly MakerDAO) ecosystem, launched June 2025. It deploys capital into tokenized RWA assets, Aave lending, Morpho vaults, and Curve LP positions across Ethereum, Base, Avalanche, and Plume"
+  },
+  {
+    "url": "https://concrete.xyz",
+    "name": "Concrete",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/concrete",
+    "description": "Concrete provides full-stack yield infrastructure for DeFi, powering automated, risk-managed vault products across major ecosystems. Concrete combines quantitative modeling, modular architecture, and cross-chain integrations to deliver institutional-grade vaults with transparent, sustainable performance."
   },
   {
     "url": "https://kelpdao.xyz",
@@ -122,7 +122,6 @@
     "url": "https://avantprotocol.com",
     "name": "Avant avUSD",
     "category": [
-      "Basis Trading",
       "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/avant-avusd",
@@ -136,6 +135,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/ember-protocol",
     "description": "Ember is the investment platform and infrastructure for launching, accessing, and distributing traditional and onchain financial products through crypto capital markets."
+  },
+  {
+    "url": "https://ipor.io",
+    "name": "Fusion by IPOR",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/fusion-by-ipor.svg",
+    "description": "Fusion (by IPOR) is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
   },
   {
     "url": "https://ultrayield.app",
@@ -204,6 +212,15 @@
     "description": "Neutral Trade is the on-chain multi-strategy hedge fund, built by experienced quants and traders from Goldman Sachs and Top Global Hedge Funds"
   },
   {
+    "url": "https://t3tris.finance",
+    "name": "T3tris Finance",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/t3tris-finance",
+    "description": "T3tris is a zero-fee, permissionless vault infrastructure."
+  },
+  {
     "url": "https://moonwell.fi",
     "name": "Moonwell Lending",
     "category": [
@@ -212,14 +229,5 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/moonwell-lending",
     "description": "Moonwell is an open lending and borrowing DeFi protocol on Base, Optimism, Moonbeam & Moonriver."
-  },
-  {
-    "url": "https://t3tris.finance",
-    "name": "T3tris Finance",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/t3tris-finance",
-    "description": "T3tris is a zero-fee, permissionless vault infrastructure."
   }
 ]

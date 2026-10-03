@@ -32,8 +32,8 @@
     "name": "Hyperliquid Bridge",
     "category": [
       "Bridge",
-      "Dexs",
-      "Derivatives"
+      "Derivatives",
+      "Dexs"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/hyperliquid",
     "description": "Hyperliquid is a Layer 1 blockchain best known for perpetual futures and spot trading. Native USDC is minted on Hyperliquid via CCTP, and USDC is bridged from Arbitrum."
@@ -76,15 +76,6 @@
     "description": " dYdX Chain Mainnet, a robust blockchain built with the CosmosSDK. This documentation is diligently maintained by the dYdX Operations subDAO to provide a comprehensive resource for validators, developers, and the dYdX community at large."
   },
   {
-    "url": "https://apex.exchange",
-    "name": "Apex Omni",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/apex-omni",
-    "description": "Engineered for high-performing precision trades in a decentralized ecosystem."
-  },
-  {
     "url": "https://arcus.xyz",
     "name": "Arcus Perps",
     "category": [
@@ -94,13 +85,13 @@
     "description": "Built by the team behind dYdX in partnership with Robinhood Crypto. Arcus is a blockchain-based smart contract protocol that permits self-custodial peer-to-peer trading of Stock Tokens, cryptoassets and perpetual futures."
   },
   {
-    "url": "https://moonlander.trade",
-    "name": "Moonlander",
+    "url": "https://apex.exchange",
+    "name": "Apex Omni",
     "category": [
       "Derivatives"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/moonlander",
-    "description": "Moonlander is a decentralized perpetual trading platform on Cronos zkEVM chain that offers both a staking pool and on-chain perpetuals, primed to empower all traders and stakers with galactic opportunities. Leveraging on the latest layer 2 zk-technology, transactions on Moonlander are executed at higher speed and lower fees"
+    "icon": "https://icons.llamao.fi/icons/protocols/apex-omni",
+    "description": "Engineered for high-performing precision trades in a decentralized ecosystem."
   },
   {
     "url": "https://rise.trade",
@@ -112,6 +103,15 @@
     "description": "RISEx is a fully onchain perpetuals exchange built on RISE Chain."
   },
   {
+    "url": "https://moonlander.trade",
+    "name": "Moonlander",
+    "category": [
+      "Derivatives"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/moonlander",
+    "description": "Moonlander is a decentralized perpetual trading platform on Cronos zkEVM chain that offers both a staking pool and on-chain perpetuals, primed to empower all traders and stakers with galactic opportunities. Leveraging on the latest layer 2 zk-technology, transactions on Moonlander are executed at higher speed and lower fees"
+  },
+  {
     "url": "https://fulcrom.finance",
     "name": "Fulcrom Perps",
     "category": [
@@ -119,15 +119,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/fulcrom-perps",
     "description": "Fulcrom is a decentralised perpetual exchange that allows users to trade leveraged positions with low fees and zero price impact, whilst having the peace of mind that all trades and collateral are stored transparently on-chain."
-  },
-  {
-    "url": "https://gains.trade",
-    "name": "Gains Network",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/gains-network",
-    "description": "Gains Network is building the decentralized finance ecosystem of the future. Our goal is to build the most advanced and optimised suite of DeFi products in the space."
   },
   {
     "url": "https://contango.xyz",
@@ -155,24 +146,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/veranta",
     "description": "Perpetuals exchange for leveraged long and short exposure to crypto and global markets including equities, FX, indices, metals and commodities."
-  },
-  {
-    "url": "https://ostium.io",
-    "name": "Ostium",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/ostium",
-    "description": "Trade FX, metals, energy, & RWAs from your wallet"
-  },
-  {
-    "url": "https://reya.xyz",
-    "name": "Reya Perps",
-    "category": [
-      "Derivatives"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/reya-perps",
-    "description": "The only DEX where speed never compromises security. Uniquely built as a based-rollup powered by zk-proofs, Reya DEX delivers 1 millisecond speed, 0 trading fess and 100% Ethereum uptime and security"
   },
   {
     "url": "https://mux.network",

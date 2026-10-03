@@ -41,8 +41,8 @@
     "name": "Hyperliquid Bridge",
     "category": [
       "Bridge",
-      "Dexs",
-      "Derivatives"
+      "Derivatives",
+      "Dexs"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/hyperliquid",
     "description": "Hyperliquid is a Layer 1 blockchain best known for perpetual futures and spot trading. Native USDC is minted on Hyperliquid via CCTP, and USDC is bridged from Arbitrum."
@@ -57,15 +57,6 @@
     "description": "USDT0 is a one stop solution for Tether’s Interoperability and Expansion."
   },
   {
-    "url": "https://chain.link",
-    "name": "CCIP",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/ccip",
-    "description": "Chainlink CCIP is a cross-chain interoperability protocol that lets apps and assets move tokens and messages across blockchains through Chainlink’s own secure messaging and transfer layer"
-  },
-  {
     "url": "https://portalbridge.com",
     "name": "Portal",
     "category": [
@@ -73,6 +64,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/portal",
     "description": "A token bridge built on Wormhole."
+  },
+  {
+    "url": "https://chain.link",
+    "name": "CCIP",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/ccip",
+    "description": "Chainlink CCIP is a cross-chain interoperability protocol that lets apps and assets move tokens and messages across blockchains through Chainlink’s own secure messaging and transfer layer"
   },
   {
     "url": "https://hyperunit.xyz",
@@ -136,15 +136,6 @@
     "description": "Merlin's Seal is an event associated with the Merlin Chain, focusing on the fair launch of its governance token, $MERL. Users stake assets to earn M-points, which are then used to determine the distribution of $MERL rewards"
   },
   {
-    "url": "https://au.cc",
-    "name": "FAssets",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/fassets",
-    "description": "FAssets is a trustless, over-collateralized bridge protocol on Flare that lets users mint wrapped versions of non-smart contract assets (e.g. XRP, BTC, DOGE) to use in DeFi, backed by on-chain collateral and Flare’s data oracles"
-  },
-  {
     "url": "https://near.com",
     "name": "NEAR Intents",
     "category": [
@@ -152,6 +143,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/near-intents",
     "description": "NEAR Intents are a new type of transaction that allow information, requests, assets, and actions to be exchanged between AI agents, services, and end users"
+  },
+  {
+    "url": "https://au.cc",
+    "name": "FAssets",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/fassets",
+    "description": "FAssets is a trustless, over-collateralized bridge protocol on Flare that lets users mint wrapped versions of non-smart contract assets (e.g. XRP, BTC, DOGE) to use in DeFi, backed by on-chain collateral and Flare’s data oracles"
   },
   {
     "url": "https://axelar.network",
@@ -218,15 +218,6 @@
     "description": "Fast, non-custodial L1-L2 and cross-L2 communication."
   },
   {
-    "url": "https://orderly.network",
-    "name": "Orderly Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/orderly-bridge",
-    "description": "Orderly is an omnichain CLOB infrastructure.It’s the ultimate trading lego for seamless integration by any builder on any blockchain. Give your app the transparency and composability of DEXs, with the speed and performance of CEXs."
-  },
-  {
     "url": "https://pumpbtc.xyz",
     "name": "PumpBTC",
     "category": [
@@ -243,6 +234,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/wrapped",
     "description": "Your favorite assets on every blockchain. wrapped.com is a cross-chain institutional bridge. Designed for high-performance and speed."
+  },
+  {
+    "url": "https://txflow.com",
+    "name": "TxFlow Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/txflow-bridge",
+    "description": "TxFlow is an open Layer 1 with multi-application ecosystem around TIP Liquidity Standards — where every Channel shares on-chain liquidity, settlement, and market data without bridging"
   },
   {
     "url": "https://sunx.io",
@@ -263,15 +263,6 @@
     "description": "Trade perpetuals on a high-performance DEX with deep liquidity, capital efficiency and low fees"
   },
   {
-    "url": "https://txflow.com",
-    "name": "TxFlow Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/txflow-bridge",
-    "description": "TxFlow is an open Layer 1 with multi-application ecosystem around TIP Liquidity Standards — where every Channel shares on-chain liquidity, settlement, and market data without bridging"
-  },
-  {
     "url": "https://orbitchain.io",
     "name": "Orbit Bridge",
     "category": [
@@ -288,6 +279,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/morph-bridge",
     "description": "Bridge between Ethereum and Morph L2"
+  },
+  {
+    "url": "https://orderly.network",
+    "name": "Orderly Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/orderly-bridge",
+    "description": "Orderly is an omnichain CLOB infrastructure.It’s the ultimate trading lego for seamless integration by any builder on any blockchain. Give your app the transparency and composability of DEXs, with the speed and performance of CEXs."
   },
   {
     "url": "https://celer.network",
@@ -315,14 +315,5 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/pnetwork",
     "description": "pNetwork is a protocol that enables cross-chain operations, such as transferring assets from one blockchain to another. It is designed to provide interoperability between different blockchain networks, allowing users to take advantage of the unique features and capabilities of each network while still being able to access and use their assets on other networks."
-  },
-  {
-    "url": "https://fuel.network",
-    "name": "Fuel Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/fuel",
-    "description": "Bridge between Fuel Ignition and Ethereum"
   }
 ]

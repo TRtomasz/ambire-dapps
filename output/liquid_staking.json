@@ -49,15 +49,6 @@
     "description": "Kinetiq is a non-custodial liquid staking protocol that allows users to stake HYPE tokens on Hyperliquid L1 and receive kHYPE, a yield-bearing representation of staked HYPE that is usable in DeFi."
   },
   {
-    "url": "https://stakewise.io",
-    "name": "StakeWise V3",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/stakewise",
-    "description": "Stake your ETH and manage your capital flexibly with the principal and yield tokens from StakeWise."
-  },
-  {
     "url": "https://lista.org",
     "name": "Lista Lending",
     "category": [
@@ -68,6 +59,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/lista-lending",
     "description": "Lista Lending is a decentralized P2P lending protocol on BNB Chain that uses a vault-based system to pool liquidity and allocate it across lending markets based on supply and demand."
+  },
+  {
+    "url": "https://stakewise.io",
+    "name": "StakeWise V3",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/stakewise",
+    "description": "Stake your ETH and manage your capital flexibly with the principal and yield tokens from StakeWise."
   },
   {
     "url": "https://liquidcollective.io",
@@ -223,6 +223,15 @@
     "description": "Haedal is a liquid staking protocol built on Sui that allows anyone to stake their SUI tokens to contribute to governance and decentralisation of the Sui blockchain. In the meantime, users will get haSUI in return so that they can continue to participate in DeFi activities to earn additional yields."
   },
   {
+    "url": "https://stackingdao.com",
+    "name": "StackingDAO",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/stackingdao",
+    "description": "Start stacking STX, review your existing STX locked in PoX, and unstack at any time, for the best price."
+  },
+  {
     "url": "https://veno.finance",
     "name": "Veno Finance",
     "category": [
@@ -239,15 +248,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/nodedao",
     "description": "Experience the ease of staking on Ethereum 2.0 through NodeDAO's liquid staking service."
-  },
-  {
-    "url": "https://stackingdao.com",
-    "name": "StackingDAO",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/stackingdao",
-    "description": "Start stacking STX, review your existing STX locked in PoX, and unstack at any time, for the best price."
   },
   {
     "url": "https://crypto.com",
@@ -286,14 +286,13 @@
     "description": "GLIF is DePIN’s on-chain credit layer - liquidity providers earn rewards and hardware providers scale operations."
   },
   {
-    "url": "https://hyperbeat.org",
-    "name": "Hyperbeat Earn",
+    "url": "https://volosui.com",
+    "name": "Volo LST",
     "category": [
-      "Yield Aggregator",
       "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/hyperbeat-earn",
-    "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
+    "icon": "https://icons.llamao.fi/icons/protocols/volo-lst",
+    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
   },
   {
     "url": "https://infrared.finance",
@@ -305,13 +304,14 @@
     "description": "Infrared Finance is a BERA liquid staking protocol which utilizes proof of liquidity to maximize yields"
   },
   {
-    "url": "https://volosui.com",
-    "name": "Volo LST",
+    "url": "https://hyperbeat.org",
+    "name": "Hyperbeat Earn",
     "category": [
+      "Yield Aggregator",
       "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/volo-lst",
-    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
+    "icon": "https://icons.llamao.fi/icons/protocols/hyperbeat-earn",
+    "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
   },
   {
     "url": "https://stakestone.io",
@@ -357,5 +357,14 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/hipo",
     "description": "Hipo is a liquid staking protocol on TON. Users stake GRAM and receive hGRAM, which accrues validation rewards through a rising hGRAM/GRAM exchange rate."
+  },
+  {
+    "url": "https://shmonad.xyz",
+    "name": "ShMonad",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/shmonad",
+    "description": "Stake MON, get shMON—the liquid staking token that keeps earning + MEV rewards while you commit it to programmable policies. One token secures the network and backs your favourite dApps, all without sacrificing liquidity."
   }
 ]
