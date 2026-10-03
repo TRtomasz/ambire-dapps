@@ -130,8 +130,8 @@
     "name": "Hyperliquid Bridge",
     "category": [
       "Bridge",
-      "Dexs",
-      "Derivatives"
+      "Derivatives",
+      "Dexs"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/hyperliquid",
     "description": "Hyperliquid is a Layer 1 blockchain best known for perpetual futures and spot trading. Native USDC is minted on Hyperliquid via CCTP, and USDC is bridged from Arbitrum."
@@ -249,15 +249,6 @@
     "description": "Nado is a vertically-integrated decentralized exchange for spot and perpetual futures, featuring an off-chain sequencer and on-chain settlement on Ink. The platform delivers a high-performance CLOB experience where trades execute in milliseconds, with deep liquidity powered in part by the NLP (Nado Liquidity Provider) vault."
   },
   {
-    "url": "https://pulsex.com",
-    "name": "PulseX V1",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pulsex",
-    "description": "PulseX enables you to exchange tokens (\"PRC20s\") on PulseChain for one another"
-  },
-  {
     "url": "https://fables.fi",
     "name": "Fables",
     "category": [
@@ -265,6 +256,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/fables",
     "description": "A dynamic-fee ve(3,3) DEX built on Uniswap v4. Each pool charges a fee tuned to its asset — calendar-based for tokenised stocks, volatility-based for crypto — so LPs are paid more when a trade is more likely to be against them."
+  },
+  {
+    "url": "https://pulsex.com",
+    "name": "PulseX V1",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/pulsex",
+    "description": "PulseX enables you to exchange tokens (\"PRC20s\") on PulseChain for one another"
   },
   {
     "url": "https://prjx.com",
@@ -285,6 +285,15 @@
     "description": "Aquarius is a novel AMM protocol and a liquidity management layer to Stellar. It offers stable and volatile pools with multihop swaps on top, and a community governance tool to distribute rewards between pool liquidity providers based on voting and bribing."
   },
   {
+    "url": "https://botchain.ai",
+    "name": "BDEX V3",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/bdex-v3",
+    "description": "BDEX V3 is a concentrated-liquidity decentralized exchange on BOT Chain"
+  },
+  {
     "url": "https://hydration.net",
     "name": "Hydration Lending",
     "category": [
@@ -293,15 +302,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/hydration-lending",
     "description": "Hydration Lending is a decentralized lending protocol on Hydration."
-  },
-  {
-    "url": "https://botchain.ai",
-    "name": "BDEX V3",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bdex-v3",
-    "description": "BDEX V3 is a concentrated-liquidity decentralized exchange on BOT Chain"
   },
   {
     "url": "https://ekubo.org",
@@ -331,6 +331,15 @@
     "description": "Decentralized automated market maker (AMM) built on the TON blockchain"
   },
   {
+    "url": "https://phar.gg",
+    "name": "Pharaoh V3",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/pharaoh-v3",
+    "description": "Pharaoh is a concentrated liquidity layer and exchange built on the Avalanche C-Chain, powered by the latest metaDEX x(3,3) methodology—a more fluid and accessible version of the popular ve(3,3) model."
+  },
+  {
     "url": "https://usenest.xyz",
     "name": "nest CL",
     "category": [
@@ -340,13 +349,14 @@
     "description": "NEST is built for Hyperliquid. Smart pools and efficient swaps power onchain rewards that compound value back to voters and the ecosystem."
   },
   {
-    "url": "https://phar.gg",
-    "name": "Pharaoh V3",
+    "url": "https://kodiak.finance",
+    "name": "Kodiak Islands",
     "category": [
+      "Liquidity Manager",
       "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pharaoh-v3",
-    "description": "Pharaoh is a concentrated liquidity layer and exchange built on the Avalanche C-Chain, powered by the latest metaDEX x(3,3) methodology—a more fluid and accessible version of the popular ve(3,3) model."
+    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
+    "description": "Liquidity Manager for Kodiak DEX"
   },
   {
     "url": "https://saucerswap.finance",
@@ -376,14 +386,13 @@
     "description": "Bancor is an on-chain liquidity protocol that enables automated, decentralized exchange on Ethereum and across blockchains."
   },
   {
-    "url": "https://kodiak.finance",
-    "name": "Kodiak Islands",
+    "url": "https://stellar.org",
+    "name": "Stellar DEX",
     "category": [
-      "Liquidity Manager",
       "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
-    "description": "Liquidity Manager for Kodiak DEX"
+    "icon": "https://icons.llamao.fi/icons/protocols/stellar-dex",
+    "description": "The Stellar network acts as a decentralized distributed exchange that allows users to trade and convert assets with the network's Offer operations"
   },
   {
     "url": "https://agni.finance",
@@ -395,15 +404,6 @@
     "description": "Agni Finance is a high-capital efficiency, AMM-based DEX and launchpad built to support the Mantle Network ecosystem."
   },
   {
-    "url": "https://stellar.org",
-    "name": "Stellar DEX",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/stellar-dex",
-    "description": "The Stellar network acts as a decentralized distributed exchange that allows users to trade and convert assets with the network's Offer operations"
-  },
-  {
     "url": "https://saphyre.xyz",
     "name": "Saphyre V3",
     "category": [
@@ -411,33 +411,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/saphyre-v3",
     "description": "Execution Infrastructure for On-Chain Trading."
-  },
-  {
-    "url": "https://ramses.xyz",
-    "name": "Ramses CL V2",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/ramses-cl-v2",
-    "description": "RamsesX is a ve(3,3) exchange on Arbitrum with legacy liquidity pools and x(3,3) governance."
-  },
-  {
-    "url": "https://dodoex.io",
-    "name": "DODO AMM",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/dodo-amm",
-    "description": "Trade crypto assets with market-leading liquidity"
-  },
-  {
-    "url": "https://merchantmoe.com",
-    "name": "Merchant Moe Liquidity Book",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/merchant-moe",
-    "description": "Liquidity Book is an AMM on Merchant Moe offering low-cost trading, higher fee potential for providers, and requires less capital. It features zero slippage, surge pricing, and high efficiency"
   },
   {
     "url": "https://deepbook.tech",
@@ -449,6 +422,33 @@
     "description": "DeepBook is a fully on-chain central limit order book and the liquidity layer of Sui."
   },
   {
+    "url": "https://dodoex.io",
+    "name": "DODO AMM",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/dodo-amm",
+    "description": "Trade crypto assets with market-leading liquidity"
+  },
+  {
+    "url": "https://ramses.xyz",
+    "name": "Ramses CL V2",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/ramses-cl-v2",
+    "description": "RamsesX is a ve(3,3) exchange on Arbitrum with legacy liquidity pools and x(3,3) governance."
+  },
+  {
+    "url": "https://merchantmoe.com",
+    "name": "Merchant Moe Liquidity Book",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/merchant-moe",
+    "description": "Liquidity Book is an AMM on Merchant Moe offering low-cost trading, higher fee potential for providers, and requires less capital. It features zero slippage, surge pricing, and high efficiency"
+  },
+  {
     "url": "https://bluefin.io",
     "name": "Bluefin Spot",
     "category": [
@@ -456,6 +456,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/bluefin-spot",
     "description": "Bluefin is a decentralized orderbook-based exchange built for both professional and first-time traders. It focuses on security, transparency and redefining the user experience of using on-chain trading platforms - and is backed by Polychain, SIG, Brevan Howard, and other leading firms."
+  },
+  {
+    "url": "https://chainflip.io",
+    "name": "Chainflip AMM",
+    "category": [
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/chainflip-amm",
+    "description": "Chainflip is a cross-chain AMM enabling native asset swaps without wrapped tokens or specialised wallets."
   },
   {
     "url": "https://hyperswap.exchange",
@@ -467,13 +476,13 @@
     "description": "Explore token swaps, liquidity management and easy token launches"
   },
   {
-    "url": "https://chainflip.io",
-    "name": "Chainflip AMM",
+    "url": "https://lfj.gg",
+    "name": "Joe DEX",
     "category": [
       "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/chainflip-amm",
-    "description": "Chainflip is a cross-chain AMM enabling native asset swaps without wrapped tokens or specialised wallets."
+    "icon": "https://icons.llamao.fi/icons/protocols/trader-joe",
+    "description": "Let's F***ing Joe is your one-stop decentralized trading platform on the Avalanche network."
   },
   {
     "url": "https://osmosis.zone",
@@ -492,15 +501,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/tempo-stablecoin-dex",
     "description": "Tempo Stablecoin Dex is a decentralized exchange for stablecoins on Tempo."
-  },
-  {
-    "url": "https://lfj.gg",
-    "name": "Joe DEX",
-    "category": [
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/trader-joe",
-    "description": "Let's F***ing Joe is your one-stop decentralized trading platform on the Avalanche network."
   },
   {
     "url": "https://roninchain.com",

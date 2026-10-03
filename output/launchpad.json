@@ -19,6 +19,15 @@
     "description": "PinkSale is a decentralized launchpad that allows users to launch their own token and create their own initial token sale"
   },
   {
+    "url": "https://legion.cc",
+    "name": "Legion",
+    "category": [
+      "Launchpad"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/legion",
+    "description": "Legion is a merit-based crypto fundraising platform that lets projects launch token sales and allocates access to users based on on-chain reputation (Legion Scores) and compliance criteria."
+  },
+  {
     "url": "https://dx.app",
     "name": "DxSale",
     "category": [

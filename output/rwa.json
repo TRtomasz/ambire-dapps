@@ -30,6 +30,15 @@
     "description": "USDtb is a digital dollar, otherwise known as a USD stablecoin. USDtb can be used the same way a holder would use any other dollar, whether to send and receive payments, acquire and trade assets, or to simply hold dollars."
   },
   {
+    "url": "https://huma.finance",
+    "name": "Huma",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/huma",
+    "description": "Permissionless DeFi yield, powered by real-world payment flows."
+  },
+  {
     "url": "https://re.xyz",
     "name": "Re",
     "category": [
@@ -39,13 +48,13 @@
     "description": "Re is a decentralized reinsurance protocol that bridges real-world insurance risk on-chain. It pools capital through stablecoins, issues tokenized receipt assets (reUSD, reUSDe), and allocates funds into regulated reinsurance contracts. Returns are generated from underwriting premiums and on-chain yield, with transparent reporting of collateral and performance."
   },
   {
-    "url": "https://huma.finance",
-    "name": "Huma",
+    "url": "https://usd.ai",
+    "name": "USD AI",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/huma",
-    "description": "Permissionless DeFi yield, powered by real-world payment flows."
+    "icon": "https://icons.llamao.fi/icons/protocols/usd-ai",
+    "description": "USD.AI is a yield-bearing synthetic dollar protocol backed by real-world infrastructure assets"
   },
   {
     "url": "https://anemoy.io",
@@ -73,24 +82,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/plume-vaults",
     "description": "Plume Vaults is Plume's flagship real-world asset protocol, built to enable onchain access to real world yield through structured vaults"
-  },
-  {
-    "url": "https://usd.ai",
-    "name": "USD AI",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/usd-ai",
-    "description": "USD.AI is a yield-bearing synthetic dollar protocol backed by real-world infrastructure assets"
-  },
-  {
-    "url": "https://digift.io",
-    "name": "DigiFT",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/digift",
-    "description": "DigiFT is the first regulated exchange for on-chain real-world assets, approved as a Recognised Market Operator with a Capital Markets Services license by the Monetary Authority of Singapore. DigiFT allows asset owners to issue blockchain-based security tokens and investors can trade with continuous liquidity via an AMM."
   },
   {
     "url": "https://frax.com",
@@ -248,5 +239,14 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/paimon",
     "description": "Paimon is a BSC-based RWA and DeFi protocol focused on bringing institutional-grade real-world financial assets on-chain through tokenization and decentralized infrastructure bridging TradFi and DeFi."
+  },
+  {
+    "url": "https://republic.com",
+    "name": "Republic Note",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/republic-note",
+    "description": "One asset, broad exposure to venture & crypto"
   }
 ]
