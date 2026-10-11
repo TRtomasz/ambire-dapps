@@ -59,6 +59,15 @@
     "description": "Stake DAO is a non-custodial decentralized protocol enabling users to access optimized yield opportunities in DeFi"
   },
   {
+    "url": "https://avalonfinance.xyz",
+    "name": "Avalon Superearn",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/avalon-superearn",
+    "description": "Earn yield with real-time APY."
+  },
+  {
     "url": "https://aladdin.club",
     "name": "fx Protocol",
     "category": [
@@ -67,15 +76,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/fx-protocol",
     "description": "f(x) Protocol is a decentralized on-chain trading platform that enables stress-free leverage on ETH and WBTC while delivering the highest organic & sustainable yield on stablecoins. By utilizing an innovative mechanism, we offer up to 7X long or short exposure with minimum liquidation risk & funding costs. To fuel the leverage positions, the protocol mints fxUSD, a scalable & decentralized stablecoin with a strong peg to the dollar and backed by wstETH and WBTC."
-  },
-  {
-    "url": "https://avalonfinance.xyz",
-    "name": "Avalon Superearn",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/avalon-superearn",
-    "description": "Earn yield with real-time APY."
   },
   {
     "url": "https://lorenzo-protocol.xyz",
@@ -112,7 +112,7 @@
       "Yield"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/origin-ether",
-    "description": "Origin Ether engages with Ethereum staking pools and LP strategies. It uses platforms like Convex and Curve, and plans to integrate with other AMMs, aiming to provide higher yield opportunities"
+    "description": "Origin Ether (OETH) is a yield-bearing ETH liquid staking token. Its yield comes from native ETH staking through validators run by Origin and from an AMO that provides OETH/WETH liquidity on Curve. It is distributed by automatically rebasing holders' balances. Super OETH (superOETHb) is its Base version"
   },
   {
     "url": "https://infinifi.xyz",
@@ -160,15 +160,6 @@
     "description": "Strata is a generalized risk-tranching protocol designed to offer structured yields via tokenized senior and junior tranches across diverse on-chain and off-chain yield strategies."
   },
   {
-    "url": "https://rocksolid.network",
-    "name": "RockSolid Network",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/rocksolid-network",
-    "description": "RockSolid is a single-click integrated DeFi Vault platform that makes it simple for users to access the best DeFi rewards."
-  },
-  {
     "url": "https://zoofi.io",
     "name": "Zoo Finance",
     "category": [
@@ -176,15 +167,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/zoo-finance",
     "description": "Structured Asset Protocol for Better Liquidity Utilization."
-  },
-  {
-    "url": "https://royco.org",
-    "name": "Royco V2",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/royco-v2",
-    "description": "The Incentivized Action Market (IAM) Protocol."
   },
   {
     "url": "https://spectra.finance",
@@ -196,13 +178,22 @@
     "description": "Secure your future yield at a fixed rate."
   },
   {
-    "url": "https://equilibria.fi",
-    "name": "Equilibria",
+    "url": "https://rocksolid.network",
+    "name": "RockSolid Network",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/equilibria",
-    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
+    "icon": "https://icons.llamao.fi/icons/protocols/rocksolid-network",
+    "description": "RockSolid is a single-click integrated DeFi Vault platform that makes it simple for users to access the best DeFi rewards."
+  },
+  {
+    "url": "https://royco.org",
+    "name": "Royco V2",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/royco-v2",
+    "description": "The Incentivized Action Market (IAM) Protocol."
   },
   {
     "url": "https://superearn.io",
@@ -214,6 +205,15 @@
     "description": "SuperEarn is a decentralized yield-earning DeFi protocol that allows users to deposit supported crypto assets and earn returns by allocating those assets into on-chain earning strategies."
   },
   {
+    "url": "https://growi.fi",
+    "name": "GrowiHF",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/growihf",
+    "description": "Growi is a quantitative asset management protocol that leverages mathematical modeling to fine-tune trading strategies and maximize yield. Our approach ensures efficient capital allocation, advanced risk management, and consistent returns for investors"
+  },
+  {
     "url": "https://belt.fi",
     "name": "Belt Finance",
     "category": [
@@ -223,13 +223,13 @@
     "description": "Yield aggregator + AMM"
   },
   {
-    "url": "https://growi.fi",
-    "name": "GrowiHF",
+    "url": "https://equilibria.fi",
+    "name": "Equilibria",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/growihf",
-    "description": "Growi is a quantitative asset management protocol that leverages mathematical modeling to fine-tune trading strategies and maximize yield. Our approach ensures efficient capital allocation, advanced risk management, and consistent returns for investors"
+    "icon": "https://icons.llamao.fi/icons/protocols/equilibria",
+    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
   },
   {
     "url": "https://aura.finance",

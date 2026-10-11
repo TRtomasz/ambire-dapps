@@ -60,25 +60,6 @@
     "description": "Reliable returns with bfUSD, our yield-bearing stablecoin that fuels stability while amplifying your earnings in a dynamic ecosystem."
   },
   {
-    "url": "https://avantprotocol.com",
-    "name": "Avant avUSD",
-    "category": [
-      "Basis Trading",
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/avant-avusd",
-    "description": "Avant is a DeFi platform established in June 2024 with the mission to create a more inclusive financial system through a DeFi-powered stable-value token. The platform introduces avUSD, a stable-value token, and savUSD, its staked, yield-bearing counterpart."
-  },
-  {
-    "url": "https://bitway.com",
-    "name": "Bitway Earn",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bitway",
-    "description": "Bitway Earn is an asset management product from the Bitway suite that allows users to deploy on-chain capital into global investment opportunities. It functions as a comprehensive gateway for both retail and institutional players seeking to access yield globally."
-  },
-  {
     "url": "https://tori.finance",
     "name": "Tori Finance",
     "category": [
@@ -88,15 +69,6 @@
     "description": "Tori Finance is a synthetic dollar protocol where trUSD is backed by delta-neutral trading positions and can be staked into strUSD to earn yield from those market-neutral strategies."
   },
   {
-    "url": "https://zerobase.pro",
-    "name": "ZEROBASE CeDeFi",
-    "category": [
-      "Basis Trading"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/zerobase-cedefi",
-    "description": "ZEROBASE introduces the first zk-powered staking product on stablecoins"
-  },
-  {
     "url": "https://axis.to",
     "name": "Axis",
     "category": [
@@ -104,6 +76,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/axis",
     "description": "Quantitative yield protocol that issues USDx, a synthetic dollar backed by a cross-venue arbitrage engine. sUSDx is the staked yield-bearing vault."
+  },
+  {
+    "url": "https://zerobase.pro",
+    "name": "ZEROBASE CeDeFi",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/zerobase-cedefi",
+    "description": "ZEROBASE introduces the first zk-powered staking product on stablecoins"
   },
   {
     "url": "https://unitas.so",
@@ -116,6 +97,15 @@
     "description": "Unitas is a decentralized, yield-bearing stablecoin protocol built for the next generation of finance. It issues stablecoins that earn yield natively — no reliance on traditional banks. Powered by Solana, it's fast, scalable, and censorship-resistant"
   },
   {
+    "url": "https://bitway.com",
+    "name": "Bitway Earn",
+    "category": [
+      "Basis Trading"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/bitway",
+    "description": "Bitway Earn is an asset management product from the Bitway suite that allows users to deploy on-chain capital into global investment opportunities. It functions as a comprehensive gateway for both retail and institutional players seeking to access yield globally."
+  },
+  {
     "url": "https://aegis.im",
     "name": "Aegis YUSD",
     "category": [
@@ -126,13 +116,13 @@
   },
   {
     "url": "https://manta.network",
-    "name": "Manta Pacific",
+    "name": "Manta CeDeFi",
     "category": [
-      "Canonical Bridge",
-      "Basis Trading"
+      "Basis Trading",
+      "Canonical Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/manta-pacific",
-    "description": "Bridge between Ethereum and Manta Pacific Chain."
+    "icon": "https://icons.llamao.fi/icons/protocols/manta-cedefi",
+    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
   },
   {
     "url": "https://liminal.money",

@@ -122,7 +122,6 @@
     "url": "https://avantprotocol.com",
     "name": "Avant avUSD",
     "category": [
-      "Basis Trading",
       "Onchain Capital Allocator"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/avant-avusd",
@@ -138,6 +137,15 @@
     "description": "Ember is the investment platform and infrastructure for launching, accessing, and distributing traditional and onchain financial products through crypto capital markets."
   },
   {
+    "url": "https://ipor.io",
+    "name": "Fusion by IPOR",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/fusion-by-ipor.svg",
+    "description": "Fusion (by IPOR) is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
+  },
+  {
     "url": "https://ultrayield.app",
     "name": "UltraYield Curator",
     "category": [
@@ -148,6 +156,15 @@
     "description": "UltraYield, created by leading crypto hedge fund Edge Capital, offers sophisticated yield-generating vaults that make institutional-grade strategies accessible to everyone."
   },
   {
+    "url": "https://makina.finance",
+    "name": "Makina",
+    "category": [
+      "Onchain Capital Allocator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/makina-finance",
+    "description": "Makina is DeFi execution infrastructure for onchain asset managers. Operators deploy strategies as Machines, vaults that allocate capital across protocols and chains through Calibers, with built-in accounting, risk controls and cross-chain execution."
+  },
+  {
     "url": "https://usefelix.xyz",
     "name": "Felix Vaults",
     "category": [
@@ -156,15 +173,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/felix-vaults",
     "description": "Deposit assets to be lent via Morpho Vaults to earn interest."
-  },
-  {
-    "url": "https://makina.finance",
-    "name": "Makina",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/makina-finance",
-    "description": "Makina the most advanced DeFi Execution Engine empowering sophisticated Operators to execute onchain yield strategies which maximize risk-adjusted return."
   },
   {
     "url": "https://plasma.to",
@@ -186,15 +194,6 @@
     "description": "Tokenized Derivatives Strategies, dynamically managing risk and reward efficiently. Offering a robust suite of institutional-grade managed strategies within innovative, non-custodial single-click vault architecture."
   },
   {
-    "url": "https://yieldnest.finance",
-    "name": "YieldNest",
-    "category": [
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/yieldnest",
-    "description": "YieldNest is a next-generation liquid restaking protocol that provides simple-to-understand, risk-adjusted restaking strategies"
-  },
-  {
     "url": "https://neutral.trade",
     "name": "Neutral Trade",
     "category": [
@@ -204,14 +203,13 @@
     "description": "Neutral Trade is the on-chain multi-strategy hedge fund, built by experienced quants and traders from Goldman Sachs and Top Global Hedge Funds"
   },
   {
-    "url": "https://moonwell.fi",
-    "name": "Moonwell Lending",
+    "url": "https://yieldnest.finance",
+    "name": "YieldNest",
     "category": [
-      "Lending",
       "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/moonwell-lending",
-    "description": "Moonwell is an open lending and borrowing DeFi protocol on Base, Optimism, Moonbeam & Moonriver."
+    "icon": "https://icons.llamao.fi/icons/protocols/yieldnest",
+    "description": "YieldNest is a next-generation liquid restaking protocol that provides simple-to-understand, risk-adjusted restaking strategies"
   },
   {
     "url": "https://t3tris.finance",

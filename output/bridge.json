@@ -41,8 +41,8 @@
     "name": "Hyperliquid Bridge",
     "category": [
       "Bridge",
-      "Dexs",
-      "Derivatives"
+      "Derivatives",
+      "Dexs"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/hyperliquid",
     "description": "Hyperliquid is a Layer 1 blockchain best known for perpetual futures and spot trading. Native USDC is minted on Hyperliquid via CCTP, and USDC is bridged from Arbitrum."
@@ -136,15 +136,6 @@
     "description": "Merlin's Seal is an event associated with the Merlin Chain, focusing on the fair launch of its governance token, $MERL. Users stake assets to earn M-points, which are then used to determine the distribution of $MERL rewards"
   },
   {
-    "url": "https://au.cc",
-    "name": "FAssets",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/fassets",
-    "description": "FAssets is a trustless, over-collateralized bridge protocol on Flare that lets users mint wrapped versions of non-smart contract assets (e.g. XRP, BTC, DOGE) to use in DeFi, backed by on-chain collateral and Flare’s data oracles"
-  },
-  {
     "url": "https://near.com",
     "name": "NEAR Intents",
     "category": [
@@ -152,6 +143,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/near-intents",
     "description": "NEAR Intents are a new type of transaction that allow information, requests, assets, and actions to be exchanged between AI agents, services, and end users"
+  },
+  {
+    "url": "https://au.cc",
+    "name": "FAssets",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/fassets",
+    "description": "FAssets is a trustless, over-collateralized bridge protocol on Flare that lets users mint wrapped versions of non-smart contract assets (e.g. XRP, BTC, DOGE) to use in DeFi, backed by on-chain collateral and Flare’s data oracles"
   },
   {
     "url": "https://axelar.network",
@@ -209,6 +209,15 @@
     "description": "Grvt is the preeminent DEX for onchain financial privacy that is powered by zero-knowledge technology, ensuring private, trustless, scalable and secure infrastructure"
   },
   {
+    "url": "https://paradex.trade",
+    "name": "Paradex Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/paradex-bridge",
+    "description": "Trade perpetuals on a high-performance DEX with deep liquidity, capital efficiency and low fees"
+  },
+  {
     "url": "https://connext.network",
     "name": "Connext",
     "category": [
@@ -218,15 +227,6 @@
     "description": "Fast, non-custodial L1-L2 and cross-L2 communication."
   },
   {
-    "url": "https://orderly.network",
-    "name": "Orderly Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/orderly-bridge",
-    "description": "Orderly is an omnichain CLOB infrastructure.It’s the ultimate trading lego for seamless integration by any builder on any blockchain. Give your app the transparency and composability of DEXs, with the speed and performance of CEXs."
-  },
-  {
     "url": "https://pumpbtc.xyz",
     "name": "PumpBTC",
     "category": [
@@ -234,6 +234,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/pumpbtc",
     "description": "PumpBTC serves as a Liquid Restaking Solution for Babylon. PumpBTC aims to help BTC holders maximize yields through Babylon's liquid staking - essentially rebuilding WBTC with native yield"
+  },
+  {
+    "url": "https://txflow.com",
+    "name": "TxFlow Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/txflow-bridge",
+    "description": "TxFlow is an open Layer 1 with multi-application ecosystem around TIP Liquidity Standards — where every Channel shares on-chain liquidity, settlement, and market data without bridging"
   },
   {
     "url": "https://wrapped.com",
@@ -254,22 +263,13 @@
     "description": "SunX is the first top-tier decentralized perpetual contract trading platform on the TRON blockchain, dedicated to providing users with an institutional-grade trading experience and ultimate asset security."
   },
   {
-    "url": "https://paradex.trade",
-    "name": "Paradex Bridge",
+    "url": "https://orderly.network",
+    "name": "Orderly Bridge",
     "category": [
       "Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/paradex-bridge",
-    "description": "Trade perpetuals on a high-performance DEX with deep liquidity, capital efficiency and low fees"
-  },
-  {
-    "url": "https://txflow.com",
-    "name": "TxFlow Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/txflow-bridge",
-    "description": "TxFlow is an open Layer 1 with multi-application ecosystem around TIP Liquidity Standards — where every Channel shares on-chain liquidity, settlement, and market data without bridging"
+    "icon": "https://icons.llamao.fi/icons/protocols/orderly-bridge",
+    "description": "Orderly is an omnichain CLOB infrastructure.It’s the ultimate trading lego for seamless integration by any builder on any blockchain. Give your app the transparency and composability of DEXs, with the speed and performance of CEXs."
   },
   {
     "url": "https://orbitchain.io",
@@ -299,15 +299,6 @@
     "description": "Celer cBridge is a multi-chain network that enables instant, low-cost and ANY-to-ANY value transfers within and across different blockchains, such as Ethereum and Polkadot, and different layer-2 scaling solutions on top, such as Optimistic Rollup, ZK Rollup and sidechains"
   },
   {
-    "url": "https://mezo.org",
-    "name": "Mezo Bridge",
-    "category": [
-      "Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/mezo-network",
-    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
-  },
-  {
     "url": "https://p.network",
     "name": "pNetwork",
     "category": [
@@ -317,6 +308,15 @@
     "description": "pNetwork is a protocol that enables cross-chain operations, such as transferring assets from one blockchain to another. It is designed to provide interoperability between different blockchain networks, allowing users to take advantage of the unique features and capabilities of each network while still being able to access and use their assets on other networks."
   },
   {
+    "url": "https://mezo.org",
+    "name": "Mezo Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/mezo-network",
+    "description": "Mezo is the Bitcoin Economic Layer: a Bitcoin-first network with a dual staking model for rewards and validation."
+  },
+  {
     "url": "https://fuel.network",
     "name": "Fuel Bridge",
     "category": [
@@ -324,5 +324,14 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/fuel",
     "description": "Bridge between Fuel Ignition and Ethereum"
+  },
+  {
+    "url": "https://fusionist.io",
+    "name": "Endurance Bridge",
+    "category": [
+      "Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/endurance-bridge",
+    "description": "Bridge between Endurance and BSC for ACE"
   }
 ]
