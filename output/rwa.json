@@ -48,6 +48,15 @@
     "description": "Permissionless DeFi yield, powered by real-world payment flows."
   },
   {
+    "url": "https://usd.ai",
+    "name": "USD AI",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/usd-ai",
+    "description": "USD.AI is a yield-bearing synthetic dollar protocol backed by real-world infrastructure assets"
+  },
+  {
     "url": "https://anemoy.io",
     "name": "Anemoy Capital",
     "category": [
@@ -73,24 +82,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/plume-vaults",
     "description": "Plume Vaults is Plume's flagship real-world asset protocol, built to enable onchain access to real world yield through structured vaults"
-  },
-  {
-    "url": "https://usd.ai",
-    "name": "USD AI",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/usd-ai",
-    "description": "USD.AI is a yield-bearing synthetic dollar protocol backed by real-world infrastructure assets"
-  },
-  {
-    "url": "https://digift.io",
-    "name": "DigiFT",
-    "category": [
-      "RWA"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/digift",
-    "description": "DigiFT is the first regulated exchange for on-chain real-world assets, approved as a Recognised Market Operator with a Capital Markets Services license by the Monetary Authority of Singapore. DigiFT allows asset owners to issue blockchain-based security tokens and investors can trade with continuous liquidity via an AMM."
   },
   {
     "url": "https://frax.com",
@@ -223,6 +214,15 @@
     "description": "GAIB is a financial layer for AI infrastructure, turning GPU-backed assets into yield-generating opportunities. Its AI synthetic dollar, AID, gives investors exposure to the AI economy while earning yield from compute resources. Users can stake AID (sAID) to earn passive income without giving up liquidity. GAIB also supports cloud providers and data centers by offering capital solutions to improve access to compute. Integrated with DeFi protocols like lending, borrowing, and structured products, GAIB connects AI and blockchain to open new investment opportunities"
   },
   {
+    "url": "https://paimon.finance",
+    "name": "Paimon",
+    "category": [
+      "RWA"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/paimon",
+    "description": "Paimon is a BSC-based RWA and DeFi protocol focused on bringing institutional-grade real-world financial assets on-chain through tokenization and decentralized infrastructure bridging TradFi and DeFi."
+  },
+  {
     "url": "https://stobox.io",
     "name": "Stobox",
     "category": [
@@ -241,12 +241,12 @@
     "description": "Estate protocol offers investors access to fractional ownership of real estate in the most sought-after markets in the world with secure, globally recognized asset protection. Estate Protocol enables cross-border investments with minimal barriers, allowing anyone to invest in high-quality real estate with as little as $50."
   },
   {
-    "url": "https://paimon.finance",
-    "name": "Paimon",
+    "url": "https://republic.com",
+    "name": "Republic Note",
     "category": [
       "RWA"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/paimon",
-    "description": "Paimon is a BSC-based RWA and DeFi protocol focused on bringing institutional-grade real-world financial assets on-chain through tokenization and decentralized infrastructure bridging TradFi and DeFi."
+    "icon": "https://icons.llamao.fi/icons/protocols/republic-note",
+    "description": "One asset, broad exposure to venture & crypto"
   }
 ]

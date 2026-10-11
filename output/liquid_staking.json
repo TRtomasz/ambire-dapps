@@ -39,14 +39,16 @@
     "description": "Rocket Pool is the first truly decentralised Ethereum staking pool. Liquid Staking, Audited SC, and Minimised Penalty Risk. Unlike solo stakers, who are required to put 32 ETH up for deposit to create a new validator, Rocket Pool nodes only need to deposit 16 ETH per validator. This will be coupled with 16 ETH from the staking pool (which stakers deposited in exchange for rETH) to create a new ETH2 validator."
   },
   {
-    "url": "https://kinetiq.xyz",
-    "name": "Kinetiq kHYPE",
+    "url": "https://lista.org",
+    "name": "Lista Lending",
     "category": [
+      "Lending",
       "Liquid Staking",
-      "Yield Aggregator"
+      "CDP",
+      "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/kinetiq-khype",
-    "description": "Kinetiq is a non-custodial liquid staking protocol that allows users to stake HYPE tokens on Hyperliquid L1 and receive kHYPE, a yield-bearing representation of staked HYPE that is usable in DeFi."
+    "icon": "https://icons.llamao.fi/icons/protocols/lista-lending",
+    "description": "Lista Lending is a decentralized P2P lending protocol on BNB Chain that uses a vault-based system to pool liquidity and allocate it across lending markets based on supply and demand."
   },
   {
     "url": "https://stakewise.io",
@@ -58,16 +60,14 @@
     "description": "Stake your ETH and manage your capital flexibly with the principal and yield tokens from StakeWise."
   },
   {
-    "url": "https://lista.org",
-    "name": "Lista Lending",
+    "url": "https://kinetiq.xyz",
+    "name": "Kinetiq kHYPE",
     "category": [
-      "Lending",
       "Liquid Staking",
-      "CDP",
-      "Dexs"
+      "Yield Aggregator"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/lista-lending",
-    "description": "Lista Lending is a decentralized P2P lending protocol on BNB Chain that uses a vault-based system to pool liquidity and allocate it across lending markets based on supply and demand."
+    "icon": "https://icons.llamao.fi/icons/protocols/kinetiq-khype",
+    "description": "Kinetiq is a non-custodial liquid staking protocol that allows users to stake HYPE tokens on Hyperliquid L1 and receive kHYPE, a yield-bearing representation of staked HYPE that is usable in DeFi."
   },
   {
     "url": "https://liquidcollective.io",
@@ -117,15 +117,6 @@
     "description": "Stake AVAX on BENQI's Liquid Staking Protocol and freely utilize it within powerful Decentralized Financial applications."
   },
   {
-    "url": "https://valantis.xyz",
-    "name": "stHYPE",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/sthype",
-    "description": "The Hyperliquid liquid staking platform."
-  },
-  {
     "url": "https://tonstakers.com",
     "name": "Tonstakers LSD",
     "category": [
@@ -133,6 +124,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/tonstakers-lsd",
     "description": "The Open Network Liquid Staking protocol empowering TON DeFi ecosystem"
+  },
+  {
+    "url": "https://valantis.xyz",
+    "name": "stHYPE",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/sthype",
+    "description": "The Hyperliquid liquid staking platform."
   },
   {
     "url": "https://frax.com",
@@ -166,15 +166,13 @@
     "description": "Effortlessly stake your crypto assets with stake.link's easy to use, secure liquid staking protocol."
   },
   {
-    "url": "https://swellnetwork.io",
-    "name": "Swell L2 Farm",
+    "url": "https://stackingdao.com",
+    "name": "StackingDAO",
     "category": [
-      "Farm",
-      "Liquid Staking",
-      "Liquid Restaking"
+      "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/swell",
-    "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
+    "icon": "https://icons.llamao.fi/icons/protocols/stackingdao",
+    "description": "Start stacking STX, review your existing STX locked in PoX, and unstack at any time, for the best price."
   },
   {
     "url": "https://valdora.finance",
@@ -184,6 +182,17 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/valdora-finance",
     "description": "Valdora Finance is the liquid staking protocol built on ZIGChain, offering secure, non-custodial, and decentralized staking through its flagship token — stZIG."
+  },
+  {
+    "url": "https://swellnetwork.io",
+    "name": "Swell L2 Farm",
+    "category": [
+      "Farm",
+      "Liquid Staking",
+      "Liquid Restaking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/swell",
+    "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
   },
   {
     "url": "https://springsui.com",
@@ -202,7 +211,7 @@
       "Yield"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/origin-ether",
-    "description": "Origin Ether engages with Ethereum staking pools and LP strategies. It uses platforms like Convex and Curve, and plans to integrate with other AMMs, aiming to provide higher yield opportunities"
+    "description": "Origin Ether (OETH) is a yield-bearing ETH liquid staking token. Its yield comes from native ETH staking through validators run by Origin and from an AMO that provides OETH/WETH liquidity on Curve. It is distributed by automatically rebasing holders' balances. Super OETH (superOETHb) is its Base version"
   },
   {
     "url": "https://markets.xyz",
@@ -223,15 +232,6 @@
     "description": "Haedal is a liquid staking protocol built on Sui that allows anyone to stake their SUI tokens to contribute to governance and decentralisation of the Sui blockchain. In the meantime, users will get haSUI in return so that they can continue to participate in DeFi activities to earn additional yields."
   },
   {
-    "url": "https://veno.finance",
-    "name": "Veno Finance",
-    "category": [
-      "Liquid Staking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/veno-finance",
-    "description": "Easy and Reliable Liquid Staking on Cronos chain"
-  },
-  {
     "url": "https://nodedao.com",
     "name": "NodeDAO",
     "category": [
@@ -241,13 +241,13 @@
     "description": "Experience the ease of staking on Ethereum 2.0 through NodeDAO's liquid staking service."
   },
   {
-    "url": "https://stackingdao.com",
-    "name": "StackingDAO",
+    "url": "https://veno.finance",
+    "name": "Veno Finance",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/stackingdao",
-    "description": "Start stacking STX, review your existing STX locked in PoX, and unstack at any time, for the best price."
+    "icon": "https://icons.llamao.fi/icons/protocols/veno-finance",
+    "description": "Easy and Reliable Liquid Staking on Cronos chain"
   },
   {
     "url": "https://crypto.com",
@@ -259,13 +259,13 @@
     "description": "Liquid staking is available for ETH and Solana! Earn rewards and receive tradeable CDCETH and CDCSOL"
   },
   {
-    "url": "https://ankr.com",
-    "name": "Ankr",
+    "url": "https://glif.io",
+    "name": "GLIF",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/ankr",
-    "description": "Liquid, secure, and easy to integrate staking infrastructure."
+    "icon": "https://icons.llamao.fi/icons/protocols/glif",
+    "description": "GLIF is DePIN’s on-chain credit layer - liquidity providers earn rewards and hardware providers scale operations."
   },
   {
     "url": "https://stakee.org",
@@ -277,23 +277,22 @@
     "description": "Earn TON with best APY at most profitable staking service."
   },
   {
-    "url": "https://glif.io",
-    "name": "GLIF",
+    "url": "https://ankr.com",
+    "name": "Ankr",
     "category": [
       "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/glif",
-    "description": "GLIF is DePIN’s on-chain credit layer - liquidity providers earn rewards and hardware providers scale operations."
+    "icon": "https://icons.llamao.fi/icons/protocols/ankr",
+    "description": "Liquid, secure, and easy to integrate staking infrastructure."
   },
   {
-    "url": "https://hyperbeat.org",
-    "name": "Hyperbeat Earn",
+    "url": "https://volosui.com",
+    "name": "Volo LST",
     "category": [
-      "Yield Aggregator",
       "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/hyperbeat-earn",
-    "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
+    "icon": "https://icons.llamao.fi/icons/protocols/volo-lst",
+    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
   },
   {
     "url": "https://infrared.finance",
@@ -305,13 +304,14 @@
     "description": "Infrared Finance is a BERA liquid staking protocol which utilizes proof of liquidity to maximize yields"
   },
   {
-    "url": "https://volosui.com",
-    "name": "Volo LST",
+    "url": "https://hyperbeat.org",
+    "name": "Hyperbeat Earn",
     "category": [
+      "Yield Aggregator",
       "Liquid Staking"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/volo-lst",
-    "description": "Volo is the go-to Earn Hub for all your assets on Sui that offers much more than its established status in offering its fully decentralized LST Sui (vSui). Volo is expanding to offering vaults of all major assets on Sui especially BTCFi-related token that allows users to simply earn yield on their assets with one click."
+    "icon": "https://icons.llamao.fi/icons/protocols/hyperbeat-earn",
+    "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
   },
   {
     "url": "https://stakestone.io",
@@ -330,6 +330,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/geth",
     "description": "With GETH, you can hold or trade your staked assets at any time, without having to wait for Phase 2 of Ethereum 2.0."
+  },
+  {
+    "url": "https://endur.fi",
+    "name": "Endur",
+    "category": [
+      "Liquid Staking"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/endur",
+    "description": "xSTRK - Liquid Staked STRK"
   },
   {
     "url": "https://bifrost.io",

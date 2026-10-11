@@ -29,15 +29,6 @@
     "description": "Ethereum sidechain"
   },
   {
-    "url": "https://robinhood.com",
-    "name": "Robinhood Chain Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/robinhood-chain-bridge",
-    "description": "The canonical bridge for Robinhood Chain."
-  },
-  {
     "url": "https://optimism.io",
     "name": "Optimism Bridge",
     "category": [
@@ -47,6 +38,15 @@
     "description": "Bridge between Optimism and Ethereum"
   },
   {
+    "url": "https://robinhood.com",
+    "name": "Robinhood Chain Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/robinhood-chain-bridge",
+    "description": "The canonical bridge for Robinhood Chain."
+  },
+  {
     "url": "https://world.org",
     "name": "World Chain",
     "category": [
@@ -54,6 +54,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/world-chain",
     "description": "World Chain is a permissionless Layer 2 blockchain on Ethereum, built with the OP Stack, offering scalability, security, Sybil resistance, community governance, and is part of the OP Superchain ecosystem"
+  },
+  {
+    "url": "https://starknet.io",
+    "name": "Starknet Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/starknet-bridge",
+    "description": "Transfer assets between StarkNet and Ethereum"
   },
   {
     "url": "https://gnosis.io",
@@ -74,15 +83,6 @@
     "description": "The main bridge, on a technical level, in Linea is the Canonical Message Bridge. This is the underlying set of smart contracts which keep track of receiving requests to move tokens to the other layer, and of sending the message that those tokens should be transferred."
   },
   {
-    "url": "https://starknet.io",
-    "name": "Starknet Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/starknet-bridge",
-    "description": "Transfer assets between StarkNet and Ethereum"
-  },
-  {
     "url": "https://core.app",
     "name": "Avalanche Core Bridge",
     "category": [
@@ -92,15 +92,6 @@
     "description": "Native Bitcoin Bridge. ETH EVM support. No added fees or middlemen, ever."
   },
   {
-    "url": "https://mantle.xyz",
-    "name": "Mantle Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/mantle-bridge",
-    "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
-  },
-  {
     "url": "https://near.org",
     "name": "NEAR Bridge",
     "category": [
@@ -108,6 +99,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/near",
     "description": "Effortlessly create and distribute innovative decentralized apps across any blockchain, while helping build a more open web, with the NEAR Blockchain Operating System (BOS)."
+  },
+  {
+    "url": "https://mantle.xyz",
+    "name": "Mantle Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/mantle-bridge",
+    "description": "Mantle Network is a Layer-2 (L2) scalability solution built on Ethereum which is the Layer-1 (L1)."
   },
   {
     "url": "https://rootstock.io",
@@ -128,13 +128,22 @@
     "description": "A decentralized supercomputer built on top of Arweave's permanent data storage."
   },
   {
-    "url": "https://blast.io",
-    "name": "Blast Bridge",
+    "url": "https://soniclabs.com",
+    "name": "Sonic Gateway",
     "category": [
       "Canonical Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/blast-bridge",
-    "description": "Bridge between Ethereum and Blast Mainnet."
+    "icon": "https://icons.llamao.fi/icons/protocols/sonic-gateway",
+    "description": "Canonical Bridge for Sonic chain"
+  },
+  {
+    "url": "https://popdex.xyz",
+    "name": "Popdex Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/popdex-bridge",
+    "description": "The bridge connects Morph Tachyon (the hub) to external EVM custody chains."
   },
   {
     "url": "https://inkonchain.com",
@@ -146,6 +155,15 @@
     "description": "Bridge for Ink chain by Kraken"
   },
   {
+    "url": "https://blast.io",
+    "name": "Blast Bridge",
+    "category": [
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/blast-bridge",
+    "description": "Bridge between Ethereum and Blast Mainnet."
+  },
+  {
     "url": "https://pulsechain.com",
     "name": "PulseChain Bridge",
     "category": [
@@ -155,24 +173,6 @@
     "description": "Bridge between PulseChain and Ethereum"
   },
   {
-    "url": "https://soniclabs.com",
-    "name": "Sonic Gateway",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/sonic-gateway",
-    "description": "Canonical Bridge for Sonic chain"
-  },
-  {
-    "url": "https://lisk.com",
-    "name": "Lisk Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/lisk-bridge",
-    "description": "We offer Web3 founders in Emerging Markets the ultimate ecosystem to bring their real-world applications to life."
-  },
-  {
     "url": "https://scroll.io",
     "name": "Scroll Bridge",
     "category": [
@@ -180,15 +180,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/scroll-bridge",
     "description": "Transfer assets between Scroll and Ethereum"
-  },
-  {
-    "url": "https://gravity.xyz",
-    "name": "Gravity by Galxe",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/gravity-by-galxe",
-    "description": "Gravity, built by Galxe, is an omnichannel settlement layer designed for mass adoption. It uses Zero-Knowledge Proofs, staking architecture, and advanced consensus mechanisms for high performance."
   },
   {
     "url": "https://sui.io",
@@ -209,6 +200,16 @@
     "description": "Bridge between Metis and Ethereum"
   },
   {
+    "url": "https://manta.network",
+    "name": "Manta CeDeFi",
+    "category": [
+      "Basis Trading",
+      "Canonical Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/manta-cedefi",
+    "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi."
+  },
+  {
     "url": "https://standx.com",
     "name": "StandX Bridge",
     "category": [
@@ -218,14 +219,13 @@
     "description": "StandX is a Perps DEX live on Mainnet across BNB and Solana, powered by its native yield bearing DUSD."
   },
   {
-    "url": "https://manta.network",
-    "name": "Manta Pacific",
+    "url": "https://gravity.xyz",
+    "name": "Gravity by Galxe",
     "category": [
-      "Canonical Bridge",
-      "Basis Trading"
+      "Canonical Bridge"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/manta-pacific",
-    "description": "Bridge between Ethereum and Manta Pacific Chain."
+    "icon": "https://icons.llamao.fi/icons/protocols/gravity-by-galxe",
+    "description": "Gravity, built by Galxe, is an omnichannel settlement layer designed for mass adoption. It uses Zero-Knowledge Proofs, staking architecture, and advanced consensus mechanisms for high performance."
   },
   {
     "url": "https://cronos.org",
@@ -253,14 +253,5 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/sx-bridge",
     "description": "Bridge between Ethereum and SX Network"
-  },
-  {
-    "url": "https://megaeth.com",
-    "name": "MegaETH Bridge",
-    "category": [
-      "Canonical Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/megaeth-bridge",
-    "description": "Decentralized exchange on MegaETH."
   }
 ]
