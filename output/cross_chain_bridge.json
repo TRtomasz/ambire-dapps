@@ -1,5 +1,15 @@
 [
   {
+    "url": "https://circle.com",
+    "name": "Circle Gateway",
+    "category": [
+      "Cross Chain Bridge",
+      "Stablecoin Wrapper"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/circle-gateway",
+    "description": "Circle Gateway enables a unified USDC balance, unlocking on-demand liquidity and redefining crosschain UX"
+  },
+  {
     "url": "https://stargate.finance",
     "name": "Stargate V2",
     "category": [
@@ -16,16 +26,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/hyperlane",
     "description": "Open interoperability across 150+ chains | Bridge + issue tokens + build interchain apps."
-  },
-  {
-    "url": "https://circle.com",
-    "name": "Circle Gateway",
-    "category": [
-      "Cross Chain Bridge",
-      "Stablecoin Wrapper"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/circle-gateway",
-    "description": "Circle Gateway enables a unified USDC balance, unlocking on-demand liquidity and redefining crosschain UX"
   },
   {
     "url": "https://across.to",

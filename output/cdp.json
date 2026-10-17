@@ -11,6 +11,15 @@
     "description": "The USDS stablecoin powers the open Sky ecosystem. It is the upgraded version of DAI, providing new ways for you to have more rewarding crypto experiences."
   },
   {
+    "url": "https://usdd.io",
+    "name": "USDD",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/usdd",
+    "description": "Decentralized USD (USDD) is a fully decentralized stablecoin pegged to the US dollar through crypto reserves"
+  },
+  {
     "url": "https://curve.finance",
     "name": "Curve DEX",
     "category": [
@@ -20,15 +29,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/curve",
     "description": "Curve is a decentralized exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading"
-  },
-  {
-    "url": "https://usdd.io",
-    "name": "USDD",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/usdd",
-    "description": "Decentralized USD (USDD) is a fully decentralized stablecoin pegged to the US dollar through crypto reserves"
   },
   {
     "url": "https://lista.org",
@@ -80,16 +80,6 @@
     "description": "Deposit assets to be lent via Morpho Vaults to earn interest."
   },
   {
-    "url": "https://bucketprotocol.io",
-    "name": "Bucket Farm",
-    "category": [
-      "Farm",
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bucket-farm",
-    "description": "Deposit tokens to earn $DROPS token for the upcoming token $BUT"
-  },
-  {
     "url": "https://inverse.finance",
     "name": "Inverse Finance FiRM",
     "category": [
@@ -126,6 +116,15 @@
     "description": "EVM-compatible L1 blockchain with DeFi suite including CDP stablecoin (USDST), lending, AMM pools, tokenized precious metals, and cross-chain bridging. Built by BlockApps."
   },
   {
+    "url": "https://bucketprotocol.io",
+    "name": "Bucket CDP",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/bucket-cdp",
+    "description": "Bucket Protocol is the leading Collateralized Debt Position (CDP) protocol within the Sui ecosystem, supporting multiple assets for collateralization while extending stablecoin loans in $BUCK at a fixed low-cost. Its real-time liquidation mechanism ensures both security and capital efficiency, and the inbuilt flash loan services facilitate the price stability of the stablecoin BUCK."
+  },
+  {
     "url": "https://kava.io",
     "name": "Kava Mint",
     "category": [
@@ -151,14 +150,5 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/bima-cdp",
     "description": "Bitcoin-backed Stablecoin for Universal Yield."
-  },
-  {
-    "url": "https://overnight.fi",
-    "name": "Overnight Finance",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/overnight-finance",
-    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
   }
 ]

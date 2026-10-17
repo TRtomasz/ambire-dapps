@@ -7,5 +7,14 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/nexus-mutual",
     "description": "Nexus Mutual offers decentralized cover against smart contract failure."
+  },
+  {
+    "url": "https://firelight.finance",
+    "name": "Firelight",
+    "category": [
+      "Insurance"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/firelight",
+    "description": "Firelight is an onchain DeFi cover protocol on Flare. Staked FXRP backs coverage against defined protocol failures, with incidents validated by an independent Risk Consortium and staked capital subject to slashing to fund payouts."
   }
 ]
