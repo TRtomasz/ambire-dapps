@@ -9,6 +9,16 @@
     "description": "Arrakis Modular represents the next evolution of the Arrakis liquidity management smart contract framework, aiming to overcome the limitations of previous versions (V1 and V2). Arrakis Modular introduces a universal Meta Vault standard. This modular framework allows Arrakis to create entirely different two-sided LP Vault integrations, which all reuse the same Meta Vault infrastructure and interfaces."
   },
   {
+    "url": "https://kodiak.finance",
+    "name": "Kodiak Islands",
+    "category": [
+      "Liquidity Manager",
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
+    "description": "Liquidity Manager for Kodiak DEX"
+  },
+  {
     "url": "https://altura.trade",
     "name": "Altura",
     "category": [
@@ -27,14 +37,13 @@
     "description": "Steer is a decentralized compute protocol that provides a scaling solution for data processing through its robust off-chain infrastructure. Services are targeted at leveraging off-chain data for on-chain automation, such as automated liquidity management in DeFi."
   },
   {
-    "url": "https://kodiak.finance",
-    "name": "Kodiak Islands",
+    "url": "https://stability.farm",
+    "name": "Stability",
     "category": [
-      "Liquidity Manager",
-      "Dexs"
+      "Liquidity Manager"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
-    "description": "Liquidity Manager for Kodiak DEX"
+    "icon": "https://icons.llamao.fi/icons/protocols/stability",
+    "description": "Asset management, liquidity mining and yield farming platform."
   },
   {
     "url": "https://snuggle.fi",

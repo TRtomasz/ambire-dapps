@@ -59,16 +59,6 @@
     "description": "Stake DAO is a non-custodial decentralized protocol enabling users to access optimized yield opportunities in DeFi"
   },
   {
-    "url": "https://aladdin.club",
-    "name": "fx Protocol",
-    "category": [
-      "Dual-Token Stablecoin",
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/fx-protocol",
-    "description": "f(x) Protocol is a decentralized on-chain trading platform that enables stress-free leverage on ETH and WBTC while delivering the highest organic & sustainable yield on stablecoins. By utilizing an innovative mechanism, we offer up to 7X long or short exposure with minimum liquidation risk & funding costs. To fuel the leverage positions, the protocol mints fxUSD, a scalable & decentralized stablecoin with a strong peg to the dollar and backed by wstETH and WBTC."
-  },
-  {
     "url": "https://avalonfinance.xyz",
     "name": "Avalon Superearn",
     "category": [
@@ -78,13 +68,14 @@
     "description": "Earn yield with real-time APY."
   },
   {
-    "url": "https://lorenzo-protocol.xyz",
-    "name": "Lorenzo sUSD1+",
+    "url": "https://aladdin.club",
+    "name": "fx Protocol",
     "category": [
+      "Dual-Token Stablecoin",
       "Yield"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/lorenzo-susd1+",
-    "description": "sUSD1+ is a value-accruing yield-generating stablecoin developed by Lorenzo Labs. Users can mint sUSD1+ by depositing major stablecoins such as USD1, USDT, or USDC"
+    "icon": "https://icons.llamao.fi/icons/protocols/fx-protocol",
+    "description": "f(x) Protocol is a decentralized on-chain trading platform that enables stress-free leverage on ETH and WBTC while delivering the highest organic & sustainable yield on stablecoins. By utilizing an innovative mechanism, we offer up to 7X long or short exposure with minimum liquidation risk & funding costs. To fuel the leverage positions, the protocol mints fxUSD, a scalable & decentralized stablecoin with a strong peg to the dollar and backed by wstETH and WBTC."
   },
   {
     "url": "https://yuzu.money",
@@ -96,6 +87,15 @@
     "description": "An overcollateralized stablecoin backed by curated on-chain strategies designed to offer some of the highest yields in DeFi. Users can stake yzUSD to receive the yield-bearing syzUSD. Depositors in yzPP accept first-loss risk on the underlying strategies in exchange for a higher target yield, which is partially funded by a Reserve Fund."
   },
   {
+    "url": "https://lorenzo-protocol.xyz",
+    "name": "Lorenzo sUSD1+",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/lorenzo-susd1+",
+    "description": "sUSD1+ is a value-accruing yield-generating stablecoin developed by Lorenzo Labs. Users can mint sUSD1+ by depositing major stablecoins such as USD1, USDT, or USDC"
+  },
+  {
     "url": "https://wisetoken.com",
     "name": "Wise Token",
     "category": [
@@ -105,16 +105,6 @@
     "description": "A stable coin yield protocol, one of several powering WISE: the ETH-backed neutral reserve asset with the largest LP on Uniswap, and a Burn Alliance."
   },
   {
-    "url": "https://originprotocol.com",
-    "name": "Origin Ether",
-    "category": [
-      "Liquid Staking",
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/origin-ether",
-    "description": "Origin Ether engages with Ethereum staking pools and LP strategies. It uses platforms like Convex and Curve, and plans to integrate with other AMMs, aiming to provide higher yield opportunities"
-  },
-  {
     "url": "https://infinifi.xyz",
     "name": "infiniFi",
     "category": [
@@ -122,6 +112,16 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/infinifi",
     "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena."
+  },
+  {
+    "url": "https://originprotocol.com",
+    "name": "Origin Ether",
+    "category": [
+      "Liquid Staking",
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/origin-ether",
+    "description": "Origin Ether (OETH) is a yield-bearing ETH liquid staking token. Its yield comes from native ETH staking through validators run by Origin and from an AMO that provides OETH/WETH liquidity on Curve. It is distributed by automatically rebasing holders' balances. Super OETH (superOETHb) is its Base version"
   },
   {
     "url": "https://sierra.money",
@@ -160,15 +160,6 @@
     "description": "Strata is a generalized risk-tranching protocol designed to offer structured yields via tokenized senior and junior tranches across diverse on-chain and off-chain yield strategies."
   },
   {
-    "url": "https://rocksolid.network",
-    "name": "RockSolid Network",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/rocksolid-network",
-    "description": "RockSolid is a single-click integrated DeFi Vault platform that makes it simple for users to access the best DeFi rewards."
-  },
-  {
     "url": "https://zoofi.io",
     "name": "Zoo Finance",
     "category": [
@@ -176,6 +167,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/zoo-finance",
     "description": "Structured Asset Protocol for Better Liquidity Utilization."
+  },
+  {
+    "url": "https://rocksolid.network",
+    "name": "RockSolid Network",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/rocksolid-network",
+    "description": "RockSolid is a single-click integrated DeFi Vault platform that makes it simple for users to access the best DeFi rewards."
   },
   {
     "url": "https://royco.org",
@@ -187,24 +187,6 @@
     "description": "The Incentivized Action Market (IAM) Protocol."
   },
   {
-    "url": "https://spectra.finance",
-    "name": "Spectra V2",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/spectra-v2",
-    "description": "Secure your future yield at a fixed rate."
-  },
-  {
-    "url": "https://equilibria.fi",
-    "name": "Equilibria",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/equilibria",
-    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
-  },
-  {
     "url": "https://superearn.io",
     "name": "SuperEarn",
     "category": [
@@ -212,15 +194,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/superearn",
     "description": "SuperEarn is a decentralized yield-earning DeFi protocol that allows users to deposit supported crypto assets and earn returns by allocating those assets into on-chain earning strategies."
-  },
-  {
-    "url": "https://belt.fi",
-    "name": "Belt Finance",
-    "category": [
-      "Yield"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/belt-finance",
-    "description": "Yield aggregator + AMM"
   },
   {
     "url": "https://growi.fi",
@@ -232,12 +205,21 @@
     "description": "Growi is a quantitative asset management protocol that leverages mathematical modeling to fine-tune trading strategies and maximize yield. Our approach ensures efficient capital allocation, advanced risk management, and consistent returns for investors"
   },
   {
-    "url": "https://aura.finance",
-    "name": "Aura",
+    "url": "https://belt.fi",
+    "name": "Belt Finance",
     "category": [
       "Yield"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/aura",
-    "description": "Aura Finance is a protocol built on top of the Balancer system to provide maximum incentives to Balancer liquidity providers and BAL stakers (into veBAL) through social aggregation of BAL deposits and Aura's native token."
+    "icon": "https://icons.llamao.fi/icons/protocols/belt-finance",
+    "description": "Yield aggregator + AMM"
+  },
+  {
+    "url": "https://equilibria.fi",
+    "name": "Equilibria",
+    "category": [
+      "Yield"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/equilibria",
+    "description": "Equilibria Finance is a platform made for $PENDLE holders and liquidity providers, aiming to optimize profits through a tokenized version of vePENDLE, ePENDLE. It capitalizes on Pendle Finance's veToken/boosted yield model to enhance yields and reward PENDLE holders."
   }
 ]
