@@ -49,14 +49,13 @@
   },
   {
     "url": "https://swellnetwork.io",
-    "name": "Swell L2 Farm",
+    "name": "Swell Liquid Restaking",
     "category": [
-      "Farm",
-      "Liquid Staking",
-      "Liquid Restaking"
+      "Liquid Restaking",
+      "Liquid Staking"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/swell",
-    "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
+    "description": "rswETH is an ERC-20 Liquid Restaking Token that provides liquidity for users who are wanting to \"restake\" their ETH into restaking protocols such as EigenLayer without having their restaked ETH locked"
   },
   {
     "url": "https://rockx.com",
