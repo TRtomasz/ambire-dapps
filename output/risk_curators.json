@@ -21,15 +21,6 @@
     "description": "The USDS stablecoin powers the open Sky ecosystem. It is the upgraded version of DAI, providing new ways for you to have more rewarding crypto experiences."
   },
   {
-    "url": "https://sentora.com",
-    "name": "Sentora Curator",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/sentora",
-    "description": "Sentora provides the institutional-grade foundation for powering the next generation of DeFi solutions. Sentora's vault platform unlocks access to DeFi through sophisticated strategies, robust risk management, and enterprise-grade security."
-  },
-  {
     "url": "https://steakhouse.financial",
     "name": "Steakhouse Financial",
     "category": [
@@ -37,6 +28,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/steakhouse-financial",
     "description": "We build transparent, efficient, and accessible financial primitives to power the next generation of capital markets on public blockchains"
+  },
+  {
+    "url": "https://sentora.com",
+    "name": "Sentora Curator",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/sentora",
+    "description": "Sentora provides the institutional-grade foundation for powering the next generation of DeFi solutions. Sentora's vault platform unlocks access to DeFi through sophisticated strategies, robust risk management, and enterprise-grade security."
   },
   {
     "url": "https://gauntlet.xyz",
@@ -48,13 +48,13 @@
     "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto."
   },
   {
-    "url": "https://k3.capital",
-    "name": "K3 Capital",
+    "url": "https://nonce-capital.xyz",
+    "name": "Nonce Capital",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/k3-capital",
-    "description": "Leading institutional asset and risk management in decentralized finance"
+    "icon": "https://icons.llamao.fi/icons/protocols/nonce-capital",
+    "description": "DeFi risk curator that manages asset allocation and strategies for third-party vaults, including ether.fi Liquid vaults and Midas tokenized funds."
   },
   {
     "url": "https://rockawayx.com",
@@ -84,13 +84,22 @@
     "description": "Building onchain infra and strategies."
   },
   {
+    "url": "https://k3.capital",
+    "name": "K3 Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/k3-capital",
+    "description": "Leading institutional asset and risk management in decentralized finance"
+  },
+  {
     "url": "https://kpk.io",
     "name": "KPK",
     "category": [
       "Risk Curators"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/kpk",
-    "description": "KPK is a noncustodial onchain asset manager for DAOs, institutions and capital allocators, actively managing capital across DeFi since 2020. Over $2bn deployed onchain,"
+    "description": "KPK is a noncustodial onchain asset manager for DAOs, institutions and capital allocators, actively managing capital across DeFi since 2020. Over $7.9bn deployed onchain."
   },
   {
     "url": "https://yearn.fi",
@@ -103,6 +112,15 @@
     "description": "Yearn.finance is an aggregator service for decentralized finance (DeFi) investors, using automation to allow them to maximize profits from yield farming."
   },
   {
+    "url": "https://galaxy.com",
+    "name": "Galaxy Curation",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/galaxy-curation",
+    "description": "Galaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence."
+  },
+  {
     "url": "https://wintermute.com",
     "name": "Armitage by Wintermute",
     "category": [
@@ -112,13 +130,22 @@
     "description": "Armitage is Wintermute's onchain vault curation arm, applying institutional-grade risk management and trading infrastructure to DeFi yield."
   },
   {
-    "url": "https://telosc.com",
-    "name": "Telos Consilium",
+    "url": "https://keyrock.com",
+    "name": "Keyrock",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/telos-consilium",
-    "description": "Telos Consilium (Telosc) is a Web3 advisory and treasury firm offering risk-curated vault allocations, tokenized equity, and capital structuring services."
+    "icon": "https://icons.llamao.fi/icons/protocols/keyrock",
+    "description": "Keyrock is a global crypto investment group and risk curator managing on-chain yield vaults through Morpho."
+  },
+  {
+    "url": "https://tulipa.capital",
+    "name": "Tulipa Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/tulipa-capital",
+    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
   },
   {
     "url": "https://re7labs.xyz",
@@ -128,6 +155,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/re7-labs",
     "description": "Investors and operators across decentralised ecosystems of digital assets"
+  },
+  {
+    "url": "https://gamilabs.io",
+    "name": "Gami Labs",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/gami-labs",
+    "description": "Gami provides on-chain asset management infrastructure with active curation & dynamic risk management."
   },
   {
     "url": "https://ultrayield.app",
@@ -140,40 +176,13 @@
     "description": "UltraYield, created by leading crypto hedge fund Edge Capital, offers sophisticated yield-generating vaults that make institutional-grade strategies accessible to everyone."
   },
   {
-    "url": "https://gamilabs.io",
-    "name": "Gami Labs",
+    "url": "https://flowdesk.co",
+    "name": "Flowdesk",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/gami-labs",
-    "description": "Gami provides on-chain asset management infrastructure with active curation & dynamic risk management."
-  },
-  {
-    "url": "https://agglayer.dev",
-    "name": "Vault Bridge",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/vault-bridge",
-    "description": "The Agglayer's VaultBridge is a customizable yield-generating mechanism for providing chains with a native revenue stream"
-  },
-  {
-    "url": "https://tulipa.capital",
-    "name": "Tulipa Capital",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/tulipa-capital",
-    "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale."
-  },
-  {
-    "url": "https://galaxy.com",
-    "name": "Galaxy Curation",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/galaxy-curation",
-    "description": "Galaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence."
+    "icon": "https://icons.llamao.fi/icons/protocols/flowdesk",
+    "description": "Flowdesk is a full-service digital asset trading and technology firm that also curates a vault on Morpho."
   },
   {
     "url": "https://y10k.capital",
@@ -185,15 +194,6 @@
     "description": "Actively managed onchain vehicle by Yield Network and RockawayX team focused on private onchain liquidity deals."
   },
   {
-    "url": "https://gammaresearch.xyz",
-    "name": "Gamma Research",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/gamma-research",
-    "description": "Gamma Research provides institutional risk management and strategy curation for on-chain vaults."
-  },
-  {
     "url": "https://waterline.build",
     "name": "Waterline",
     "category": [
@@ -201,15 +201,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/waterline",
     "description": "Waterline is a risk curator on Morpho, building onchain vault solutions based on client specifications."
-  },
-  {
-    "url": "https://9summits.io",
-    "name": "9Summits",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/9summits",
-    "description": "By curating top-performing vaults, we empower our clients to access the best opportunities in decentralized finance with confidence and precision."
   },
   {
     "url": "https://hakutora.xyz",
@@ -230,6 +221,24 @@
     "description": "Api3 is a risk curator and first-party oracle provider. It curates OEV-enabled lending markets that recapture liquidation incentives, redirecting this revenue back to dApps and DeFi users as additional yield."
   },
   {
+    "url": "https://9summits.io",
+    "name": "9Summits",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/9summits",
+    "description": "By curating top-performing vaults, we empower our clients to access the best opportunities in decentralized finance with confidence and precision."
+  },
+  {
+    "url": "https://gammaresearch.xyz",
+    "name": "Gamma Research",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/gamma-research",
+    "description": "Gamma Research provides institutional risk management and strategy curation for on-chain vaults."
+  },
+  {
     "url": "https://syntetika.io",
     "name": "Syntetika",
     "category": [
@@ -248,22 +257,13 @@
     "description": "Strategy curator operating vaults on upshift."
   },
   {
-    "url": "https://flowdesk.co",
-    "name": "Flowdesk",
+    "url": "https://telosc.com",
+    "name": "Telos Consilium",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/flowdesk",
-    "description": "Flowdesk is a full-service digital asset trading and technology firm that also curates a vault on Morpho."
-  },
-  {
-    "url": "https://pangolins.io",
-    "name": "Pangolins",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pangolins",
-    "description": "Pangolins is a non-custodial onchain risk curator that selects lending markets, sets liquidity constraints, and manages risk boundaries for vault depositors."
+    "icon": "https://icons.llamao.fi/icons/protocols/telos-consilium",
+    "description": "Telos Consilium (Telosc) is a Web3 advisory and treasury firm offering risk-curated vault allocations, tokenized equity, and capital structuring services."
   },
   {
     "url": "https://628labs.xyz",
@@ -275,13 +275,22 @@
     "description": "TAU Labs curates strategies and manages risk across DeFi protocols and assets. Our proprietary automations and quantitative approach optimize yield across a wide variety of structured products."
   },
   {
-    "url": "https://monarq-am.com",
-    "name": "Monarq",
+    "url": "https://augustdigital.io",
+    "name": "August Digital",
     "category": [
       "Risk Curators"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/monarq",
-    "description": "Digital asset manager curating the MXRPY yield vault on Flare."
+    "icon": "https://icons.llamao.fi/icons/protocols/august-digital",
+    "description": "August Digital provides institutional on-chain infrastructure and curates non-custodial USDC lending vaults on Morpho."
+  },
+  {
+    "url": "https://sharpbyte.xyz",
+    "name": "SharpByte Capital",
+    "category": [
+      "Risk Curators"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/sharpbyte-capital",
+    "description": "SharpByte Capital is a crypto-native yield fund that curates on-chain yield strategies, including the SharpByte USDT Prime vault on Morpho."
   },
   {
     "url": "https://mevcapital.com",
@@ -291,23 +300,5 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/mev-capital",
     "description": "MEV Capital is an Investment & risk management firm focused on open-ended strategies across Decentralized Finance on EVM chains since 2020."
-  },
-  {
-    "url": "https://blockanalitica.com",
-    "name": "Block Analitica",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/block-analitica",
-    "description": "The risk team behind the DAI (USDS) stablecoin"
-  },
-  {
-    "url": "https://anthias.xyz",
-    "name": "Anthias Labs",
-    "category": [
-      "Risk Curators"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/anthias-labs",
-    "description": "Anthias Labs is a boutique on-chain advisory firm focused on DeFi risk management and system design"
   }
 ]
