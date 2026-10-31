@@ -1,23 +1,13 @@
 [
   {
-    "url": "https://polygon.technology",
-    "name": "Polygon Bridge",
+    "url": "https://bsquared.network",
+    "name": "Hive Protocol",
     "category": [
       "Chain",
-      "Canonical Bridge"
+      "Farm"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/polygon-bridge",
-    "description": "Ethereum sidechain"
-  },
-  {
-    "url": "https://bsquared.network",
-    "name": "Buzz Farming",
-    "category": [
-      "Farm",
-      "Chain"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/buzz-farming",
-    "description": "Buzz Farming collaborates with well-known BTCFi projects such as Babylon, Lombard, and Bedrock, as well as prominent blockchains, offering users a variety of multifaceted profit strategies. Users can conveniently select and operate investment strategies through Buzz Farming"
+    "icon": "https://icons.llamao.fi/icons/protocols/hive-protocol",
+    "description": "Stake BTC, safeguard B², and receive $B2 Tokens"
   },
   {
     "url": "https://frax.com",
@@ -26,8 +16,7 @@
       "Chain",
       "Liquid Staking",
       "RWA",
-      "Lending",
-      "Dexs"
+      "Lending"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/fraxtal",
     "description": "Fraxtal, launched by Frax finance, is an L2 ETH scaling solution featuring a modular rollup design on the OP stack. It uses frxETH for gas, adds Blockspace Incentives (FLOX) for rewarding engagement, and offers a veFXS contract for cross-chain staking"
@@ -40,6 +29,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/noble",
     "description": "Native stablecoin and RWA issuance for the Cosmos ecosystem"
+  },
+  {
+    "url": "https://burnt.com",
+    "name": "XION Finance",
+    "category": [
+      "Chain"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/xion-finance",
+    "description": "The First Walletless Blockchain Built For Main­stream Adoption. XION empowers developers to build, launch and scale consumer-ready products from the ground up, removing technical barriers for all users through its Chain Abstraction."
   },
   {
     "url": "https://chilizchain.com",
@@ -60,24 +58,6 @@
     "description": "Immutable zkEVM is a chain for games that offers EVM compatibility, low cost, massive scale, and Ethereum security. Cutting-edge technology in gaming with a largest ecosystem in web3"
   },
   {
-    "url": "https://abs.xyz",
-    "name": "Abstract",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/abstract",
-    "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment"
-  },
-  {
-    "url": "https://burnt.com",
-    "name": "XION Finance",
-    "category": [
-      "Chain"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/xion-finance",
-    "description": "The First Walletless Blockchain Built For Main­stream Adoption. XION empowers developers to build, launch and scale consumer-ready products from the ground up, removing technical barriers for all users through its Chain Abstraction."
-  },
-  {
     "url": "https://astar.network",
     "name": "Astar dApps Staking",
     "category": [
@@ -87,12 +67,12 @@
     "description": "Astar Network is a multi-chain decentralized application layer on Kusama Network. dApp staking is a mechanism that incentives developers who built in the Astar ecosystem. Users can stake on those dApps to earn staking rewards and at the same time support the project by giving them a daily income."
   },
   {
-    "url": "https://zklink.io",
-    "name": "zkLink Nova",
+    "url": "https://abs.xyz",
+    "name": "Abstract",
     "category": [
       "Chain"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/zklink-nova",
-    "description": "The first aggregated Layer 3 zkEVM network that links Ethereum and its Layer 2 Rollups for any use case, with exceptional composability, interoperability, scalability, and security through zero-knowledge proofs."
+    "icon": "https://icons.llamao.fi/icons/protocols/abstract",
+    "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment"
   }
 ]

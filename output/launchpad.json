@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://pinksale.finance",
+    "name": "PinkSale",
+    "category": [
+      "Launchpad"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/pinksale",
+    "description": "PinkSale is a decentralized launchpad that allows users to launch their own token and create their own initial token sale"
+  },
+  {
     "url": "https://aerodrome.finance",
     "name": "Aerodrome Slipstream",
     "category": [
@@ -8,15 +17,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/aerodrome",
     "description": "A central trading and liquidity marketplace on Base."
-  },
-  {
-    "url": "https://pinksale.finance",
-    "name": "PinkSale",
-    "category": [
-      "Launchpad"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pinksale",
-    "description": "PinkSale is a decentralized launchpad that allows users to launch their own token and create their own initial token sale"
   },
   {
     "url": "https://dx.app",

@@ -16,14 +16,5 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/rain",
     "description": "Rain | Decentralized Prediction markets Protocol. Predict anything. Create markets. Trade options. Own the future!."
-  },
-  {
-    "url": "https://predict.fun",
-    "name": "Predict Fun",
-    "category": [
-      "Prediction Market"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/predict-fun",
-    "description": "Predict is a BNB-based prediction market, enabling users to trade real-world outcomes in categories spanning sports, crypto, global affairs and more. It eliminates the problem of \"idle capital\" by offering DeFi-powered yields on open positions"
   }
 ]
