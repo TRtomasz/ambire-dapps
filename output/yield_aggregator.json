@@ -58,25 +58,6 @@
     "description": "Vesper is a platform for easy-to-use DeFi products."
   },
   {
-    "url": "https://ipor.io",
-    "name": "Fusion by IPOR",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/fusion-by-ipor.svg",
-    "description": "Fusion (by IPOR) is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for on-chain asset management. Fusion combines various aggregation and routing protocols into a single smart contract layer, automating asset management and maximizing returns across yield sources. Imagine intelligence-driven execution for looping, carry trades, arbitrage, leveraged farming, and passive lending at your fingertips"
-  },
-  {
-    "url": "https://alphafi.xyz",
-    "name": "AlphaFi Lending",
-    "category": [
-      "Lending",
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/alphafi-lending",
-    "description": "AlphaLend is a DeFi protocol on the Sui blockchain that enables permissionless lending and borrowing of digital assets. By depositing assets into the protocol, users can earn interest or use their holdings as collateral to access liquidity. Designed with security and composability in mind, AlphaLend provides essential financial primitives for building and interacting with decentralized applications."
-  },
-  {
     "url": "https://yo.xyz",
     "name": "YO Protocol",
     "category": [
@@ -105,6 +86,15 @@
     "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click"
   },
   {
+    "url": "https://defindex.io",
+    "name": "DeFindex",
+    "category": [
+      "Yield Aggregator"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/defindex",
+    "description": "Unlock stablecoin yield in your wallet or DeFi app"
+  },
+  {
     "url": "https://harvest.finance",
     "name": "Harvest Finance",
     "category": [
@@ -114,13 +104,13 @@
     "description": "Harvest - grows your crypto with automated yield strategies"
   },
   {
-    "url": "https://defindex.io",
-    "name": "DeFindex",
+    "url": "https://syntropia.ai",
+    "name": "Syntropia",
     "category": [
       "Yield Aggregator"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/defindex",
-    "description": "Unlock stablecoin yield in your wallet or DeFi app"
+    "icon": "https://icons.llamao.fi/icons/protocols/syntropia",
+    "description": "Capture the best risk adjusted yield on stablecoins across DeFi protocols while maintaining full transparency."
   },
   {
     "url": "https://yieldyak.com",
@@ -157,14 +147,5 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/yieldfi",
     "description": "YieldFi: The First Streamlined Asset Management Platform"
-  },
-  {
-    "url": "https://syntropia.ai",
-    "name": "Syntropia",
-    "category": [
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/syntropia",
-    "description": "Capture the best risk adjusted yield on stablecoins across DeFi protocols while maintaining full transparency."
   }
 ]

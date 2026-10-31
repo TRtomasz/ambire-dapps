@@ -1,13 +1,13 @@
 [
   {
     "url": "https://bsquared.network",
-    "name": "Buzz Farming",
+    "name": "Hive Protocol",
     "category": [
-      "Farm",
-      "Chain"
+      "Chain",
+      "Farm"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/buzz-farming",
-    "description": "Buzz Farming collaborates with well-known BTCFi projects such as Babylon, Lombard, and Bedrock, as well as prominent blockchains, offering users a variety of multifaceted profit strategies. Users can conveniently select and operate investment strategies through Buzz Farming"
+    "icon": "https://icons.llamao.fi/icons/protocols/hive-protocol",
+    "description": "Stake BTC, safeguard B², and receive $B2 Tokens"
   },
   {
     "url": "https://ailayer.xyz",
@@ -19,24 +19,13 @@
     "description": "Staking tokens via AILayer Dataset counts as TVL."
   },
   {
-    "url": "https://swellnetwork.io",
-    "name": "Swell L2 Farm",
-    "category": [
-      "Farm",
-      "Liquid Staking",
-      "Liquid Restaking"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/swell",
-    "description": "Pre-launch deposits for Swell L2, the L2 for Restaking"
-  },
-  {
-    "url": "https://firelight.finance",
-    "name": "Firelight",
+    "url": "https://stellardefihub.com",
+    "name": "Stellar DeFi Hub",
     "category": [
       "Farm"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/firelight",
-    "description": "When a user stakes XRP through Firelight, the XRP is locked on the XRPL, and a liquid staking token (LST) is minted on the Flare Network. This LST allows stakers to participate in further DeFi opportunities without losing exposure to their underlying XRP."
+    "icon": "https://icons.llamao.fi/icons/protocols/stellar-defi-hub",
+    "description": "Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults and accrue rewards"
   },
   {
     "url": "https://zircuit.com",
@@ -46,34 +35,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/zircuit-staking",
     "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level"
-  },
-  {
-    "url": "https://hemi.xyz",
-    "name": "Hemi Staking",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/hemi-staking",
-    "description": "Stake your assets to earn rewards and boost your points"
-  },
-  {
-    "url": "https://bucketprotocol.io",
-    "name": "Bucket Farm",
-    "category": [
-      "Farm",
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bucket-farm",
-    "description": "Deposit tokens to earn $DROPS token for the upcoming token $BUT"
-  },
-  {
-    "url": "https://stellardefihub.com",
-    "name": "Stellar DeFi Hub",
-    "category": [
-      "Farm"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/stellar-defi-hub",
-    "description": "Stellar DeFi Hub is a platform that allows users to deposit Stellar-based assets into secure vaults and accrue rewards"
   },
   {
     "url": "https://katana.network",
