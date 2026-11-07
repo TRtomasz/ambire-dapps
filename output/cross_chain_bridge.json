@@ -9,15 +9,6 @@
     "description": "Stargate V2 offers reduced bridging costs, expands chain connectivity, and improves capital efficiency using transaction batching, Hydra, and an AI-driven Planning Module (AIPM)."
   },
   {
-    "url": "https://hyperlane.xyz",
-    "name": "Hyperlane",
-    "category": [
-      "Cross Chain Bridge"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/hyperlane",
-    "description": "Open interoperability across 150+ chains | Bridge + issue tokens + build interchain apps."
-  },
-  {
     "url": "https://circle.com",
     "name": "Circle Gateway",
     "category": [
@@ -26,6 +17,15 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/circle-gateway",
     "description": "Circle Gateway enables a unified USDC balance, unlocking on-demand liquidity and redefining crosschain UX"
+  },
+  {
+    "url": "https://hyperlane.xyz",
+    "name": "Hyperlane",
+    "category": [
+      "Cross Chain Bridge"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/hyperlane",
+    "description": "Open interoperability across 150+ chains | Bridge + issue tokens + build interchain apps."
   },
   {
     "url": "https://across.to",
