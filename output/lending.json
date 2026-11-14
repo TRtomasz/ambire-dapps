@@ -21,11 +21,22 @@
     "url": "https://morpho.org",
     "name": "Morpho Blue",
     "category": [
-      "Lending",
-      "Risk Curators"
+      "Lending"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/morpho-blue",
     "description": "Morpho Blue is a trustless and efficient lending primitive with permissionless market creation"
+  },
+  {
+    "url": "https://hyperliquid.xyz",
+    "name": "Hyperliquid Bridge",
+    "category": [
+      "Bridge",
+      "Lending",
+      "Derivatives",
+      "Dexs"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/hyperliquid",
+    "description": "Hyperliquid is a Layer 1 blockchain best known for perpetual futures and spot trading. Native USDC is minted on Hyperliquid via CCTP, and USDC is bridged from Arbitrum."
   },
   {
     "url": "https://spark.finance",
@@ -69,6 +80,17 @@
     "description": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications."
   },
   {
+    "url": "https://curve.finance",
+    "name": "Curve DEX",
+    "category": [
+      "Dexs",
+      "Lending",
+      "CDP"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/curve",
+    "description": "Curve is a decentralized exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading"
+  },
+  {
     "url": "https://venus.io",
     "name": "Venus Core Pool",
     "category": [
@@ -76,17 +98,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/venus-core-pool",
     "description": "A Decentralized Marketplace for Lenders and Borrowers with Borderless Stablecoins."
-  },
-  {
-    "url": "https://curve.finance",
-    "name": "Curve DEX",
-    "category": [
-      "Dexs",
-      "CDP",
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/curve",
-    "description": "Curve is a decentralized exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading"
   },
   {
     "url": "https://lista.org",
@@ -121,15 +132,6 @@
     "description": "HyperLend is a high-performance lending protocol on Hyperliquid EVM, built for capital efficiency. It offers real-time leverage, dynamic rates, and deep liquidity"
   },
   {
-    "url": "https://dolomite.io",
-    "name": "Dolomite",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/dolomite",
-    "description": "A next-gen money market and DeFi prime brokerage."
-  },
-  {
     "url": "https://euler.finance",
     "name": "Euler V2",
     "category": [
@@ -137,15 +139,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/euler-v2",
     "description": "Euler revolutionizes DeFi by letting any asset become collateral for a lending market. Lenders and borrowers get market leading risk-adjusted rates. Builders can create and manage markets exactly how they want them, with institutional-grade security."
-  },
-  {
-    "url": "https://cap.app",
-    "name": "cap",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/cap",
-    "description": "Cap is a stablecoin protocol that provides credible financial guarantees via two products: the dollar-denominated cUSD and the yield-bearing stcUSD."
   },
   {
     "url": "https://benqi.fi",
@@ -158,6 +151,15 @@
     "description": "Stake AVAX on BENQI's Liquid Staking Protocol and freely utilize it within powerful Decentralized Financial applications."
   },
   {
+    "url": "https://figure.com",
+    "name": "Figure Markets Prime",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/figure-markets-prime",
+    "description": "Figure Markets Prime connects your cash or crypto with borrowers seeking liquidity on their collateral"
+  },
+  {
     "url": "https://olympusdao.finance",
     "name": "Cooler Loans",
     "category": [
@@ -167,26 +169,61 @@
     "description": "Cooler Loans is Olympus DAO's native lending protocol. Borrowers deposit gOHM as collateral to borrow stablecoins at a fixed 0.5% APR."
   },
   {
-    "url": "https://figure.com",
-    "name": "Figure Markets Democratized Prime",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/figure-markets-democratized-prime",
-    "description": "Democratized Prime connects your cash or crypto with borrowers seeking liquidity on their collateral"
-  },
-  {
     "url": "https://frax.com",
     "name": "Fraxtal",
     "category": [
       "Chain",
-      "Liquid Staking",
       "RWA",
-      "Lending",
-      "Dexs"
+      "Liquid Staking",
+      "Lending"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/fraxtal",
     "description": "Fraxtal, launched by Frax finance, is an L2 ETH scaling solution featuring a modular rollup design on the OP stack. It uses frxETH for gas, adds Blockspace Incentives (FLOX) for rewarding engagement, and offers a veFXS contract for cross-chain staking"
+  },
+  {
+    "url": "https://cap.app",
+    "name": "cap",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/cap",
+    "description": "Cap is a stablecoin protocol that provides credible financial guarantees via two products: the dollar-denominated cUSD and the yield-bearing stcUSD."
+  },
+  {
+    "url": "https://curvance.com",
+    "name": "Curvance",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/curvance",
+    "description": "Curvance is Monad's hyper-efficient lending layer, helping users earn more yield and access simple, one-click leverage."
+  },
+  {
+    "url": "https://suilend.fi",
+    "name": "Suilend",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/suilend",
+    "description": "Suilend is a lending protocol on Sui, built by the team behind Solend."
+  },
+  {
+    "url": "https://dolomite.io",
+    "name": "Dolomite",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/dolomite",
+    "description": "A next-gen money market and DeFi prime brokerage."
+  },
+  {
+    "url": "https://tydro.com",
+    "name": "Tydro",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/tydro",
+    "description": "Tydro is a non-custodial lending protocol for onchain capital markets. Powered by Aave and built on Ink"
   },
   {
     "url": "https://blend.capital",
@@ -201,37 +238,11 @@
     "url": "https://naviprotocol.io",
     "name": "NAVI Lending",
     "category": [
-      "Lending"
+      "Lending",
+      "Risk Curators"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/navi-lending",
     "description": "NAVI offers over collateralized lending/borrowing for SUI, USDC, USDT, wETH and wBTC and supports features like isolated pool, flash loan and soon to come crosschain lending/borrowing."
-  },
-  {
-    "url": "https://suilend.fi",
-    "name": "Suilend",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/suilend",
-    "description": "Suilend is a lending protocol on Sui, built by the team behind Solend."
-  },
-  {
-    "url": "https://tydro.com",
-    "name": "Tydro",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/tydro",
-    "description": "Tydro is a non-custodial lending protocol for onchain capital markets. Powered by Aave and built on Ink"
-  },
-  {
-    "url": "https://curvance.com",
-    "name": "Curvance",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/curvance",
-    "description": "Curvance is Monad's hyper-efficient lending layer, helping users earn more yield and access simple, one-click leverage."
   },
   {
     "url": "https://save.finance",
@@ -243,34 +254,6 @@
     "description": "Save (formerly Solend) is an algorithmic, decentralized protocol for lending and borrowing on Solana. Lending and borrowing has proven itself as being key in a DeFi ecosystem. However, current products are slow and expensive. On Solana, Solend can scale to being 100x faster and 100x cheaper. Solend aims to be the easiest to use and most secure solution on Solana."
   },
   {
-    "url": "https://zestprotocol.com",
-    "name": "Zest V2",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/zest-v2",
-    "description": "Zest Protocol is an open-source, on-chain lending platform built for Bitcoin, allowing users to earn or borrow against their BTC"
-  },
-  {
-    "url": "https://alphafi.xyz",
-    "name": "AlphaFi Lending",
-    "category": [
-      "Lending",
-      "Yield Aggregator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/alphafi-lending",
-    "description": "AlphaLend is a DeFi protocol on the Sui blockchain that enables permissionless lending and borrowing of digital assets. By depositing assets into the protocol, users can earn interest or use their holdings as collateral to access liquidity. Designed with security and composability in mind, AlphaLend provides essential financial primitives for building and interacting with decentralized applications."
-  },
-  {
-    "url": "https://resupply.fi",
-    "name": "Resupply",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/resupply",
-    "description": "A decentralized stablecoin protocol, leveraging the liquidity and stability of lending markets"
-  },
-  {
     "url": "https://current.finance",
     "name": "Current",
     "category": [
@@ -278,15 +261,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/current",
     "description": "Current is the capital efficiency layer for all future assets on Sui. One click multiply yield, isolated lending market, your capital has never worked this hard before."
-  },
-  {
-    "url": "https://40acres.finance",
-    "name": "40 Acres",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/40-acres",
-    "description": "40acres is a pioneering DeFi platform and community DAO that empowers users to unlock the potential of their assets through Self-Repaying, non-liquidating loans"
   },
   {
     "url": "https://fluxfinance.com",
@@ -298,22 +272,22 @@
     "description": "Flux Finance is a decentralized lending platform supporting permissioned assets"
   },
   {
-    "url": "https://metalx.com",
-    "name": "MetalX Lending",
+    "url": "https://zestprotocol.com",
+    "name": "Zest V2",
     "category": [
       "Lending"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/metalx-lending",
-    "description": "MetalX Lending is a DeFi lending protocol powered by the XPR Network"
+    "icon": "https://icons.llamao.fi/icons/protocols/zest-v2",
+    "description": "Zest Protocol is an open-source, on-chain lending platform built for Bitcoin, allowing users to earn or borrow against their BTC"
   },
   {
-    "url": "https://kinetic.market",
-    "name": "Kinetic",
+    "url": "https://resupply.fi",
+    "name": "Resupply",
     "category": [
       "Lending"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/kinetic",
-    "description": "Kinetic is an ecosystem-tailored money market enhanced with an optional work-to-earn element."
+    "icon": "https://icons.llamao.fi/icons/protocols/resupply",
+    "description": "A decentralized stablecoin protocol, leveraging the liquidity and stability of lending markets"
   },
   {
     "url": "https://mysticfinance.xyz",
@@ -325,13 +299,40 @@
     "description": "The RWAfi money market: lend, borrow and leverage your assets on Plume Network's native money market"
   },
   {
-    "url": "https://templarfi.org",
-    "name": "Templar Protocol",
+    "url": "https://metalx.com",
+    "name": "MetalX Lending",
     "category": [
       "Lending"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/templar-protocol",
+    "icon": "https://icons.llamao.fi/icons/protocols/metalx-lending",
+    "description": "MetalX Lending is a DeFi lending protocol powered by the XPR Network"
+  },
+  {
+    "url": "https://templarfi.org",
+    "name": "Templar Lending",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/templar-lending",
     "description": "Templar is the first Cypher Lending protocol that enables borrowing stablecoins against Bitcoin, or any asset on any chain, without trusting centralized intermediaries. No wrapping, no bridging, no KYC necessary"
+  },
+  {
+    "url": "https://kinetic.market",
+    "name": "Kinetic",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/kinetic",
+    "description": "Kinetic is an ecosystem-tailored money market enhanced with an optional work-to-earn element."
+  },
+  {
+    "url": "https://rnt.finance",
+    "name": "RNT Lend",
+    "category": [
+      "Lending"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/rnt-lend",
+    "description": "Lending market by Reental where investors borrow USDT0/USDC against tokenized real-estate"
   },
   {
     "url": "https://hydration.net",
@@ -344,13 +345,13 @@
     "description": "Hydration Lending is a decentralized lending protocol on Hydration."
   },
   {
-    "url": "https://ts.finance",
-    "name": "TermMax",
+    "url": "https://fira.money",
+    "name": "Fira",
     "category": [
       "Lending"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/termmax",
-    "description": "TermMax is a DeFi AMM protocol that allows users to lend, borrow and one-click leverage at fixed-rates and with maturity dates. Users may earn passive yields via Vaults without the hassle of managing positions. Curators and Order Makers are empowered by the Range Order Tool to set their pricing curves and slippages to manage risk and return efficiently with ease"
+    "icon": "https://icons.llamao.fi/icons/protocols/fira",
+    "description": "Fixed-rate lending and borrowing, onchain. Lock rates. Sell yield. Exit anytime."
   },
   {
     "url": "https://gearbox.finance",
@@ -380,43 +381,6 @@
     "description": "Tectonic is a cross-chain money market for earning passive yield and accessing instant backed loans"
   },
   {
-    "url": "https://moonwell.fi",
-    "name": "Moonwell Lending",
-    "category": [
-      "Lending",
-      "Onchain Capital Allocator"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/moonwell-lending",
-    "description": "Moonwell is an open lending and borrowing DeFi protocol on Base, Optimism, Moonbeam & Moonriver."
-  },
-  {
-    "url": "https://vesu.xyz",
-    "name": "Vesu",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/vesu",
-    "description": "The Future of Lending on Starknet - Vesu is a modular and permissionless lending protocol allowing anyone to earn, borrow and create markets."
-  },
-  {
-    "url": "https://flyingtulip.com",
-    "name": "Flying Tulip Lend",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/flying-tulip-lend",
-    "description": "Flying Tulip Lend is a custom lending market live on Sonic and Ethereum."
-  },
-  {
-    "url": "https://berachain.com",
-    "name": "BEND",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bend",
-    "description": "Bend is a decentralized lending protocol forked from Morpho, designed to enable efficient lending and borrowing with native Proof-of-Liquidity (PoL) on Berachain. As a lending primitive layer, Bend allows the creation of immutable and efficient lending markets in a permissionless way"
-  },
-  {
     "url": "https://exact.ly",
     "name": "Exactly",
     "category": [
@@ -426,21 +390,12 @@
     "description": "Exactly is a decentralized, non-custodial, open-source protocol that provides an autonomous fixed and variable interest rate market, enabling users to frictionlessly exchange their assets' time value and complete the DeFi credit market."
   },
   {
-    "url": "https://bifi.finance",
-    "name": "BiFi",
+    "url": "https://flyingtulip.com",
+    "name": "Flying Tulip Lend",
     "category": [
       "Lending"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bifi",
-    "description": "BiFi (abbreviation of Bifrost Finance) is the decentralized finance platform built on Bifrost, the universal multichain middleware."
-  },
-  {
-    "url": "https://scallop.io",
-    "name": "Scallop Lend",
-    "category": [
-      "Lending"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/scallop-lend",
-    "description": "Scallop is the pioneering Next Generation Money Market for the Sui ecosystem which emphasizes institutional-grade quality, enhanced composability, and robust security."
+    "icon": "https://icons.llamao.fi/icons/protocols/flying-tulip-lend",
+    "description": "Flying Tulip Lend is a custom lending market live on Sonic and Ethereum."
   }
 ]
