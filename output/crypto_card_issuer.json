@@ -13,12 +13,12 @@
   },
   {
     "url": "https://plasma.to",
-    "name": "Plasma Saving Vaults",
+    "name": "Plasma One",
     "category": [
-      "Onchain Capital Allocator",
-      "Crypto Card Issuer"
+      "Crypto Card Issuer",
+      "Onchain Capital Allocator"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/plasma-saving-vaults",
-    "description": "Plasma Vaults are on-chain investment vaults that generate yield by deploying user deposits across leading DeFi protocols through Veda's infrastructure"
+    "icon": "https://icons.llamao.fi/icons/protocols/plasma-one",
+    "description": "Plasma One is a next-generation card product built on the Plasma Chain, an EVM-compatible L1 optimised for stablecoin payments and everyday spending. It combines a yield-bearing Earn product (P1USD) with gasless Checkings accounts, giving users a seamless on-chain banking experience"
   }
 ]
