@@ -9,13 +9,14 @@
     "description": "Arrakis Modular represents the next evolution of the Arrakis liquidity management smart contract framework, aiming to overcome the limitations of previous versions (V1 and V2). Arrakis Modular introduces a universal Meta Vault standard. This modular framework allows Arrakis to create entirely different two-sided LP Vault integrations, which all reuse the same Meta Vault infrastructure and interfaces."
   },
   {
-    "url": "https://altura.trade",
-    "name": "Altura",
+    "url": "https://kodiak.finance",
+    "name": "Kodiak Islands",
     "category": [
-      "Liquidity Manager"
+      "Liquidity Manager",
+      "Dexs"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/altura",
-    "description": "Altura is an on-chain capital management protocol offering a multi-strategy stablecoin vault on HyperEVM."
+    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
+    "description": "Liquidity Manager for Kodiak DEX"
   },
   {
     "url": "https://steer.finance",
@@ -27,31 +28,12 @@
     "description": "Steer is a decentralized compute protocol that provides a scaling solution for data processing through its robust off-chain infrastructure. Services are targeted at leveraging off-chain data for on-chain automation, such as automated liquidity management in DeFi."
   },
   {
-    "url": "https://kodiak.finance",
-    "name": "Kodiak Islands",
-    "category": [
-      "Liquidity Manager",
-      "Dexs"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/kodiak-islands",
-    "description": "Liquidity Manager for Kodiak DEX"
-  },
-  {
-    "url": "https://snuggle.fi",
-    "name": "Snuggle",
+    "url": "https://thedeep.ink",
+    "name": "TheDeep",
     "category": [
       "Liquidity Manager"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/snuggle",
-    "description": "Snuggle is an automated concentrated Liquidity Manager for Uniswap V3 on Base. It automatically rebalances LP positions to maximize fee earnings while minimizing impermanent loss"
-  },
-  {
-    "url": "https://acryptos.com",
-    "name": "ACryptoS",
-    "category": [
-      "Liquidity Manager"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/acryptos",
-    "description": "Advanced, Customized Strategies - ACryptoS's Automated Conc. Liquidity Manager (ACLM) for V3 DEXs consistently delivers strong yet sustainable yields, while Single-Token vaults automate leveraging for lending protocol users, growing more tokens with no IL risks."
+    "icon": "https://icons.llamao.fi/icons/protocols/thedeep",
+    "description": "The Deep is a cross-chain platform that automates DeFi liquidity strategies for protocols. Its integrated rewards engine deepens TVL and amplifies trading volume"
   }
 ]
