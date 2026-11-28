@@ -1,11 +1,21 @@
 [
   {
+    "url": "https://ethena.fi",
+    "name": "Ethena USDe",
+    "category": [
+      "Basis Trading",
+      "Crypto Card Issuer"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/ethena-usde",
+    "description": "Ethena is a synthetic dollar protocol built on Ethereum"
+  },
+  {
     "url": "https://ether.fi",
     "name": "ether.fi Stake",
     "category": [
       "Liquid Staking",
-      "Onchain Capital Allocator",
       "Lending",
+      "Onchain Capital Allocator",
       "Crypto Card Issuer"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/ether.fi",

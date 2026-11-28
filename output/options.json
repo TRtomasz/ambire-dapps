@@ -8,5 +8,14 @@
     ],
     "icon": "https://static.debank.com/image/dapp/logo_url/96650df9365d6b7b1569781a35bb562d/96650df9365d6b7b1569781a35bb562d.png",
     "description": "Aevo is a decentralized derivatives exchange platform. It enables you to access various financial products like options and perpetual futures through a unified margin account."
+  },
+  {
+    "url": "https://derive.xyz",
+    "name": "Derive V3 Options",
+    "category": [
+      "Options"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/derive",
+    "description": "Options on Derive v3, a zkVM exchange settling on Ethereum."
   }
 ]

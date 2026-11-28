@@ -4,8 +4,8 @@
     "name": "Sky Lending",
     "category": [
       "CDP",
-      "Risk Curators",
-      "RWA"
+      "RWA",
+      "Risk Curators"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/sky-lending",
     "description": "The USDS stablecoin powers the open Sky ecosystem. It is the upgraded version of DAI, providing new ways for you to have more rewarding crypto experiences."
@@ -15,8 +15,8 @@
     "name": "Curve DEX",
     "category": [
       "Dexs",
-      "CDP",
-      "Lending"
+      "Lending",
+      "CDP"
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/curve",
     "description": "Curve is a decentralized exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading"
@@ -70,6 +70,15 @@
     "description": "Frankencoin is a collateralized, oracle-free stablecoin that tracks the value of the Swiss franc."
   },
   {
+    "url": "https://bucketprotocol.io",
+    "name": "Bucket Protocol V2",
+    "category": [
+      "CDP"
+    ],
+    "icon": "https://icons.llamao.fi/icons/protocols/bucket-protocol-v2",
+    "description": "Bucket Protocol is the leading Collateralized Debt Position (CDP) protocol within the Sui ecosystem, supporting multiple assets for collateralization while extending stablecoin loans in $BUCK at a fixed low-cost. Its real-time liquidation mechanism ensures both security and capital efficiency, and the inbuilt flash loan services facilitate the price stability of the stablecoin BUCK."
+  },
+  {
     "url": "https://usefelix.xyz",
     "name": "Felix Vaults",
     "category": [
@@ -80,16 +89,6 @@
     "description": "Deposit assets to be lent via Morpho Vaults to earn interest."
   },
   {
-    "url": "https://bucketprotocol.io",
-    "name": "Bucket Farm",
-    "category": [
-      "Farm",
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bucket-farm",
-    "description": "Deposit tokens to earn $DROPS token for the upcoming token $BUT"
-  },
-  {
     "url": "https://inverse.finance",
     "name": "Inverse Finance FiRM",
     "category": [
@@ -97,15 +96,6 @@
     ],
     "icon": "https://icons.llamao.fi/icons/protocols/inverse-finance-firm",
     "description": "FiRM is a Fixed Rate Market protocol to borrow the DOLA usd stablecoin at a fixed-rate with the DOLA Borrowing Right token DBR."
-  },
-  {
-    "url": "https://bitu.io",
-    "name": "BitU Protocol",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bitu-protocol",
-    "description": "BitU Protocol offers a USD-pegged stablecoin primitive that provides stability and embedded yield. Through our Active Liquidity Management Module, we leverage on-chain transparency and off-chain capital efficiency to deliver resilient yield to support accessible ecosystem growth."
   },
   {
     "url": "https://sovryn.app",
@@ -118,47 +108,11 @@
   },
   {
     "url": "https://strato.nexus",
-    "name": "STRATO",
+    "name": "STRATO CDP",
     "category": [
       "CDP"
     ],
-    "icon": "https://icons.llamao.fi/icons/protocols/strato",
+    "icon": "https://icons.llamao.fi/icons/protocols/strato-cdp",
     "description": "EVM-compatible L1 blockchain with DeFi suite including CDP stablecoin (USDST), lending, AMM pools, tokenized precious metals, and cross-chain bridging. Built by BlockApps."
-  },
-  {
-    "url": "https://kava.io",
-    "name": "Kava Mint",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/kava-mint",
-    "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies."
-  },
-  {
-    "url": "https://pando.im",
-    "name": "Pando Leaf",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/pando",
-    "description": "Pando Leaf: a decentralized financial network to minting stablecoins"
-  },
-  {
-    "url": "https://bima.money",
-    "name": "BIMA CDP",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/bima-cdp",
-    "description": "Bitcoin-backed Stablecoin for Universal Yield."
-  },
-  {
-    "url": "https://overnight.fi",
-    "name": "Overnight Finance",
-    "category": [
-      "CDP"
-    ],
-    "icon": "https://icons.llamao.fi/icons/protocols/overnight-finance",
-    "description": "Overnight Finance is an asset management protocol offering passive yield products based on delta-neutral strategies, primarily for conservative stablecoin investors."
   }
 ]
